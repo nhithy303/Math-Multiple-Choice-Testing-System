@@ -1,0 +1,143 @@
+1. Với $x$ là số thực, tìm giá trị nhỏ nhất của biểu thức: $P=\sqrt{{x^{2}+4}}+\frac{1}{\sqrt{{x^{2}+4}}}$
+A. $\min{P}=2$
+B. $\min{P}={\frac{5}{2}}$
+C. $\min{P}=3$
+D. Cả ba đáp án trên đều sai
+B
+2. Với $x$ là số thực, tìm giá trị nhỏ nhất của biểu thức: $P=\left|x-2017\right|-\left|x-2018\right|$
+A. $\min{P}=2017$
+B. $\min{P}=0$
+C. $\min{P}=2018$
+D. $\min{P}=1$
+D
+3. Cho $a,b,c$ là các số thực. Trong các bất đẳng thức sau, có bao nhiêu bất đẳng thức đúng?
+$a^{2}+b^{2}+c^{2}\geq a b+b c+c a$
+$a^{2}+b^{2}+c^{2}\geq2(a b-b c+c a)$
+$a^{2}+b^{2}+c^{2}\geq2(a b+b c-c a)$
+$a^{2}+b^{2}+c^{2}\geq2(-a b+b c+c a)$
+A. Có một bất đẳng thức đúng
+B. Có hai bất đẳng thức đúng
+C. Có ba bất đẳng thức đúng
+D. Cả bốn bất đẳng thức đều đúng
+D
+4. Trong các khẳng định sau, có bao nhiêu kết quả đúng?
+Với mọi số nguyên dương $n$, ta luôn có: ${\frac{1}{2}}+{\frac{1}{3\sqrt{2}}}+\ldots+{\frac{1}{(n+1)\sqrt{n}}}<2$
+Với mọi số nguyên dương $n$, ta luôn có: ${\frac{1}{2}}+{\frac{1}{3\sqrt{2}}}+\ldots+{\frac{1}{(n+1)\sqrt{n}}}<3$
+Tồn tại số nguyên dương $n$, sao cho: ${\frac{1}{2}}+{\frac{1}{3{\sqrt{2}}}}+\ldots+{\frac{1}{(n+1){\sqrt{n}}}}>2$
+Tồn tại số nguyên dương $n$, sao cho: ${\frac{1}{2}}+{\frac{1}{3\sqrt{2}}}+\ldots+{\frac{1}{(n+1)\sqrt{n}}}>{\frac{5}{2}}$
+A. Có một khẳng định đúng
+B. Có hai khẳng định đúng
+C. Có ba khẳng định đúng
+D. Cả bốn khẳng định đều đúng
+B
+5. Cho $a,b,c$ là các số thực dương. Trong các bất đẳng thức sau, có bao nhiêu bất đẳng thức sai?
+${\frac{a^{2}}{b+c}}+{\frac{b^{2}}{c+a}}+{\frac{c^{2}}{a+b}}\geq{\frac{a+b+c}{2}}$
+${\frac{a^{2}}{b+c}}+{\frac{b^{2}}{c+a}}+{\frac{c^{2}}{a+b}}\geq{\frac{3}{2}}{\sqrt[3]{a b c}}$
+${\frac{a^{2}}{b+c}}+{\frac{b^{2}}{c+a}}+{\frac{c^{2}}{a+b}}\geq{\frac{9a b c}{2(a b+b c+c a)}}$
+${\frac{a^{2}}{b+c}}+{\frac{b^{2}}{c+a}}+{\frac{c^{2}}{a+b}}\leq{\frac{9a b c}{2(a b+b c+c a)}}$
+A. Có một bất đẳng thức sai
+B. Có hai bất đẳng thức sai
+C. Có ba bất đẳng thức sai
+D. Cả bốn bất đẳng thức đều sai
+A
+6. Cho $a+b\geq0$. Trong các bất đẳng thức sau, có bao nhiêu bất đẳng thức đúng?
+$\left({\frac{a+b}{2}}\right)^{n}\leq{\frac{a^{n}+b^{n}}{2}}\quad\forall n\in{\mathbb{N}}^{\ast}$
+$\left(\frac{a+b}{2}\right)^{n}\leq\sqrt{a^{n}b^{n}}\quad\forall n\in{\mathbb{N}}^{\ast}$
+$\left({\frac{a+b}{2}}\right)^{n}\leq a^{n}\quad\forall n\in{\mathbb{N}}^{\ast}$
+$\left({\frac{a+b}{2}}\right)^{n}\leq b^{n}\quad\forall n\in{\mathbb{N}}^{\ast}$
+A. Có một bất đẳng thức đúng
+B. Có hai bất đẳng thức đúng
+C. Có ba bất đẳng thức đúng
+D. Cả bốn bất đẳng thức đều đúng
+A
+7. Các số thực $a,b,c$ thỏa mãn điều kiện $a b c+a+c=b$. Tìm giá trị nhỏ nhất của biểu thức: $P={\frac{1}{1+a^{2}}}+{\frac{1}{1+b^{2}}}+{\frac{1}{1+c^{2}}}.$
+A. $\min{P}=1$
+B. $\min{P}=2$
+C. $\min{P}={\frac{3}{4}}$
+D. $\min{P}={\frac{4}{3}}$
+C
+8. Cho các số thực không âm a,b thỏa mãn điều kiện: $a+b={\frac{1}{2}}$. Tìm giá trị lớn nhất và nhỏ nhất của biểu thức: $P={\frac{a}{1-a}}+{\frac{b}{1-b}}$.
+A. $\min{P}={\frac{2}{3}}; \max{P}={\frac{3}{2}}$
+B. $\min{P}={\frac{2}{3}}; \max{P}=2$
+C. $\min{P}={\frac{1}{3}}; \max{P}={\frac{2}{3}}$
+D. $\min{P}={\frac{2}{3}}; \max{P}=1$
+D
+9. Cho $a,b,c,d$ thỏa mãn điều kiện $a^{2}+b^{2}=c^{2}+d^{2}=5$. Tìm giá trị lớn nhất của biểu thức: $P={\sqrt{5-a-2b}}+{\sqrt{5-c-2d}}+{\sqrt{5-a c-b d}}$.
+A. $\max{P}={\sqrt{30}}$
+B. $\max{P}={\frac{3}{2}}{\sqrt{30}}$
+C. $\max{P}=2{\sqrt{30}}$
+D. $\max{P}=\frac{2}{3}\sqrt{30}$
+B
+10. Cho $a,b,c$ là các số dương. Tìm giá trị nhỏ nhất của biểu thức: $a^{2}+b^{2}+c^{2}+2a b c+1-2(a b+b c+c a)$.
+A. $\min{P}=1$
+B. $\min{P}={\frac{1}{2}}$
+C. $\min{P}=0$
+D. $\min{P}=-{\frac{1}{2}}$
+C
+11. Cho $x,y,z$ là các số thực không âm. Tìm giá trị nhỏ nhất của biểu thức: $P=x^{3}+y^{3}+z^{3}-3x y z-4(x-y)(y-z)(z-x)$.
+A. $\min{P}=0$
+B. $\min{P}=-1$
+C. $\min{P}={\frac{1}{2}}$
+D. $\min{P}=-{\frac{1}{2}}$
+A
+12. Cho $x>0$. Tìm giá trị nhỏ nhất của biểu thức: $P=x+{\sqrt{x^{2}+{\frac{1}{x}}}}$.
+A. $\min{P}=1$
+B. $\min{P}={\frac{3}{2}}$
+C. $\min{P}={\frac{1}{2}}$
+D. $\min{P}=2$
+D
+13. Cho $x,y$ là các số thực không âm và thỏa mãn điều kiện: $x^{3}+y^{3}+x y=x^{2}+y^{2}$. Tìm giá trị nhỏ nhất của biểu thức: $P=\frac{1+\sqrt{x}}{2+\sqrt{y}}+\frac{2+\sqrt{x}}{1+\sqrt{y}}$.
+A. $\min{P}={\frac{4}{3}}; \max{P}=4$
+B. $\min{P}={\frac{3}{4}}; \max{P}=4$
+C. $\min{P}={\frac{4}{3}}; \max{P}=3$
+D. $\min{P}={\frac{3}{4}}; \max{P}=3$
+A
+14. Cho $x,y$ là các số thực dương và thỏa mãn điều kiện: ${\frac{y}{x+y}}+{\frac{2y^{2}}{x^{2}+y^{2}}}+{\frac{4y^{4}}{x^{4}+y^{4}}}+{\frac{8y^{8}}{x^{8}-y^{8}}}=4$. Khi đó ta có:
+A. $5x=4y$
+B. $3x=4y$
+C. $4x=5y$
+D. $4x=3y$
+C
+15. Cho $a,b,c$ là các số thực dương và thỏa mãn điều kiện: ${\frac{1}{a}}+{\frac{1}{b}}+{\frac{1}{c}}=1$. Tìm giá trị nhỏ nhất của biểu thức: $P={\frac{a^{2}}{b^{3}}}+{\frac{b^{2}}{c^{3}}}+{\frac{c^{2}}{a^{3}}}$.
+A. $\min{P}=1$
+B. $\min{P}=2$
+C. $\min{P}={\frac{1}{2}}$
+D. $\min{P}={\frac{1}{3}}$
+A
+16. Cho $a,b,c$ là các số thực dương. Trong các bất đẳng thức sau, có bao nhiêu bất đẳng thức sai?
+$\sqrt{{a^{2}+b^{2}-\sqrt{3}a b}}+\sqrt{{b^{2}+c^{2}-b c}}\geq\sqrt{{a^{2}+c^{2}}}$
+$\sqrt{a^{2}+b^{2}-\sqrt{3}a b}+\sqrt{b^{2}+c^{2}-b c}\geq\sqrt{2}a c$
+$\sqrt{a^{2}+b^{2}-\sqrt{3}a b}+\sqrt{b^{2}+c^{2}-b c}\leq\frac{\sqrt{2}}{2}(a+c)$
+A. Không có bất đẳng thức nào sai
+B. Có một bất đẳng thức sai
+C. Có hai bất đẳng thức sai
+D. Có ba bất đẳng thức sai
+B
+17. Quãng đường $AB$ dài $120km$. Lúc $7$ giờ sáng một xe máy đi từ $A$ đến $B$. Đi được $\frac{3}{4}$ quãng đường bị hỏng phải dừng lại $10$ phút để sửa $\frac{1}{4}$ quãng đường xe bị hỏng phải dừng lại $10$ phút để sửa rồi đi tiếp với vận tốc kém vận tốc lúc đầu $10km/h$. Biết xe máy đến $B$ lúc $11$ giờ $40$ phút trưa cùng ngày. Giả sử vận tốc xe máy trên $\frac{3}{4}$ quãng đường đầu không đổi và vận tốc xe máy trên $\frac{1}{4}$ quãng đường sau cũng không đổi. Hỏi xe máy bị hỏng lúc mấy giờ?
+A. $9$ giờ
+B. $9$ giờ $20$ phút
+C. $9$ giờ $30$ phút
+D. $10$ giờ
+D
+18. Cho $x,y,z$ là các số dương thỏa mãn $x+y+z=1$. Tìm giá trị lớn nhất của biểu thức: $P=\frac{x}{x+{\sqrt{x+y z}}}+\frac{y}{y+\sqrt{y+z x}}+\frac{z}{z+\sqrt{z+x y}}$.
+A. $\max{P}=\frac{1}{2}$
+B. $\max{P}=2$
+C. $\max{P}=1$
+D. $\max{P}=\frac{1}{3}$
+C
+19. Cho $a,b,c$ là các số dương, thỏa mãn điều kiện $a b+b c+c a=3a b c$. Tìm giá trị nhỏ nhất của biểu thức: $P=\frac{a}{b^{2}}+\frac{b}{c^{2}}+\frac{c}{a^{2}}$.
+A. $\min{P}=1$
+B. $\min{P}=2$
+C. $\min{P}=3$
+D. $\min{P}=4$
+C
+20. Cho $a,b,c$ là các số dương. Trong các bất đẳng thức sau, có bao nhiêu bất đẳng thức đúng?
+${\frac{a}{b+2c+d}}+{\frac{b}{c+2d+a}}+{\frac{c}{d+2a+b}}+{\frac{d}{a+2b+c}}\geq1$
+${\frac{a}{b+2c+d}}+{\frac{b}{c+2d+a}}+{\frac{c}{d+2a+b}}+{\frac{d}{a+2b+c}}\geq1+{\frac{(a-c)^{2}}{(a+b+c+d)^{2}}}$
+${\frac{a}{b+2c+d}}+{\frac{b}{c+2d+a}}+{\frac{c}{d+2a+b}}+{\frac{d}{a+2b+c}}\geq1+{\frac{(b-d)^{2}}{(a+b+c+d)^{2}}}$
+${\frac{a}{b+2c+d}}+{\frac{b}{c+2d+a}}+{\frac{c}{d+2a+b}}+{\frac{d}{a+2b+c}}\geq1+{\frac{(a-c)^{2}+(b-d)^{2}}{(a+b+c+d)^{2}}}$
+A. Có một bất đẳng thức đúng
+B. Có hai bất đẳng thức đúng
+C. Có ba bất đẳng thức đúng
+D. Có bốn bất đẳng thức đúng
+D

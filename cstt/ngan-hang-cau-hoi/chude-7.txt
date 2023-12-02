@@ -1,0 +1,426 @@
+1. Trong một đường tròn, điều nào sau đây sai?
+A. Các góc nội tiếp bằng nhau chắn các cung bằng nhau.
+B. Các góc nội tiếp cùng chắn các một cung thì bằng nhau.
+C. Các góc nội tiếp chắn các cung bằng nhau thì bằng nhau.
+D. Góc nội tiếp có số đo bằng nửa số đo của góc ở tâm cùng chắn một cung.
+D
+2. Trong một đường tròn:
+A. Đường kính đi qua trung điểm của một dây cung thì chia cung căng dây ấy thanh hai cung
+bằng nhau.
+B. Hai cung bị chắn giữa dây vuông góc thì bằng nhau.
+C. Đường kính đi qua điểm chính giữa của một cung thì đi qua trung điểm của dây căng cung
+ấy.
+D. Hai cung bị chắn giữa hai dây song song thì bù nhau.
+C
+3. Dấu hiệu nào không dùng để nhận biết tứ giác nội tiếp:
+A. Tứ giác có tổng hai góc bất kì bằng $180^{\circ}$ .
+B. Tứ giác có góc ngoài tại một đỉnh bằng góc trong tại đỉnh đối của đỉnh đó.
+C. Tứ giác có bốn đỉnh cách đều một điểm.
+D. Tứ giác có hai đỉnh kề nhau cùng nhìn cạnh chứa hai đỉnh còn lại dưới một góc $\alpha$ .
+A
+4. Trong các mệnh đề sau, mệnh đề nào sai khi nói trong một đường tròn?
+A. Các góc nội tiếp bằng nhau chắn các cung bằng nhau.
+B. Các góc nội tiếp cùng chắn một cung hoặc chắn các cung bằng nhau thì bằng nhau.
+C. Góc nội tiếp có số đo bằng nửa số đo của góc ở tâm cùng chắn một cung.
+D. Góc nội tiếp chắn nửa đường tròn là góc vuông.
+C
+5. Trong các mệnh đề sau, mệnh đề nào sai?
+A. Góc có đỉnh nằm trong đường tròn được gọi là góc ở tâm.
+B. Hai cung bằng nhau căng hai dây bằng nhau.
+C. Cung lớn hơn căng dây lớn hơn.
+D. Góc nội tiếp là góc có đỉnh nằm trên đường tòn và hai cạnh chứa hai dây cung của đường
+tròn đó.
+A
+6. Kim giờ và kim phút của đồng hồ tạo thanh một góc ở tâm có số đo là bao nhiêu vào lúc 20 giờ?
+A. $20^{\circ}$
+B. $24^{\circ}$
+C. $96^{\circ}$
+D. $120^{\circ}$
+D
+7. Cho các phát biểu sau: \\ + Số đo của cung bằng số đo của góc ở tâm chắn cung đó. \\ + Số đo của nửa đường tròn bằng $180^{\circ}$ \\ + Số đo của góc nội tiếp bằng nửa số của cung bị chắn. \\ Số phát biểu đúng là:
+A. 3
+B. 2
+C. 1
+D. 0 
+B
+8. Cho các phát biểu sau, phát biểu đúng là:
+A. Cung nhỏ có số đo nhỏ hơn hoặc bằng $180^{\circ}$ .
+B. Cung lớn có số đo lớn hơn hoặc bằng $180^{\circ}$ .
+C. Cung cả đường tròn có số đo bằng $360^{\circ}$ .
+D. Không có cung nào có số đo bằng $0^{\circ}$ .
+C
+9. Trong các khẳng định sau đây, khẳng định nào đúng?
+A. Số đo của góc có đỉnh nằm ở bên trong đường tròn bằng tổng số đo hai cung bị chắn.
+B. Số đo của góc có đỉnh nằm ở bên ngoài đường tròn bằng hiệu số đo hai cung bị chắn.
+C. Số đo của góc tạo bởi tia tiếp tuyến và dây cung bằng nửa số đo của cung bị chắn.
+D. Số đo của góc nội tiếp bằng số đo của cung bị chắn.
+C
+10. Trong các hình sau, hình nào nội tiếp được trong một đường tròn?
+A. Hình bình hành 
+B. Hình thoi 
+C. Hình chữ nhật 
+D. Hình thang vuông
+C
+11. Trong các hình sau, hình nào ngoại tiếp được trong một đường tròn?
+A. Hình bình hành 
+B. Hình chữ nhật 
+C. Hình thoi 
+D. Hình thang
+C
+12. Diện tích hình tròn sẽ thay đổi như thế nào nếu bán kính tăng gấp đôi?
+A. Tăng 2 lần 
+B. Tăng 4 lần 
+C. Tăng 8 lần 
+D. Tăng 16 lần
+B
+13. Từ 1 giờ chiều đến 3 giờ chiều thì kim giờ quay được một góc ở tâm bằng bao nhiêu?
+A. $30^{\circ}$
+B. $45^{\circ}$
+C. $60^{\circ}$
+D. $75^{\circ}$
+C
+14. Góc nội tiếp là góc:
+A. Có đỉnh nằm trên đường tròn.
+B. Có hai cạnh là hai dây của đường tròn.
+C. Có hai đỉnh là tâm đường tròn và có hai cạnh là hai bán kính.
+D. Có hai cạnh là hai dây của đường kính đó và chỉ có một đầu mút chung.
+D
+15. Một đường tròn là đường tròn nội tiếp nếu có:
+A. Đi qua các đỉnh của một đa giác.
+B. Tiếp xúc với các đường thẳng chứa các cạnh của đa giác.
+C. Tiếp xúc với các cạnh của đa giác.
+D. Nằm trong một đa giác.
+C
+16. Một tứ giác là tứ giác nội tiếp nếu:
+A. Có hai đỉnh cùng nhìn một cạnh dưới hai góc bằng nhau.
+B. Có bốn góc bằng nhau.
+C. Có bốn cạnh bằng nhau.
+D. Có các cạnh tiếp xúc với đường tròn.
+A
+17. Trong các mệnh đề sau, mệnh đề nào sai?
+A. Trong một đường tròn, số đo của góc nội tiếp bằng nửa số đo của cung bị chắn.
+B. Các góc nội tiếp bằng nhau thì cùng chắn một cung
+C. Số đo của góc tạo bởi tia tiếp tuyến và dây cung bằng nửa số đo của cung bị chắn.
+D. Trong một đường tròn, góc tạo bởi tia tiếp tuyến và dây cung và góc nội tiếp cùng chắn một cung thì bằng nhau.
+B
+18. Trong các mệnh đề sau, mệnh đề nào đúng?
+A. Góc có đỉnh nằm trong đường tròn được gọi là góc ở tâm.
+B. Góc có đỉnh nằm trên đường tròn gọi là góc nội tiếp.
+C. Góc có đỉnh nằm trên đường tròn, một cạnh là tiếp tuyến với đường tròn gọi là góc tạo bởi tia tiếp tuyến và dây cung.
+D. Góc có đỉnh nằm trên đường tròn, một cạnh là tiếp tuyến với đường tròn, cạnh kia chứa dây cung của đường tròn gọi là góc tạo bởi tia tiếp tuyến và dây cung.
+D
+19. Cho 6 điểm A, B, C, D, E, F theo thứ tự cùng trên một đường tròn trong đó A, C, E là các đỉnh của một tam giác đều. Phát biểu nào sau đây là đúng?
+A. ${\widehat{A B C}}={\widehat{C D E}}={\widehat{\ A F E}}=60^{\circ}$
+B. ${\widehat{A B C}}={\widehat{C D E}}={\widehat{\ A F E}}=120^{\circ} $
+C. ${\widehat{A B C}}=60^{\circ},{\widehat{C D E}}=120^{\circ},{\widehat{A F E}}=90^{\circ}$
+D. ${\widehat{A B C}}=120^{\circ},{\widehat{C D E}}=60^{\circ},{\widehat{A F E}}=90^{\circ}$
+B
+20. Trong các góc sau, góc nào là góc tạo bởi tia tiếp tuyến và dây cung?
+A. 
+B. 
+C. 
+D. 
+B
+21. Trong một đường tròn:
+A. Góc nội tiếp có số đo bằng số đo của góc ở tâm cùng chắn một cung.
+B. Số đo góc nội tiếp bằng số đo cung bị chắn.
+C. Số đo của góc tạo bởi tia tiếp tuyến và dây cung bằng nửa số đo của cung bị chắn.
+D. Góc nội tiếp chắn nửa đường tròn là góc bẹt và ngược lại.
+C
+22. Tam giác ABC đều nội tiếp đường tròn thì số đo cung BC lớn là:
+A. $60^{\circ}$
+B. $120^{\circ}$
+C. $240^{\circ}$
+D. $270^{\circ}$
+C
+23. Cho hình vẽ số đo cung lớn AB bằng:
+A. $120^{\circ}$
+B. $135^{\circ}$
+C. $45^{\circ}$
+D. $315^{\circ}$
+B
+24. Cho hình vẽ, số đo góc MAN bằng bao nhiêu biết hai đường tròn có tâm B, C và điểm B
+nằm trên đường tròn tâm C, ${\widehat{P C Q}}=136^{\circ}$
+A. $34^{\circ}$
+B. $24^{\circ}$
+C. $36^{\circ}$
+D. $28^{\circ}$
+A
+25. Độ dài cung $60^{\circ}$ của một đường tròn có bán kính $2\textit{dm}$ là:
+A. $\frac{20\pi}{3}\textit{cm}$
+B. $\frac{20\pi}{6}\textit{cm}$
+C. $40\pi\textit{cm}$
+D. $20\pi\textit{cm}$
+A
+26. Chu vi vanh xe đạp có đường kính 65 cm là:
+A. $65\pi\textit{cm}$
+B. $32,5\pi\textit{cm}$
+C. $1,3\pi\textit{cm}$
+D. $130\pi\textit{cm}$
+A
+27. Đường tròn lớn của Trái đất dài khoảng 40 000km thi bán kính Trái đất là:
+A. $\frac{40000}{\pi}\textit{km}$
+B. $\frac{20000}{\pi}\textit{km}$
+C. $\frac{10000}{\pi}\textit{km}$
+D. $\frac{30000}{\pi}\textit{km}$
+B
+28. Độ dài của nửa đường tròn đường kính $8\textit{R}$ là:
+A. $\pi\textit{R}$
+B. $2\pi\textit{R}$
+C. $4\pi\textit{R}$
+D. $8\pi\textit{R}$
+C
+29. Diện tích của nửa đường tròn có đường kính $4\textit{R}$ bằng:
+A. $\frac{1}{2}\pi \textit{R}^2$
+B. $8\pi \textit{R}^2$
+C. $2\pi \textit{R}^2$ 
+D. $4\pi \textit{R}^2$
+C
+30. Diện tích hình quạt tròn $\textit{OAqB}$ là:
+A. $\frac{\pi}{4}\textit{cm}^2$
+B. $\frac{2\pi}{3}\textit{cm}^2$
+C. $\frac{3\pi}{4}\textit{cm}^2$
+D. $\frac{5\pi}{6}\textit{cm}^2$
+D
+31. Một đồng hồ chạy chậm 25 phút. Để chỉnh lại đúng giờ thì phải quay kim phút một góc ở
+tâm bằng:
+A. $50^{\circ}$ 
+B. $60^{\circ}$
+C. $135^{\circ}$ 
+D. $150^{\circ}$
+D
+32. Cho tam giác ABC nội tiếp đường tròn \textit{(O ; R)} có cách cạnh AB=$R\sqrt{2}$ và AC=$R\sqrt{3}$ . Số đo các cung nhỏ AB, BC lần lượt là:
+A.$90^\circ$,$120^\circ$
+B.$90^\circ$,$150^\circ$ 
+C.$120^\circ$,$90^\circ$ 
+D.$90^\circ$,$135^\circ$
+B
+33. Cho đường tròn \textit{(O ; 3cm)} và dây cung BC=3cm . Hai tiếp tuyến tại B và C cắt nhau tại A.
+Số đo góc ABC là:
+A. $30^{\circ}$ 
+B. $36^{\circ}$
+C. $45^{\circ}$
+D. $60^{\circ}$
+A
+34. Cho hình vẽ, biểu thức nào cho dưới đây là đúng?
+A. $B A x = A O B$
+B. $B A x = B G A$
+C. $B G A=\operatorname{sđ} A n B$
+D. $B G A=A O B$
+B
+35. Cho tam giác $O A O^{\prime}$ vuông cân tại $A$, vẽ $(O, O A)$ và $\left(O^{\prime}, O^{\prime} A\right)$ cắt nhau tại điểm $B$ khác $A$. Số đo cung nhỏ $A B$ của đường tròn $(O)$ là:
+A. $90^{\circ}$
+B. $45^{\circ}$
+C. $105^{\circ}$
+D. $75^{\circ}$
+A
+36. Cho $(O ; 2 \mathrm{~cm})$ và $A \in(\mathrm{O})$. Từ $A$ kẻ tiếp tuyến $A x$ với $(O)$, lấy điểm $B \in A x$ sao cho $A B=2 \sqrt{3} \mathrm{~cm}$. Tia $O B$ cắt $(O)$ tại $C$. Tính số đo cung nhỏ $A C$ của đường tròn $(O)$.
+A. $75^{\circ}$
+B. $45^{\circ}$
+C. $60^{\circ}$
+D. $72^{\circ}$
+C
+37. Tỉ số bán kính đường tròn nội tiếp và ngoại tiếp hình vuông cạnh bằng $2 \mathrm{~cm}$ là:
+A. $\sqrt{2}$
+B. $\frac{1}{2}$
+C. $\frac{1}{\sqrt{2}}$
+D. 2
+C
+38. Bán kính đường tròn có độ dài $13,2 \mathrm{~cm}$ là:
+A. $\frac{13,2}{\pi} \mathrm{cm}$
+B. $\frac{6,2}{\pi} \mathrm{cm}$
+C. $\frac{6,1}{\pi} \mathrm{cm}$
+D. $\frac{6,6}{\pi} \mathrm{cm}$
+D
+39. Diện tích hình quạt tròn có bán kính $6 \mathrm{~cm}$ và số đo cung bằng $36^{\circ}$ là:
+A. $36 \pi \mathrm{cm}^{2}$
+B. $72 \pi \mathrm{cm}^{2}$
+C. $129,6 \pi \mathrm{cm}^{2}$
+D. $132 \pi \mathrm{cm}^{2}$
+C
+40. Diện tích hình tròn nội tiếp hình vuông cạnh bằng $4 \mathrm{~cm}$ là:
+A. $\pi \mathrm{cm}^{2}$
+B. $4 \pi \mathrm{cm}^{2}$
+C. $8 \pi \mathrm{cm}^{2}$
+D. $16 \pi \mathrm{cm}^{2}$
+B
+41. Độ dài cạnh hình vuông nội tiếp đường tròn $(O ; 3 \mathrm{~cm})$ là:
+A. $3 \mathrm{~cm}$
+B. $3 \sqrt{2} \mathrm{~cm}$
+C. $\frac{3}{\sqrt{2}} \mathrm{~cm}$
+D. $6 \mathrm{~cm}$
+B
+42. Chân một đống cát đổ trên nền phẳng nằm ngang là một hình tròn có chu vi $12 \mathrm{~cm}$. Hỏi chân đống cát đó chiếm diện tích bao nhiêu?
+A. $\frac{36}{\pi} \mathrm{cm}^{2}$
+B. $\frac{24}{\pi} \mathrm{cm}^{2}$
+C. $\frac{12}{\pi} \mathrm{cm}^{2}$
+D. $\frac{6}{\pi} \mathrm{cm}^{2}$
+A
+43. Cho đường tròn tâm $O$ bán kính $R$ và dây $A B=R \sqrt{2}$. Số đo góc nội tiếp chắn cung lớn $A B$ bằng:
+A. $90^{\circ}$
+B. $120^{\circ}$
+C. $270^{\circ}$
+D. $240^{\circ}$
+C
+44. Cho đường tròn tâm $O$ bán kính $R$ và dây $C D=R \sqrt{3}$. Số đo góc nội tiếp chắn cung nhỏ $C D$ bằng:
+A. $120^{\circ}$
+B. $240^{\circ}$
+C. $180^{\circ}$
+D. $60^{\circ}$
+A
+45. Độ dài cạnh tam giác đều nội tiếp đường tròn $(O ; 3 \mathrm{~cm})$ là:
+A. $3 \mathrm{~cm}$
+B. $3 \sqrt{3} \mathrm{~cm}$
+C. $\sqrt{3} \mathrm{~cm}$
+D. $6 \sqrt{3} \mathrm{~cm}$
+B
+46. Cho tam giác đều $A B C$ nội tiếp đường tròn $O$, điểm $D$ di chuyển trên cung nhỏ $B C$ của đường tròn, điểm $M$ thuộc $A D$ sao cho $D B=D M$. Khi đó $A M B$ bằng:
+A. $90^{\circ}$
+B. $100^{\circ}$
+C. $120^{\circ}$
+D. $150^{\circ}$
+C
+47. Độ dài cạnh hình lục giác đều nội tiếp đường tròn $(O ; 2 \mathrm{~cm})$ là:
+A. $1 \mathrm{~cm}$
+B. $2 \mathrm{~cm}$
+C. $\sqrt{2} \mathrm{~cm}$
+D. $\sqrt{3} \mathrm{~cm}$
+B
+48. Cho lục giác đều $A B C D E F$. Khi đó đường chéo $B F$ chia đoạn thẳng $A D$ thành hai đoạn thẳng theo tỉ số:
+A. $1: 2$
+B. $1: 3$
+C. $2: 3$
+D. $2: 5$
+B
+49. Máy kéo nông nghiệp có hai bánh sau to hơn hai bánh trước. Khi bơm căng, bánh xe sau có đường kính là $1,672 \mathrm{~m}$ và bánh xe trước có đường kính là $88 \mathrm{~cm}$. Khi bánh xe sau lăn được 10 vòng thì bánh xe trước lăn được mấy vòng?
+A. 59 vòng
+B. 19 vòng
+C. 39 vòng
+D. 29 vòng
+B
+50. Cho hình vẽ, $A B=40 m, M K=3 m$. Tính $O A$? (làm tròn đến chữ số thập phân thứ nhất).
+A. $68,1 m$
+B. $68,2 m$
+C. $66,2 m$
+D. $66,4 m$
+B
+51. Quỹ tích các điểm $M$ nhìn đoạn thẳng $A B$ dưới một góc $120^{\circ}$ là:
+A. Một đườngtròn đi qua hai điểm $A$ và $B$.
+B. Một đường thẳng song song với $A B$.
+C. Một cung chứa góc $120^{\circ}$ dựng trên hai điểm $A$ và $B$.
+D. Hai cung chứa góc $120^{\circ}$ (đối xứng nhau) dựng trên hai điểm $A$ và $B$.
+D
+52. Cho đường tròn $(O ; R)$. Từ điểm $M$ cách $O$ một khoảng dài $2 R$ kẻ hai tiếp tuyến $M A, M B$ với đường tròn, $A$ và $B$ là các tiếp điểm. Bán kính đường tròn nội tiếp tam giác $M A B$ là:
+A. $R$
+B. $R \sqrt{2}$
+C. $R \sqrt{3}$
+D. $\frac{R}{2}$
+A
+53. Diện tích phần 1 là: (đợn vị: $\mathrm{cm}$, làm tròn đến chữ số thập phân thứ hai).
+A. $1,94 \mathrm{~cm}^{2}$
+B. $1,95 \mathrm{~cm}^{2}$
+C. $5,47 \mathrm{~cm}^{2}$
+D. $5,46 \mathrm{~cm}^{2}$
+A
+54. Cho hình thoi $A B C D$ có cạnh $A B$ cố định. Quỹ tích giao điểm $O$ của hai đường chéo hình thoi là:
+A. Hình tròn đường kính $A B$.
+B. Đường tròn đường kính $A B$.
+C. Đường trung trực của đoạn $A B$.
+D. Đường thẳng song song với $A B$ và cách $A B$ một khoảng $\frac{A B}{2}$.
+B
+55. Tam giác $A B C$ vuông tại $A$, cạnh $B C$ cố định. Quỹ tích tâm đường tròn nội tiếp tam giác khi điểm $A$ thay đổi là:
+A. Hai cung chứa góc $90^{\circ}$ dựng trên đoạn thẳng $B C$.
+B. Hai cung chứa góc $120^{\circ}$ dựng trên đoạn thẳng $B C$.
+C. Hai cung chứa góc $135^{\circ}$ dựng trên đoạn thẳng $B C$.
+D. Hai cung chứa góc $145^{\circ}$ dựng trên đoạn thẳng $B C$.
+C
+56. Cho đường tròn đường kính $A B$ cố định, $M$ là một điểm chạy trên đường tròn. Trên tia đối của tia $M A$ lấy điểm $I$ sao cho $M I=2 M B$. Tập hợp các điểm $I$ là:
+A. Đường tròn tâm $A$ đường kính $A B$.
+B. Đường tròn tâm $B$ đường kính $2 A B$.
+C. Đường tròn tâm $O$ đường kính 1,5AB .
+D. Cung tròn có dây $A B$.
+D
+57. Cho đường tròn $(O)$ và một điểm $A$ cố định trên đường tròn. Quỹ tích các trung điểm $M$ của dây $A B$ khi điểm $B$ di chuyển trên đường tròn $(O)$ là:
+A. Đường tròn đường kính $O B$.
+B. Đường tròn đường kính $A B$.
+C. Đường tròn đường kính $O A$.
+D. Đường tròn tâm $O$, bán kính $\frac{O A}{2}$.
+C
+58. Cho đương tròn $(O)$ đường kính $A B=2 R$. Gọi $P Q$ là một dây thay đổi của đường tròn $(O)$ sao cho $P Q=R$. Vẽ hình bình hành $P A Q M$. Khi dây $P Q$ thay đổi thì điểm $M$ di chuyển trên đường nào?
+A. Đường tròn tâm $B$ đường kính $R \sqrt{2}$.
+B. Đường tròn tâm $B$ đường kính $R \sqrt{3}$.
+C. Đường tròn tâm $B$ đường kính $R$.
+D. Đường tròn tâm $B$ bán kính $2 R$.
+B
+59. Cho tam giác $A B C$ nội tiếp đường tròn $(O)$. Tiếp tuyến tại $A$ cắt $B C$ ở $I$. Biết $A B=20 \mathrm{~cm}, A C=28 \mathrm{~cm}, B C=24 \mathrm{~cm}$. Đọ dài đoạn $A I$ là:
+A. $37 \mathrm{~cm}$
+B. $36 \mathrm{~cm}$
+C. $35 \mathrm{~cm}$
+D. $34 \mathrm{~cm}$
+C
+60. Cho hình vuông $A B C D$ cạnh $a$. Vẽ bốn cung phần tư đường tròn nằm trong hình vuông có tâm theo thứ tự là $A, B, C, D$ và bán kính bằng $a$ ta được hình hoa bốn cánh. Hỏi chu vi của hình oa bốn cánh là?
+A. $\frac{4}{3} \pi a$
+B. $\frac{2}{3} \pi a$
+C. $\frac{3}{2} \pi a$
+D. $\frac{3}{4} \pi a$
+A
+61. Cho tứ giác $A B C D$ nội tiếp và $\widehat{A C B}=60^{\circ}$. Khẳng định nào sau đây luôn đúng?
+A. $\widehat{A D C}=60^{\circ}$
+B. $\widehat{A D C}=120^{\circ}$
+C. $\widehat{A B C}=60^{\circ}$
+D. $\widehat{A D B}=60^{\circ}$
+D
+62. Khẳng định nào sau đây luôn đúng về tứ giác nội tiếp $A B C D$ ?
+A.Tứ giác $A B C D$ luôn có hai góc vuông.
+B.Bốn điểm $A, B, C, D$ tạo thành hình bình hành.
+C.Bốn điểm $A, B, C, D$ cách đều một điểm.
+D.Bốn điểm $A, B, C, D$ tạo thành tứ giác lõm.
+C
+63. Cho tứ giác $A B C D$ nội tiếp một đường tròn và $\widehat{A B C}=60^{\circ}$. Khẳng định nòa sau đây đúng?
+A. $\widehat{A D C}=60^{\circ}$
+B. $\widehat{A D C}=120^{\circ}$
+C. $\widehat{A C B}=60^{\circ}$
+D. $\widehat{A D B}=60^{\circ}$
+D
+64. Cho tứ giác $A B C D$ nội tiếp và điểm $M$ là giao điểm của hai đường thẳng $A B, C D$. Nếu $M A=4 ; A B=2 ; M C=3$ thì độ dài đoạn $C D$ là:
+A. $C D=\frac{8}{3}$
+B. $C D=1,5$
+C. $C D=8$
+D. $C D=5$
+D
+65. Cho tam giác $A B C$ có $A B, B E, C F$ là đường cao, tam giác nội tiếp có trong hình (có thể chưa nối) là?
+A. 3
+B. 4
+C. 5
+D. 6
+D
+66. Cho $(O)$, đường kính $A B=2 R$. $C$ là điểm trên tiếp tuyến của $(O)$ tại $A$ sao cho $\widehat{A C B}=30^{\circ}, B C$ cắt $(O)$ tại $H$. Với mỗi điểm $M$ thuộc $A C, M B$ cắt $(O)$ tại tại $N(N$ khác $B)$. Tâm đường tròn đi qua 4 điểm $C, M, N, H$ luôn chạy trên trên một đường thẳng côc định là?
+A. Trung trực của $\mathrm{CH}$.
+B. Trung trực của $N M$.
+C.Trung trực của $C M$.
+D. Trung trực của $N H$.
+A
+67. Cho tứ giác tứ giác $A B C D$ có $A C$ là phân giác góc $A$ và $\widehat{B D C}=20^{\circ}$. Điều kiện để tứ giác giác $A B C D$ nội tiếp là?
+A. $\hat{A}=40^{\circ}$
+B. $\widehat{B}=40^{\circ}$
+C. $\widehat{C}=40^{\circ}$
+D. $\widehat{D}=40^{\circ}$
+A
+68. Cho tam giác $A B C$. Các đường phân giác trong của góc $B$ và $C$ cắt nhau tại $S$. Các đường phân giác ngoài của góc $B$ và $C$ cắt nhau tại $E$. Khảng định nào sau đây là đúng để tứ giác BSCE nội tiếp?
+A.Tam giác $A B C$ có một góc bằng $60^{\circ}$
+B.Tam giác $A B C$ có một góc bằng $90^{\circ}$
+C.Tam giác $A B C$ có một góc bằng $120^{\circ}$
+D.Tam giác $A B C$ bất kì.
+D
+69. Cho tam giác $A B C$ cân có dây $B C$ và $\widehat{A}=20^{\circ}$. Trên nửa mặt phẳng bờ $A B$ không chứa điểm $C$ lấy điểm $D$ sao cho $D A=D B$. Điều kiện để tứ giác $A B C D$ nội tiếp là?
+A. $\widehat{D A B}=40^{\circ}$
+B. $\widehat{D A B}=45^{\circ}$
+C. $\widehat{D A B}=30^{\circ}$
+D. $\widehat{D A B}=20^{\circ}$
+A
+70. Cho nửa đường tròn tâm $O$, đường kính $A B, M$ là điểm đối xứng của $O$ qua $A$. đường thẳng qua $M$ cắt nửa đường tròn $(O)$ tại $C$ và $D(C$ nằm giữa $M$ và $D)$. Gọi $E$ là giao điểm của $A D$ và $B C$. Nếu $A D=a, B C=b$ thì khẳng định nòa sau đây luôn đúng?
+A. $\frac{A E}{B E}=\frac{3 a}{b}$
+B. $\frac{A E}{B E}=\frac{b}{a}$
+C. $\frac{A E}{B E}=\frac{b}{3 a}$
+D. $\frac{A E}{B E}=\frac{a}{b}$
+C

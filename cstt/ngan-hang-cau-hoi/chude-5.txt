@@ -1,0 +1,327 @@
+1. Tam giác ABC có $\widehat{A} = 90^{circ}; a = 29; b = 21$. Độ dài c là:
+A. $c = 26$
+B. $c = 19$
+C. $c = 20$
+D. $c = 23$
+C
+2. Tam giác vuông ABC có bình phương cạnh huyền bằng 289 và diện tích là 60. Độ dài của hai cạnh góc vuông là:
+A. 12 và 13.
+B. 8 và 15. 
+C. 12 và 17. 
+D. Cả A, B, C đều sai.
+B
+3. Tam giác vuông ABC vuông tại A, $b = 20, c = 21$. Độ dài đường cao AH là:
+A. $AH = 15$
+B. $AH = 18,33$
+C. $AH = \frac{420}{29}$
+D. $AH = \frac{580}{21}$
+C
+4. Một tam giác vuông có cạnh góc vuông lớn gấp ba lần cạnh góc vuông nhỏ và diện tích là $24cm^2$ . Khi đó số đo cạnh huyền là:
+A. 13cm
+B. 2cm
+C. $4\sqrt{10}cm$
+D. Một kết quả khác
+C
+5. Tam giác ABC vuông tại đỉnh A, $b = 8, c = \sqrt{192}, AH \bot BC (H \in BC)$ . Khi đó độ dài AH là:
+A. \sqrt{24}
+B. \sqrt{48}
+C. \sqrt{12}
+D. \sqrt{4,5}
+B
+6. Với giả thiết câu 5, b', c' lần lượt là hình chiếu của hai cạnh góc vuông b và c trên cạnh huyền. Kết luận nào sau đây là đúng nhất?
+A. $b' < c'$
+B. $b' = \frac{2}{3}c'$
+C. $b' > \frac{3}{4}c'$
+D. $b' = \frac{1}{3}c'$
+D
+7. Với giả thiết câu 5, tỉ số đồng dạng của hai tam giác HAB và HCA là:
+A. $k = 3$
+B. $k = \sqrt{3}$
+C. $k = \frac{\sqrt{3}}{3}$
+D. $k = 2\sqrt{3}$
+B
+8. Với giả thiết câu 5, M là trung điểm của AB , N là trung điểm của AC. Kết luận nào sau
+đây đúng nhất?
+A. $S_{AHM} = \sqrt{3}S_{HNC}$
+B. $S_{AHM} = 3S_{HNC}$
+C. $S_{AHM} = 2S_{HNC}$
+D. Cả A, B, C đều sai
+B
+9. Năm đoạn thẳng có độ dài lần lượt là: $\sqrt{192}; 4; \sqrt{48}; 12; 8$ . Số tam giác vuông có thể có được từ ba trong các đoạn thẳng trên là:
+A. 2
+B. 3
+C. 4
+D. 6
+A
+Hãy chọn đáp án đúng
+10. Sử dụng kết quả câu 9 có hai tam giác vuông có diện tích tỉ lệ với nhau là:
+A. 2:3 
+B. 3:4 
+C. 1: 3 
+D. $1:\sqrt{3}$
+Hãy chọn đáp án đúng
+C
+11. Pháp biểu nào sau đây là đúng?
+A. Tồn tại tam giác vuông có ba cạnh là ba số tự nhiên lẻ liên tiếp.
+B. Tồn tại tam giác vuông có ba cạnh là ba số tự nhiên chẵn liên tiếp.
+C. Không có tam giác vuông nào có số đo chu vi lớn gấp đôi số đo diện tích của nó.
+D. Không có tam giác vuông nào có số đo ba cạnh là số vô tỉ.
+B
+12. Hãy chọn phát biểu sai trong các phát biểu sau đây?
+A. Không thể tồn tại một tam giác vuông có số đo hai cạnh là hai số thập phân và số đo cạnh
+còn lại là một số tự nhiên.
+B. Tồn tại một tam giác có số đo hai cạnh là hai số tự nhiên và số đo cạnh còn lại là số nguyên
+dương.
+C. Tồn tại một tam giác vuông có đường cao hạ xuống cạnh huyền bằng một nửa cạnh huyền.
+D. Không thể tồn tại một tam giác vuông cân có số đo ba cạnh là ba số tự nhiên.
+A
+13. Phát biểu nào sau đây là đúng nhất?
+A. $\sin\alpha \geq \cos\alpha$ với mọi $\alpha$
+B. $\tan\alpha < \cot\alpha$ vì $\cot\alpha = \frac{1}{\tan\alpha}$
+C. Không có góc $\alpha$ nào thỏa mãn $\tan\alpha = \cot\alpha$
+D. Tồn tại góc $\alpha$ thỏa mãn $\sin\alpha = \cos\alpha$
+D
+14. Phát biểu nào sau đây là đúng nhất?
+A. Nếu $\sin\alpha < \cos\alpha$ thì $\tan\alpha > 1$
+B. Nếu $\sin\alpha < \cos\alpha$ thì $\cot\alpha > 1$
+C. Nếu $\tan\alpha \in Z$ thì $\cot\alpha \in Z$
+D. $\sin\alpha.\cos\alpha$ là số nguyên
+B
+15. Biết $\alpha = 30^{\circ}$. Kết quả nào sau đây là đúng?
+A. $\sin\alpha + \cos^2\alpha = 2,5$
+B. $\sin\alpha + \cos^2\alpha = 1,5$
+C. $\sin\alpha + \cos^2\alpha = 2$
+D. $\sin\alpha + \cos^2\alpha = 1,25$
+D
+16. Biết $\alpha = 60^{\circ}$ và $P = \frac{{{\cos\alpha} + {2\sin^2\alpha}}}{{{\cos^2\alpha} - {\sin\alpha}}}$. Kết quả nào sau đây là đúng?
+A. $P = 2$
+B. $P = \frac{2}{\sqrt{3}}$
+C. $P = \frac{8(1-2\sqrt{3})}{11}$
+D. $P = \frac{-8}{11}(1+2\sqrt{3})$
+D
+17. Biết $\alpha = 30^{\circ}$ và $P = \frac{{\tan\alpha} + {\cot2\alpha}}{2{\tan2\alpha} - {\cot\alpha}}$. Kết quả nào sau đây là đúng?
+A. $P = \frac{4\sqrt{3}}{3}$
+B. $P = \frac{2}{3}$
+C. $P = \frac{2\sqrt{3}}{3}$
+D. $P = 2\sqrt{3}$
+B
+18. Biết $\alpha = 30^{\circ}$ và $P = \frac{{\sin2\alpha} + {\tan^{2}2\alpha}}{{\cos\alpha} - {\cot^2\alpha}}$. Kết quả nào sau đây là đúng?
+A. $P = \frac{2\sqrt{3} + 6}{3\sqrt{3} - 2}$
+B. $P = \frac{3\sqrt{3} + 6}{3\sqrt{3} - 2}$
+C. $P = \frac{3\sqrt{3} + 2}{3\sqrt{3} - 2}$
+D. $P = \frac{\sqrt{3} + \sqrt{6}}{\sqrt{3} - \sqrt{2}}$
+C
+19. Cho $P = \frac{cos^2\alpha - \tan2\alpha}{\sin^{2}2\alpha + \cot\alpha}$ và $\alpha = 30^{\circ}$. Hãy chọn giá trị đúng của P.
+A. $P = -\frac{8\sqrt{3} + 19}{13}$
+B. $P = \frac{8\sqrt{3} - 19}{13}$
+C. $P = \frac{8\sqrt{3} - 19}{\sqrt{13}}$
+D. $P = \frac{19 - 8\sqrt{3}}{13}$
+B
+20. Cho $P = {\frac{{\cos45^{\circ}} - {\sin30^{\circ}}}{{\sin60^{\circ}} - {\sin45^{\circ}}}}:{\frac{{\tan30^{\circ}} - {\tan45^{\circ}}}{{\tan45^{\circ}} - {\cot60^{\circ}}}}$. Kết quả nào sau đây đúng?
+A. $P = \sqrt{6} + \sqrt{3} - \sqrt{2} - 2$
+B. $P = \sqrt{6} + \sqrt{3} + 2\sqrt{2} - 2$
+C. $P = \sqrt{3} + \sqrt{2} - \sqrt{6} - 2$
+D. $P = \sqrt{6} + \sqrt{3} - 2\sqrt{2} + 2$
+C
+21. Cho tam giác vuông ABC ; biết $\widehat{A} = 90^{\circ}, \widehat{B} = 60^{\circ}, c = 5$ khi đó ta có độ dài b là:
+A. $b = \frac{5\sqrt{3}}{3}$
+B. $b = 5\sqrt{3}$
+C. $b = 2,5$
+D. $b = 10$
+B
+22. Cho tam giác vuông ABC ; biết $\widehat{A} = 90^{\circ}, \widehat{B} = 30^{\circ}, a = 6\sqrt{3}$ khi đó ta có độ dài b là:
+A. $b = 3\sqrt{2}$
+B. $b = 3\sqrt{3}$
+C. $b = 2,5$
+D. $b = 10$
+C
+23. Với tam giác vuông ABC có $\widehat{A} = 90^{\circ}, \widehat{B} = 60^{\circ}, b = 10$ thì độ dài a là:
+A. $a = 15\sqrt{3}$
+B. $a = 10\sqrt{3}$
+C. $a = \frac{20\sqrt{3}}{3}$
+D. $a = 20\sqrt{3}$
+C
+24. Với tam giác vuông ABC có $\widehat{A} = 90^{\circ}, \widehat{C} = 60^{\circ}, b = 12$ thì độ dài b' là:
+A. $b' = 8$
+B. $b' = 6$
+C. $b' = 6\sqrt{3}$
+D. $b' = 3\sqrt{3}$
+B
+25. Với giả thiết câu 24, độ dài của c' là:
+A. $c' = 8\sqrt{3}$
+B. $c' = 9\sqrt{3}$
+C. $c' = 6\sqrt{3}$
+D. $c' = 18$
+D
+26. Cho tam giác ABC có $a = 5, b = 4, c = 3$. Kết quả nào sau đây là đúng?
+A. $\sin C = 0,75$
+B. $\sin C = 0,8$
+C. $\sin C = 0,6$
+D. $\sin C = 1,3$
+C
+27. Với giả thiết câu 24, kết quả nào sau đây là đúng ?
+A. $\cos B = 0,75$
+B. $\cos B = 0,6$
+C. $\cos B = 0,8$
+D. $\sin C = 1,3$
+B
+28. Với giả thiết câu 24. Gọi AH là đường cao thuộc cạnh BC và $\widehat{BAH} = \alpha$ . Kết quả nào sau đây là đúng?
+A. $\cos\alpha = 0,6$
+B. $\cos\alpha = 0,75$
+C. $\cos\alpha = 0,8$
+D. $\cos\alpha = \frac{2\sqrt{3}}{5}$
+C
+29. Cho tam giác vuông ABC $(\widehat{A} = 90^{\circ}), AH \bot BC (H \in BC), AH = 6, BH = 3$. Kết quả nào sau đây là đúng?
+A. $\sin B = \frac{\sqrt{3}}{3}$
+B. $\sin B = \frac{\sqrt{3}}{2}$
+C. $\sin B = \frac{2\sqrt{5}}{5}$
+D. $\sin B = \frac{\sqrt{3}}{6}$
+C
+30. Với giả thiết câu 29, kết quả nào sau đây là đúng ?
+A. $\sin C = \frac{\sqrt{3}}{3}$
+B. $\sin C = \frac{\sqrt{3}}{6}$
+C. $\sin C = \frac{\sqrt{5}}{5}$
+D. $\sin C = \frac{\sqrt{5}}{2}$
+C
+31. Cho tam giác vuông ABC có $(\widehat{A} = 90^{\circ}), AH \bot BC (H \in BC), BH = 6, HC = 12$. Kết quả nào sau đây là đúng?
+A. $\widehat{B} = 30^{\circ}$
+B. $\widehat{B} = 60^{\circ}$
+C. $\widehat{B} = 70^{\circ}$
+D. $\widehat{B} = 45^{\circ}$
+B
+32. Với giả thiết câu 31, kết quả nào sau đây là đúng ?
+A. $\tan C = \frac{\sqrt{3}}{3}$
+B. $\tan C = \sqrt{3}$
+C. $\tan C = \frac{\sqrt{3}}{6}$
+D. $\tan C = 2\sqrt{3}$
+A
+33. Với giả thiết câu 31, kết quả nào sau đây là đúng ?
+A. $\tan BAH = \frac{\sqrt{3}}{2}$
+B. $\tan BAH = \frac{\sqrt{3}}{3}$
+C. $\tan BAH = \sqrt{3}$
+D. $\tan BAH = 1$
+B
+34. Cho tam giác vuông ABC có $\widehat{A} = 90^{\circ}, \widehat{B} = 30^{\circ}, a = 18$ Kết quả nào sau đây là đúng ?
+A. $c = 12\sqrt{3}$
+B. $c = 9\sqrt{3}$
+C. $c = 6\sqrt{3}$
+D. $c = 12$
+B
+35. Với giả thiết câu 34, kết quả nào sau đây là đúng?
+A. $b = 12$
+B. $b = \sqrt{18}$
+C. $b = 9$
+D. $b = 9\sqrt{3}$
+C
+36. Với giả thiết câu 34 và $HA \bot BC (H \in BC)$.
+Kết quả nào sau đây là đúng?
+A. $AH = 4$. 
+B. $AH = 14$. 
+C. $AH = 4,5$. 
+D. $AH = 4,5\sqrt{3}$.
+D
+37. Tính chiều cao AH với các số liệu cho trên hình sau. Kết quả nào sau đây là đúng?
+A. $AH = 20m$.
+B. $AH = 10\sqrt{3}m$
+C. $AH = 15\sqrt{3}m$
+D. $AH = 20\sqrt{3}m$
+B
+38. Trong hình vẽ bên, khoảng cách AB là:
+A. $AB = 20m$
+B. $AB = 10\sqrt{3}m$
+C. $AB = 20(\sqrt{3} - 1)m$
+D. $AB = 20\sqrt{3}m$
+Hãy chọn kết quả đúng.
+C
+39. Quan sát hình vẽ. Kết quả nào sau đây là đúng ?
+A. $tan C = \frac{KL}{HL} = \frac{BH}{AH}$
+B. $tan C = \frac{HL}{KL} = \frac{AH}{BH} = \frac{AK}{HK}$
+C. $tan C = \frac{HL}{KL} = \frac{AK}{HK} = \frac{BH}{AH} = \frac{KL}{LC}$
+D. $tan C = \frac{HK}{HC} = \frac{AB}{AC}$
+C
+40. Quan sát hình. Kết quả nào sau đây là đúng ?
+A. $cos C = \frac{BH}{AB} = \frac{HC}{AC} = \frac{PC}{LC}$
+B. $cos C = \frac{PC}{LC} = \frac{HC}{AC} = \frac{AL}{AH}$
+C. $cos C = \frac{BC}{AC} = \frac{HL}{AH} = \frac{LM}{LP}$
+D. $cos C = \frac{AH}{AB} = \frac{AB}{BC} = \frac{LC}{HC}$
+D
+41. Cho tam giác vuông ABC có $\widehat{A} = 90^{\circ}; H \in BC$ thỏa mãn $AH^2 = BH.CH$ . Kết quả nào sau
+đây là đúng?
+A. $tan B = \frac{AH}{HC}$
+B. $tan C = \frac{AH}{HC} = \frac{BH}{AH}$
+C. $tan B = \frac{BH}{AH}$
+D. $cot BAH = \frac{BH}{AB}$
+B
+42. Cho tam giác vuông ABC có $\widehat{A} = 90^{\circ}; AH \bot BC(H \in BC), \sin B = 0,6$.
+Kết quả nào sau đây là sai?
+A. $\cos C = \frac{AH}{AB}$
+B. $\cos C = \sin {\widehat{HAC}}$
+C. $\cos C = 0,6$
+D. $\cos C = 0,4$
+D
+43. Cho tam giác vuông ABC có $\widehat{A} = 90^{\circ}$.
+Kết quả nào sau đây là đúng?
+A. $\cos^2 B + sin^2 C = 1$
+B. $\cos^2 C + sin^2 C = \cos^2 B + \sin^2 B = \sin^2 A = 1$
+C. $\cos^2 C + sin^2 B = \sin^2 C + \cos^2 B = 1$
+D. $\cos^2 A + \sin^2 A = 2$
+B
+44. Cho tam giác cân ABC có $\widehat{A} = 120^{\circ}; AB = AC; BC = 2; BH \bot AC (H \in AC)$. Độ dài
+HC nhận giá trị nào sau đây?
+A. $HC = 0,5$
+B. $HC = \frac{\sqrt{3} + 1}{2}$
+C. $HC = \sqrt{3}$
+D. $HC = \frac{2 + \sqrt{3}}{2}$
+C
+45. Quan sát hình.
+Đặt $\widehat{AOB} = x; \widehat{AOC} = y; \widehat{AOD} = z$
+Phát biểu nào sau đây là đúng?
+A. $\cos x > \cos y > \cos z$
+B. $\cos x < \cos z < \cos z$
+C. $\cos z > \cos y > \cos x$
+D. $\cos y < \cos z < \cos x$
+C
+46. Với giả thiết câu 45, kết quả nào sau đây đúng?
+A. $\sin x > \sin z > \sin y$
+B. $\sin z < \sin y < \sin x$
+C. $\sin y > \sin z > \sin x$
+D. $\sin z < \sin x < \sin y$
+B
+47. Với giả thiết câu 45, kết quả nào sau đây đúng?
+A. $\tan x < \tan y < \tan z$
+B. $\tan x < \tan z < \tan y$
+C. $\tan z < \tan x < \tan y$
+D. $\tan z < \tan y < \tan x$
+D
+48. Với giả thiết câu 45, kết quả nào sau đây đúng?
+A. $\cot x < \cot y < \cot z$
+B. $\cot x > \cot y > \cot z$
+C. $\cot x < \cot z < \cot y$
+D. $\cot x > \cot z > \cot y$
+A
+49. Cho tam giác vuông ABC có $\widehat{A} = 90^{\circ}$.
+Kết quả nào sau đây đúng?
+A. $\tan^2 B + 1 = \frac{1}{\sin^2 B}$
+B. $\tan^2 B + 1 = \frac{1}{\cos^2 B}$
+C. $\tan^2 B + 1 = {\frac{1}{\sin^2 B}} + {\frac{1}{\cos^2 B}}$
+D. $\tan^2 B + 1 = \frac{1}{{\sin^2 B} + {\cos^2 B}}$
+B
+50. Tam giác ABC vuông tại A.
+Kết quả nào sau đây là đúng?
+A. $\cot^2 C + 1 =\frac{1}{\cos^2 C}$
+B. $\cot{^2} C + 1 =\frac{1}{{\sin^2 B} + {\sin^2 C}}$
+C. $\cot^2 C + 1 = \frac{1}{\sin^2 C}$
+D. $\cot^2 C + 1 = \cot^2 B$
+C
+51. Cho tam giác vuông ABC có $\widehat{A} = 90^{\circ}; \cos B = 0,8$
+A. $\tan B = \frac{4}{3}$
+B. $\tan B = 0,75$
+C. $\tan B = 0,36$
+D. $\tan B = 0,2$
+B
+52. Cho tam giác vuông ABC có $\widehat{A} = 90^{\circ}; \sin B = 0,6$. Kết quả nào sau đây là đúng?
+A. $\cot B = 0,8$
+B. $\cot B = 0,64$
+C. $\cot B = \frac{4}{3}$
+D. $\cot B = \frac{3}{4}$
+C

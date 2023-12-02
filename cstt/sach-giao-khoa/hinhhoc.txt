@@ -1,0 +1,212 @@
+----------------------------------------------------
+--- Chương I: Hệ thức lượng trong tam giác vuông ---
+> Bài 1: Một số hệ thức về cạnh và đường cao trong tam giác vuông
+1/ Định lí 'Hệ thức giữa cạnh góc vuông và hình chiếu của nó trên cạnh huyền': Trong một tam giác vuông, bình phương mỗi cạnh góc vuông bằng tích của cạnh huyền và hình chiếu của cạnh góc vuông đó trên cạnh huyền.
+Trong tam giác $ABC$ vuông tại $A$, ta có $b^2=a b'$, $c^2=a c'$.
+2/ Định lí 'Hệ thức liên quan tới đường cao': Trong một tam giác vuông, bình phương đường cao ứng với cạnh huyền bằng tích hai hình chiếu của hai cạnh góc vuông trên cạnh huyền.
+$h^2=b'c'$
+3/ Định lí 'Hệ thức liên quan tới đường cao': Trong một tam giác vuông, tích hai cạnh góc vuông bằng tích của cạnh huyền và đường cao tương ứng.
+$b c=a h$
+4/ Định lí 'Hệ thức liên quan tới đường cao': Trong một tam giác vuông, nghịch đảo của bình phương đường cao ứng với cạnh huyền bằng tổng các nghịch đảo của bình phương hai cạnh góc vuông.
+$\frac{1}{h^2}=\frac{1}{b^2}+\frac{1}{c^2}$
+
+> Bài 2: Tỉ số lượng giác của góc nhọn
+1/ Định nghĩa 'sin': Tỉ số giữa cạnh đối và cạnh huyền được gọi là sin của góc $\alpha$, kí hiệu $\sin\alpha$.
+2/ Định nghĩa 'cosin': Tỉ số giữa cạnh kề và cạnh huyền được gọi là cosin của góc $\alpha$, kí hiệu $\cos\alpha$.
+3/ Định nghĩa 'tang': Tỉ số giữa cạnh đối và cạnh kề được gọi là tang của góc $\alpha$, kí hiệu $\tan\alpha$.
+4/ Định nghĩa 'cotang': Tỉ số giữa cạnh kề và cạnh đối được gọi là cotang của góc $\alpha$, kí hiệu $\cot\alpha$.
+5/ Nhận xét 'Tỉ số lượng giác của góc nhọn': Tỉ số lượng giác của một góc nhọn luôn luôn dương, và $\sin\alpha<1$, $\cos\alpha<1$.
+6/ Chú ý 'Tỉ số lượng giác của góc nhọn': Nếu hai góc nhọn $\alpha$ và $\beta$ có $\sin\alpha=\sin\beta$ (hoặc $\cos\alpha=\cos\beta$, hoặc $\tan\alpha=\tan\beta$, hoặc $\cot\alpha=\cot\beta$) thì $\alpha=\beta$ vì chúng là hai góc tương ứng của hai tam giác vuông đồng dạng.
+7/ Định lí 'Tỉ số lượng giác của hai góc phụ nhau': Nếu hai góc phụ nhau thì sin góc này bằng cosin góc kia, tang góc này bằng cotang góc kia.
+Cho hai gocs $\alpha$ và $\beta$ phụ nhau. Khi đó: $\sin\alpha=\cos\beta$; $\cos\alpha=\sin\beta$; $\tan\alpha=\cot\beta$; $\cot\alpha=\tan\beta$.
+
+> Bài 3: Bảng lượng giác
+
+> Bài 4: Một số hệ thức về cạnh và góc trong tam giác vuông
+1/ Định lí 'Hệ thức về cạnh và góc trong tam giác vuông': Trong tam giác vuông, mỗi cạnh góc vuông bằng:
+a/ Cạnh huyền nhân với sin góc đối hoặc nhân với cosin góc kề;
+b/ Cạnh góc vuông kia nhân với tang góc đối hoặc nhân với cotang góc kề.
+Như vậy, trong tam giác $ABC$ vuông tại $A$, ta có các hệ thức:
+$b=a.\sin B=a.\cos C$; $b=c.\tan B=c.\cot C$; $c=a.\sin C=a.\cos B$; $c=b.\tan C=b.\cot B$.
+2/ Định nghĩa 'Giải tam giác vuông': Trong một tam giác vuông, nếu cho biết trước hai cạnh hoặc một cạnh và một góc nhọn thì ta sẽ tìm được tất cả các cạnh và góc còn lại của nó. Bài toán đặt ra như thế gọi là bài toán "Giải tam giác vuông".
+
+> Bài 5: Ứng dụng thực tế các tỉ số lượng giác của góc nhọn
+
+-----------------------------
+--- Chương II: Đường tròn ---
+> Bài 1: Sự xác định đường tròn - Tính chất đối xứng của đường tròn
+1/ Định nghĩa 'Đường tròn': Đường tròn tâm $O$ bán kính $R$ (với $R>0$) là hình gồm các điểm cách điểm $O$ một khoảng bằng $R$. Đường tròn tâm $O$ bán kính $R$ được kí hiệu là $(O;R)$, ta cũng có thể kí hiệu là $(O)$ khi không cần chú ý đến bán kính.
+2/ Định nghĩa 'Vị trí tương đối giữa điểm và đường tròn':
+Khi điểm $M$ thuộc đường tròn $(O)$, ta còn nói: Điểm $M$ nằm trên đường tròn $(O)$ hay đường tròn $(O)$ đi qua điểm $M$. Điểm $M$ nằm trên đường tròn $(O;R)$ khi và chỉ khi $OM=R$.
+Điểm $M$ nằm bên trong (hay nằm trong, ở trong) đường tròn $(O;R)$ khi và chỉ khi $OM<R$.
+Điểm $M$ nằm bên ngoài (hay nằm ngoài, ở ngoài) đường tròn $(O;R)$ khi và chỉ khi $OM>R$.
+3/ Định lí 'Cách xác định đường tròn': Qua ba điểm không thẳng hàng, ta vẽ được một và chỉ một đường tròn.
+4/ Chú ý 'Cách xác định đường tròn': Không vẽ được đường tròn nào đi qua ba điểm thẳng hàng.
+5/ Định nghĩa 'Đường tròn ngoại tiếp tam giác': Đường tròn đi qua ba đỉnh $A$, $B$, $C$ của tam giác $ABC$ gọi là đường tròn ngoại tiếp tam giác $ABC$. Khi đó tam giác $ABC$ gọi là tam giác nội tiếp đường tròn.
+6/ Định nghĩa 'Tâm đối xứng của đường tròn': Đường tròn là hình có tâm đối xứng. Tâm của đường tròn là tâm đối xứng của đường tròn đó.
+7/ Định nghĩa 'Trục đối xứng của đường tròn': Đường tròn là hình có trục đối xứng. Bất kì đường kính nào cũng là trục đối xứng của đường tròn.
+
+> Bài 2: Đường kính và dây của đường tròn
+1/ Định lí 'So sánh độ dài của đường kính và dây': Trong các dây của một đường tròn, dây lớn nhất là đường kính.
+2/ Định lí 'Quan hệ vuông góc giữa đường kính và dây': Trong một đường tròn, đường kính vuông góc với một dây thì đi qua trung điểm của dây ấy.
+3/ Định lí 'Quan hệ vuông góc giữa đường kính và dây': Trong một đường tròn, đường kính đi qua trung điểm của một dây không đi qua tâm thì vuông góc với dây ấy.
+
+> Bài 3: Liên hệ giữa dây và khoảng cách từ tâm đến dây
+1/ Định lí 'Liên hệ giữa dây và khoảng cách từ tâm đến dây': Trong một đường tròn:
+a/ Hai dây bằng nhau thì cách đều tâm.
+b/ Hai dây cách đều tâm thì bằng nhau.
+2/ Định lí 'Liên hệ giữa dây và khoảng cách từ tâm đến dây': Trong một đường tròn:
+a/ Dây nào lớn hơn thì dây đó gần tâm hơn.
+b/ Dây nào gần tâm hơn thì dây đó lớn hơn.
+
+> Bài 4: Vị trí tương đối của đường thẳng và đường tròn
+1/ Định nghĩa 'Đường thẳng và đường tròn cắt nhau': Khi đường thẳng $a$ và đường tròn $(O)$ có hai điểm chung $A$ và $B$, ta nói đường thẳng $a$ và đường tròn $(O)$ cắt nhau.
+2/ Định nghĩa 'Cát tuyến của đường tròn': Khi đường thẳng $a$ và đường tròn $(O)$ cắt nhau, đường thẳng $a$ còn gọi là cát tuyến của đường tròn $(O)$.
+3/ Định nghĩa 'Đường thẳng và đường tròn tiếp xúc nhau': Khi đường thẳng $a$ và đường tròn $(O)$ chỉ có một điểm chung $C$, ta nói đường thẳng $a$ và đường tròn $(O)$ tiếp xúc nhau.
+4/ Định nghĩa 'Tiếp tuyến của đường tròn': Khi đường thẳng $a$ và đường tròn $(O)$ tiếp xúc nhau, đường thẳng $a$ còn gọi là tiếp tuyến của đường tròn $(O)$.
+5/ Định nghĩa 'Tiếp điểm của đường thẳng với đường tròn': Khi đường thẳng $a$ và đường tròn $(O)$ chỉ có một điểm chung $C$, điểm $C$ gọi là tiếp điểm.
+6/ Định lí 'Tiếp tuyến của đường tròn': Nếu một đường thẳng là tiếp tuyến của một đường tròn thì nó vuông góc với bán kính đi qua tiếp điểm.
+7/ Định nghĩa 'Đường thẳng và đường tròn không giao nhau': Khi đường thẳng $a$ và đường tròn $(O)$ không có điểm chung, ta nói đường thẳng $a$ và đường tròn $(O)$ không giao nhau.
+8/ Định lí 'Hệ thức giữa khoảng cách từ tâm đường tròn đến đường thẳng và bán kính của đường tròn': Đặt $OH=d$, ta có các kết luận sau:
+Nếu đường thẳng $a$ và đường tròn $(O)$ cắt nhau thì $d<R$.
+Nếu đường thẳng $a$ và đường tròn $(O)$ tiếp xúc nhau thì $d=R$.
+Nếu đường thẳng $a$ và đường tròn $(O)$ không giao nhau thì $d<R$.
+Đảo lại, ta cũng chứng minh được:
+Nếu $d<R$ thì đường thẳng $a$ và đường tròn $(O)$ cắt nhau.
+Nếu $d=R$ thì đường thẳng $a$ và đường tròn $(O)$ tiếp xúc nhau.
+Nếu $d>R$ thì đường thẳng $a$ và đường tròn $(O)$ không giao nhau.
+
+> Bài 5: Dấu hiệu nhận biết tiếp tuyến của đường tròn
+1/ Định lí 'Dấu hiệu nhận biết tiếp tuyến của đường tròn': Nếu một đường thẳng đi qua một điểm của đường tròn và vuông góc với bán kính đi qua điểm đó thì đường thẳng ấy là một tiếp tuyến của đường tròn.
+
+> Bài 6: Tính chất của hai tiếp tuyến cắt nhau
+1/ Định lí 'Hai tiếp tuyến cắt nhau': Nếu hai tiếp tuyến của một đường tròn cắt nhau tại một điểm thì:
+Điểm đó cách đều hai tiếp điểm.
+Tia kẻ từ điểm đó đi qua tâm là tia phân giác của góc tạo bởi hai tiếp tuyến.
+Tia kẻ từ tâm đi qua điểm đó là tia phân giác của góc tạo bởi hai bán kính đi qua các tiếp điểm.
+2/ Định nghĩa 'Đường tròn nội tiếp tam giác': Đường tròn tiếp xúc với ba cạnh của một tam giác gọi là đường tròn nội tiếp tam giác, còn tam giác gọi là ngoại tiếp đường tròn.
+3/ Định nghĩa 'Đường tròn bàng tiếp tam giác': Đường tròn tiếp xúc với một cạnh của một tam giác và tiếp xúc với các phần kéo dài của hai cạnh kia gọi là đường tròn bàng tiếp tam giác.
+4/ Định lí 'Cách xác định tâm đường tròn bàng tiếp tam giác': Tâm của đường tròn bàng tiếp tam giác trong một góc là giao điểm của hai đường phân giác các góc ngoài tại hai góc còn lại, hoặc là giao điểm của đường phân giác một góc và đường phân giác góc ngoài tại một trong hai góc còn lại. Với một tam giác, có ba đường tròn bàng tiếp.
+
+> Bài 7: Vị trí tương đối của hai đường tròn
+1/ Định nghĩa 'Hai đường tròn cắt nhau': Hai đường tròn có hai điểm chung được gọi là hai đường tròn cắt nhau.
+2/ Định nghĩa 'Giao điểm của hai đường tròn cắt nhau: Khi hai đường tròn cắt nhau, hai điểm chung của chúng gọi là hai giao điểm.
+3/ Định nghĩa 'Dây chung của hai đường tròn cắt nhau: Khi hai đường tròn cắt nhau, đoạn thẳng nối hai điểm chung của chúng gọi là dây chung.
+4/ Định nghĩa 'Hai đường tròn tiếp xúc nhau': Hai đường tròn chỉ có một điểm chung được gọi là hai đường tròn tiếp xúc nhau.
+5/ Định nghĩa 'Tiếp điểm của hai đường tròn tiếp xúc nhau': Khi hai đường tròn tiếp xúc nhau, điểm chung của chúng gọi là tiếp điểm.
+6/ Định nghĩa 'Hai đường tròn không giao nhau': Hai đường tròn không có điểm chung được gọi là hai đường tròn không giao nhau.
+7/ Định nghĩa 'Đường nối tâm hai đường tròn': Cho hai đường tròn $(O)$ và $(O')$ có tâm không trùng nhau. Đường thẳng $OO'$ gọi là đường nối tâm, đoạn thẳng $OO'$ gọi là đoạn nối tâm.
+8/ Định lí 'Đường nối tâm hai đường tròn':
+a/ Nếu hai đường tròn cắt nhau thì hai giao điểm đối xứng với nhau qua đường nối tâm, tức là đường nối tâm là đường trung trực của dây chung.
+b/ Nếu hai đường tròn tiếp xúc nhau thì tiếp điểm nằm trên đường nối tâm.
+
+> Bài 8: Vị trí tương đối của hai đường tròn (tiếp theo)
+1/ Định lí 'Hệ thức giữa đoạn nối tâm và các bán kính': Xét hai đường tròn $(O;R)$ và $(O';r)$ trong đó $R\geq r$.
+Nếu hai đường tròn $(O)$ và $(O')$ cắt nhau thì $R-r<OO'<R+r$.
+Nếu hai đường tròn $(O)$ và $(O')$ tiếp xúc ngoài thì $OO'=R+r$.
+Nếu hai đường tròn $(O)$ và $(O')$ tiếp xúc trong thì $OO'=R-r$.
+Nếu hai đường tròn $(O)$ và $(O')$ ở ngoài nhau thì $OO'>R+r$.
+Nếu đường tròn $(O)$ đựng đường tròn $(O')$ thì $OO'<R-r$.
+2/ Định nghĩa 'Tiếp tuyến chung của hai đường tròn': Tiếp tuyến chung của hai đường tròn là đường thẳng tiếp xúc với cả hai đường tròn đó.
+
+--------------------------------------
+--- Chương III: Góc với đường tròn ---
+> Bài 1: Góc ở tâm - Số đo cung
+1/ Định nghĩa 'Góc ở tâm': Góc có đỉnh trùng với tâm đường tròn được gọi là góc ở tâm.
+2/ Định nghĩa 'Cung tròn': Hai cạnh của góc ở tâm cắt đường tròn tại hai điểm, do đó chia đường tròn thành hai cung. Với các góc $\alpha(0^\circ<\alpha<180^\circ)$ thì cung nằm bên trong góc được gọi là "cung nhỏ" và cung nằm bên ngoài góc được gọi là "cung lớn".
+3/ Định nghĩa 'Cung bị chắn': Cung nằm bên trong góc gọi là cung bị chắn.
+4/ Định nghĩa 'Số đo của cung nhỏ': Số đo của cung nhỏ bằng số đo của góc ở tâm chắn cung đó. Cung nhỏ có số đo nhỏ hơn $180^\circ$.
+5/ Định nghĩa 'Số đo của cung lớn': Số đo của cung lớn bằng hiệu giữa $360^\circ$ và số đo của cung nhỏ (có chung hai mút với cung lớn). Cung lớn có số đo lớn hơn $180^\circ$.
+6/ Định nghĩa 'Số đo của nửa đường tròn': Số đo của nửa đường tròn bằng $180^\circ$.
+7/ Định nghĩa 'Cung không': Khi hai mút của cung trùng nhau, ta có "cung không" với số đo $0^\circ$ và cung cả đường tròn có số đo $360^\circ$.
+8/ Định lí 'So sánh hai cung': Ta chỉ so sánh hai cung trong một đường tròn hay trong hai đường tròn bằng nhau. Khi đó:
+Hai cung được gọi là bằng nhau nếu chúng có số đo bằng nhau;
+Trong hai cung, cung nào có số đo lớn hơn được gọi là cung lớn hơn.
+9/ Định lí 'Tổng số đo cung': Nếu $C$ là một điểm nằm trên cung $AB$ thì: $sđ\overset{\huge\frown}{AB}=sđ\overset{\huge\frown}{AC}+sđ\overset{\huge\frown}{CB}$.
+
+> Bài 2: Liên hệ giữa cung và dây
+1/ Định lí 'Liên hệ giữa cung và dây': Với hai cung nhỏ trong một đường tròn hay trong hai đường tròn bằng nhau:
+a/ Hai cung bằng nhau căng hai dây bằng nhau.
+b/ Hai dây bằng nhau căng hai cung bằng nhau.
+2/ Định lí 'Liên hệ giữa cung và dây': Với hai cung nhỏ trong một đường tròn hay trong hai đường tròn bằng nhau:
+a/ Cung lớn hơn căng dây lớn hơn.
+b/ Dây lớn hơn căng cung lớn hơn.
+
+> Bài 3: Góc nội tiếp
+1/ Định nghĩa 'Góc nội tiếp': Góc nội tiếp là góc có đỉnh nằm trên đường tròn và hai cạnh chứa hai dây cung của đường tròn đó. Cung nằm bên trong góc được gọi là cung bị chắn.
+2/ Định lí 'Góc nội tiếp': Trong một đường tròn, số đo của góc nội tiếp bằng nửa số đo của cung bị chắn.
+3/ Hệ quả 'Góc nội tiếp': Trong một đường tròn:
+a/ Các góc nội tiếp bằng nhau chắn các cung bằng nhau.
+b/ Các góc nội tiếp cùng chắn một cung hoặc chắn các cung bằng nhau thì bằng nhau.
+c/ Góc nội tiếp (nhỏ hơn hoặc bằng $90^\circ$) có số đo bằng nửa số đo của góc ở tâm cùng chắn một cung.
+d/ Góc nội tiếp chắn nửa đường tròn là góc vuông.
+
+> Bài 4: Góc tạo bởi tia tiếp tuyến và dây cung
+1/ Định nghĩa 'Góc tạo bởi tia tiếp tuyến và dây cung': Cho $xy$ là tiếp tuyến của đường tròn $(O)$ tại $A$, tiếp điểm $A$ là gốc chung của hai tia đối nhau. Mỗi tia đó là một tia tiếp tuyến. Góc $BAx$ có đỉnh $A$ nằm trên đường tròn, cạnh $Ax$ là một tia tiếp tuyến còn cạnh kia chứa dây cung $AB$. Ta gọi một góc như vậy là góc tạo bởi tia tiếp tuyến và dây cung.
+2/ Định lí 'Góc tạo bởi tia tiếp tuyến và dây cung': Số đo của góc tạo bởi tia tiếp tuyến và dây cung bằng nửa số đo của cung bị chắn.
+3/ Hệ quả 'Góc tạo bởi tia tiếp tuyến và dây cung': Trong một đường tròn, góc tạo bởi tia tiếp tuyến và dây cung và góc nội tiếp cùng chắn một cung thì bằng nhau.
+
+> Bài 5: Góc có đỉnh ở bên trong đường tròn - Góc có đỉnh ở bên ngoài đường tròn
+1/ Định lí 'Góc có đỉnh ở bên trong đường tròn': Số đo của góc có đỉnh ở bên trong đường tròn bằng nửa tổng số đo hai cung bị chắn.
+2/ Định lí 'Góc có đỉnh ở bên ngoài đường tròn': Số đo của góc có đỉnh ở bên ngoài đường tròn bằng nửa hiệu số đo hai cung bị chắn.
+
+> Bài 6: Cung chứa góc
+1/ Định lí 'Cách giải bài toán quỹ tích': Muốn chứng minh quỹ tích (tập hợp) các điểm $M$ thỏa mãn tính chất $T$ là một hình $H$ nào đó, ta phải chứng minh hai phần:
+Phần thuận: Mọi điểm có tính chất $T$ đều thuộc hình $H$.
+Phần đảo: Mọi điểm thuộc hình $H$ đều có tính chất $T$.
+Kết luận: Quỹ tích (hay tập hợp) các điểm $M$ có tính chất $T$ là hình $H$.
+
+> Bài 7: Tứ giác nội tiếp
+1/ Định nghĩa 'Tứ giác nội tiếp': Một tứ giác có bốn đỉnh nằm trên một đường tròn được gọi là tứ giác nội tiếp đường tròn (gọi tắt là tứ giác nội tiếp).
+2/ Định lí 'Tứ giác nội tiếp': Trong một tứ giác nội tiếp, tổng số đo hai góc đối nhau bằng $180^\circ$.
+3/ Định lí đảo 'Tứ giác nội tiếp': Nếu một tứ giác có tổng số đo hai góc đối nhau bằng $180^\circ$ thì tứ giác đó nội tiếp được đường tròn.
+
+> Bài 8: Đường tròn ngoại tiếp - Đường tròn nội tiếp
+1/ Định nghĩa 'Đường tròn ngoại tiếp': Đường tròn đi qua tất cả các đỉnh của một đa giác được gọi là đường tròn ngoại tiếp đa giác và đa giác được gọi là đa giác nội tiếp đường tròn.
+2/ Định nghĩa 'Đường tròn nội tiếp': Đường tròn tiếp xúc với tất cả các cạnh của một đa giác được gọi là đường tròn nội tiếp đa giác và đa giác được gọi là đa giác ngoại tiếp đường tròn.
+3/ Định lí 'Đường tròn ngoại tiếp - Đường tròn nội tiếp đa giác đều': Bất kì đa giác đều nào cũng có một và chỉ một đường tròn ngoại tiếp, có một và chỉ một đường tròn nội tiếp. Trong đa giác đều, tâm của đường tròn ngoại tiếp trùng với tâm của đường tròn nội tiếp và được gọi là tâm của đa giác đều.
+
+> Bài 9: Độ dài đường tròn, cung tròn
+1/ Công thức 'Độ dài đường tròn': Độ dài đường tròn (còn gọi là chu vi hình tròn) được kí hiệu là $C$. Độ dài $C$ của một đường tròn bán kính $R$ được tính theo công thức $C=2\pi R$. Nếu gọi $d$ là đường kính đường tròn $(d=2R)$ thì $C=\pi d$.
+2/ Công thức 'Độ dài cung tròn': Trên đường tròn bán kính $R$, độ dài $l$ của một cung $n^\circ$ được tính theo công thức: $l=\frac{\pi R n}{180}$.
+
+> Bài 10: Diện tích hình tròn, hình quạt tròn
+1/ Công thức 'Diện tích hình tròn': Diện tích $S$ của một hình tròn bán kính $R$ được tính theo công thức $S=\pi R^2$.
+2/ Định nghĩa 'Hình quạt tròn': Hình quạt tròn là một phần hình tròn giới hạn bởi một cung tròn và hai bán kính đi qua hai mút của cung đó.
+3/ Công thức 'Diện tích hình quạt tròn': Diện tích hình quạt tròn bán kính $R$, cung $n^\circ$ được tính theo công thức $S=\frac{\pi R^2 n}{360}$ hay $S=\frac{l R}{2}$ ($l$ là độ dài cung $n^\circ$ của hình quạt tròn).
+
+-------------------------------------------------
+--- Chương IV: Hình trụ - Hình nón - Hình cầu ---
+> Bài 1: Hình trụ - Diện tích xung quanh và thể tích của hình trụ
+1/ Định nghĩa 'Hình trụ': Khi quay hình chữ nhật $ABCD$ một vòng quanh cạnh $CD$ cố định, ta được một hình trụ. Khi đó:
+$DA$ và $CB$ quét nên hai đáy của hình trụ, là hai hình tròn bằng nhau nằm trong hai mặt phẳng song song, có tâm $D$ và $C$.
+Cạnh $AB$ quét nên mặt xung quanh của hình trụ, mỗi vị trí của $AB$ được gọi là một đường sinh.
+Các đường sinh của hình trụ vuông góc với hai mặt phẳng đáy. Độ dài đường sinh là chiều cao của hình trụ.
+DC gọi là trục của hình trụ.
+2/ Tính chất 'Cắt hình trụ bởi một mặt phẳng':
+Khi cắt hình trụ bởi một mặt phẳng song song với đáy, thì phần mặt phẳng nằm trong hình trụ (mặt cắt) là một hình tròn bằng hình tròn đáy.
+Khi cắt hình trụ bởi một mặt phẳng song song với trục thì mặt cắt là một hình chữ nhật.
+3/ Công thức 'Diện tích xung quanh của hình trụ': $S_{xq}=2\pi r h$.
+4/ Công thức 'Diện tích toàn phần của hình trụ': $S_{tp}=2\pi r h+2\pi r^2$.
+5/ Công thức 'Thể tích hình trụ': $V=S h=\pi r^2 h$ ($S$ là diện tích đáy, $h$ là chiều cao).
+
+> Bài 2: Hình nón - Hình nón cụt - Diện tích xung quanh và thể tích của hình nón, hình nón cụt
+1/ Định nghĩa 'Hình nón': Khi quay tam giác vuông $AOC$ một vòng quanh cạnh góc vuông $OA$ cố định thì được một hình nón. Khi đó:
+Cạnh $OC$ quét nên đáy của hình nón, là một hình tròn tâm $O$.
+Cạnh $AC$ quét nên mặt xung quanh của hình nón, mỗi vị trí của $AC$ được gọi là một đường sinh.
+$A$ gọi là đỉnh và $AO$ gọi là đường cao của hình nón.
+2/ Công thức 'Diện tích xung quanh của hình nón': $S_{xq}=\pi r l$.
+3/ Công thức 'Diện tích toàn phần của hình nón': $S_{tp}=\pi r l+\pi r^2$.
+4/ Công thức 'Thể tích hình nón': $V=\frac{1}{3}\pi r^2 h$.
+5/ Định nghĩa 'Hình nón cụt': Khi cắt hình nón bởi một mặt phẳng song song với đáy thì phần mặt phẳng nằm trong hình nón là một hình nón. Phần hình nón nằm giữa mặt phẳng nói trên và mặt đáy được gọi là một hình nón cụt.
+6/ Công thức 'Diện tích xung quanh của hình nón cụt': $S_{xq}=\pi\left(r_{1}+r_{2}\right)l$.
+7/ Công thức 'Diện tích toàn phần của hình nón cụt': $S_{tp}=\pi\left(\left(r_{1}+r_{2}\right)l+r_{1}^2+r_{2}^2\right)$.
+8/ Công thức 'Thể tích hình nón cụt': $V=\frac{1}{3}\pi h\left(r_{1}^2+r_{2}^2+r_{1}r_{2}\right)$.
+
+> Bài 3: Hình cầu - Diện tích mặt cầu và thể tích hình cầu
+1/ Định nghĩa 'Hình cầu': Khi quay nửa hình tròn tâm $O$, bán kính $R$ một vòng quanh đường kính $AB$ cố định thì được một hình cầu.
+Nửa đường tròn trong phép quay nói trên tạo nên mặt cầu.
+Điểm $O$ được gọi là tâm, $R$ là bán kính của hình cầu hay mặt cầu đó.
+2/ Tính chất 'Cắt hình cầu bởi một mặt phẳng': Khi cắt hình cầu bởi một mặt phẳng thì phần mặt phẳng nằm trong hình đó (mặt cắt) là một hình tròn.
+3/ Công thức 'Diện tích mặt cầu': $S=4\pi R^2$ hay $S=\pi d^2$ ($R$ là bán kính, $d$ là đường kính của mặt cầu).
+4/ Công thức 'Thể tích hình cầu': $V=\frac{4}{3}\pi R^3$ ($R$ là bán kính hình cầu).

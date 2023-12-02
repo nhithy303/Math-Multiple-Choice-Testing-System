@@ -1,0 +1,380 @@
+Nhận biết
+1. Đường thẳng d cách tâm O của đường tròn (O; 4cm) một khoảng 3cm. Khi đó vị trí tương đối của d đường tròn (O; 4cm) là:
+A. Cắt nhau 
+B. Không giao nhau
+C. Tiếp xúc nhau 
+D. Không kết luận được
+A
+2. Cho hai đường tròn (O; 15cm) và (O'; 10cm) và $OO' = 2,5cm$. Số tiếp tuyến chung của hai đường tròn là:
+A. 1 
+B. 2 
+C. 3 
+D. 4
+C
+3. Cho hai đường tròn (O; 2cm) và (O'; 5cm) tiếp xúc ngoài thì độ dài của OO' bằng:
+A. 3cm 
+B. 7cm 
+C. 2cm 
+D. 1cm
+B
+4. Số điểm chung của hai đường tròn (O; R) và (O'; R') thỏa mãn: $R - R' < OO' < R + R'$ là:
+A. 0 
+B. 1 
+C. 2 
+D. 3
+C
+5. Hai đường tròn chỉ có một điểm chung được gọi là hai đường tròn:
+A. Cắt nhau 
+B. Tiếp xúc nhau 
+C. Ngoài nhau 
+D. Không xác định
+B
+6. Hai đường tròn có tiếp tuyến chung trong thì vị trí tương đối của chúng là:
+A. Tiếp xúc ngoài 
+B. Tiếp xúc trong 
+C. Cắt nhau 
+D. Ngoài nhau
+D
+7. Tâm của đường tròn nội tiếp tam giác là:
+A. Giao điểm của các đường cao trong tam giác.
+B. Giao điểm của các đường phân giác các góc trong tam giác.
+C. Giao điểm của các đường trung tuyến trong tam giác.
+D. Giao điểm của các đường trung trực trong tam giác.
+B
+8. Trong các phát biểu sau đây, phát biểu nào sai khi nói về tam giác?
+A. Có duy nhất một đường tròn nội tiếp tam giác.
+B. Có duy nhất một đường tròn ngoại tiếp tam giác.
+C. Có duy nhất một đường tròn bàng tiếp tam giác.
+D. Có duy nhất một đường tròn tiếp xúc với ba cạnh tam giác.
+C
+9. Cho hình vuông ABCD cạnh 2cm. Gọi I và J lần lượt là trung điểm AC và CD. Vị trí tương đối của đường tròn (A; AI) và (C; CJ) là:
+A. Tiếp xúc ngoài 
+B. Cắt nhau 
+C. Ngoài nhau 
+D. Trong nhau
+C
+10. Chọn phát biểu đúng:
+A. Nếu tam giác có ba góc nhọn thì tâm đường tròn ngoại tiếp tam giác đó nằm ngoài tam
+giác.
+B. Nếu tam giác có góc tù thì tâm đường tròn ngoại tiếp tam giác đó nằm trong tam giác.
+C. Nếu tam giác vuông thì tâm đường tròn ngoại tiếp tam giác là trung điểm cạnh lớn nhất trong tam giác.
+D. Nếu tam giác đều thì tâm đường tròn ngoại tiếp tam giác là trung điểm một cạnh của tam giác.
+C
+11. Cho tam giác MNP và hai đường cao MH NK , . Gọi (O) là đường tròn nhận MN là đường kính. Khẳng định nào sau đây không đúng:
+A. Ba điểm M ,N H, cùng nằm trên đường tròn (O).
+B. Ba điểm M ,N K, cùng nằm trên đường tròn (O).
+C. Bốn điểm M ,N H K , , không cùng nằm trên đường tròn (O).
+D. Bốn điểm M ,N H K , , cùng nằm trên đường tròn (O).
+C
+12. Cho hai đường tròn (O;R) và (O'; R') cắt nhau tại hai điểm. Phát biểu nào sau đây là sai:
+A. Đường nối tâm là trung trực của dây chung.
+B. Dây chung là trung trực của đoạn nối tâm.
+C. Hai tiếp tuyến chung của hai đường tròn song song với nhau.
+D. Hai tiếp tuyến chung và đường nối tâm cùng đi qua một điểm.
+D
+13. Tâm của đường tròn nội tiếp tam giác:
+A. Cách đều ba đỉnh của tam giác.
+B. Nằm trên một cạnh của tam giác.
+C. Nằm bên ngoài tam giác.
+D. Cách đều ba cạnh của tam giác.
+D
+14. Trong các câu sau đây, câu nào sai?
+A. Hai đường tròn tiếp xúc ngoài tại Athì Athuộc đoạn thẳng nối tâm.
+B. Hai đường tròn tiếp xúc trong tại Athì Athuộc đoạn nối tâm.
+C. Nếu hai đường tròn (O;R) và (O'; R') không giao nhau thì $OO' > R + R'$
+D. Nếu hai đường tròn (O;R) và (O'; R') tiếp xúc trong thì $OO' = |R - R'|$
+C
+Thông hiểu
+15. Trong các phát biểu sau đây, phát biểu nào đúng về hai đường tròn bất kì cắt nhau?
+A. Hai tâm đường tròn đối xứng nhau qua dây chung.
+B. Các tiếp tuyến chung và đường nối tâm luôn đồng quy.
+C. Dây chung vuông góc với đoạn nối tâm và đi qua trung điểm của đoạn nối tâm.
+D. Hai đường tròn cắt nhau thì đường nối tâm vuông góc dây chung và đi qua trung điểm của dây chung.
+D
+16. Hình nào dưới đây không có đường tròn tiếp xúc với tất các cạnh của nó?
+A. Tam giác. 
+B. Hình vuông. 
+C. Hình thoi. 
+D. Hình chức nhật.
+D
+17. Trong các phát biểu sau, phát biểu nào đúng?
+A. Hai đường tròn phân biệt không thể có quá hai điểm chung.
+B. Hai đường tròn chỉ có một điểm chung được gọi là hai đường tròn tiếp xúc trong.
+C. Hai đường tròn tiếp xúc ngoài chỉ có một tiếp tuyến chung.
+D. Hai đường tròn cắt nhau thì dây chung là trung trực của đoạn nối tâm.
+A
+18. Cho đường tròn (O; 12cm), dây AB vuông góc với bán kính OC tại trung điểm M của OC. Dây AB có độ dài là:
+A. $3\sqrt{3}cm$
+B. $6\sqrt{3}cm$
+C. $9\sqrt{3}cm$
+D. $12\sqrt{3}cm$
+D
+19. Cho tam giác ABC vuông tại A có $AB = 5cm, AC = 12cm$. Bán kính dường tròn nội tiếp tam giác ABC là:
+A. 1cm
+B. 1,5cm
+C. 1,2cm
+D. 2cm
+D
+20. Cho hình chữ nhật ABCD có $AB = 12cm, BC = 5cm$. Bán kính đường tròn đi qua bốn đỉnh A, B, C, D của hình chữ nhật là:
+A. 13cm 
+B. 12,5cm 
+C. 6,5cm 
+D. 7cm
+C
+21. Tam giác ABC vuông tại A. Đường tròn (O) nội tiếp tam giác ABC , tiếp xúc với AB, AC , lần lượt tại D và E thì tứ giác ADOE là:
+A. Hình vuông 
+B. Hình chữ nhật 
+C. Hình thang 
+D. Hình thoi
+A
+22. Đường tròn tâm O bán kính 16cm ngoại tiếp tam giác đều ABC . Khi đó, độ dài các cạnh của tam giác ABC là:
+A. 24cm 
+B. 18cm 
+C. $8\sqrt{3}cm$ 
+D. $16\sqrt{3}cm$
+D
+23. Cho đoạn thẳng AB . Đường tròn (O) đường kính 2cm tiếp xúc với đường thẳng AB . Tâm O nằm trên:
+A. Đường vuông góc với AB tại A.
+B. Đường vuông góc với AB tại B.
+C. Hai đường thẳng song song với AB và cách AB một khoảng 1cm.
+D. Hai đường thẳng song song với AB và cách AB một khoảng 2cm.
+C
+24. Cho AB là một dây của đường tròn (O;13cm). Nếu $AB = 12cm$ thì khoảng cách từ O đến AB bằng:
+A. $\sqrt{205}cm$
+B. $\sqrt{133}cm$
+C. 12cm
+D. 5cm
+B
+25. Cho đường tròn O đường kính $AB = 18cm$, dây CD dài 12cm và vuông góc với AB. Diện tích tứ giác ACBD là:
+A. $108cm^2$ 
+B. $216cm^2$ 
+C. $54cm^2$ 
+D. $144cm^2$
+A
+26. Cho đường tròn (O), bán kính OA, dây CD là trung trực của OA. Tứ giác OCAD là hình gì?
+A. Hình thang 
+B. Hình bình hành 
+C. Hình thoi 
+D. Hình vuông
+C
+27. Cho hình vuông ABCD , I và J lần lượt là trung điểm AD và BC . Vị trí tương đối của (I; IA) và (J; JB) là:
+A. tiếp xúc trong 
+B. tiếp xúc ngoài 
+C. cắt nhau 
+D. ngoài nhau
+B
+28. Dựa vào hình vẽ, độ dài đoạn AD là:
+A. $\frac{10}{3}$
+B. 3
+C. $\frac{13}{4}$
+D. 3,5
+A
+Vận dụng
+29. Độ dài bán kính đường tròn tiếp xúc với tất cả các cạnh của hình vuông ABCD , biết $AB = 2cm$ là:
+A. 1cm 
+B. 2cm 
+C. $\sqrt{2}cm$ 
+D. $\frac{\sqrt{2}}{2}cm$
+A
+30. Đường tròn (O;16cm) ngoại tiếp tam giác đều ABC. Gọi H là trung điểm BC. Khi đó độ dài đoạn AH là:
+A. 16cm 
+B. $16\sqrt{3}cm$
+C. $8\sqrt{3}cm$
+D. $12\sqrt{3}cm$
+C
+31. Cho tam giác đều ABC cạnh 2cm. Bán kính đường tròn nội tiếp tam giác ABC bằng:
+A. $\frac{\sqrt{3}}{4}cm$
+B. $\frac{\sqrt{3}}{3}cm$
+C. $\frac{\sqrt{3}}{2}cm$
+D. $\frac{\sqrt{3}}{6}cm$
+B
+32. Cho đường tròn (O;6cm). Từ điểm A cách tâm O một khoảng 12cm kẻ các tiếp tuyến AB và AC với đường tròn ( B và C là các tiếp điểm). Khi đó $widehat{BAC}$ bằng:
+A. $30^{\circ}$
+B. $60^{\circ}$
+C. $75^{\circ}$ 
+D. $45^{\circ}$
+B
+33. Đường tròn (O; 4cm) và (O'; 6cm) cắt nhau tại hai điểm A và B biết $\widehat{OAO'} = 120^{\circ}$. Độ dài đoạn nối tâm là:
+A. $\sqrt{76}cm$
+B. $\sqrt{74}cm$
+C. $6\sqrt{2}cm$
+D. $6\sqrt{3}cm$
+A
+34. Cho điểm M nằm ngoài đường tròn (O). Kẻ tiếp tuyến MA, MB với đường tròn, A và B là các tiếp điểm. Nếu $\widehat{AOB} = 120^{\circ}$ thì $\widehat{AMB}$ bằng:
+A. $30^{\circ}$
+B. $45^{\circ}$
+C. $60^{\circ}$
+D. $75^{\circ}$
+C
+35. Tam giác ABC đều nội tiếp đường tròn (O; 16cm), đường cao AH. Khi đó, độ dài đoạn
+HB là:
+A. 8cm 
+B. 12cm 
+C. $8\sqrt{2}cm$ 
+D. $8\sqrt{3}cm$ 
+D
+36. Diện tích tam giác đều nội tiếp đường tròn bán kính 2 cm là:
+A. $3\sqrt{5}cm^2$ 
+B. $3\sqrt{3}cm^2$ 
+C. $6\sqrt{5}cm^2$ 
+D. $6\sqrt{3}cm^2$ 
+B
+37. Cho nửa đường tròn (O;10cm), đường kính MN, E là một điểm trên đường tròn sao cho
+OE vuông góc với MN. Diện tích tam giác MNE là:
+A. 100cm 
+B. 120cm 
+C. $100cm^2$ 
+D. $200cm^2$
+C
+38. Cho nửa đường tròn (O;8cm) có BC là đường kính và AB là dây cung. Khi $AB = \frac{\sqrt{3}}{2}BC$ thì AC bằng:
+A. 4cm 
+B. 6cm 
+C. 8cm 
+D. 9cm
+C
+39. Cho đường tròn (O;6cm), đường kính BC, điểm A thuộc đường tròn. Gọi M và N lần lượt là trung điểm của các dây AB và AC. Khi đó $BM^2 + CN^2$ bằng:
+A. 144 
+B. 72 
+C. 48 
+D. 36
+D
+40. Cho đường tròn (O), bán kính OA, OB tạo với nhau góc $120^{\circ}$, đường kính CD vuông góc với dây AB, C thuộc cung nhỏ AB thì góc ACB bằng:
+A. $120^{\circ}$ 
+B. $135^{\circ}$ 
+C. $144^{\circ}$ 
+D. $150^{\circ}$
+A
+41. Một tam giác có chu vi 120 cm, độ dài các cạnh có tỉ lệ là 8:15:17. Khoảng cách từ giao điểm các đường phân giác của tam giác đó đến mỗi cạnh là:
+A. 1 
+B. 9 
+C. 12 
+D. 16
+B
+42. Hai đường tròn (O;R) và (O';r) tiếp xúc ngoài tại A, BC là tiếp tuyến chung ngoai của hai đường tròn, B và C là các tiếp điểm. Biểu thức biểu thị độ dài đoạn thẳng BC là:
+A. $\sqrt{2Rr}$
+B. $2\sqrt{Rr}$ 
+C. $2\sqrt{2Rr}$
+D. $3\sqrt{Rr}$
+B
+43. Cho đường tròn (O;5cm) và điểm M cách O là 3 cm. Độ dài dây ngắn nhất đi qua M là:
+A. 4cm 
+B. 6cm 
+C. 8cm 
+D. 10cm
+C
+44. Cho đường tròn (O;5cm) và điểm M cách O là 3 cm. Độ dài dây dài nhất đi qua M là:
+A. 6cm 
+B. 5cm 
+C. 10cm 
+D. 12cm
+C
+45. Cho đường tròn (O;15cm), dây $AB = 24cm$ . Một tiếp tuyến song song với AB cắt các tia OA, OB theo thứ tự tại E và F. Độ dài EF là:
+A. 40cm 
+B. 42cm 
+C. 20cm 
+D. 48cm
+A
+Vận dụng cao
+46. Tỉ số bán kính đường tròn nội tiếp và đường tròn ngoại tiếp tam giác ABC đều cạnh 2cm là:
+A. $\frac{1}{3}$
+B. $\frac{1}{2}$
+C. $\frac{1}{\sqrt{2}}$
+D. 2
+B
+47. Cho đường tròn (O;4cm) và (O';5cm) cắt nhau tại A và B biết $AB = 6cm$ . Khi đó độ dài đoạn OO' là:
+A. $4 + \sqrt{7}cm$
+B. $4 + 2\sqrt{2}cm$
+C. $4 \pm \sqrt{7}cm$
+D. $4 \pm 2\sqrt{2}cm$
+C
+48. Tam giác ABC cân tại A nội tiếp đường tròn (O), $BC = 24cm, AC = 20cm$ thì bán kính đường tròn (O) bằng:
+A. 15cm 
+B. 12cm 
+C. 16cm 
+D. 18cm
+A
+49. Cho đường tròn (O;9cm) tiếp xúc ngoài với đường tròn (O';4cm) tại điểm A. BC là tiếp tuyến chung ngoài của hai đường tròn thì độ dài BC là:
+A. 13cm 
+B. 12cm 
+C. 11cm 
+D. 14cm
+B
+50. Cho điểm M nằm ngoài đường tròn và tiếp tuyến MA, MC của đường tròn, A và C là các tiếp điểm. Kẻ đường kính BC. Biết $\widehat{ABC} = 70^{\circ}$ thì góc AMC bằng:
+A. $30^{\circ}$ 
+B. $40^{\circ}$ 
+C. $50^{\circ}$
+D. $70^{\circ}$
+B
+51. Cho tam giác ABC vuông tại A có $AB = 18cm, AC = 24cm$ và đường tròn (I) nội tiếp tam giác. Khi đó AI bằng:
+A. 6cm 
+B. 8cm 
+C. $6\sqrt{2}cm$ 
+D. $3\sqrt{2}cm$ 
+C
+52. Tam giác ABC cân tại A, $BC = 12cm$ , đường cao $AH = 4$ thì bán kính đường tròn
+ngoại tiếp tam giác bằng:
+A. 2,5cm 
+B. 6,5cm 
+C. 13cm 
+D. 5cm
+B
+53. Hai đường tròn (O) và (O') cắt nhau tại A và B, $OO' = 3cm$. Qua A kẻ đường thẳng cắt đường tròn (O) và (O') theo thứ tự B và C, A nằm giữa B và C. Độ dài đoạn BC lớn nhất bằng:
+A. 5cm 
+B. 6cm 
+C. 7cm 
+D. 9cm
+B
+54. Cho đường tròn (O;R). Từ điểm M cách O một khoảng 2R, kẻ hai tiếp tuyến MA, MB với (O), A và B là hai tiếp điểm. Bán kính đường tròn nội tiếp tam giác MAB bằng:
+A. R 
+B. $R\sqrt{2}$ 
+C. $R\sqrt{3}$
+D. $\frac{R}{2}$
+D
+55. Tam giác MNP cân tại M có $MN = 6cm$ , góc M bằng $120^{\circ}$ . Bán kính đường tròn ngoại tiếp tam giác MNP bằng:
+A. 6cm 
+B. 8cm 
+C. 9cm 
+D. 7,5cm
+A
+56. Cho đường tròn (O) và điểm A cố định trên đường tròn. Điểm B chuyển động trên đường tròn (O). Trung điểm M của AB chuyển động trên đường nào?
+A. Đường tròn đường kính OA. 
+B. Đường tròn tâm O, bán kính OA.
+C. Đường tròn đường kính AB. 
+D. Đường tròn tâm A, bán kính AO.
+A
+57. Cho đường tròn (O;2cm), điểm A di chuyển trên đường tròn. Kẻ tiếp tuyến Ax của (O) tại A, điểm M trên tia Ax sao cho $AM = OA$. Khi đó điểm M chuyển động trên đường nào?
+A. Đường tròn tâm O, bán kính OA.
+B. Đường tròn tâm A, bán kính 2 cm.
+C. Đường tròn đường kính OM.
+D. Đường tròn tâm A, bán kính $2\sqrt{2}cm$.
+D
+58. Cho đường tròn (O;25cm) , điểm C cách O là 7cm. Có bao nhiêu dây đi qua C có độ dài là một số nguyên?
+A. 1 
+B. 2 
+C. 3 
+D. 4
+C
+59. Cho nửa đường tròn tâm O, đường kính $AB = 10cm$ . Điểm M thuộc nửa đường tròn. Qua M kẻ tiếp tuyến xy với nửa đường tròn. Gọi D và C lần lượt là hình chiếu của A, B trên xy. Diện tích lớn nhất của tứ giác ABCD là:
+A. 50cm 
+B. 60cm 
+C. $50cm^2$
+D. $60cm^2$
+C
+60. Cho điểm C thuộc nửa đường tròn đường kính AB, H là hình chiếu của C trên AB. Các điểm D và E thuộc nửa đường tròn sao cho HC là tia phân giác góc DHE. Hệ thức nào sau đây đúng?
+A. $HE^2 = HC.HD$. 
+B. $HC = \frac{HD + HE}{2}$
+C. $HC^2 = HD.HE$. 
+D. $HD^2 = HC.HE$.
+C
+61. Cho đường tròn (O;R), đường kính AB cố định. Điểm C di chuyển trên đường tròn, điểm G là trọng tâm tam giác ABC. Khi đó điểm G di chuyển trên:
+A. Đường thẳng song song với AB và cách AB một khoảng $\frac{R}{3}$
+B. Đường thẳng song song với AB và cách AB một khoảng $\frac{R}{2}$
+C. Đường tròn tâm O, bán kính $\frac{R}{3}$
+D. Đường tròn tâm O, bán kính $\frac{R}{2}$
+C
+62. Tam giác ABC vuông tại A. Gọi R và r lần lượt là bán kính các đường tròn ngoại tiếp và nội tiếp tam giác ABC. Khi đó diện tích tam giác ABC tính theo R và r là:
+A. $S = Rr + r^2$
+B. $S = 2Rr + r^2$
+C. $S = 2Rr - r^2$ 
+D. $S = Rr - r^2$
+B

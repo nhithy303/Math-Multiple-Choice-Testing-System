@@ -1,0 +1,493 @@
+1. Trong các phương trình dưới đây phương trình nào là phương trình bậc hai:
+A. $\sqrt{x^{2}+2 x+1}=x$
+B. $-x^{2}+3 x-1=1$
+C. $\left(x^{2}+x+1\right)(x-1)=1$
+D. $\frac{1}{\sqrt{x^{2}+4 x+4}}=x$
+B
+2. Phương trình sau có mấy nghiệm: $-2 x^{2}-4 x+9=0$
+A. Phương trình vô nghiệm.
+B. Phương trình có một nghiệm.
+C. Phương trình có hai nghiệm phân biệt.
+D. Phương trình có một nghiệm duy nhất.
+C
+3. Cho phương trình $m x^{2}+3 x+6=0$ Với điều kiện nào của $\mathrm{m}$ thì phương trìnhsau đây là phương trình bậc hai:
+A. $m>0$
+B. $m<0$
+C. $m=0$
+D. $m \neq 0$
+D
+4. Cho phương trình $x^{2}+\sqrt{3} x-4-2 \sqrt{3}=0(*)$. Gọi $x_{1}, x_{2}$ lần lượt là hainghiệm của phương trình $(*)$. Tích $\mathrm{x}_{1} \cdot \mathrm{x}_{2}$ có giá trị là bao nhiêu?
+A. $4-2 \sqrt{3}$
+B. $\sqrt{3}$
+C. $-4-2 \sqrt{3}$
+D. $19+8 \sqrt{3}$
+C
+5. Phương trình $x^{2}-4 x+2=-2$ có:
+A. Hai nghiệm phân biệt.
+B. Một nghiệm duy nhất.
+C. Vô nghiệm.
+D. Đáp án khác.
+B
+6. $x=2$ là nghiệm của phương trình nào dưới đây?
+A. $x^{2}+2 x+1=0$
+B. $x^{2}-3 x+2=x$
+C. $x^{4}-4=0$
+D. $-x^{2}+x+2=0$
+D
+7. Phương trình $m x^{2}+2 x-1=0\left(^{*}\right)$ có hai nghiệm trái dấu khi nào?
+A. $m>0$
+B. $m<0$
+C. $m=0$
+D. $m \neq 0$
+A
+8. Cho phương trình bậc hai $a x^{2}+b x+c=0(*)$ có hai nghiệm $x_{1} ; x_{2},\left(x_{1} \leq x_{2}\right)$. Đặt $\mathrm{S}$ là tổng hai nghiệm, $\mathrm{P}$ là tích hai nghiệm. Phương trình $(*)$ có hainghiệm dương khi nào?
+A. $P<0$
+B. $\mathrm{P}>0 ; \mathrm{S}<0$
+C. $\mathrm{P}>0 ; \mathrm{S}>0$
+D. $\mathrm{P}<0 ; \mathrm{S}<0$
+C
+9. Phương trình nào sau đây có thể quy về phương trình bậc nhất:
+A. $\sqrt{x^{2}-4 x+4}=0$
+B. $\sqrt{2 x-5}=x-3$
+C. $|x+2|=\left|1-x+x^{2}\right|$
+D. $(2 x-3)(x+1)=3+x(x+1)$
+C
+10. Phương trình nào dưới đây có hai nghiệm âm?
+A. $x^{2}+3 x+6=0$
+B. $2 x^{2}+3 x+6=0$
+C. $x^{2}+5 x+6=0$
+D. $-x^{2}+4=0$
+C
+11. Phương trình bậc hai $4 x^{2}+2 m x+1=0$ có tổng hai nghiệm (S) và tích hai nghiệm (P) là:
+A. $S=\frac{1}{2} m ; P=\frac{1}{4}$
+B. $S=-\frac{1}{2} m ; P=\frac{1}{4}$
+C. $S=\frac{1}{4} ; P=\frac{1}{2} m$
+D. $S=-\frac{1}{4}: P=\frac{1}{2} m$
+B
+12. Phương trình nào sau đây có tập nghiệm $S=\{0 ; 2\}$
+A. $|2 x-1|=x+1$
+B. $|x-2|=|x+1|$
+C. $\frac{x^{2}-2 x+1}{x-1}=1$
+D. $\frac{1}{\sqrt{2 x+3}}=3$
+A
+13. Cho phương trình $\frac{2 x^{2}+4 x+1}{x-1}=3$. Khẳng định nào sau đây là đúng?
+A. Khi $x \neq 1$ phương trình có nghĩa
+B. Phương trình vô nghiệm
+C. Phương trình tương đương với $2 x^{2}+x-4=0$
+D. Phương trình có nghiệm $\frac{-1 \pm \sqrt{33}}{4}$
+A
+14. Cho phương trình $|x-2|=|x+1|$. Phương trình tương đương với:
+A. $x-2=x+1$
+B. $(x-2)^{2}=(x+1)^{2}$
+C. $\left[\begin{array}{l}x-2=x+1 \\ 2-x=x+1\end{array}\right.$
+D. $B$ và $C$ đúng.
+B
+15. Kết quả nào sau đây là tập nghiệm của phương trình $\sqrt{4-x}=\sqrt{x+3}$ ?
+A. $S=\left\{\frac{1}{2}\right\}$
+B. $S=\left\{\frac{7}{2}\right\}$
+C. $S=\{3\}$
+D. $\mathrm{S}=\{4\}$
+B
+16. Phương trình nào không quy về phương trình bậc hai:
+A. $S=\left\{\frac{1}{2}\right\}$
+B. $S=\left\{\frac{7}{2}\right\}$
+C. $S=\{3\}$
+D. $S=\{4\}$
+B
+17. Với giá trị nào của $m$ thì phương trình sau vô nghiệm $x^{2}+m x-3=0$
+A. $m= \pm 2 \sqrt{3}$
+B. $-2 \sqrt{3}<m<2 \sqrt{3}$
+C. $\left[\begin{array}{l}m<-2 \sqrt{3} \\ m>2 \sqrt{3}\end{array}\right.$
+D. $\forall m$
+B
+18. Phương trình nào sau đây không thể quy về phương trình bậc nhất:
+A. $\sqrt{x^{2}-6 x+9}=1$
+B. $\frac{4 x^{2}-9}{2 x+3}=2$
+C. $\frac{2 x+3}{x+1}=2+x$
+D. $\frac{x+1}{\sqrt{x^{2}+2 x+1}}=1$
+C
+19. Với giá trị nào của $m$ thì phương trình $m x^{2}-2 m x+1=0$ có nghiệm kép:
+A. $m=1$
+B. $m=0$
+C. $\forall m$
+D. không $\exists m$
+A
+20. Phương trình $\frac{x}{\sqrt{x+1}}=\frac{m}{\sqrt{x+1}}$ có nghiệm khi:
+A. $m<-1$
+B. $m>-1$
+C. $m \leq-1$
+D. $m \geq-1$
+B
+21. Nghiệm của phương trình $|x+2|=|2 x-1|$ là:
+A. $S=\{3\}$
+B. $S=\{-3 ; 3\}$
+C. $S=\left\{3 ; \frac{-1}{3}\right\}$
+D. $S=\left\{-1 ; \frac{-1}{3}\right\}$
+C
+22. Cho phương trình: $\frac{m x+1}{x-1}=2$. Khẳng định nào sau đây sai?
+A. Tập xác định của phương trình là $\mathrm{R} \backslash\{1\}$
+B. Phương trình có nghiệm $x=\frac{3}{m-2}$ khi $m \neq-1$ và $m \neq 2$
+C. Với $m=-1$ phương trình vô nghiệm.
+D. Với $m=2$ phương trình vô nghiệm.
+B
+23. Tập nghiệm của phương trình $x^{4}-5 x^{2}+6=0$ là
+A. $S=\{2 ; 3\}$
+B. $S=\{ \pm \sqrt{2} ; \pm \sqrt{3}\}$
+C. $S=\{\sqrt{2} ; \sqrt{3}\}$
+D. $S=\{2 ;-3\}$
+B
+24. Tập nghiệm của phương trình $\sqrt{x^{2}-6 x+9}=2 x+1$ là
+A. $S=\left\{-1 ;-\frac{17}{3}\right\}$
+B. $S=\left\{1 ; \frac{17}{3}\right\}$
+C. $S=\{-1\}$
+D. Vô nghiệm
+D
+25. Với giá trị nào của a thì phương trinh $a x^{2}+(a-1) x+1=0$ có 1 nghiệm:
+A. $a=1$
+B. $a \in\{0 ; 1\}$
+C. $a=0$
+D. không $\exists m$
+C
+26. Tìm m để phương trình $(m-1) x^{2}+m x+1=0$ có 2 nghiệm phân biệt $x_{1}, x_{2}$
+A. $m=1$
+B. $\forall m$
+C. $m=0$
+D. không $\exists m$
+B
+27. Tìm m để phương trình $x^{4}+4 x^{2}-m+1=0$ có 4 nghiệm phân biệt.
+A. $m=-3$
+B. $m \geq-3$
+C. $m=3$
+D. $m>-3$
+D
+28. Phương trình nào sau đây không là phương trình bậc hai?
+A. $\frac{x+1}{\sqrt{x-2}}=1$
+B. $|2 x+5|=3$
+C. $\frac{\sqrt{x^{2}-9}}{x-3}=1$
+D. $(m-1) x=m+2$
+D
+29. Cho phương trình $\frac{2 m+1}{x-1}=2-m$ với giá trị nào của $m$ thì phương trình vô nghiệm
+A. $m=2$
+B. $m=0$
+C. $m=1$
+D. không $\exists m$
+A
+30. Phương trình $x^{4}-m x+4=0$ có 2 nghiệm khi:
+A. $m=-4$
+B. $m=2$
+C. $m=4$
+D. $m=-2$
+C
+31. Gọi hai nghiệm của phương trình là $x_{1} ; x_{2}\left(x_{2}<x_{1}\right)$. Phương trình nào sau đâycó tỉ số hainghiệm là $\frac{1-\sqrt{2}}{1+\sqrt{2}}$ :
+A. $x^{2}-2 x-1=0$
+B. $x^{2}+2 x-1=0$
+C. $x^{2}+2 x+1=0$
+D. $x^{2}-2 x+1=0$
+B
+32. Phương trình $x^{2}+m=0$ có nghiệm khi và chỉ khi:
+A. $m>0$
+B. $m<0$
+C. $m \leq 0$
+D. $m \geq 0$
+B
+33. Với giá trị nào của m thì phương trình $m x^{2}+2(m-2) x+m-3=0$ có 2 nghiệm phân biệt.
+A. $m \leq 4$
+B. $m<4$
+C. $m<4$ và $m \neq 0$
+D. $m \neq 0$
+C
+34. Cho phương trình: $m x^{2}-2(m-2) x+m-3=0$. Khẳng định nào sau đây là sai:
+A. Nếu $m>4$ thì phương trình vô nghiệm
+B. Nếu $m \leq 4$ thì phương trình có hai nghiệm $x=\frac{m-2-\sqrt{4-m}}{m}, \quad x^{*}=\frac{m-2+\sqrt{4-m}}{m}$
+C. Nếu $m=0$ thì phương trình có nghiệm $x=\frac{3}{4}$
+D. Nếu $m=4$ thì phương trình có nghiệm kép $x=\frac{1}{2}$
+B
+35. Nghiệm của phương trình $x^2-3 x+5=0$ có thể xem là hoành độ giao điểm của hai đồ thị hàm số:
+A. $y=x^2$ và $y=-3 x+5$
+B. $y=x^2$ và $y=-3 x-5$
+C. $y=x^2$ và $y=3 x-5$
+D. $y=x^2$ và $y=3 x+5$
+C
+36. Khi giải phương trình: $\sqrt{3 x^2+1}=2 x+1(1)$, ta tiến hành theo các bước sau:
+Bước 1: Bình phương hai vế của phương trình (1) ta được: $3 x^2+1=(2 x+1)^2(2)$
+Bước 2: Khai triển và rút gọn (2) ta được: $x^2+4 x=0 \Leftrightarrow x=0$ hay $x=-4$
+Bước 3: Khi $x=0$, ta có $3 x^2+1>0$. Khi $x=-4$, ta có: $3 x^2+1>0$
+Vậy tập nghiệm của phương trình là: $\{0 ;-4\}$
+Cách giải trên đúng hay sai? Nếu sai thì sai ở bước nào?
+A. Đúng
+B. Sai ở bước 1
+C. Sai ở bước 2
+D. Sai ở bước 3
+B
+37. Với giá trị nào của m thì phương trình sau có hai nghiệm không âm?
+$x^2-(4 m+3) x+4 m+2=0$
+A. $m>\frac{1}{2}$
+B. $m>\frac{3}{4}$
+C. $m>-\frac{1}{2}$
+D. $m<-\frac{1}{2}$
+C
+38. Cho biết parabol $y=\frac{1}{2} x^2$ cắt đường thẳng $y=-\frac{3}{2} x+2$ tại hai điểm có hoànhđộ là $\mathrm{x}_1<\mathrm{x}_2$. Khi đó $\frac{x_1}{x_2}$ bằng:
+A. -4
+B. 4
+C. $\frac{1}{4}$
+D. $-\frac{1}{4}$
+A
+39. Phương trình $\sqrt{x+1}=x-1$ có nghiệm $\mathrm{x}$ thỏa mãn:
+A. $x \leq-1$
+B. $-1<x<0$
+C. $0 \leq x<1$
+D. $x \geq 1$
+D
+40. Phương trình nào sau đây có 2 nghiệm không trái dấu nhau?
+A. $4 x^2+8 x+5=0$
+B. $x^2-6 x+10=0$
+C. $x^2+4 x-10=0$
+D. $x^2+12 x+5=0$
+D
+41. Cho phương trình $a x^{2}+b x+c=0(1)$. Hãy chọn khẳng định sai trong các khẳng định sau:
+A. Nếu $P<0$ thì (1) có 2 nghiệm trái dấu
+B. Nếu $P>0 ; S<0$ thì (1) có 2 nghiệm
+C. Nếu $P>0$ và $S<0 ; \Delta>0$ thì (1) có 2 nghiệm âm.
+D. Nếu $P>0$ và $S>0 ; \Delta>0$ thì (1) có 2 nghiệm dương.
+B
+42. Phương trình $\sqrt{2} x^4-2(\sqrt{2}+\sqrt{3}) x^2+\sqrt{12}=0$
+A. Vô nghiệm
+B. Có 2 nghiệm $x=\sqrt{\frac{\sqrt{2}+\sqrt{3}+\sqrt{3}}{\sqrt{2}}}, x=-\sqrt{\frac{\sqrt{2}+\sqrt{3}+\sqrt{5}}{\sqrt{2}}}$
+C. Có 2 nghiệm $x=\sqrt{\frac{\sqrt{2}+\sqrt{3}-\sqrt{3}}{\sqrt{2}}}, x=-\sqrt{\frac{\sqrt{2}+\sqrt{3}-\sqrt{5}}{\sqrt{2}}}$
+D. Có 4 nghiệm:
+$$
+x=\sqrt{\frac{\sqrt{2}+\sqrt{3}-\sqrt{5}}{\sqrt{2}}}, x=-\sqrt{\frac{\sqrt{2}+\sqrt{3}-\sqrt{5}}{\sqrt{2}}}
+$$
+$$
+x=\sqrt{\frac{\sqrt{2}+\sqrt{3}+\sqrt{5}}{\sqrt{2}}}, x=-\sqrt{\frac{\sqrt{2}+\sqrt{3}+\sqrt{5}}{\sqrt{2}}}
+$$
+D
+43. Phương trình $\frac{2\left(x^2-1\right)}{x+1}=1+\frac{2 x+2}{x+1}$ có tập nghiệm là
+A. $m=\frac{2}{3}$
+B. $m=\frac{-2}{3}$
+C. $m=0$
+D. $m=1$
+C
+44. Tích các nghiệm của phương trình: $\frac{4}{x^2-4}-\frac{1}{x-2}=1$ bằng bao nhiêu
+A. 4
+B. 6
+C. -6
+D. Đáp án A, B, C đều sai
+D
+45. Tổng các nghiệm của phương trình: $\sqrt{2 x+9}=\sqrt{4-x}+\sqrt{3 x+1}$ là:
+A. 2
+B. 3
+C. -2
+D. $\frac{11}{3}$
+D
+46. Với giá trị nào của $m$ thì phương trình $x^2+6 x+m=0$ có hai nghiệm là:
+A. -6
+B. 6
+C. 8
+D. -8
+C
+47. Phương trình $\left(x^2-3 x+m\right)(x-1)=0$ có 3 nghiệm phân biệt khi:
+A. $m<\frac{9}{4}$
+B. $\left\{\begin{array}{l}m \neq 2 \\ m \leq \frac{9}{4}\end{array}\right.$
+C. $\left\{\begin{array}{l}m \neq 2 \\ m<\frac{9}{4}\end{array}\right.$
+D. $m>\frac{9}{4}$
+C
+48. Tập nghiệm của phương trình $(x-3)\left(\sqrt{4-x^2}-x\right)=0$ là
+A. $S=\{-\sqrt{2} ; \sqrt{2} ; 3\}$
+B. $S=\{3 ; \sqrt{2}\}$
+C. $S=\{\sqrt{2}\}$
+D. $S=\{-\sqrt{2} ; \sqrt{2}\}$
+C
+49. Điều kiện cần và đủ để phương trình $a x^2+b x+c=0(a \neq 0)$ có hai nghiệm phân biệt cùng dấu là:
+A. $\left\{\begin{array}{l}\Delta>0 \\ P>0\end{array}\right.$
+B. $\left\{\begin{array}{l}\Delta \geq 0 \\ P>0\end{array}\right.$
+C. $\left\{\begin{array}{l}\Delta>0 \\ S>0\end{array}\right.$
+D. $\left\{\begin{array}{l}\Delta>0 \\ S<0\end{array}\right.$
+C
+50. Phương trình: $(m-2) x^2+2 x-1=0$ có đúng 1 nghiệm khi và chỉ khi:
+A. $\mathrm{m}=0$ hoặc $\mathrm{m}=2$.
+B. $\mathrm{m}=1$ hoặc $\mathrm{m}=2$.
+C. $m=-2$ hoặc $m=3$
+D. $m=2$
+B
+51. Xác định m để phương trình sau vô nghiệm $(m+1) x^2-m+2=(3 m+1) x$
+A. $m=\frac{1 \pm \sqrt{92}}{13}$.
+B. $m \neq-1$.
+C. $\frac{-1-\sqrt{92}}{13}<m<\frac{-1+\sqrt{92}}{13}$.
+D. Cả B và C
+D
+52. Tập nghiệm của phương trình $4 x^2-12 x-3 \sqrt{4 x^2-12 x+11}+13=0$
+A. $S=\left\{\frac{3 \pm \sqrt{2}}{2}\right\}$.
+B. $S=\{1 ; 2\}$.
+C. $S=\left\{\frac{3}{2}\right\}$.
+D. $S=\varnothing$.
+D
+53. Cho phương trình $x^2-6 m x+8=0$ có hai nghiệm $x_1, x_2$ thì $x_1+x_2=3$ khi $\mathrm{m}=$ ?
+A. $m=1$.
+B. Không tồn tại m
+C. $m=\frac{8}{9}$.
+D. $\left[\begin{array}{l}m<\frac{-2 \sqrt{2}}{3} \\ m>\frac{2 \sqrt{2}}{3}\end{array}\right.$.
+B
+54. Xác định $\mathrm{m}$ để phương trình $x^2-(m-2) x+m+8=0$ có 2 nghiệm $x_1, x_2$ thỏa mãn: $x_1<x_2<0$
+A. $m<2$
+B. $-8<m<2$
+C. $m>-8$
+D. $\left[\begin{array}{l}m<-8 \\ m>2\end{array}\right.$
+B
+55. Tìm $\mathrm{m}$ để phương trình sau vô nghiệm: $(m+1)^2 x+1-m=(2 m+5) x$
+A. $m=2$
+B. $m=-2$
+C. $m=1$
+D. $m= \pm 2$
+D
+56. Tập nghiệm của phương trình $|5 x-2|-2 x^2=0$ là:
+A. $S=\left\{\frac{1}{2}\right\}$
+B. $S=\left\{2 ; \frac{1}{2}\right\}$
+C. $S=\left\{2 ; \frac{-5 \pm \sqrt{41}}{4}\right\}$
+D. $S=\left\{\frac{1}{2} ; 2 ; \frac{-5 \pm \sqrt{41}}{4}\right\}$
+D
+57. Với giá trị nào của a thì phương trình $\left(x^2-5 x+6\right) \sqrt{x-a}=0$ có 2 nghiệm phân biệt
+A. $\mathrm{a}=2$
+B. $\mathrm{a}=2 ; \mathrm{a}=3$
+C. $a=3$
+D. $\mathrm{a}=2 ; \mathrm{a}=3 ; \mathrm{a}=0$
+B
+58. Với giá trị nào của a thì phương trình sau vô nghiệm: $\frac{x+1}{x-a+1}=\frac{x}{x+a}$
+A. $\mathbf{a}=1$
+B. $\forall a$
+C. $\mathrm{a}=0$
+D. $a \in \mathbb{R} /\{1\}$
+D
+59. Tìm m để phương trình sau có nghiệm duy nhất: $|m x-2|=|x+3|$
+A. $m=\frac{2}{3}$
+B. $m=-\frac{2}{3}$
+C. $m=0$
+D. $m=1$
+B
+60. Tìm m để phương trình $\sqrt{m-1} x-3 y=-1$ nhận cặp số (1; 1) làm nghiệm.
+A. $m=5$     
+B. $m=2$     
+C. $m=-5$  
+D. $m=-2$
+A
+61. Xác định $\mathrm{m}$ để phương trình $x^2-2(m+1) x-m-1=0$ có 2 nghiệm $x_1, x_2$ và $x_1^2+x_2^2-3 x_1 x_2$ đạt giá trị nhỏ nhất.
+A. $m=\frac{13}{8}$
+B. $m=\frac{-9}{4}$
+C. $m=2$
+D. $m=-1$
+A
+62. Xác định $\mathrm{m}$ để phương trình $x^2+(m-1) x-m-2=0$ có 2 nghiệm $x_1, x_2$ và thỏa mãn điều kiện: $x_1^2+x_2^2=9$
+A. $m=2$
+B. $m=-2$
+C. $m=1$
+D. $m= \pm 2$
+D
+63. Xác định $\mathrm{m}$ để phương trình $x^4-2 m x^2+m+1=0$ có 4 nghiệm phân biệt và $x_1>x_2>x_3>x_4$ thỏa mãn $x_1-x_2=x_2-x_3=x_3-x_4$.
+A. $m \in\{1 ; 25\}$
+B. $m \in\{-1 ;-25\}$
+C. $m \in\{-1 ; 25\}$
+D. $m \in\{1 ;-25\}$
+C
+64. Phương trình $x^2-(2 m-1) x+m-1=0$ có 2 nghiệm phân biệt $x_1, x_2$. Tính $\frac{x_1^2}{x_2}+\frac{x_2^2}{x_1}$ khi $m=\frac{\sqrt{3}}{2}$
+A. $T=\frac{5}{\sqrt{3}-1}$
+B. $T=21-\frac{5}{\sqrt{3}-1}$
+C. $T=\frac{5}{\sqrt{3}-1}+21$
+D. $T=\frac{5 \sqrt{3}+26}{\sqrt{3}-1}$
+B
+65. Cho phương trình $2 x^2-(m+1) x+3=0$ có 2 nghiệm phân biệt. Tính $x_1+x_2-x_1 x_2$ khi $m=3$
+A. 8
+B. -2
+C. 2
+D. -8
+B
+66. Cho phương trình $(m-1) x^2-2 m x+m+1=0$. Xác định $\mathrm{m}$ để phương trình có 2 nghiệm thỏa mãn hệ thức: $\frac{x_1}{x_2}+\frac{x_2}{x_1}=4$
+A. $m \in\left\{1 ; \frac{3}{2}\right\}$
+B. $m \in\left\{ \pm 1 ; \pm \sqrt{\frac{3}{2}}\right\}$
+C. $m \in\left\{1 ; \pm \sqrt{\frac{3}{2}}\right\}$
+D. $m \in\left\{1 ; \sqrt{\frac{3}{2}}\right\}$
+C
+67. $S=\left\{ \pm \frac{1}{\sqrt{2}}\right\}$ là tập nghiệm của phương trình nào sau đây.
+A. $2 x^4-3 x^2+2=0$.
+B. $\left(2 x^2-1\right)(x+2)=0$.
+C. $4 x^2+\frac{1}{x^2}+\left|2 x-\frac{1}{x}\right|=4$.
+D. $\frac{-1}{\sqrt{x-1}}=\sqrt{2(x+1)}$.
+C
+68. Cho phương trình $\frac{x^2-(m+1) x+3 m-2}{\sqrt{x-1}}=\sqrt{x-1}$. Khẳng định nào sau đây đúng ?
+A. Phương trình có nghiệm kép khi $m=-1$
+B. $x_1^2+x_2^2-3 x_1 x_2=37$ khi $m=-2$
+C. Tổng 2 nghiệm của phương trình là $3 m-1$
+D. Phương trình luôn có 2 nghiệm với $\forall m \ne 1$
+D
+69: Cho phương trình $x^2+(m-1) x+m-2=0$ có hai nghiệm thỏa mãn $\left|x_1-x_2\right|$ nhỏ nhất khi:
+A. $m=-3$
+B. $m=3$
+C. $m= \pm 3$
+D. $m=1$
+B
+70: Phương trình $x^2+(2 m-1) x+m+1=0$ có hai nghiệm phân bię̣t $x_1>x_2>0$ khi
+A. $m<\frac{1}{2}$
+B. $m>-1$
+C. $-1<m<\frac{1}{2}$
+D. $m>\frac{1}{2}$
+D
+71.
+Tìm tổng các giá trị của m để phương trình $(m–2) x^2-(m^2+1)x+3 m=0$ có nghiệm $x=-3$
+A. -5
+B. -4
+C. 4
+D. 6
+B
+72. Số nghiệm của phương trình: $\sqrt{x+4}+\sqrt{x-4}=2 x-12+2 \sqrt{x^2-16}$ là:
+A. 0
+B. 1
+C. 2
+D. 3
+B
+73. Số nghiệm của phương trinh: $\sqrt{3 x^2+6 x+7}+\sqrt{5 x^2+10 x+14}=4-2 x-x^2$ là:
+A. 0
+B. 2
+C. 3
+D. 1
+D
+74. Phương trình $2 x^2-3 x-1=0$ có hai nghiệm $x_1, x_2$ mà $x_1^5+x_2^3$ bằng:
+A. $\frac{45}{8}$
+B. $\frac{11}{8}$
+C. $\frac{9}{8}$
+D. $\frac{11}{3}$
+A
+75. Tìm điều kiện của $m$ để phương trình $\sqrt{16-x^2}-\frac{m}{\sqrt{16-x^2}}-4=0$ có nghiệm thực
+A. $-3 \leq m \leq 0$
+B. $-4 \leq m<0$
+C. $-5 \leq m \leq-1$
+D. $-4 \leq m \leq 0$
+D
+76. Tìm a để hệ phương trình $\left\{\begin{array}{l}a x+y=a^2 \\ x+a y=1\end{array}\right.$ vồ nghiệm
+A. $a=1$.
+B. $a=-1$.
+C. $a=1 ; a=-1$.
+D. Không có giá trị a thỏa mãn
+B
+77. Phương trình $|x|+1=-x^2+m$ có 1 nghiệm duy nhất khi và chi khi:
+A. $m=0$
+B. $m=1$
+C. $m=-1$
+D. $m=2$
+B
+78. Tìm tất cả các giá trị của $\mathrm{m}$ để phương trình $x^2-(m+1) x+m=0$ có 2 nghiệm phân biệt và nghiệm này bằng một nửa nghiệm kia.
+A. $m=2 ; m=\frac{1}{2}$
+B. $m=2$
+C. $m=\frac{1}{2}$
+D. $m=0$
+A
+79. Xác định m để phương trinh $x^2-\frac{15}{4} x+m^3=0$ có 2 nghiệm, trong đó có một nghiệm là bình phương của nghiệm kia.
+A. $m=\frac{-3}{2} ; m=\frac{-5}{2}$
+B. $m=\frac{3}{2} ; m=\frac{-5}{2}$
+C. $m=\frac{3}{2} ; m=\frac{5}{2}$
+D. $m=\varnothing$
+B
+80. Nghiệm cùa phương trình là: $19+3 x+4 \sqrt{-x^2-x+6}=6 \sqrt{2-x}+12 \sqrt{3+x}$
+A. 1
+B. 5
+C. 30
+D. 6
+A

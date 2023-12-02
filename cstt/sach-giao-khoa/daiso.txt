@@ -1,0 +1,194 @@
+------------------------------------------
+--- Chương I: Căn bậc hai - Căn bậc ba ---
+
+> Bài 1: Căn bậc hai
+1/ Định nghĩa 'Căn bậc hai số học': Với số dương $a$, số $\sqrt{a}$ được gọi là căn bậc hai số học của $a$. Số $0$ cũng được gọi là căn bậc hai số học của $0$.
+2/ Định nghĩa 'Phép khai phương': Phép toán tìm căn bậc hai số học của số không âm gọi là phép khai phương (gọi tắt là khai phương).
+3/ Định lí 'So sánh các căn bậc hai số học': Với hai số $a$ và $b$ không âm, ta có $a<b\Leftrightarrow\sqrt{a}<\sqrt{b}$.
+
+> Bài 2: Căn thức bậc hai và hằng đẳng thức $\sqrt{A^2}=|A|$
+1/ Định nghĩa 'Căn thức bậc hai': Với $A$ là một biểu thức đại số, người ta gọi $\sqrt{A}$ là căn thức bậc hai của $A$, còn $A$ được gọi là biểu thức lấy căn hay biểu thức dưới dấu căn. $\sqrt{A}$ xác định (hay có nghĩa) khi $A$ lấy giá trị không âm.
+2/ Định lí 'Hằng đẳng thức $\sqrt{A^2}=|A|$': Với mọi số $a$, ta có $\sqrt{a^2}=|a|$.
+3/ Chú ý 'Hằng đẳng thức $\sqrt{A^2}=|A|$': Một cách tổng quát, với $A$ là một biểu thức ta có $\sqrt{A^2}=|A|$, có nghĩa là:
+$\sqrt{A^2}=A$ nếu $A\geq 0$ (tức là $A$ lấy giá trị không âm);
+$\sqrt{A^2}=-A$ nếu $A<0$ (tức là A lấy giá trị âm).
+
+> Bài 3: Liên hệ giữa phép nhân và phép khai phương
+1/ Định lí 'Liên hệ giữa phép nhân và phép khai phương': Với hai số $a$ và $b$ không âm, ta có $\sqrt{a.b}=\sqrt{a}.\sqrt{b}$
+2/ Áp dụng 'Quy tắc khai phương một tích': Muốn khai phương một tích của các số không âm, ta có thể khai phương từng thừa số rồi nhân các kết quả với nhau.
+3/ Áp dụng 'Quy tắc nhân các căn bậc hai': Muốn nhân các căn bậc hai của các số không âm, ta có thể nhân các số dưới dấu căn với nhau rồi khai phương kết quả đó.
+4/ Chú ý 'Liên hệ giữa phép nhân và phép khai phương':
+Một cách tổng quát, với hai biểu thức $A$ và $B$ không âm ta có $\sqrt{A.B}=\sqrt{A}.\sqrt{B}.
+Đặc biệt, với biểu thức $A$ không âm ta có $(\sqrt{A})^2=\sqrt{A^2}=A$.
+
+> Bài 4: Liên hệ giữa phép chia và phép khai phương
+1/ Định lí 'Liên hệ giữa phép chia và phép khai phương': Với số $a$ không âm và số $b$ dương, ta có $\sqrt{\frac{a}{b}}=\frac{\sqrt{a}}{\sqrt{b}}$.
+2/ Áp dụng 'Quy tắc khai phương một thương': Muốn khai phương một thương $\frac{a}{b}$, trong đó số $a$ không âm và số $b$ dương, ta có thể lần lượt khai phương số $a$ và số $b$, rồi lấy kết quả thức nhất chia cho kết quả thứ hai.
+3/ Áp dụng 'Quy tắc chia hai căn bậc hai': Muốn chia căn bậc hai của số $a$ không âm cho căn bậc hai của số $b$ dương, ta có thể chia số $a$ cho số $b$ rồi khai phương kết quả đó.
+4/ Chú ý 'Liên hệ giữa phép chia và phép khai phương': Một cách tổng quát, với biểu thức $A$ không âm và biểu thức $B$ dương, ta có $\sqrt{\frac{A}{B}}=\frac{\sqrt{A}}{\sqrt{B}}$.
+
+> Bài 5: Bảng căn bậc hai
+
+> Bài 6: Biến đổi đơn giản biểu thức chứa căn thức bậc hai
+1/ Định nghĩa 'Phép đưa thừa số ra ngoài dấu căn': Phép biến đổi $\sqrt{a^2 b}=a\sqrt{b}$ (với $a\geq 0$, $b\geq 0$) được gọi là phép đưa thừa số ra ngoài dấu căn.
+2/ Định lí 'Phép đưa thừa số ra ngoài dấu căn': Với hai biểu thức $A$, $B$ mà $B\geq 0$, ta có $\sqrt{A^2.B}=|A|\sqrt{B}$, tức là:
+Nếu $A\geq 0$ và $B\geq 0$ thì $\sqrt{A^2 B}=A\sqrt{B}$;
+Nếu $A<0$ và $B\geq 0$ thì $\sqrt{A^2 B}=-A\sqrt{B}$.
+3/ Định lí 'Phép đưa thừa số ra ngoài dấu căn':
+Với $A\geq 0$ và $B\geq 0$ ta có $A\sqrt{B}=\sqrt{A^2 B}$.
+Với $A<0$ và $B\geq 0$ ta có $A\sqrt{B}=-\sqrt{A^2 B}$.
+
+> Bài 7: Biến đổi đơn giản biểu thức chứa căn thức bậc hai (tiếp theo)
+1/ Định lí 'Khử mẫu của biểu thức lấy căn': Với các biểu thức $A$, $B$ mà $A.B\geq 0$ và $B\neq 0$, ta có $\sqrt{\frac{A}{B}}=\frac{\sqrt{AB}}{|B|}$.
+2/ Định lí 'Trục căn thức ở mẫu':
+a/ Với các biểu thức $A$, $B$ mà $B>0$, ta có $\frac{A}{\sqrt{B}}=\frac{A\sqrt{B}}{B}$.
+b/ Với các biểu thức $A$, $B$, $C$ mà $A\geq 0$ và $A\neq B^2$, ta có $\frac{C}{\sqrt{A}\pm B}=\frac{C(\sqrt{A}\mp B)}{A-B^2}$.
+c/ Với các biểu thức $A$, $B$, $C$ mà $A\geq 0$, $B\geq 0$ và $A\neq B$, ta có $\frac{C}{\sqrt{A}\pm\sqrt{B}}=\frac{C(\sqrt{A}\mp\sqrt{B})}{A-B}$.
+
+> Bài 8: Rút gọn biểu thức chứa căn thức bậc hai
+
+> Bài 9: Căn bậc ba
+1/ Định nghĩa 'Căn bậc ba': Căn bậc ba của một số $a$ là số $x$ sao cho $x^3=a$. Mỗi số $a$ đều có duy nhất một căn bậc ba. Căn bậc ba của số $a$ được kí hiệu là $\sqrt[3]{a}$. Số 3 gọi là chỉ số của căn.
+2/ Định nghĩa 'Phép khai căn bậc ba': Phép tìm căn bậc ba của một số gọi là phép khai căn bậc ba.
+3/ Chú ý 'Căn bậc ba': Từ định nghĩa căn bậc ba, ta có $(\sqrt[3]{a})^3=\sqrt[3]{a^3}=a$.
+4/ Nhận xét 'Căn bậc ba':
+Căn bậc ba của số dương là số dương;
+Căn bậc ba của số âm là số âm;
+Căn bậc ba của số 0 là chính số 0.
+5/ Tính chất 'Căn bậc ba':
+a/ $a<b\Leftrightarrow\sqrt[3]{a}<\sqrt[3]{b}$.
+b/ $\sqrt[3]{a b}=\sqrt[3]{a}.\sqrt[3]{b}$.
+c/ Với $b\neq 0$, ta có $\sqrt[3]{\frac{a}{b}}=\frac{\sqrt[3]{a}}{\sqrt[3]{b}}$.
+
+----------------------------------
+--- Chương II: Hàm số bậc nhất ---
+> Bài 1: Nhắc lại và bổ sung các khái niệm về hàm số
+1/ Định nghĩa 'Hàm số': Nếu đại lượng $y$ phụ thuộc vào đại lượng thay đổi $x$ sao cho với mỗi giá trị của $x$, ta luôn xác định được chỉ một giá trị tương ứng của $y$ thì $y$ được gọi là hàm số của $x$, và $x$ được gọi là biến số.
+2/ Định nghĩa 'Hàm hằng': Khi $x$ thay đổi mà $y$ luôn nhận một giá trị không đổi thì hàm số $y$ được gọi là hàm hằng.
+3/ Định nghĩa 'Đồ thị của hàm số': Tập hợp tất cả các điểm biểu diễn các cặp giá trị tương ứng $(x;f(x))$ trên mặt phẳng tọa độ được gọi là đồ thị của hàm số $y=f(x)$.
+4/ Định nghĩa 'Hàm số đồng biến, nghịch biến': Cho hàm số $y=f(x)$ xác định với mọi giá trị của $x$ thuộc $\R$
+a/ Nếu giá trị của biến $x$ tăng lên mà giá trị tương ứng $f(x)$ cũng tăng lên thì hàm số $y=f(x)$ được gọi là hàm số đồng biến trên $\R$ (gọi tắt là hàm số đồng biến).
+b/ Nếu giá trị của biến $x$ tăng lên mà giá trị tương ứng $f(x)$ lại giảm đi thì hàm số $y=f(x)$ được gọi là hàm số nghịch biến trên $\R$ (gọi tắt là hàm số nghịch biến).
+Nói cách khác, với $x_{1}$, $x_{2}$ bất kì thuộc $\R$:
+Nếu $x_{1}<x_{2}$ mà $f(x_{1})<f(x_{2})$ thì hàm số $y=f(x)$ đồng biến trên $\R$;
+Nếu $x_{1}<x_{2}$ mà $f(x_{1})>f(x_{2})$ thì hàm số $y=f(x)$ nghịch biến trên $\R$.
+
+> Bài 2: Hàm số bậc nhất
+1/ Định nghĩa 'Hàm số bậc nhất': Hàm số bậc nhất là hàm số được cho bởi công thức $y=a x+b$ trong đó $a$, $b$ là các số cho trước và $a\neq 0$.
+2/ Chú ý 'Hàm số bậc nhất': Khi $b=0$, hàm số có dạng $y=a x$ (đã học ở lớp 7).
+3/ Tính chất 'Hàm số bậc nhất': Hàm số bậc nhất $y=a x+b$ xác định với mọi giá trị của $x$ thuộc $\R$ và có tính chất sau:
+a/ Đồng biến trên $\R$, khi $a>0$.
+b/ Nghịch biến trên $\R$, khi $a<0$.
+
+> Bài 3: Đồ thị của hàm số $y=a x+b(a\neq 0)$
+1/ Định nghĩa 'Đồ thị của hàm số $y=a x+b(a\neq 0)$': Đồ thị của hàm số $y=a x+b(a\neq 0)$ là một đường thẳng:
+Cắt trục tung tại điểm có tung độ bằng $b$;
+Song song với đường thẳng $y=a x$, nếu $b\neq 0$; trùng với đường thẳng $y=a x$, nếu $b=0$.
+2/ Chú ý 'Đồ thị của hàm số $y=a x+b(a\neq 0)$': Đồ thị của hàm số $y=a x+b(a\neq 0)$ còn được gọi là đường thẳng $y=a x+b$; $b$ được gọi là tung độ gốc của đường thẳng.
+3/ Cách vẽ đồ thị của hàm số $y=a x+b(a\neq 0)$:
+Bước 1: Cho $x=0$ thì $y=b$, ta được điểm $P(0;b)$ thuộc trục tung $Oy$.
+Cho $y=0$ thì $x=-\frac{b}{a}$, ta được điểm $Q\left(-\frac{b}{a};0\right)$ thuộc trục hoành $Ox$.
+Bước 2: Vẽ đường thẳng đi qua hai điểm $P$ và $Q$ ta được đồ thị của hàm số $y=a x+b$.
+
+> Bài 4: Đường thẳng song song và đường thẳng cắt nhau
+1/ Định nghĩa 'Đường thẳng song song': Hai đường thẳng $y=a x+b(a\neq 0)$ và $y=a'x+b'(a'\neq 0)$ song song với nhau khi và chỉ khi $a=a'$, $b\neq b'$ và trùng nhau khi và chỉ khi $a=a'$, $b=b'$.
+2/ Định nghĩa 'Đường thẳng cắt nhau': Hai đường thẳng $y=a x+b(a\neq 0)$ và $y=a'x+b'(a'\neq 0)$ cắt nhau khi và chỉ khi $a\neq a'$.
+3/ Chú ý 'Đường thẳng cắt nhau': Khi $a\neq a'$ và $b=b'$ thì hai đường thẳng có cùng tung độ gốc, do đó chúng cắt nhau tại một điểm trên trục tung có tung độ là $b$.
+
+> Bài 5: Hệ số góc của đường thẳng $y=a x+b(a\neq 0)$
+1/ Định nghĩa 'Góc tạo bởi đường thẳng $y=a x+b$ và trục $Ox$: Trong mặt phẳng tọa độ $Oxy$, khi nói góc $\alpha$ tạo bởi đường thẳng $y=a x+b$ và trục $Ox$ (hoặc nói đường thẳng $y=a x+b$ tạo với trục $Ox$ một góc $\alpha$), ta hiểu đó là góc tạo bởi tia $Ax$ và tia $AT$, trong đó $A$ là giao điểm của đường thẳng $y=a x+b$ với trục $Ox$, $T$ là điểm thuộc đường thẳng $y=a x+b$ và có tung độ dương.
+2/ Định nghĩa 'Hệ số góc': Các đường thẳng có cùng hệ số $a$ ($a$ là hệ số của $x$) thì tạo với trục $Ox$ các góc bằng nhau.
+Khi hệ số $a$ dương ($a>0$) thì góc tạo bởi đường thẳng $y=a x+b$ và trục $Ox$ là góc nhọn. Hệ số $a$ càng lớn thì góc càng lớn nhưng vẫn nhỏ hơn $90^\circ$.
+Khi hệ số $a$ âm ($a<0$) thì góc tạo bởi đường thẳng $y=a x+b$ và trục $Ox$ là góc tù. Hệ số $a$ càng lớn thì góc càng lớn nhưng vẫn nhỏ hơn $180^\circ$.
+Vì có sự liên quan giữa hệ số $a$ với góc tạo bởi đường thẳng $y=a x+b$ và trục $Ox$ nên người ta gọi $a$ là hệ số góc của đường thẳng $y=a x+b$.
+
+-------------------------------------------------------
+--- Chương III: Hệ hai phương trình bậc nhất hai ẩn ---
+> Bài 1: Phương trình bậc nhất hai ẩn
+1/ Định nghĩa 'Phương trình bậc nhất hai ẩn': Phương trình bậc nhất hai ẩn $x$ và $y$ là hệ thức dạng $a x+b y=c$, trong đó $a$, $b$ và $c$ là các số đã biết ($a\neq 0$ hoặc $b\neq 0$).
+2/ Định nghĩa 'Nghiệm của phương trình bậc nhất hai ẩn': Trong phương trình bậc nhất hai ẩn, nếu giá trị của vế trái tại $x=x_{0}$ và $y=y_{0}$ bằng vế phải thì cặp số $(x_{0};y_{0})$ được gọi là một nghiệm của phương trình.
+3/ Định nghĩa 'Tập nghiệm của phương trình bậc nhất hai ẩn':
+a/ Phương trình bậc nhất hai ẩn $a x+b y=c$ luôn luôn có vô số nghiệm. Tập nghiệm của nó được biểu diễn bởi đường thẳng $a x+b y=c$, kí hiệu là $(d)$.
+b/ Nếu $a\neq 0$ và $b\neq 0$ thì đường thẳng $(d)$ chính là đồ thị của hàm số bậc nhất $y=-\frac{a}{b}x+\frac{c}{b}$.
+Nếu $a\neq 0$ và $b=0$ thì phương trình trở thành $a x=c$ hay $x=\frac{c}{a}$, và đường thẳng $(d)$ song song hoặc trùng với trục tung.
+Nếu $a=0$ và $b\neq 0$ thì phương trình trở thành $b y=c$ hay $y=\frac{c}{b}$, và đường thẳng $(d)$ song song hoặc trùng với trục hoành.
+
+> Bài 2: Hệ hai phương trình bậc nhất hai ẩn
+1/ Định nghĩa 'Hệ hai phương trình bậc nhất hai ẩn': Cho hai phương trình bậc nhất hai ẩn $a x+b y=c$ và $a'x+b'y=c'$. Khi đó, ta có hệ hai phương trình bậc nhất hai ẩn $\begin{cases}a x+b y=c\\a'x+b'y=c'\end{cases}$.
+2/ Định nghĩa 'Nghiệm của hệ hai phương trình bậc nhất hai ẩn': Nếu hai phương trình ấy có nghiệm chung $(x_{0};y_{0})$ thì $(x_{0};y_{0})$ được gọi là một nghiệm của hệ.
+3/ Định nghĩa 'Hệ hai phương trình bậc nhất hai ẩn vô nghiệm': Nếu hai phương trình đã cho không có nghiệm chung thì ta nói hệ vô nghiệm.
+4/ Định nghĩa 'Giải hệ hai phương trình bậc nhất hai ẩn': Giải hệ phương trình là tìm tất cả các nghiệm (tìm tập nghiệm) của nó.
+5/ Định nghĩa 'Tập nghiệm của hệ hai phương trình bậc nhất hai ẩn': Trên mặt phẳng tọa độ, nếu gọi $(d)$ là đường thẳng $a x+b y=c$ và $(d')$ là đường thẳng $a'x+b'y=c'$ thì điểm chung (nếu có) của hai đường thẳng ấy có tọa độ là nghiệm chung của hai phương trình của hệ. Vậy, tập nghiệm của hệ hai phương trình bậc nhất hai ẩn được biểu diễn bởi tập hợp các điểm chung của $(d)$ và $(d')$.
+6/ Tính chất 'Tập nghiệm của hệ hai phương trình bậc nhất hai ẩn': Đối với hệ hai phương trình bậc nhất hai ẩn, ta có:
+Nếu $(d)$ cắt $(d')$ thì hệ có một nghiệm duy nhất.
+Nếu $(d)$ song song với $(d')$ thì hệ vô nghiệm.
+Nếu $(d)$ trùng với $(d')$ thì hệ có vô số nghiệm.
+7/ Định nghĩa 'Hệ phương trình tương đương': Hai hệ phương trình được gọi là tương đương với nhau nếu chúng có cùng tập nghiệm.
+
+> Bài 3: Giải hệ phương trình bằng phương pháp thế
+1/ Định lí 'Quy tắc thế': Quy tắc thế dùng để biến đổi một hệ phương trình thành hệ phương trình tương đương. Quy tắc thế gồm hai bước sau:
+Bước 1: Từ một phương trình của hệ đã cho (coi là phương trình thứ nhất), ta biểu diễn một ẩn theo ẩn kia rồi thế vào phương trình thứ hai để được một phương trình mới (chỉ còn một ẩn).
+Bước 2: Dùng phương trình mới ấy để thay thế cho phương trình thứ hai trong hệ (phương trình thứ nhất cũng thường được thay thế bởi hệ thức biểu diễn một ẩn theo ẩn kia có được ở bước 1).
+2/ Chú ý 'Quy tắc thế': Nếu trong quá trình giải hệ phương trình bằng phương pháp thế, ta thấy xuất hiện phương trình có các hệ số của cả hai ẩn đều bằng 0 thì hệ phương trình đã cho có thể có vô số nghiệm hoặc vô nghiệm.
+
+> Bài 4: Giải hệ phương trình bằng phương pháp cộng đại số
+1/ Định lí 'Quy tắc cộng đại số': Quy tắc cộng đại số dùng để biến đổi một hệ phương trình thành hệ phương trình tương đương. Quy tắc cộng đại số gồm hai bước sau:
+Bước 1: Cộng hay trừ từng vế hai phương trình của hệ phương trình đã cho để được một phương trình mới.
+Bước 2: Dùng phương trình mới ấy thay thế cho một trong hai phương trình của hệ (và giữ nguyên phương trình kia).
+
+> Bài 5: Giải bài toán bằng cách lập hệ phương trình
+
+> Bài 6: Giải bài toán bằng cách lập hệ phương trình (tiếp theo)
+
+--------------------------------------------------------------------------
+--- Chương IV: Hàm số $y=a x^2(a\neq 0)$ - Phương trình bậc hai một ẩn ---
+> Bài 1: Hàm số $y=a x^2(a\neq 0)$
+1/ Tính chất 'Hàm số $y=a x^2(a\neq 0)$':
+Nếu $a>0$ thì hàm số nghịch biến khi $x<0$ và đồng biến khi $x>0$.
+Nếu $a<0$ thì hàm số đồng biến khi $x<0$ và nghịch biến khi $x>0$.
+2/ Nhận xét 'Hàm số $y=a x^2(a\neq 0)$':
+Nếu $a>0$ thì $y>0$ với mọi $x\neq 0$; $y=0$ khi $x=0$. Giá trị nhỏ nhất của hàm số là $y=0$.
+Nếu $a<0$ thì $y<0$ với mọi $x\neq 0$; $y=0$ khi $x=0$. Giá trị lớn nhất của hàm số là $y=0$.
+
+> Bài 2: Đồ thị của hàm số $y=a x^2(a\neq 0)$
+1/ Định nghĩa 'Đồ thị của hàm số $y=a x^2(a\neq 0)$': Đồ thị của hàm số $y=a x^2(a\neq 0)$ là một đường cong đi qua gốc tọa độ và nhận trục $Oy$ làm trục đối xứng. Đường cong đó được gọi là một parabol với đỉnh $O$.
+Nếu $a>0$ thì đồ thị nằm phía trên trục hoành, $O$ là điểm thấp nhất của đồ thị.
+Nếu $a<0$ thì đồ thị nằm phía dưới trục hoành, $O$ là điểm cao nhất của đồ thị.
+
+> Bài 3: Phương trình bậc hai một ẩn
+1/ Định nghĩa 'Phương trình bậc hai một ẩn': Phương trình bậc hai một ẩn (nói gọn là phương trình bậc hai) là phương trình có dạng $a x^2+b x+c=0$, trong đó $x$ là ẩn; $a$, $b$, $c$ là những số cho trước gọi là các hệ số và $a\neq 0$.
+
+> Bài 4: Công thức nghiệm của phương trình bậc hai
+1/ Định nghĩa 'Biệt thức của phương trình': Biệt thức của phương trình (kí hiệu là $\Delta$) được tính bởi công thức $\Delta=b^2-4a c$.
+2/ Định lí 'Công thức nghiệm của phương trình bậc hai': Đối với phương trình $a x^2+b x+c=0(a\neq 0)$ và biệt thức $\Delta=b^2-4a c$:
+Nếu $\Delta>0$ thì phương trình có hai nghiệm phân biệt:
+$x_{1}=\frac{-b+\sqrt{\Delta}}{2a}$, $x_{2}=\frac{-b-\sqrt{\Delta}}{2a}$;
+Nếu $\Delta=0$ thì phương trình có nghiệm kép $x_{1}=x_{2}=-\frac{b}{2a}$;
+Nếu $\Delta<0$ thì phương trình vô nghiệm.
+3/ Chú ý 'Nghiệm của phương trình bậc hai': Nếu phương trình $a x^2+b x+c=0(a\neq 0)$ có $a$ và $c$ trái dấu, tức là $a c<0$ thì $\Delta=b^2-4a c>0$. Khi đó, phương trình có hai nghiệm phân biệt.
+
+> Bài 5: Công thức nghiệm thu gọn
+1/ Định lí 'Công thức nghiệm thu gọn của phương trình bậc hai': Đối với phương trình $a x^2+b x+c=0(a\neq 0)$ và $b=2b'$, $\Delta'=b'^2-a c$:
+Nếu $\Delta'>0$ thì phương trình có hai nghiệm phân biệt:
+$x_{1}=\frac{-b'+\sqrt{\Delta'}}{a}$, $x_{2}=\frac{-b'-\sqrt{\Delta'}}{a}$;
+Nếu $\Delta'=0$ thì phương trình có nghiệm kép $x_{1}=x_{2}=-\frac{b'}{a}$;
+Nếu $\Delta'<0$ thì phương trình vô nghiệm.
+
+> Bài 6: Hệ thức Vi-ét và ứng dụng
+1/ Định lí 'Vi-ét': Nếu $x_{1}$, $x_{2}$ là hai nghiệm của phương trình $a x^2+b x+c=0(a\neq 0)$ thì $\begin{cases}x_{1}+x_{2}=-\frac{b}{a}\\x_{1}x_{2}=\frac{c}{a}\end{cases}$.
+2/ Hệ quả 'Vi-ét':
+Nếu phương trình $a x^2+b x+c=0(a\neq 0)$ có $a+b+c=0$ thì phương trình có một nghiệm là $x_{1}=1$, còn nghiệm kia là $x_{2}=\frac{c}{a}$.
+Nếu phương trình $a x^2+b x+c=0(a\neq 0)$ có $a-b+c=0$ thì phương trình có một nghiệm là $x_{1}=-1$, còn nghiệm kia là $x_{2}=-\frac{c}{a}$.
+3/ Hệ quả 'Tìm hai số biết tổng và tích của chúng': Nếu hai số có tổng bằng $S$ và tích bằng $P$ thì hai số đó là hai nghiệm của phương trình $x^2-S x+P=0$. Điều kiện để có hai số đó là $S^2-4P\geq 0$.
+
+> Bài 7: Phương trình quy về phương trình bậc hai
+1/ Định nghĩa 'Phương trình trùng phương': Phương trình trùng phương là phương trình có dạng $a x^4+b x^2+c=0(a\neq 0)$.
+2/ Định lí 'Giải phương trình trùng phương': Có thể đưa phương trình trùng phương về phương trình bậc hai bằng cách đặt ẩn phụ. Chẳng hạn, nếu đặt $x^2=t$ thì ta được phương trình bậc hai $a t^2+b t+c=0$.
+3/ Định lí 'Giải phương trình chứa ẩn ở mẫu thức':
+Bước 1: Tìm điều kiện xác định của phương trình;
+Bước 2: Quy đồng mẫu thức hai vế rồi khử mẫu thức;
+Bước 3: Giải phương trình vừa nhận được;
+Bước 4: Trong các giá trị tìm được của ẩn, loại các giá trị không thỏa mãn điều kiện xác định, các giá trị thỏa mãn điều kiện xác định là nghiệm của phương trình đã cho.
+4/ 'Phương trình tích'
+
+> Bài 8: Giải bài toán bằng cách lập phương trình

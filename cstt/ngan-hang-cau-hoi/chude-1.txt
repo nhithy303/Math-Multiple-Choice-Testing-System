@@ -1,0 +1,430 @@
+1. Tìm điều kiện để biểu thức $P=\sqrt{(5 \sqrt{x}+7) \cdot(5 \sqrt{x}-7)}$ có nghĩa?
+A. $x \geq 0$
+B. $x \leq-\frac{49}{25}$
+C. $x \geq \frac{49}{25}$
+D. $x \leq 0$
+C
+2. Biểu thức nào sau đây có điều kiện xác định: $x \geq 0 ; x \neq 9$
+A. $\frac{3 \sqrt{x}+5}{x-6 \sqrt{x}+9}$
+B. $\frac{2-5 \sqrt{x}}{4-x}$
+C. $\frac{\sqrt{x}-1}{\sqrt{x}+2}$
+D. $2 \sqrt{x} \cdot(x-6 \sqrt{x}+9)$
+A
+3. Cho biểu thức $P=\sqrt{\left(6 \sqrt{\frac{4}{25}}-\sqrt{\frac{9}{25}}\right) .15}$ .Mệnh đề nào sau đây đúng ?
+A. Giá trị của biểu thức $P$ là số nguyên.
+B. Giá trị của biểu thức $P$ là số hữu tỉ.
+C. Giá trị của biểu thức $P$ là số vô tỉ.
+D. Giá trị của biểu thức $P$ là số nguyên dương.
+C
+4. Cho $M=\frac{m-\sqrt{m}-2}{m-1}$. Với $m=0$, so sánh $M$ với $a=\sqrt{2+\sqrt{2+\sqrt{2+\sqrt{2}}}}$.
+A. $M>a$.
+B. $M<a$.
+C. $M \leq a$.
+D. $M \geq a$.
+A
+5. Cho $A=\frac{1}{\sqrt{1}+\sqrt{2}}+\frac{1}{\sqrt{2}+\sqrt{3}}+\frac{1}{\sqrt{3}+\sqrt{4}}$.
+Nghiệm của phương trình $A x^{2}+3 A x-4=0$ là:
+A. $\left[\begin{array}{l}x=-4 \\ x=1\end{array}\right.$.
+B. $\left[\begin{array}{l}x=4 \\ x=-1\end{array}\right.$.
+C. $\left[\begin{array}{l}x=\sqrt{2}+1 \\ x=\sqrt{2}-1\end{array}\right.$
+D. $\left[\begin{array}{l}x=2 \sqrt{3} \\ x=1\end{array}\right.$.
+A
+6. Cho $B=\frac{1}{\sqrt{1}+\sqrt{2}}+\frac{1}{\sqrt{2}+\sqrt{3}}+\ldots+\frac{1}{\sqrt{98}+\sqrt{99}}+\frac{1}{\sqrt{99}+\sqrt{100}}$.
+Số nghiệm của phương trình $x^{3}=3 B x^{2}+27 B x+9 B^{2}=0$ là:
+A. 0 .
+B. 1 .
+C. 2 .
+D. 3 .
+B
+7. Rút gọn $N=\left(\frac{\sqrt{x}}{x-4}+\frac{1}{\sqrt{x}-2}\right) \cdot \frac{\sqrt{x}-2}{2}$ ta được kết quả $N=\frac{\sqrt{x}+1}{\sqrt{x}+2}$.
+Với giá trị nào của $x$ thì $N=\frac{3}{4}$ ?
+A. $x=4$.
+B. $x=1$.
+C. $x=9$.
+D. Không tồn tại $x$.
+D
+8. Cho $M=\frac{\sqrt{x}}{\sqrt{x}-5}-\frac{10 \sqrt{x}}{x-25}-\frac{5}{\sqrt{x}+5}$. Số các giá trị của $x$ sao cho $|M|=\frac{1}{4}$ là:
+A. 0 .
+B. 1 .
+C. 2 .
+D. 3 .
+C
+9. Tìm điều kiện để biểu thức $\sqrt{x-2 \sqrt{x-1}}$ có nghĩa
+A. $x \geq 1$.
+B. $x \leq 0$.
+C. $x \geq 1 ; x \neq 0$.
+D. $x \geq 0 ; x \neq 1$.
+A
+10. Tìm điều kiện xác định của phương trình $\frac{\sqrt{x^{2}-5 x+6}}{x^{2}-2}=5$.
+A. $x<2 ; x>3 ; x \neq-2$.
+B. $x \leq 2 ; x \geq 3 ; x \neq-2$.
+C. $x<2, x \geq 3$.
+D. $x<2 ; x \geq 3 ; x \neq-2$.
+D
+11. Tìm điều kiện xác định của phương trình $\sqrt{(x-4)^{2}}+\frac{x-4}{\sqrt{x^{2}-8 x+16}}=2 x$.
+A. $x \geq 4$.
+B. $x \in R$.
+C. $x<4$.
+D. $x \neq 4$.
+D
+12. Tìm nghiệm của phương trình: $\sqrt{4 x^{2}-20 x+25}+2 x=5$
+A. $x=\frac{5}{2}$.
+B. $x \geq \frac{5}{2}$.
+C. $x \leq \frac{5}{2}$.
+D. $x<\frac{5}{2}$.
+C
+13. $x \leq \frac{1}{4}$ là nghiệm của phương trình nào trong các phương trình sau:
+A. $\sqrt{x^{2}-6 x+9}=3-x$
+B. $\sqrt{x^{2}-\frac{1}{2} x+\frac{1}{16}}=\frac{1}{4}-x$.
+C. $\sqrt{x+2 \sqrt{x-1}}=2$.
+D. $\sqrt{1-12 x+36 x^{2}}=5$.
+B
+14. Tính giá trị biểu thức $\left(\sqrt{\frac{49}{3}}-\sqrt{\frac{25}{3}}+\sqrt{3}\right) \cdot \sqrt{3}$.
+A. $\frac{5}{\sqrt{3}}$.
+B. $5 \sqrt{3}$.
+C. $\frac{\sqrt{3}}{5}$.
+D. 5 .
+D
+15. Tính giá trị của biểu thức $C=\sqrt{3+2 \sqrt{2}}-\sqrt{7+2 \sqrt{10}}$.
+A. $1+\sqrt{5}$.
+B. $1-\sqrt{5}$.
+C. $2 \sqrt{2}(1+\sqrt{5})$.
+D. $2 \sqrt{2}(1-\sqrt{5})$.
+B
+16. Tìm điều kiện để biểu thức $\sqrt{-x^{2}+5 x-6}-\frac{1}{2 x+5}$ có nghĩa:
+A. $2 \leq x \leq 3$.
+B. $x \geq-2 ; x \neq \frac{5}{2}$.
+C. $2 \leq x \leq 3 ; x \neq-\frac{5}{2}$.
+D. $x \leq 0$.
+A
+17. Tính giá trị biểu thức $P=\sqrt[3]{(4-2 \sqrt{3})(\sqrt{3}-1)}$
+A. $P=\sqrt{3}+1$.
+B. $P=2 \sqrt{3}-1$.
+C. $P=\sqrt{3}-1$.
+D. $P=\sqrt{3}$.
+C
+18. Cho biểu thức $A=\frac{\sqrt{45}+\sqrt{20}}{\sqrt{180}-\sqrt{80}}$. Tính $3 A$.
+A. $\frac{15}{2}$.
+B. $-\frac{5}{2}$.
+C. $\frac{5}{3}$.
+D. $\frac{5}{12}$.
+A
+19. Cho các cặp số: $(468 ; 13),(13 ; 637),(52 ; 637),(52 ; 468),(325 ; 113),(117 ; 325)$. Những cặp số $(x ; y)$ nào thỏa mãn điều kiện: $\left\{\begin{array}{l}\sqrt{x}+\sqrt{y}=\sqrt{832} \\ x<y\end{array}\right.$ ?
+A. $(117 ; 325),(52 ; 468),(13 ; 637)$.
+B. $(13 ; 637),(52 ; 468),(117 ; 325)$.
+C. $(117 ; 325),(13 ; 637),(52 ; 468)$.
+D. $(52 ; 637),(325 ; 113),(468 ; 13)$.
+B
+20. Cho $A=\left(\frac{\sqrt{x}-1}{\sqrt{x}+1}-\frac{\sqrt{x}+1}{\sqrt{x}-1}\right) \cdot\left(\frac{1}{2 \sqrt{x}}-\frac{\sqrt{x}}{2}\right)$.
+Số các giá trị của $x$ sao cho $A=1-\sqrt{x}$ là:
+A. 0 .
+B. 1 .
+C. 2 .
+D. 3 .
+A
+21. Cho $P=\frac{\sqrt{x}}{\sqrt{x}-1}+\frac{3}{\sqrt{x}+1}-\frac{6 \sqrt{x}-4}{x-1}$. Giá trị của $x$ để $P<\frac{1}{2}$ là:
+A. $\left\{\begin{array}{l}0<x \leq 9 \\ x \neq 1\end{array}\right.$.
+B. $\left\{\begin{array}{l}0<x<9 \\ x \neq 1\end{array}\right.$.
+C. $\left\{\begin{array}{l}0 \leq x<9 \\ x \neq 1\end{array}\right.$.
+D. $\left\{\begin{array}{l}0 \leq x \leq 9 \\ x \neq 1\end{array}\right.$
+C
+22. Cho $P=\left(\frac{\sqrt{x}-1}{\sqrt{x}+1}-\frac{\sqrt{x}+1}{\sqrt{x}-1}\right) \cdot\left(\frac{1}{2 \sqrt{x}}-\frac{\sqrt{x}}{2}\right)^{2}$. Với giá trị nào của $x$ thì $P>2 \sqrt{x}$ ?
+A. $x>\frac{1}{3}$.
+B. $0 \leq x \leq \frac{1}{3}$.
+C. $x<\frac{1}{3}$.
+D. $0<x<\frac{1}{3}$.
+D
+23. Cho $A=\frac{\sqrt{a}+1}{2 \sqrt{a}}$. Tìm $a$ sao cho $\frac{1}{A} \geq \frac{\sqrt{a}+1}{2 \sqrt{a}}+1$ ?
+A. $a \geq 9$.
+B. $a \leq 9$.
+C. $a=9$.
+D. $a=3$.
+C
+24. Cho $A=\frac{x+2}{x \sqrt{x}-1}+\frac{\sqrt{x}+1}{x+\sqrt{x}+1}-\frac{1}{\sqrt{x}-1}$. So sánh $A$ với $\frac{1}{3}$ ?
+A. $A>\frac{1}{3}$.
+B. $A<\frac{1}{3}$.
+C. $A \leq \frac{1}{3}$.
+D. $A \geq \frac{1}{3}$.
+B
+25. Tìm nghiệm của phương trình: $\sqrt{x^{2}-x-6}=\sqrt{x-3}$.
+A. $x=3$.
+B. $x=-3$.
+C. $x=-\sqrt{3}$.
+D. Vô nghiệm.
+A
+26. $x= \pm \sqrt{3}$ là nghiệm của phương trình nào trong các phương trình sau:
+A. $\sqrt{2 x^{2}-3}=\sqrt{4 x-3}$.
+B. $\sqrt{2 x-1}=\sqrt{x-1}$.
+C. $\sqrt{2 x+5}=\sqrt{1-x}$.
+D. $\sqrt{x^{2}-x}=\sqrt{3-x}$.
+D
+27. Phương trình nào sau đây vô nghiệm?
+A. $\sqrt{x-2 \sqrt{x-1}}=\sqrt{x-1}-1$.
+B. $\sqrt{x^{2}-x}=\sqrt{3 x-5}$.
+C. $\sqrt{2 x^{2}-3}=\sqrt{4 x-3}$.
+D. $\sqrt{1-x^{2}}=x-1$.
+B
+28. Tìm nghiệm của phương trình $\sqrt{x^{2}-1}-x^{2}+1=0$.
+A. $x=1 ; x=\sqrt{2}$.
+B. $x= \pm 1$.
+C. $x= \pm 1 ; x= \pm \sqrt{2}$.
+D. $x=1 ; x= \pm 2$.
+C
+29. Tìm nghiệm của phương trình $\sqrt{x^{4}-8 x^{2}+16}=2-x$.
+A. $x=1 ; x=-2$.
+B. Vô nghiệm.
+C. $x=2 ; x=-3 ; x=-1$.
+D. $x=1 ; x=2 ; x=3$.
+C
+30. Cho biểu thức $P=\frac{45}{10-5 \sqrt{3}}$, đưa $P$ về biểu thức có dạng $a+b \sqrt{3}$. Tính $a \cdot b$
+A. 36 .
+B. -9 .
+C. 162 .
+D. 108 .
+C
+31. Tính giá trị của biểu thức $P=\frac{7(2 \sqrt{2}-1)}{2 \sqrt{2}+1}+\frac{\sqrt{2}-2}{\sqrt{2}+2}$
+A. $P=12-2 \sqrt{2}$
+B. $P=6-2 \sqrt{2}$.
+C. $P=6-4 \sqrt{2}$.
+D. $P=12+4 \sqrt{2}$.
+B
+32. Tính giá trị biểu thức $A=\frac{x-11}{\sqrt{x-2}-3}$ tại $x=23-12 \sqrt{3}$.
+A. $A=2 \sqrt{3}$.
+B. $A=1-\sqrt{3}$.
+C. $A=\sqrt{3}$.
+D. $A=2+\sqrt{3}$.
+A
+33. Tính giá trị biểu thức $P=\frac{9 \sqrt{x}-4 x}{x-5 \sqrt{x}+6}+\frac{\sqrt{x}+1}{\sqrt{x}-2}-\frac{2 \sqrt{x}+3}{3-\sqrt{x}}$ tại $x=5$.
+A. $\frac{2-\sqrt{5}}{\sqrt{5}+1}$.
+B. $\frac{1-\sqrt{5}}{\sqrt{5}+2}$.
+C. $\frac{1+\sqrt{5}}{\sqrt{5}-2}$.
+D. $\frac{1-\sqrt{5}}{\sqrt{5}-2}$.
+D
+34. Cho biểu thức $A=\left(\frac{x+1}{x-1}-\frac{x-1}{x+1}\right):\left(\frac{2}{x^{2}-1}-\frac{x}{x-1}+\frac{1}{x+1}\right)$.
+Tính giá trị của $A$ khi $x=\sqrt{3+\sqrt{8}}$.
+A. $A=-2 \sqrt{3}$.
+B. $A=2 \sqrt{2}$.
+C. $A=-2$.
+D. $A=3$.
+C
+35. Tính giá trị biểu thức $P=\left(\frac{2 \sqrt{x y}}{x-y}-\frac{\sqrt{x}+\sqrt{y}}{2 \sqrt{x}-2 \sqrt{y}}\right) \cdot \frac{4 \sqrt{y}}{\sqrt{x}-\sqrt{y}}$ biết $\frac{x}{y}=\frac{4}{25}$.
+A. $\frac{7}{5}$.
+B. $-\frac{10}{7}$.
+C. $-\frac{20}{7}$.
+D. $-\frac{7}{10}$.
+B
+36. Tính giá trị của biểu thức $P=\frac{x-2 \sqrt{x}}{\sqrt{x}-2}$ biết $|2 x-5|=7$.
+A. $P=\sqrt{6}$.
+B. $P=1$.
+C. $\left[\begin{array}{l}P=-\sqrt{6} \\ P=-1\end{array}\right.$.
+D. $\left[\begin{array}{l}P=\sqrt{6} \\ P=1\end{array}\right.$.
+A
+37. Tính giá trị biểu thức $\mathrm{D}=\frac{1}{\sqrt{x+2 \sqrt{x-1}}}+\frac{1}{\sqrt{x-1}+3}$ biết $x=5$
+A. $\mathrm{D}=\frac{2 \sqrt{2}}{5}$.
+B. $\mathrm{D}=3 \sqrt{2}$.
+C. $\mathrm{D}=\frac{8}{15}$.
+D. $\mathrm{D}=\sqrt{3}+1$.
+C
+38. Cho $A=\sqrt{4-2 \sqrt{3}}+\sqrt{4+2 \sqrt{3}} ; B=\sqrt{18+8 \sqrt{2}}+\sqrt{18-8 \sqrt{2}}$. Mối liên hệ giữa $A$ và $B$ là:
+A. $A^{2}-B=4$.
+B. $A^{2}+B=20$.
+C. $A B=16 \sqrt{3}$.
+D. Cả $A, B, C$.
+D
+39. Cho $M=\left(\frac{\sqrt{x}}{x-4}+\frac{1}{\sqrt{x}-2}\right): \frac{2}{\sqrt{x}-2}$. So sánh $M$ và $M^{2}$.
+A. $M=M^{2}$
+B. $M>M^{2}$.
+C. $M<M^{2}$.
+D. $M \geq M^{2}$.
+B
+40. Cho $M=\left(\frac{\sqrt{x}}{x-4}+\frac{1}{\sqrt{x}-2}\right): \frac{2}{\sqrt{x}-2}$. So sánh $M$ và $\sqrt{M}$ ?
+A. $M=\sqrt{M}$.
+B. $M>\sqrt{M}$.
+C. $M<\sqrt{M}$.
+D. $M \leq \sqrt{M}$.
+C
+41. Cho $M=\frac{\sqrt{x}}{\sqrt{x}+3}+\frac{2 \sqrt{x}}{\sqrt{x}-3}-\frac{3 x+9}{x-9}$. Giá trị lớn nhất của $M$ là:
+A. 1 .
+B. $\sqrt{2}$.
+C. $2 \sqrt{2}$.
+D. Không tồn tại.
+A
+42. Gọi $M$ là giá trị nhỏ nhất của $\frac{\sqrt{x}+1}{\sqrt{x}+4}$ và $N$ là giá trị lớn nhất cuả $\frac{\sqrt{x}+5}{\sqrt{x}+2}$. Biểu thức nào sau đây đúng?
+A. $M+3 N=2$.
+B. $M-2 N=1$.
+C. $2 M+N=3$.
+D. $2 N+M=3$.
+C
+43. Tìm nghiệm của phương trình $\sqrt{9 x^{2}+6 x+1}=\sqrt{11-6 \sqrt{2}}$.
+A. $x=1 ; x=-\sqrt{2}$.
+B. $x=\frac{2-\sqrt{2}}{3} ; x=\frac{\sqrt{2}-4}{3}$.
+C. $x=\sqrt{2} ; x=-3$.
+D. $x=1 ; x=-2$.
+B
+44. Tìm nghiệm của phương trình: $\sqrt{x^{2}-4 x+4}=\sqrt{4 x^{2}-12 x+9}$.
+A. $x=1 ; x=-\frac{1}{3}$.
+B. $x=1 ; x=-\frac{2}{3}$.
+C. $x=-1 ; x=\frac{5}{3}$.
+D. $x=1 ; x=\frac{5}{3}$.
+D
+45. $x=\sqrt{3} ; x=-\sqrt{3}+1 ; x=-\sqrt{3}-1$ là nghiệm của phương trình
+A. $\left|x^{2}-3\right|=|x-\sqrt{3}|$.
+B. $\sqrt{2 x^{2}-3}=\sqrt{4 x-3}$.
+C. $|3 x+1|=|x+1|$.
+D. $\sqrt{1-x^{2}}=x-1$.
+A
+46. Phương trình nào sau đây vô nghiệm
+A. $\left|x^{2}+1\right|+|x+1|=0$.
+B. $\sqrt{1-x^{2}}=x-1$.
+C. $|3 x+1|=|x+1|$.
+D. $\sqrt{x^{2}-8 x+16}+|x+2|=0$.
+D
+47. Tìm nghiệm của phương trình $\sqrt{\frac{2 x-3}{x-1}}=2$.
+A. $x=-2$.
+B. $x=\frac{1}{2}$.
+C. $x=-\frac{1}{3}$.
+D. $x=1$.
+B
+48. Cho biểu thức $Q=3 x-\sqrt{x^{2}-8 x+16}$. Tìm giá trị của $x$ để biểu thức $Q=5$.
+A. $x \in\left\{\frac{1}{2} ; \frac{9}{4}\right\}$.
+B. $x=\frac{9}{4}$.
+C. $x=\frac{1}{2}$.
+D. $x \in\left\{-\frac{1}{2} ; \frac{9}{4}\right\}$.
+B
+49. Cho biểu thức $A=\frac{\sqrt{2 x+2 \sqrt{x^{2}-4}}}{\sqrt{x^{2}-4}+x+2}$. Tìm giá trị của $x$ để biểu thức $A=\frac{\sqrt{3}-1}{2}$.
+A. $x=2(\sqrt{3}+1)$
+B. $x=3 \sqrt{2}+2$.
+C. $x=2 \sqrt{3}-1$.
+D. $x=\sqrt{3}+1$.
+A
+50. Cho biểu thức $B=\left(\frac{3}{\sqrt{1+x}}+\sqrt{1-x}\right):\left(\frac{3}{\sqrt{1-x^{2}}}+1\right)$. Tìm giá trị của $x$ để biểu thức $B=\sqrt{3}-1$.
+A. $x=\frac{2}{\sqrt{3}+1}$.
+B. $x=\frac{3 \sqrt{3}}{2+\sqrt{3}}$.
+C. $x=\frac{\sqrt{3}}{2+\sqrt{3}}$.
+D. $x=\frac{2 \sqrt{3}-1}{2}$.
+C
+51. Tìm $x$ nguyên để biểu thức $A=\frac{2 x}{x+3}-\frac{x+1}{3-x}-\frac{3-11 x}{x^{2}-9}$ nguyên
+A. $x \in\{-6 ; 0 ; 2 ; 4 ; 6 ; 12\}$.
+B. $x \in\{-6 ;-2 ; ; 4 ; 6 ; 8 ; 12\}$.
+C. $x \in\{0 ; 2 ; 4 ; 6 ; 8 ; 12\}$.
+D. $x \in\{-6 ; 0 ; 4 ; 6 ; 8 ; 12\}$.
+A
+52. Tìm $x$ nguyên để biểu thức $B=\left(\frac{\sqrt{x}+2}{x+2 \sqrt{x}+1}-\frac{\sqrt{x}-2}{x-1}\right) \cdot \frac{\sqrt{x}+1}{\sqrt{x}}$ nguyên
+A. $x \in\{0 ; 2\}$.
+B. $x \in\{2 ; 3\}$.
+C. $x \in\{-2 ; 3\}$.
+D. $x \in\{-3 ; 2\}$.
+B
+53. Cho biểu thức $B=\left(\frac{\sqrt{x}-2}{x-1}-\frac{\sqrt{x}+2}{x+2 \sqrt{x}+1}\right) \cdot \frac{(1-x)^{2}}{2}$. Tìm $x$ để $B$ dương
+A. $0<x<1$
+B. $0 \leq x \leq 1$
+C. $0<x \leq 1$
+D. $0 \leq x<1$
+A
+54. Tìm giá trị lớn nhất của biểu thức $B=\frac{1}{x-\sqrt{x}+1}$
+A. $\max B=\frac{4}{3}$ khi $x=-\frac{1}{4}$
+B. $\max B=\frac{3}{4}$ khi $x=\frac{1}{4}$
+C. $\max B=\frac{-4}{3}$ khi $x=\frac{1}{4}$
+D. $\max B=\frac{4}{3}$ khi $x=\frac{1}{4}$
+D
+55. Tìm giá trị nhỏ nhất của biểu thức $A=\sqrt{1-6 x+9 x^{2}}+\sqrt{9 x^{2}-12 x+4}$
+A. $\min A=1 k h i \frac{1}{3} \leq x \leq \frac{2}{3}$
+B. $\min A=1$ khi $\frac{1}{3}<x \leq \frac{2}{3}$
+C. $\min A=1$ khi $\frac{1}{3} \leq x<\frac{2}{3}$
+D. $\min A=1 k h i \frac{1}{3}<x<\frac{2}{3}$
+C
+56. Cho biểu thức
+$$
+P=\left[\left(\frac{1}{\sqrt{x}}+\frac{1}{\sqrt{y}}\right) \cdot \frac{2}{\sqrt{x}+\sqrt{y}}+\frac{1}{x}+\frac{1}{y}\right]: \frac{\sqrt{x^{3}}+y \sqrt{x}+x \sqrt{y}+\sqrt{y^{3}}}{\sqrt{x^{3} y}+\sqrt{x y^{3}}}
+$$
+Tìm giá trị nhỏ nhất của biểu thức biết $x y=16$
+A. $\min A=1$ khi $x=y=4$
+B. $\min A=-2$ khi $x=y=4$
+C. $\min A=1$ khi $x=y=-4$
+D. $\min A=2$ khi $x=y=4$
+A
+57. Cho biểu thức $A=\left(\frac{1}{\sqrt{x}-1}-\frac{1}{\sqrt{x}}\right):\left(\frac{\sqrt{x}+1}{\sqrt{x}-2}-\frac{\sqrt{x}+2}{\sqrt{x-3}}\right)$. Tìm $x$ để $A>\frac{1}{6}$
+A. $x<-16$
+B. $x>16$
+C. $x<4$
+D. $x>-4$
+B
+58. Cho biểu thức $M=\left(\frac{\sqrt{x}}{2}-\frac{1}{2 \sqrt{x}}\right)^{2} \cdot\left(\frac{\sqrt{x}-1}{\sqrt{x}+1}-\frac{\sqrt{x}+1}{\sqrt{x}-1}\right) \cdot$ Tìm $x$ để $M<0$
+A. $x<-1$
+B. $x \geq 1$
+C. $x>1$
+D. $x>-4$
+C
+59. Cho biểu thức $A=\left(\frac{x-5 \sqrt{x}}{x-25}-1\right):\left(\frac{25-x}{x+2 \sqrt{x}-15}-\frac{\sqrt{x}+3}{\sqrt{x}+5}+\frac{\sqrt{x}-5}{\sqrt{x}-3}\right)$.
+Tìm $x$ để $A<1$
+A. $x \geq-4 ; x \neq 9 ; x \neq 25$
+B. $x>4 ; x \neq 9 ; x \neq 25$
+C. $x>-4 ; x \neq 9 ; x \neq 25$
+D. $x \leq-4 ; x \neq 9 ; x \neq 25$
+B
+60. Cho biểu thức $M=\left(\frac{1}{x-\sqrt{x}}+\frac{1}{\sqrt{x}-1}\right): \frac{\sqrt{x}+1}{x-2 \sqrt{x}+1}$, mệnh đề nào sau đây đúng
+A. $M<1$
+B. $M>0$
+C. $M>2$
+D. $M>-1$
+A
+61. Cho biểu thức $P=\frac{x}{\sqrt{x y}+y}+\frac{y}{\sqrt{x y}-x}-\frac{x+y}{\sqrt{x y}}$ với $x+y=7$ và $x . y=10$. Khi đó giá trị của biểu thức $\mathrm{P}$ là :
+A. $P= \pm \frac{7}{3}$
+B. $P=\frac{7}{5}$
+C. $P= \pm \frac{5}{3}$
+D. $P=\frac{1}{5}$
+A
+62. Cho $M=\left(\frac{1}{\sqrt{x}-1}+\frac{1}{\sqrt{x}+1}\right) \cdot \frac{\sqrt{x}-1}{2}$. Số các giá trị $x \in Z$ để $M$ nhận giá trị nguyên là:
+A. 0
+B. 1
+C. 2
+D. 3
+B
+63. Cho biểu thức $M=\left(\frac{\sqrt{x}}{x-4}+\frac{1}{\sqrt{x}-2}\right) \cdot \frac{\sqrt{x}-2}{2}$. Với giá trị nào của $x$ thì $\frac{1}{M}$ có giá trị nguyên?
+A. $x=1$
+B. $x=4$
+C. $x=0$
+D. $x=2$
+C
+64. Gọi $S$ là tổng các giá trị của $x$ làm biểu thức $N=\frac{\sqrt{x}+3}{\sqrt{x}-1}$ có giá trị nguyên. Giá trị của $S$ là:
+A. $S=36$
+B. $S=38$
+C. $S=41$
+D. $S=44$
+B
+65. Giá trị nhỏ nhất của $M=\frac{x+16}{\sqrt{x}+3}$ là:
+A. 4
+B. 3
+C. 2
+D. 5
+A
+66. $x=-2$ là nghiệm của phương trình
+A. $\sqrt{x^{2}-x}=\sqrt{3 x-5}$
+B. $\sqrt{2 x^{2}-3}=\sqrt{4 x-3}$
+C. $\sqrt{x^{2}-4}+\sqrt{x^{2}+4 x+4}=0$
+D. $\sqrt{9 x^{2}-12 x+4}=\sqrt{x^{2}}$
+C
+67. Tìm nghiệm của phương trình $\sqrt{4 x^{2}-9}=2 \sqrt{2 x+3}$
+A. $x=-\frac{3}{2} ; x=\frac{7}{2}$
+B. $x=-\frac{1}{2} ; x=-\frac{7}{2}$
+C. $x=\frac{1}{2} ; x=\frac{5}{2}$
+D. $x=-\frac{3}{2} ; x=\frac{5}{2}$
+A
+68. Tìm $m$ để phương trình $\sqrt{9 x^{2}+18}-2 \sqrt{x^{2}+2}-\sqrt{25 x^{2}+50}+\sqrt{3 m-1}=0$ có hai nghiệm phân biệt:
+A. $m \leq \frac{11}{3}$
+B. $m \geq 11$
+C. $m \geq \frac{1}{3}$
+D. $m \geq 3$
+B
+69. Tìm $m$ để phương trình $\frac{1}{2} \sqrt{x-1}-\frac{3}{2} \sqrt{9 x-9}+24 \sqrt{\frac{x-1}{64}}=2 m-3$ có nghiệm:
+A. $m \leq \frac{3}{2}$
+B. $m \leq-\frac{2}{3}$
+C. $m>-3$
+D. $m \leq \frac{1}{3}$
+A
+70. Tìm $m$ để phương trình $\sqrt{6 x^{2}-12 x+7}-2 m x=0$ có hai nghiệm phân biệt:
+A. $m \geq \frac{3}{14}$
+B. $m>\frac{3}{14} ; m \neq \frac{3}{2}$
+C. $m \neq \frac{3}{2}$
+D. $m \leq \frac{3}{2}$
+A

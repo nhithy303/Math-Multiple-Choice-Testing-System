@@ -1,0 +1,321 @@
+1. Hệ phương trình nào sau đây không tương đương với hệ $\left\{\begin{array}{l}x+2 y=3 \\ 3 x-2 y=1\end{array}\right.$
+A. $\left\{\begin{array}{l}3 x+6 y=9 \\ 3 x-2 y=1\end{array}\right.$
+B. $\left\{\begin{array}{l}x=3-2 y \\ 3 x-2 y=1\end{array}\right.$
+C. $\left\{\begin{array}{l}x+2 y=3 \\ 4 x=2\end{array}\right.$
+D. $\left\{\begin{array}{l}4 x=4 \\ 3 x-2 y=1\end{array}\right.$
+C
+2. Hệ phương trinh tương đương với hệ $\left\{\begin{array}{l}2 x-5 y=5 \\ 2 x+3 y=5\end{array}\right.$ là
+A. $\left\{\begin{array}{l}2 x-5 y=5 \\ 4 x+8 y=10\end{array}\right.$
+B. $\left\{\begin{array}{l}2 x-5 y=5 \\ 0 x-2 y=0\end{array}\right.$
+C. $\left\{\begin{array}{l}2 x-5 y=5 \\ 4 x-8 y=10\end{array}\right.$
+D. $\left\{\begin{array}{l} \frac{2}{5} x-y=1 \\ \frac{2}{3} x+y= \frac{5}{3}\end{array}\right.$
+D
+3. Hệ phương trình nào sau đây vô nghiệm ?
+A. $\left\{\begin{array}{l}x-2 y=5 \\ -\frac{1}{2} x+y=3\end{array}\right.$
+B. $\left\{\begin{array}{l}x-2 y=5 \\ \frac{1}{2} x+y=3\end{array}\right.$
+C. $\left\{\begin{array}{l}x-2 y=5 \\ -\frac{1}{2} x+y=-\frac{5}{2}\end{array}\right.$
+D. $\left\{\begin{array}{l}x-2 y=5 \\ -\frac{1}{2} x-y=3\end{array}\right.$
+C
+4. Hệ phương trình $\left\{\begin{array}{l}x+y=4 \\ x-y=0\end{array}\right.$
+A. Có vô số nghię̣m
+B. Vồ nghiệm.
+C. Có nghię̧m đuy nhất.
+D. Đáp án khác
+C
+5. Cho các đường thẳng: $d_1: y=2 x+1 ; d_2: y=x+2 ; d_3: y=\left(m^2+1\right) x+2 m-1$
+Tìm $\mathrm{m}$ để ba đường thẳng đã cho cắt nhau tại một điểm.
+A. $m=1$
+B. $m=-3$
+C. $m \in\{-3 ; 1\}$
+D. $m=3$
+B
+6. Tập nghiệm của phương trình $2 x+0 y=5$ được biểu diễn bỡi
+A. đường thẳng $y=2 x-5$
+B. đường thẳng $y=\frac{5}{2}$.
+C. đường thẳing $y=5-2 x$
+D. đường thẳng $x=\frac{5}{2}$
+D
+7. Tìm nghiệm của hệ phương trình sau: $\left\{\begin{array}{l}\frac{1}{x}+\frac{3}{2 y+1}=2 \\ \frac{2}{x}+\frac{4}{2 y+1}=3\end{array}\right.$
+A. $\left(1 ; \frac{2}{3}\right)$.
+B. $\left(2 ; \frac{1}{2}\right)$.
+C. $\left(\frac{1}{2} ; 2\right)$.
+D. $\left(\frac{2}{3} ; 1\right)$.
+B
+8. Cho hệ phương trình $\left\{\begin{array}{l}m x-y=2 \\ (2-m) x+y=m\end{array}\right.$
+Với điều kiện nào của $\mathrm{m}$ thỉ hệ đã cho có nghiệm duy nhất $(x ; y)$ thỏa mãn $\mathrm{x}>0 ; \mathrm{y}>0$
+A. $-\sqrt{5}>m>-2$
+B. $m>-1+\sqrt{5}$
+C. $m>-1-\sqrt{5}$
+D. $m>-2$
+B
+9. Cho hệ phương trình với tham số $\mathrm{m}:\left\{\begin{array}{l}(m+1) x-y=m+1 \\ x+(a-1) y=2\end{array}\right.$
+Tìm các giá trị nguyên của $\mathrm{m}$ để nghiệm của hệ phương trình thỏa mãn điều kiện $x+y$ nhỏ nhất.
+A. $m=-1$
+B. $m=-2$
+C. $m=-3$
+D. $m=-4$
+D
+10. Tìm nghiệm của hệ phương trình sau: $\left\{\begin{array}{l}x+y+z+t=4 \\ x+y-z-t=8 \\ x-y+z-t=12 \\ x-y-z+t=16\end{array}\right.$
+A. $(8 ;-3 ;-3 ; 2)$
+B. $(-4 ;-4 ; 8 ; 8)$
+C. $(10 ;-4 ;-2 ; 0)$
+D. $(6 ;-3 ;-2 ; 3)$
+C
+11. Cho phương trình $2 x+3 y=300$. Phương trình có bao nhiêu nghiệm nguyên dương ?
+A. 30
+B. 40
+C. 50
+D. 60
+C
+12. Cho ba đường thẳng $y=3 x-2 ; y=\frac{-1}{3} x+\frac{4}{3} ; y=-2 x+8$. Mièn được tạo bơi đồ thị của ba đường thẳng đã cho là tam giác gì?
+A. Tam giác thường. 
+B. Tam giác cân.
+C. Tam giác vuông cân. 
+D. Tam giác vuông
+C
+13. Cho hai đường thẳng có phương trình: $2 x-y=-6$ và $x+y=3$. Hai đường thẳng lẩn lượt cắt trục hoành tại $\mathrm{A}, \mathrm{B}$. Gọi $\mathrm{M}$ là giao điểm của hai đường thẳng đó. Giả sử $(\mathrm{x} ; \mathrm{y})$ là tọa độ của điểm thuộc miền tam giác MAB. Tìm giá trị lớn nhất của $2 x+y$.
+A. 4
+B. 6
+C. 8
+D. 10
+B
+14. Cho hệ phương trình $\left\{\begin{array}{l}|x+1|+y=2 \\ x+2 y=k\end{array}\right.$
+Tìm k để hệ đã cho có nghiệm duy nhất.
+A. $k=1$
+B. $k=2$
+C. $k=3$
+D. $k=4$
+C
+15. Cho hệ phương trình $\left\{\begin{array}{l}a x+y=3(1) \\ x-2 y=2(2)\end{array}\right.$
+Gọi $\left(D_1\right),\left(D_2\right)$ lần lượt lả các đường thẳng có phương trình (1) và (2). Tìm a để( $\left.D_1\right),\left(D_2\right)$ cắt nhau tại điểm có tọa độ (2;0)
+A. $\frac{1}{2}$
+B. 1
+C. $\frac{3}{2}$
+D. 2
+C
+16. Cho hệ phương trình $\left\{\begin{array}{l}a x+y=3(1) \\ x-2 y=2(2)\end{array}\right.$
+Gọi $\left(D_1\right),\left(D_2\right)$ lần lượt là các đường thẳng có phương trình (1) vả (2). Tìm a biết rằng có điểm A trên $\left(\mathrm{D}_1\right)$ và điểm $\mathrm{B}$ trền $\left(\mathrm{D}_2\right)$ thỏa: $\left\{\begin{array}{l}x_A=x_B \neq 0 \\ y_A+3 y_B=0\end{array}\right.$
+A. $\frac{1}{2}$
+B. 1
+C. $\frac{3}{2}$
+D. 2
+C
+17. Cho các hàm số $y=\frac{x}{3}+m$ có đồ thị $D_m$ và $y=|1-x|$ có đồ thị $\mathrm{D}$.
+Cho $m=1$, khi đó giao điểm của $D_m, D$ có tọa độ $\left(x_1 ; y_1\right),\left(x_2 ; y_2\right)$. Tính $A=x_1+x_2+y_1+y_2$
+A. 6
+B. 7
+C. 8
+D. 9
+A
+18. Cho các hàm số $y=\frac{x}{3}+m$ có đồ thị $D_n$ vả $y=|1-x|$ có đồ thị $\mathrm{D}$. Tỉm m để $D_n$ không cắt $\mathrm{D}$.
+A. $m<-1$
+B. $m>-\frac{1}{3}$
+C. $m<-\frac{1}{3}$
+D. $m \geq-1$
+C
+19. Tìm m để hệ phương trình sau vô nghiệm: $\left\{\begin{array}{l}x+m y=2 m \\ x+m y=m+1\end{array}\right.$
+A. $\left[\begin{array}{l}m \neq 0 \\ m \neq 1\end{array}\right.$
+B. $m \neq 1$
+C. $\left[\begin{array}{l}m \neq 0 \\ m \neq-1\end{array}\right.$
+D. $\left\{\begin{array}{l}m \neq 0 \\ m \neq \pm 1\end{array}\right.$
+B
+20. Cho hệ phương trình: $\left\{\begin{array}{l}6 m x+(2-m) y=8 \\ (m-1) x-m y=2\end{array}\right.$. Tìm m để hệ đã cho có vô số nghiệm
+A. Không có giá trị m
+B. $m=-\frac{2}{3}$
+C. $m=4$
+D. $m=\frac{1}{2}$
+A
+21. Cho hệ phương trình: $\left\{\begin{array}{l}(m+1) x+8 y=4 m \\ m x+(m+3) y=3 m-1\end{array}\right.$. Tỉm giá trị nguyên của $m$ để hệ có nghiệm duy nhất $(x ; y)$ với $x, y$ có giá trị nguyên.
+A. $m \in\{2 ; 4 ;-1 ; 7\}$.
+B. $m \in\{2 ;-1 ; 7\}$.
+C. $m \in\{2 ; 4 ; 5 ; 1 ;-1 ; 7\}$.
+D. $m \in\{2 ; 4 ; 5 ;-1 ; 7\}$.
+D
+22. Cho hệ phương trình: $\left\{\begin{array}{l}x+m y=1 \\ m x+y=2 m\end{array}\right.$
+Tìm giá trị của m để hệ có nghiệm duy nhất $(\mathrm{x} ; \mathrm{y})$ sao cho $x+y$ đạt giả trị nguyên nhỏ nhất.
+A. $m=1$
+B. $m=3$
+C. $m=5$
+D. $m=0$
+D
+23. Xác định tham số $m$ để hệ phương trình $\left\{\begin{array}{l}m x+4 y=2 m+3 \\ 2 x+y=m-1\end{array}\right.$ có vô số nghiệm
+A. Không có giá trị m
+B. $m=8$
+C. $m=1$
+D. $m=5$
+A
+24. Xác định tham số $m$ để hậ phương trình $\left\{\begin{array}{l}(m+3) x+(m-3) y=2 m \\ \left(m^2+9\right) x+\left(m^2-9\right) y=2 m^2\end{array}\right.$
+có nghiệm duy nhất.
+A. $\left\{\begin{array}{l}m \neq 1 \\ m \neq 0\end{array}\right.$
+B. $\left\{\begin{array}{l}m \neq-3 \\ m \neq 0\end{array}\right.$
+C. $\left\{\begin{array}{l}m \neq 3 \\ m \neq 0\end{array}\right.$
+D. $\left[\begin{array}{l}m \neq 3 \\ m \neq 0\end{array}\right.$
+C
+25. Xác định tham số $m$ để hệ $\left\{\begin{array}{l}m x+4 y=m^2+4 \\ x+(m+3) y=2 m+3\end{array}\right.$ có nghiệm $(x ; y)$ thỏa mãn:
+$$
+\left\{\begin{array}{l}
+x=5-4 t \\
+y=t
+\end{array}(t \in \mathbb{R})\right.
+$$
+A. $m=4$
+B. $m=3$
+C. $m=2$
+D. $m=1$
+D
+26. Cho hệ phương trình: $\left\{\begin{array}{l}(m+1) x-y=3 \\ m x+y=m\end{array}\right.$. Tìm $m$ để hệ có nghiệm duy nhất sao cho tổng $x+y$ dương.
+A. $m>\frac{-1}{2}$
+B. $m \neq \frac{-1}{2}$
+C. $m \geq \frac{-1}{2}$
+D. $m>1$
+A
+27. Tìm giá trị của $m \neq 0$ sao cho hệ phương trình $\left\{\begin{array}{l}m x-y=2 \\ 3 x+m y=5\end{array}\right.$ có nghiệm thỏa mã̃n hệ thức $x+y=\frac{3}{m^2+3}$
+A. $\frac{4}{6}$
+B. $\frac{3}{4}$
+C. $\frac{4}{7}$
+D. $\frac{4}{9}$
+C
+28. Tìm giá trị của $m \in \mathbb{Z}$ sao cho hệ phương trình $\left\{\begin{array}{l}m x-y=1 \\ x+4(m+1) y=4 m\end{array}\right.$ có nghiệm nguyên
+A. $\left\{\begin{array}{l}m=-1 \\ m=1\end{array}\right.$
+B. $m \in\{-1 ; 0\}$
+C. $m= \pm 1$
+D. $\left\{\begin{array}{l}m=0 \\ m=-1\end{array}\right.$
+B
+29. Cho hệ phương trình: $\left\{\begin{array}{l}m x-y=2 m \\ 4 x-m y=m+6\end{array}\right.$ Với lần lượt các giá trị nào của $m$ thì hệ vô nghiệm và hệ vô số nghiệm?
+A. $m=-2 ; m=2$
+B. $m=-1 ; m=2$
+C. $m=2 ; m=-1$
+D. $m=2 ; m=-2$
+A
+30. Cho hệ phương trình: $\left\{\begin{array}{l}m x+2 y=m+1 \\ 2 x+m y=2 m-1\end{array}\right.$ Tìm m nguyên để hệ có nghiệm duy nhất là số nguyên.
+A. $m \in(-1 ; 1)$
+B. $m \in\{1 ;-1\}$
+C. $m \in(-3 ;-1 ; 1 ;-5)$
+D. $m \in(-1 ;-3 ; 5)$
+C
+31. Cho hệ phương trình: $\left\{\begin{array}{l}m x+4 y=9 \\ x+m y=8\end{array}\right.$. Vói giá trị nảo của $m$ để hệ có nghiệm duy nhất $(x ; y)$ thỏa mãn hệ thức: $2 x+y+\frac{38}{m^2-4}=3$
+A. $m \in\left\{1 ; \frac{23}{3}\right\}$
+B. $m= \pm 2$
+C. $m=1$
+D. $m=\frac{23}{3}$
+A
+32. Cho hệ phương trình $\left\{\begin{array}{l}3 x+y=3 \\ x-3 y=6\end{array}\right.$. Xác định $a$ để hệ vô nghiệm?
+A. $\frac{-1}{3}$
+B. -1
+C. 1
+D. $-x \sqrt{y}$
+A
+33. Tỉ số của hai số là 7 : 2. Nếu giảm số lớn đi 150 và tăng số nhỏ lên 200 thì tỉ số mới là 11:8. Tìm hai số đó.
+A. 777;222 
+B. 1400;400 
+C. 700;200 
+D. 77;22
+C
+34. Hai công nhân cùng làm một công việc trong 20h thì xong. Nếu người thứ nhất làm 5h, người thứ hai làm 7h thì được 30% công việc. Hỏi nếu làm riêng thì mỗi người hoàn thành công việc đó trong bao lâu?
+A. Người thứ nhất: 40h. Người thứ hai: 40h
+B. Người thứ nhất: 40h. Người thứ hai: 30h
+C. Người thứ nhất: 30h. Người thứ hai: 30h
+D. Người thứ nhất: 30h. Người thứ hai: 40h
+A
+35. Hai vòi cùng chảy vào bể không có nước thì sau 2h sẽ đầy bể. Nếu mở vời 1 chảy trong 15 phút rồi khóa lại và mở vòi thứ hai chảy trong 10 phút thì được $\frac{1}{9}$ bể. Hỏi nếu mỗi vòi chảy riêng sau bao lâu sẽ đầy bể?
+A. Vòi thứ nhất: 40h . Vòi thứ hai: 40h 
+B. Vòi thứ nhất: 40h . Vòi thứ hai: 30h
+C. Vòi thứ nhất: 30h . Vòi thứ hai: 30h 
+D. Vòi thứ nhất: 30h . Vòi thứ hai: 40h
+D
+36. Một ca nô chạy trên sông trong 6h xuôi dòng được 30km và ngược dòng được 125km. Một lần khác, ca nô chạy trên sông trong 8h xuôi dòng được 60km và ngược dòng được 150km. Tính vận tốc khi ngược dòng của ca nô và vận tốc dòng nước.
+A. 25km/h; 2.5km/h
+B. 5km/h; 25km/h
+C. 30km/h; 6km/h
+D. 6km/h; 30km/h
+A
+37. Để hoàn thành một công việc, hai tổ phải làm chung trong 8h. Sau 2h làm chung thì tổ một được điều đi làm việc nơi khác, tổ hai phải làm tiếp tục trong 12h để hoàn thành công việc còn lại. Hỏi nếu làm riêng, thì mỗi tổ phải làm trong bao lâu thì hoàn thành công việc.
+A. 12h; 14h
+B. 16h; 16h 
+C. 15h; 15h 
+D. 13km/h ;17km/h
+B
+38. Một ô tô đi từ Hà Nội và dự định đến Huế lúc 12h trưa. Nếu xe đi với vận tốc 50km/h thì sẽ đến Huế chậm hơn dự định là 2 giờ. Nếu xe chạy với vận tốc là 90km/h thì sẽ đến nơi sớm hơn dự định là 2 giờ. Tính độ dài quãng đường từ Hà Nội đến Huế và thời điểm xuất phát.
+A. 460km; 4h sáng
+B. 400km; 5h sáng
+C. 400km; 4h sáng
+D. 450km; 5h sáng
+D
+39. Cho một hình chữ nhật. Nếu tăng độ dài mỗi cạnh lên 2cm thì diện tích tăng lên $20cm^2$. Nếu giảm chiều dài đi 3cm và giảm chiều dài đi 1cm thì diện tích hình chữ nhật giảm đi $15cm^2$. Tính chiều dài và chiều rộng của hình chữ nhật đã cho.
+A. 5cm, 7cm
+B. 3cm, 5cm
+C. 5cm, 3cm
+D. 7cm, 5cm
+C
+40. Ba bình có thể tích tổng cộng là 120 lít. Nếu đổ đầy nước vào bình thứ nhất rồi rót vào hai bình kia thì hoặc bình thứ ba đầy nước còn bình thứ hai chỉ được một nửa thể tích của nó, hoặc bình thứ hai đầy nước còn bình thứ ba chỉ được một phần ba thể tích của nó. Hãy xác định thể tích mỗi bình.
+A. 50l, 40l, 30l
+B. 30l, 40l, 50l
+C. 20l, 30l, 40l
+D. 40l, 30l, 20l
+A
+41. Tìm số chính phương có bốn chữ số biết rằng nếu mỗi chữ số giảm đi 1 ta được một số mới cũng là số chính phương.
+A. 2809
+B. 1251
+C. 1764
+D. 3136
+D
+42. Hai trường A và B có 210 học sinh thi đỗ hết lớp 9 đạt tỉ lệ 84%. Tính riêng thi trường A đỗ 80%, trường B đỗ 90%. Tính xem mỗi trường có bao nhiêu học sinh lớp 9 dự thi.
+A. Trường A: 150, trường B: 100
+B. Trường A: 200, trường B: 150
+C. Trường A: 100, trường B: 150
+D. Trường A: 150, trường B: 200
+A
+43. Hai vòi nước cùng chảy vào một bể sau 4 giờ 48 phút thì bể đầy. Nếu vòi I chảy trong 4 giờ, vòi II chảy trong 3 giờ thì cả hai vòi chảy được $\frac{3}{4}$ bể. Tính thời gian để mỗi vòi chảy riêng đầy bể.
+A. 10 giờ và 12 giờ 
+B. 7 giờ và 9 giờ
+C. 8 giờ và 12 giờ 
+D. 7 giờ và 11 giờ
+C
+44. Một ô tô đi từ tỉnh A đến tỉnh B với một vận tốc nhất định. Nếu vận tốc tăng thêm 20km/h thì thời gian đi được sẽ giảm 1 giờ. Nếu vận tốc giảm 10km/h thì thời gian đi sẽ tăng thêm 1 giờ. Tính vận tốc và thời gian dự định của ô tô.
+A. 30 km/h; 3,5 giờ 
+B. 40 km/h; 3 giờ
+C. 35 km/h; 4,5 giờ 
+D. 45 km/h; 4 giờ
+B
+45. Hai địa điểm A và B cách nhau 85 km. Cùng lúc, một ca nô đi xuôi dòng từ A đến B và một ca nô đi ngược dòng từ B đến A, sau 1 giờ 40 phút thì gặp nhau. Tính vận tốc thật của mỗi ca nô, biết rằng vận tốc ca nô đi xuôi dòng lớn hơn vận tốc ca nô đi ngược dòng là 9 km và vận tốc dòng nước là 3 km/h (vận tốc thật của ca nô không đổi)
+A. 29km/h; 26km/h
+B. 27km/h; 24km/h
+C. 23km/h; 23km/h
+D. 25km/h; 21km/h
+B
+46. Quãng đường AB dài 200km. Cùng lúc một xe máy đi từ A đến B và một ô tô đi từ B đến A. Xe máy và ô tô gặp nhau tại điểm C cách A 120km. Nếu xe máy khởi hành sau ô tô 1 giờ thì gặp nhau tại điểm D cách C 24km. Tính vận tốc của ô tô và xe máy.
+A. 55 km/h; 45km/h 
+B. 50 km/h; 50km/h
+C. 65 km/h; 35km/h 
+D. 60 km/h; 40km/h
+D
+47. Hai vật chuyển động trên một đường tròn đường kính 2 m, xuất phát cùng một lúc từ cùng một điểm. Nếu chúng chuyển động cùng chiều thì cứ 20 giây lại gặp nhau. Nếu chúng chuyển động ngược chiều thi cứ 4giây lại gặp nhau. Tính vận tốc mỗi vật?
+A. $2 \pi (m/s); 5 \pi (m/s)$
+B. $3 \pi (m/s); 2 \pi (m/s)$
+C. Một kết quả khác
+D. $3 \pi (m/s); 4 \pi (m/s)$
+B
+48. Một người dự định đi từ A đến B với thời gian đã định. Nếu người đó tăng vận tốc lên 10km/h thì đến B sớm hơn dự định 1 giờ. Nếu người đó giảm vận tốc đi 10 km/h thì đến B muộn hơn dự định 2 giờ. Tính thời gian dự định và độ dài quãng đường AB.
+A. 4 giờ, 30 km 
+B. 5 giờ, 28 km
+C. 3 giờ, 35 km 
+D. 3,5 giờ, 35 km
+A
+49. Một ca nô xuôi dòng 1 km và ngược dòng 1km hết tất cả 3,5 phút. Nếu ca nô xuôi dòng 20 km và ngược dòng 15 km thì hết 1 giờ. Tính vận tốc dòng nước và vận tốc riêng của ca nô.
+A. $\frac{1}{14}$ km/phút; $\frac{9}{12}$ km/phút
+B. $\frac{2}{9}$ km/phút; $\frac{5}{9}$ km/phút 
+C. $\frac{1}{2}$ km/phút; $\frac{7}{12}$ km/phút 
+D. $\frac{1}{8}$ km/phút; $\frac{9}{8}$ km/phút
+C
+50. Giả sử có một cánh đồng cỏ dày như nhau, mọc cao đều như nhau trên toàn bộ cánh đồng trong suốt thời gian bò ăn cỏ trên cánh đồng ấy. Biết rằng 9 con bò ăn hết cỏ có sẵn và mọc thêm trên cánh đồng trong 2 tuần, 6 con bò ăn hết cỏ trong 4 tuần. Hỏi có bao nhiêu con bò ăn hết cỏ mọc thêm trong 6 tuần? (Biết rằng mỗi con bò ăn số cỏ như nhau)
+A. 2 con
+B. 3 con
+C. 4 con
+D. 5 con
+D
+51. (Bài toán của Ơle) Hai bà ra chợ bán tổng cộng 100 quả trứng, số trứng của hai người không bằng nhau, nhưng số tiền thu được lại bằng nhau. Bà thứ nhất nói với bà thứ hai “Nếu tôi có số trứng của bà, tôi sẽ thu được 15 đồng”. Bà thứ hai nói “ Nếu số trứng của tôi bằng số trứng của bà tôi chỉ bán được $6 \frac{2}{3}$ đồng”. Hỏi mỗi bà có bao nhiêu quả trứng mang đi bán?
+A. Bà I: 30 quả; bà II: 70 quả 
+B. Bà I: 35 quả; bà II: 65 quả
+C. Bà I: 40 quả; bà II: 60 quả 
+D. Bà I: 45 quả; bà II: 55 quả
+C

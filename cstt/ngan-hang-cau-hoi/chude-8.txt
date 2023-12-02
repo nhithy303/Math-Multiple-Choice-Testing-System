@@ -1,0 +1,252 @@
+1. Một hình trụ có bán kính đáy $R$ bằng chiều cao $h$. Biết rằng diện tích xung quanh quanh của hình trụ là 18 . Bán kính đáy $R$ là:
+A. $R=\frac{3}{\pi}$
+B. $R=\frac{3}{\sqrt{\pi}}$
+C. $R=3 \sqrt{\pi}$
+D. Cả ba đều sai.
+B
+2. Một hình trụ có diện tích hai đáy và diện tích xung quanh đều bằng 314 (đvdt). Khi đó chiều cao $h$ của hình trụ là:
+A. $h=31,4$
+B. $h=10$
+C. $h=100$
+D. $h=3,14 \cdot \sqrt{10}$
+B
+3. Với giả thiết của bài trên, thể tích $V$ của hình trụ này là:
+A. $V=314 \cdot \sqrt{3,14}(\mathrm{dvtt})$
+B. $V=31400(\mathrm{dvtt})$
+C. $V=3140($ đvtt)
+D. $V=3140 \cdot \sqrt{3,14}($ đvtt)
+C
+4. Một bồn nước hình trụ có chiều cao $2 \mathrm{~m}$. Một vòi nước chảy vào bồn với vận tốc 6750 lít/giờ Sau 10 phút chạy, mực nước trong bồn cao $0,5 \mathrm{~m}$. Thể tích của bồn nước là:
+A. $V \approx 4650$ lít
+B. $V \approx 4500$ lít
+C. $V \approx 4750$ lít
+D. $V \approx 5750$ lít
+B
+5. Một bồn nước hình trụ có sức chứa 1250 lít. Chiều cao của bồn là $1,57(\mathrm{~m})$. Kết quả nào sau đây là diện tích xung quanh của bồn nước?
+A. $S \approx 5,2 m^{2}$
+B. $S \approx 5,4 m^{2}$
+C. $S \approx 54,9648 m^{2}$
+D. $S \approx 5,324 \mathrm{~m}^{2}$
+C
+6. Quan sát hình trụ ở hình sau. Diện tích xung quanh của hình trụ là:
+A. $S=78$
+B. $S=75,36$
+C. $S=37,68$
+D. $S=74,84$
+B
+7. Một ống cống hình trụ có kính thước được cho trong hình bên. Khối lượng riêng của bê tông làm ống cống là $1860 \mathrm{~kg} / \mathrm{m}^{3}$. Khối lượng của ống cống là:
+A. $M=710 \mathrm{~kg}$
+B. $M=980 \mathrm{~kg}$
+C. $M=973,66 \mathrm{~kg}$
+D. $M=963,66 \mathrm{~kg}$
+D
+8. Một cái bình hình trụ có chiều cao bằng $20 \mathrm{~cm}$, đường kính đáy bằng $10 \mathrm{~cm}$ và bên trong bình có chứ một khối kim loại. Bình đựng đầy nước. Sau khi lấy khối kim loại ra khỏi bình, chiều cao cột nước chứa trong bình là $16 \mathrm{~cm}$. Thể tích của khối kim loại là:
+A. $V=64 \mathrm{~cm}^{3}$
+B. $V=0,62$ lít
+C. $V=62,8 \mathrm{~cm}^{3}$
+D. $V=0,314$ lít
+C
+9. Xét một hình trụ nội tiếp trong một hình lập phương có cạnh $10 \mathrm{~cm}$ như hình vẽ bên. Thể tích phần giới hạn ở ngoài hình trụ và trong hình lập phương là:
+A. $V \approx 125 \mathrm{~cm}^{3}$
+B. $V \approx 215 \mathrm{~cm}^{3}$
+C. $V \approx 315 \mathrm{~cm}^{3}$
+D. $V \approx 205 \mathrm{~cm}^{3}$
+B
+10. Dùng giả thiết ở bài trên, diện tích xung quanh của hình trụ là:
+A. $S \approx 157 \mathrm{~cm}^{2}$
+B. $S \approx 214 \mathrm{~cm}^{2}$
+C. $S \approx 628 \mathrm{~cm}^{2}$
+D. $S \approx 314 \mathrm{~cm}^{2}$
+D
+11. Xét một hình lập phương nội tiếp trong một hình trụ có chiều cao $10 \mathrm{~cm}$ như hình vẽ bên. Thể tích phần giới hạn ở ngoài lập phương và trong hình trụ là:
+A. $V \approx 314 \mathrm{~cm}^{3}$
+B. $V \approx 750 \mathrm{~cm}^{3}$
+C. $V \approx 570 \mathrm{~cm}^{3}$
+D. $V \approx 392,5 \mathrm{~cm}^{3}$
+C
+12. Dùng giả thiết của bài trên, diện tích xung quanh của hình trụ là:
+A. $S=3140 \sqrt{2} \mathrm{~cm}^{2}$
+B. $S=31,4 \sqrt{2} \mathrm{~cm}^{2}$
+C. $S=314 \sqrt{2} \mathrm{~cm}^{2}$
+D. $S=628 \sqrt{2} \mathrm{~cm}^{2}$
+C
+13. Cho hình trụ có chiều cao 16. Một hình chóp đều $S . A B C$ có đáy $A B C$ là tam giác đều cạnh bằng 9 , nội tiếp trong một đáy của hình trụ, đỉnh $S$ là tâm của đáy còn lại. Thể tích phần giới hạn ở bên ngoài hình chóp và trong hình trụ là:
+A. $V=114\left(\pi-\frac{\sqrt{3}}{4}\right)(\mathrm{dvtt})$
+B. $V=72\left(\pi-\frac{\sqrt{3}}{4}\right)(\mathrm{dvtt})$
+C. $V=48\left(\pi-\frac{\sqrt{3}}{4}\right)(\mathrm{dvtt})$
+D. $V=48(4 \pi-\sqrt{3})(đ v t t)$
+D
+14. Cho hình trụ có bán kính đáy và chiều cao bằng 12 . $A B$ là một dây cung của đường tròn đáy có đọ dài $A B=12$. Hình bên là một phần của hình trụ giới hạn ở giữa hai thiết diện qua trục, lần lượt đi qua $A$ và $B$. Diện tích phần mặt cong $A B B^{\prime} A^{\prime}$ ' của hình trụ là:
+A. $S \approx 160,72$ (đvdt)
+B. $S \approx 150,72$ (dvdt)
+C. $S \approx 453,16$ (đvdt)
+D. $S \approx 226,08($ đvdt)
+B
+15. Dùng lại giả thiết bài trên, thể tích của phần hình trụ giới hạn bởi mặt trụ và mặt phẳng $\left(A B B^{\prime} A^{\prime}\right)$ là:
+A. $V \approx 904,32($ đvtt)
+B. $V \approx 780,32($ đvtt)
+C. $V \approx 156,08$ (đvtt)
+D. $V \approx 312,16$ (đvtt)
+C
+Câu 16. Một hình nón có đường kính đáy là $6 \mathrm{dm}$, chiều cao $4 \mathrm{dm}$. Diện tích xung quanh hình nón là:
+A. $S=48 \mathrm{dm}^{2}$.
+B. $S=47,34 \mathrm{dm}^{2}$.
+C. $S=47,1 \mathrm{dm}^{2}$.
+D. $S=94,2 \mathrm{dm}^{2}$.
+C
+Câu 17. Một hình nón có chiều cao $12 \mathrm{~cm}$, đường sinh $13 \mathrm{~cm}$. Diện tích xung quanh hình nón là:
+A. $S=564,6 \mathrm{~cm}^{2}$.
+B. $S=204,1 \mathrm{~cm}^{2}$.
+C. $S=228 \mathrm{~cm}^{2}$.
+D. $S=328 \mathrm{~cm}^{2}$.
+B
+Câu 18. Một hình nón có diện tích toàn phần 39,25 (đvdt). Biết đường sinh bằng đường kính đáy. Bán kính đáy của hình nón là:
+A. $R=5$.
+B. $R=4,5$.
+C. $R=2,5$.
+D. $R=3,5$.
+C
+Câu 19. Hình khai triển của một hình nón cắt theo một đường sinh là một hình quạt có kích thước như hình. Bán kính đáy của hình nón là:
+A. $R=10 \mathrm{~cm}$.
+B. $R=5 \mathrm{~cm}$.
+C. $R=6,5 \mathrm{~cm}$.
+D. $R=4,5 \mathrm{~cm}$.
+B
+Câu 20. Hình khai triển của một hình nón cắt theo một đường sinh là một hình quạt có kích thước như hình. Thể tích của hình nón là:
+A. $V=\frac{25 \sqrt{11}}{3} \mathrm{~cm}^{3}$.
+B. $V=\frac{25 \pi}{3} \mathrm{~cm}^{3}$.
+C. $V=\frac{25 \pi \sqrt{11}}{3} \mathrm{~cm}^{3}$.
+D. $V=\frac{25 \pi}{33} \mathrm{~cm}^{3}$.
+C
+Câu 21. Hình khai triển của một hình nón cắt theo một đường sinh là một hình quạt có kích thước như hình. Diện tích xung quanh hình nón là:
+A. $S=728,80 \mathrm{~cm}^{2}$.
+B. $S=1418,80 \mathrm{~cm}^{2}$.
+C. $S=703,36 \mathrm{~cm}^{2}$.
+D. $S=1018 \mathrm{~cm}^{2}$
+C
+Câu 22. Hình khai triển của một hình nón cắt theo một đường sinh là một hình quạt có kích thước như hình. Diện tích đáy của hình nón là:
+A. $S=351,68 \mathrm{~cm}^{2}$.
+B. $S=515,44 \mathrm{~cm}^{2}$.
+C. $S=615,44 \mathrm{~cm}^{2}$.
+D. $S=715,44 \mathrm{~cm}^{2}$.
+C
+Câu 23. Hình khai triển của một hình nón cắt theo một đường sinh là một hình quạt có kích thước như hình. Thể tích hình nón là:
+A. $V=1489,06 \mathrm{~cm}^{3}$.
+B. $\mathrm{V}=1289,06 \mathrm{~cm}^{3}$.
+C. $V=1598,06 \mathrm{~cm}^{3}$.
+D. $\mathrm{V}=1589,06 \mathrm{~cm}^{3}$.
+D
+Câu 24. Một hình nón có chiều cao $12 \mathrm{~cm}$, đường kính đáy là $18 \mathrm{~cm}$. Diện tích xunh quanh hình nón là:
+A. $\mathrm{S}=523,9 \mathrm{~cm}^{2}$.
+B. $\mathrm{S}=423,9 \mathrm{~cm}^{2}$.
+C. $\mathrm{S}=432,9 \mathrm{~cm}^{2}$.
+D. $\mathrm{S}=532,9 \mathrm{~cm}^{2}$.
+B
+Câu 25. Một hình nón có chiều cao $15 \mathrm{~cm}$, đường sinh $17 \mathrm{~cm}$. Thể tích của hình nón là:
+A. $\mathrm{V}=1048,8 \mathrm{~cm}^{3}$.
+B. $\mathrm{V}=1084,8 \mathrm{~cm}^{3}$.
+C. $\mathrm{V}=1004,8 \mathrm{~cm}^{3}$.
+D. $\mathrm{V}=1008,4 \mathrm{~cm}^{3}$.
+C
+Câu 26. Một hình nón có đường sinh $6 \mathrm{~cm}$, góc giữa đường sinh và đường kính đáy là $60^{\circ}$. Thể tích của hình nón là:
+A. $\mathrm{V}=58,94 \mathrm{~cm}^{3}$.
+B. $\mathrm{V}=48,94 \mathrm{~cm}^{3}$.
+C. $\mathrm{V}=68,94 \mathrm{~cm}^{3}$.
+D. $\mathrm{V}=46,94 \mathrm{~cm}^{3}$.
+B
+Câu 27. Một hình nón có đường sinh $6 \mathrm{~cm}$, góc giữa đường sinh và đường kính đáy là $60^{\circ}$. Diện tích xung quanh hình nón là:
+A. $\mathrm{S}=65,52 \mathrm{~cm}^{2}$.
+B. $\mathrm{S}=56,52 \mathrm{~cm}^{2}$.
+C. $\mathrm{S}=54,52 \mathrm{~cm}^{2}$.
+D. $\mathrm{S}=68,52 \mathrm{~cm}^{2}$.
+B
+Câu 28. Một hình nón cụt có chiều cao $8 \mathrm{~cm}$, đường sinh $10 \mathrm{~cm}$, bán kính đáy lớn $12 \mathrm{~cm}$. Diện tích xung quanh hình nón cụt là:
+A. $S=180 \pi \mathrm{cm}^{2}$.
+B. $S=60 \pi \mathrm{cm}^{2}$.
+C. $S=96 \pi \mathrm{cm}^{2}$.
+D. Kết quả khác.
+A
+Câu 29. Một hình nón cụt có chiều cao $8 \mathrm{~cm}$, đường sinh $10 \mathrm{~cm}$, bán kính đáy lớn $12 \mathrm{~cm}$. Thể tích hình nón cụt là:
+A. $\mathrm{V}=2116,08 \mathrm{~cm}^{3}$.
+B. $\mathrm{V}=2160,08 \mathrm{~cm}^{3}$.
+C. $\mathrm{V}=2110,08 \mathrm{~cm}^{3}$.
+D. $\mathrm{V}=2200,08 \mathrm{~cm}^{3}$.
+C
+Câu 30. Một hình nón cụt có bán kính đáy lớn gấp đôi bán kính đáy bé và bằng đường sinh. Biết diện tích xung quanh hình nón cụt là $8478 \mathrm{~cm}^{2}$. Diện tích đáy bé của hình nón cụt là:
+A. $\mathrm{S}=1314 \mathrm{~cm}^{2}$.
+B. $\mathrm{S}=2826 \mathrm{~cm}^{2}$.
+C. $\mathrm{S}=1413 \mathrm{~cm}^{2}$.
+D. $\mathrm{S}=2628 \mathrm{~cm}^{2}$.
+C
+Câu 31. Một hình nón cụt có bán kính đáy lớn gấp đôi bán kính đáy bé và bằng đường sinh. Biết diện tích xung quanh hình nón cụt là $8478 \mathrm{~cm}^{2}$. Thể tích của hính nón cụt là:
+A. $\mathrm{V}=229,85 \mathrm{dm}^{3}$.
+B. $\mathrm{V}=2298,5 \mathrm{~cm}^{3}$.
+C. $\mathrm{V}=22985 \mathrm{~cm}^{3}$.
+D. Kết quả khác.
+B
+Câu 32. Một hình nón cụt có chiều cao $21 \mathrm{~cm}$, bán kính đáy lớn và bán kính đáy bé lần lượt là $21 \mathrm{~cm}$ và $1 \mathrm{~cm}$. Diện tích xung quanh hình nón cụt này là:
+A. $S \approx 1866 \mathrm{~cm}^{2}$.
+B. $S \approx 1877 \mathrm{~cm}^{2}$.
+C. $S \approx 2003 \mathrm{~cm}^{2}$.
+D. Kết quả khác.
+C
+Câu 33. Một cái phễu được hình thành bởi một hình nón cụt và một hình trụ có kích thước như hình $\mathrm{OA}=4 \mathrm{~cm}, \mathrm{AB}=\mathrm{BC}=5 \mathrm{~cm}, \mathrm{O}^{\prime} \mathrm{B}=1$ $\mathrm{cm}$. Thể tích cái phễu là:
+A. $V \approx 93,15 \mathrm{~cm}^{3}$.
+B. $V \approx 93,26 \mathrm{~cm}^{3}$.
+C. $V \approx 90,62 \mathrm{~cm}^{3}$.
+D. Kết quả khác.
+A
+Câu 34. Một cái phễu được hình thành bởi một hình nón cụt và một hình trụ có kích thước như hình $\mathrm{OA}=4 \mathrm{~cm}, \mathrm{AB}=\mathrm{BC}=5 \mathrm{~cm}, \mathrm{O}^{\prime} \mathrm{B}=1$ $\mathrm{cm}$. Diện tích bên ngoài của cái phễu là:
+A. $S \approx 806 \mathrm{~cm}^{2}$.
+B. $S \approx 110 \mathrm{~cm}^{2}$.
+C. $S \approx 746 \mathrm{~cm}^{2}$.
+D. Kết quả khác.
+B
+Câu 35. Một quả bóng đá có đường kích $24 \mathrm{~cm}$. Diện tích bề mặt quả bóng là:
+A. $S \approx 21,08 \mathrm{dm}^{2}$.
+B. $S \approx 18,09 \mathrm{dm}^{2}$.
+C. $S \approx 20,08 \mathrm{dm}^{2}$.
+D. Kết quả khác.
+B
+Câu 36. Một quả bóng đá có đường kích $24 \mathrm{~cm}$. Thể tích của quả bóng là:
+A. $V \approx 7034,56 \mathrm{~cm}^{3}$.
+B. $V \approx 7038 \mathrm{~cm}^{3}$.
+C. $V \approx 7234,56 \mathrm{~cm}^{3}$.
+D. Kết quả khác.
+D
+Câu 37. Một hình trụ có đường kính đáy là $84 \mathrm{~cm}$. Một hình cầu nội tiếp trong hình trụ (mặt cầu tiếp xúc với hai đáy của hình trụ và mặt xung quanh của hình trụ, thể tích của phần giới hạn ở bên ngoài hình câu và bên trong hình trụ là:
+A. $V \approx 155090 \mathrm{~cm}^{3}$.
+B. $V \approx 154420 \mathrm{~cm}^{3}$.
+C. $V \approx 153103 \mathrm{~cm}^{3}$.
+D. Kết quả khác.
+A
+Câu 38. Một hình lập phương nội tiếp trong một hình cầu có bán kính $\mathrm{R}$ (các đỉnh của hình lập phương thuộc mặt cầu). Thể tích giới hạn bên trong hình cầu và bên ngoài hình lập phương là:
+A. $V \approx R^{3}(4 \pi-\sqrt{2})(d v t t)$.
+B. $V \approx \frac{R^{3}}{4}\left(\frac{4 \pi-2 \sqrt{3}}{3}\right)(\mathrm{dvtt})$.
+C. $V \approx R^{3}\left(\frac{4 \pi-2 \sqrt{3}}{3}\right)(\mathrm{dvtt})$.
+D. $V \approx R^{3}\left(\frac{4-2 \sqrt{3}}{3}\right)(d v t t)$.
+C
+Câu 39. Một hình cầu có số đo diện tích (mặt cầu) gấp 6 lần số đo thể tích của nó. Số đo diện tích của mặt cầu này là:
+A. $S \approx 18,84(d v d t)$.
+B. $S \approx 3,14(d v d t)$.
+C. $S \approx 6,28(d v d t)$.
+D. $S \approx 1,57(d v d t)$.
+B
+Câu 40. Một hình cầu có số đo diện tích (mặt cầu) bằng số đo thể tích của nó. Bán kính của mặt cầu này là:
+A. $R=6 d v$.
+B. $R=9 d v$.
+C. $R=\frac{1}{3} d v$.
+D. $R=3 d v$.
+D
+Câu 41. Hãy chọn phát biểu đúng trong các phát biểu dưới đây:
+A. Tồn tại một mặt cầu có số đo diện tích là một số tự nhiên.
+B. Công thức tính diện tích mặt cầu là $S=4 \pi R^{2}$ (R là bán kính). Do đó số đo diện tích luôn luôn là số thập phân.
+C. Công thức tính thể tích mặt cầu là $V=\frac{4}{3} \pi R^{3}$ (R là bán kính). Do đó số đo thể tích luôn luôn là số thập phân.
+D. Tồn tại một mặt cầu có số đo diện tích là một số tự nhiên bé hơn 3 .
+C
+Câu 42. Hãy chọn phát biểu đúng trong các phát biểu dưới đây:
+A. Nếu số do diện tích của mặt cầu là một số vô tỉ thì bán kính $\mathrm{R}$ của nó cũng là một số vô tỉ.
+B. Không có mặt cầu nào có số đo diện tích là một số tự nhiên
+C. Tồn tại hình cầu có số đo thể tích là một số tự nhiên
+D. Nếu thể tích của một hình cầu là số vô tỉ thì bán kính nó cũng là số vô tỉ
+B
