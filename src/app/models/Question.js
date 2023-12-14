@@ -14,7 +14,6 @@ const Question = new Schema(
             }
         ],
         questionLevelId: { type: Schema.Types.ObjectId, ref: 'QuestionLevel' },
-        lessonId: { type: Schema.Types.ObjectId, ref: 'Lesson' },
         knowledges: [{ type: Schema.Types.ObjectId, ref: 'Knowledge' }],
     }
 )

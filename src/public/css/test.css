@@ -54,7 +54,27 @@ button a {
   text-decoration: none;
   color: var(--color-white);
 }
-
+.question {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+/* .answer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+} */
+.question-img img, .answer-img img {
+  width: 20%;
+  height: 20%;
+}
+.duration {
+  font-size: var(--font-size-36xl);
+}
+#timer {
+  font-size: var(--font-size-41xl);
+  font-weight: bold;
+}
 
 @media screen and (max-width: 922px) {
   .container {

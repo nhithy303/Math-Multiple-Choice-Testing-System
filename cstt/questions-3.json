@@ -28,7 +28,6 @@
         "questionLevelId": {
             "$oid": "6579d8d613a48d5b78dbdad7"
         },
-        "lessonId": { "$oid": "" },
         "knowledges": [
             {
                 "$oid": "6579fbba4755048edf89bf0d"

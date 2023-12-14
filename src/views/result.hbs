@@ -15,20 +15,26 @@
   <div class='modalkq'>
     <div class='desktop-4-inner'></div>
     <div class='title'>
-      <div class='s-cu-lm'>Số câu làm đúng: .../...</div>
-      <div class='im-s'>Điểm số: .../...</div>
-      <div class='thi-gian-hon'>Thời gian hoàn thành: &lt;...&gt;</div>
+      <div class="s-cu-lm">Số câu đã làm: {{doneLength}}/{{length}}</div>
+      <div class='s-cu-lm'>Số câu làm đúng: {{correctCount}}/{{length}}</div>
+      <div class='im-s'>Điểm số: {{grade}}/10.0</div>
     </div>
     <div class='content'>
-      <div class='cauhoi'>
-        <div class='p-n'>Câu 1: &lt;...&gt;</div>
-        <label><input type='radio' name='cau1' />A. &lt;...&gt;</label>
-        <label><input type='radio' name='cau1' />B. &lt;...&gt;</label>
-        <label><input type='radio' name='cau1' />C. &lt;...&gt;</label>
-        <label><input type='radio' name='cau1' />D. &lt;...&gt;</label>
-        <div class='p-n'>Đáp án: &lt;...&gt;</div>
-      </div>
-      <div class='cauhoi'>
+      {{#each questions}}
+        <div class='cauhoi'>
+          <div class='p-n'><u>Câu {{increaseIndex @index}}:</u> {{this.questionContent}}</div>
+          <p {{#if this.choices.0.isCorrect}}class="correct-answer"{{/if}}>A. {{this.choices.0.answerContent}}</p>
+          <p {{#if this.choices.1.isCorrect}}class="correct-answer"{{/if}}>B. {{this.choices.1.answerContent}}</p>
+          <p {{#if this.choices.2.isCorrect}}class="correct-answer"{{/if}}>C. {{this.choices.2.answerContent}}</p>
+          <p {{#if this.choices.3.isCorrect}}class="correct-answer"{{/if}}>D. {{this.choices.3.answerContent}}</p>
+          {{!-- <label><input type='radio' name='cau1' />A. &lt;...&gt;</label>
+          <label><input type='radio' name='cau1' />B. &lt;...&gt;</label>
+          <label><input type='radio' name='cau1' />C. &lt;...&gt;</label>
+          <label><input type='radio' name='cau1' />D. &lt;...&gt;</label> --}}
+          {{!-- <div class='p-n'>Đáp án: </div> --}}
+        </div>
+      {{/each}}
+      {{!-- <div class='cauhoi'>
         <div class='p-n'>Câu 2: &lt;...&gt;</div>
         <label><input type='radio' name='cau2' />A. &lt;...&gt;</label>
         <label><input type='radio' name='cau2' />B. &lt;...&gt;</label>
@@ -59,7 +65,7 @@
         <label><input type='radio' name='cau5' />C. &lt;...&gt;</label>
         <label><input type='radio' name='cau5' />D. &lt;...&gt;</label>
         <div class='p-n'>Đáp án: &lt;...&gt;</div>
-      </div>
+      </div> --}}
     </div>
   </div>
   <div class='modaldg'>
@@ -68,8 +74,19 @@
       <div class='cc-ni-dung'>Các nội dung kiến thức làm sai:</div>
     </div>
     <div class='content'>
-      <div class='ndungsai'>
-        <div class='detail'>
+      {{#each knowledges}}
+        <div class="ndungsai">
+          <p>{{increaseIndex @index}}/ {{this.name}}</p>
+          <div class="causai ">
+            {{#each this.content}}
+              <p>{{this}}</p>
+            {{/each}}
+          </div>
+        </div>
+      {{/each}}
+
+      {{!-- <div class='ndungsai'>
+        <div  class='detail'>
           1/ &lt;...&gt; (bài &lt;...&gt;, chương &lt;...&gt;, phần &lt;...&gt;,
           học kì &lt;...&gt;)
         </div>
@@ -95,8 +112,8 @@
             <p class='cu-hi'>&lt;Đáp án: nội dung câu trả lời&gt;</p>
           </div>
         </div>
-      </div>
-      <div class='ndungsai'>
+      </div> --}}
+      {{!-- <div class='ndungsai'>
         <div class='detail'>
           2/ &lt;...&gt; (bài &lt;...&gt;, chương &lt;...&gt;, phần &lt;...&gt;,
           học kì &lt;...&gt;)
@@ -151,7 +168,7 @@
             <p class='cu-hi'>&lt;Đáp án: nội dung câu trả lời&gt;</p>
           </div>
         </div>
-      </div>
+      </div> --}}
     </div>
   </div>
   <div class='btnback'>

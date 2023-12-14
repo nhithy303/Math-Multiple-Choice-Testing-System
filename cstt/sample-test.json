@@ -1,0 +1,1568 @@
+[
+    {
+        "questionContent": "Tìm điều kiện để biểu thức $P=\\sqrt{(5\\sqrt{x}+7)\\cdot(5\\sqrt{x}-7)}$ có nghĩa?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$x\\geq 0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x\\leq-\\frac{49}{25}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x\\geq\\frac{49}{25}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$x\\leq 0$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bedb" },
+            { "$oid": "6579fbba4755048edf89bede" }
+        ]
+    },
+    {
+        "questionContent": "Gọi $\\alpha, \\beta$ lần lượt là góc tạo bởi đưởng thẳng $y=-4 x+1$ và $y=-7 x+2$ với trục $O x$. Khi đó:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$90^{\\circ}<\\alpha<\\beta$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\alpha<\\beta<90^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\beta<\\alpha<90^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$90^{\\circ}<\\beta<\\alpha$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89befb"
+            }
+        ]
+    },
+    {
+        "questionContent": " Phương trình $\\sqrt{2} x^4-2(\\sqrt{2}+\\sqrt{3}) x^2+\\sqrt{12}=0$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Vô nghiệm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Có 2 nghiệm $x=\\sqrt{\\frac{\\sqrt{2}+\\sqrt{3}+\\sqrt{3}}{\\sqrt{2}}}, x=-\\sqrt{\\frac{\\sqrt{2}+\\sqrt{3}+\\sqrt{5}}{\\sqrt{2}}}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Có 2 nghiệm $x=\\sqrt{\\frac{\\sqrt{2}+\\sqrt{3}-\\sqrt{3}}{\\sqrt{2}}}, x=-\\sqrt{\\frac{\\sqrt{2}+\\sqrt{3}-\\sqrt{5}}{\\sqrt{2}}}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Có 4 nghiệm: $$ x=\\sqrt{\\frac{\\sqrt{2}+\\sqrt{3}-\\sqrt{5}}{\\sqrt{2}}}, x=-\\sqrt{\\frac{\\sqrt{2}+\\sqrt{3}-\\sqrt{5}}{\\sqrt{2}}} $$ \\n$$ x=\\sqrt{\\frac{\\sqrt{2}+\\sqrt{3}+\\sqrt{5}}{\\sqrt{2}}}, x=-\\sqrt{\\frac{\\sqrt{2}+\\sqrt{3}+\\sqrt{5}}{\\sqrt{2}}} $$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bedc"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf16"
+            }
+        ]
+    },
+    {
+        "questionContent": " Tập nghiệm của phương trình $4 x^2-12 x-3 \\sqrt{4 x^2-12 x+11}+13=0$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$S=\\left\\{\\frac{3 \\pm \\sqrt{2}}{2}\\right\\}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$S=\\{1 ; 2\\}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$S=\\left\\{\\frac{3}{2}\\right\\}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$S=\\varnothing$.",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bedc"
+            }
+        ]
+    },
+    {
+        "questionContent": " Cho phương trình $x^2-6 m x+8=0$ có hai nghiệm $x_1, x_2$ thì $x_1+x_2=3$ khi $\\mathrm{m}=$ ?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m=1$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Không tồn tại m",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m=\\frac{8}{9}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\left[\\begin{array}{l}m<\\frac{-2 \\sqrt{2}}{3} \\\\ m>\\frac{2 \\sqrt{2}}{3}\\end{array}\\right.$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf12"
+            }
+        ]
+    },
+    {
+        "questionContent": " Xác định $\\mathrm{m}$ để phương trình $x^2-(m-2) x+m+8=0$ có 2 nghiệm $x_1, x_2$ thỏa mãn: $x_1<x_2<0$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m<2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$-8<m<2$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m>-8$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\left[\\begin{array}{l}m<-8 \\\\ m>2\\end{array}\\right.$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": "Tam giác ABC có $\\widehat{A} = 90^{circ}; a = 29; b = 21$. Độ dài c là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$c = 26$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$c = 19$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$c = 20$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$c = 23$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" }
+        ]
+    },
+    {
+        "questionContent": "Tam giác vuông ABC có bình phương cạnh huyền bằng 289 và diện tích là 60. Độ dài của hai cạnh góc vuông là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "12 và 13.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "8 và 15.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "12 và 17.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Cả A, B, C đều sai.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" }
+        ]
+    },
+    {
+        "questionContent": "Tam giác vuông ABC vuông tại A, $b = 20, c = 21$. Độ dài đường cao AH là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$AH = 15$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$AH = 18,33$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$AH = \\frac{420}{29}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$AH = \\frac{580}{21}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" }
+        ]
+    },
+    {
+        "questionContent": "Cho tam giác vuông ABC ; biết $\\widehat{A} = 90^{\\circ}, \\widehat{B} = 60^{\\circ}, c = 5$ khi đó ta có độ dài b là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$b = \\frac{5\\sqrt{3}}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$b = 5\\sqrt{3}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$b = 2,5$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$b = 10$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf1d" },
+            { "$oid": "6579fbba4755048edf89bf1e" },
+            { "$oid": "6579fbba4755048edf89bf1f" },
+            { "$oid": "6579fbba4755048edf89bf20" },
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": " Một hình trụ có bán kính đáy $R$ bằng chiều cao $h$. Biết rằng diện tích xung quanh quanh của hình trụ là 18 . Bán kính đáy $R$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $R=\\frac{3}{\\pi}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $R=\\frac{3}{\\sqrt{\\pi}}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $R=3 \\sqrt{\\pi}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Cả ba đều sai.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf68"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một hình trụ có diện tích hai đáy và diện tích xung quanh đều bằng 314 (đvdt). Khi đó chiều cao $h$ của hình trụ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $h=31,4$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $h=10$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $h=100$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $h=3,14 \\cdot \\sqrt{10}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf63"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf68"
+            }
+        ]
+    },
+    {
+        "questionContent": " Với giả thiết của bài trên, thể tích $V$ của hình trụ này là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $V=314 \\cdot \\sqrt{3,14}(\\mathrm{dvtt})$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V=31400(\\mathrm{dvtt})$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V=3140($ đvtt)",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $V=3140 \\cdot \\sqrt{3,14}($ đvtt)",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf6a"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một bồn nước hình trụ có chiều cao $2 \\mathrm{~m}$. Một vòi nước chảy vào bồn với vận tốc 6750 lít/giờ Sau 10 phút chạy, mực nước trong bồn cao $0,5 \\mathrm{~m}$. Thể tích của bồn nước là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $V \\approx 4650$ lít",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V \\approx 4500$ lít",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $V \\approx 4750$ lít",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V \\approx 5750$ lít",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf6a"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một bồn nước hình trụ có sức chứa 1250 lít. Chiều cao của bồn là $1,57(\\mathrm{~m})$. Kết quả nào sau đây là diện tích xung quanh của bồn nước?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $S \\approx 5,2 m^{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S \\approx 5,4 m^{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S \\approx 54,9648 m^{2}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $S \\approx 5,324 \\mathrm{~m}^{2}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf6a"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một hình nón có chiều cao $15 \\mathrm{~cm}$, đường sinh $17 \\mathrm{~cm}$. Thể tích của hình nón là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $\\mathrm{V}=1048,8 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\mathrm{V}=1084,8 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\mathrm{V}=1004,8 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $\\mathrm{V}=1008,4 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf6e"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một hình nón có đường sinh $6 \\mathrm{~cm}$, góc giữa đường sinh và đường kính đáy là $60^{\\circ}$. Thể tích của hình nón là:",
+        "image": "https://drive.google.com/uc?export=view&id=1Hxq8SAkQr2uO_KPYjaFzHKBYFNuKkYwc",
+        "choices": [
+            {
+                "answerContent": " $\\mathrm{V}=58,94 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\mathrm{V}=48,94 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $\\mathrm{V}=68,94 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\mathrm{V}=46,94 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf6e"
+            }
+        ]
+    },
+    {
+        "questionContent": "Một hình nón có đường sinh $6 \\mathrm{~cm}$, góc giữa đường sinh và đường kính đáy là $60^{\\circ}$. Diện tích xung quanh hình nón là:",
+        "image": "https://drive.google.com/uc?export=view&id=1MV0_dTWRu9dqtJmuhdg2TQ2jn7fSqCsn",
+        "choices": [
+            {
+                "answerContent": " $\\mathrm{S}=65,52 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\mathrm{S}=56,52 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $\\mathrm{S}=54,52 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\mathrm{S}=68,52 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf6c"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một hình nón cụt có chiều cao $8 \\mathrm{~cm}$, đường sinh $10 \\mathrm{~cm}$, bán kính đáy lớn $12 \\mathrm{~cm}$. Diện tích xung quanh hình nón cụt là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $S=180 \\pi \\mathrm{cm}^{2}$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $S=60 \\pi \\mathrm{cm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S=96 \\pi \\mathrm{cm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Kết quả khác.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf70"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một hình nón cụt có chiều cao $8 \\mathrm{~cm}$, đường sinh $10 \\mathrm{~cm}$, bán kính đáy lớn $12 \\mathrm{~cm}$. Thể tích hình nón cụt là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $\\mathrm{V}=2116,08 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\mathrm{V}=2160,08 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\mathrm{V}=2110,08 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $\\mathrm{V}=2200,08 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf72"
+            }
+        ]
+    },
+    {
+        "questionContent": "Phương trình $(m+1) x^{2}+200 x-5=0$ có hai nghiệm trái dấu khi:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m \\leq-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\geq-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m>-1$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": ". $m<-1$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf14"
+            }
+        ]
+    },
+    {
+        "questionContent": "Tích hai nghiệm của phương trình $15 x^{2}+225 x+75=0$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "15",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "-5",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "-15",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "5",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf14"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho phương trình bậc hai $4 x^{2}-2(m+1) x+m=0$. Phương trình có nghiệm kép khi $m$ bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "1",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "-1",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "với mọi $\\mathrm{m}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Một kết quả khác",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": "Biệt thức $\\Delta^{\\prime}$ của phương trình $4 x^{2}-4 x-1=0$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "13",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "20",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "8",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "25",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": "Một nghiệm của phương trình $102 x^{2}-102 x-204=0$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "-2",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "3",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "-1",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "1",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho hệ phương trình với tham số $\\mathrm{m}:\\left\\{\\begin{array}{l}(m+1) x-y=m+1 \\\\ x+(a-1) y=2\\end{array}\\right$. Tìm các giá trị nguyên của $\\mathrm{m}$ để nghiệm của hệ phương trình thỏa mãn điều kiện $x+y$ nhỏ nhất.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m=-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=-2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=-3$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=-4$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf03" },
+            { "$oid": "6579fbba4755048edf89bf00" }
+        ]
+    },
+    {
+        "questionContent": "Tìm nghiệm của hệ phương trình sau: $\\left\\{\\begin{array}{l}x+y+z+t=4 \\\\ x+y-z-t=8 \\\\ x-y+z-t=12 \\\\ x-y-z+t=16\\end{array}\\right.$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$(8 ;-3 ;-3 ; 2)$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$(-4 ;-4 ; 8 ; 8)$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$(10 ;-4 ;-2 ; 0)$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$(6 ;-3 ;-2 ; 3)$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf00" },
+            { "$oid": "6579fbba4755048edf89bf01" }
+        ]
+    },
+    {
+        "questionContent": "Cho phương trình $2 x+3 y=300$. Phương trình có bao nhiêu nghiệm nguyên dương ?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "30",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "40",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "50",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "60",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf00" },
+            { "$oid": "6579fbba4755048edf89bf01" }
+        ]
+    },
+    {
+        "questionContent": "Cho ba đường thẳng $y=3 x-2 ; y=\\frac{-1}{3} x+\\frac{4}{3} ; y=-2 x+8$. Mièn được tạo bơi đồ thị của ba đường thẳng đã cho là tam giác gì?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Tam giác thường. ",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Tam giác cân.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Tam giác vuông cân. ",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "Tam giác vuông",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf00" },
+            { "$oid": "6579fbba4755048edf89befa" },
+            { "$oid": "6579fbba4755048edf89befb" }
+        ]
+    },
+    {
+        "questionContent": "Cho hai đường thẳng có phương trình: $2 x-y=-6$ và $x+y=3$. Hai đường thẳng lẩn lượt cắt trục hoành tại $\\mathrm{A}, \\mathrm{B}$. Gọi $\\mathrm{M}$ là giao điểm của hai đường thẳng đó. Giả sử $(\\mathrm{x} ; \\mathrm{y})$ là tọa độ của điểm thuộc miền tam giác MAB. Tìm giá trị lớn nhất của $2 x+y$.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "4",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "6",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "8",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "10",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf00" },
+            { "$oid": "6579fbba4755048edf89befa" },
+            { "$oid": "6579fbba4755048edf89befe" }
+        ]
+    },
+    {
+        "questionContent": "Cho hệ phương trình $\\left\\{\\begin{array}{l}|x+1|+y=2 \\\\ x+2 y=k\\end{array}\\right$. Tìm k để hệ đã cho có nghiệm duy nhất.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$k=1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$k=2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$k=3$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$k=4$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf00" },
+            { "$oid": "6579fbba4755048edf89befe" }
+        ]
+    },
+    {
+        "questionContent": "Cho hệ phương trình $\\left\\{\\begin{array}{l}a x+y=3(1) \\\\ x-2 y=2(2)\\end{array}\\right$. Gọi $\\left(D_1\\right),\\left(D_2\\right)$ lần lượt lả các đường thẳng có phương trình (1) và (2). Tìm a để( $\\left.D_1\\right),\\left(D_2\\right)$ cắt nhau tại điểm có tọa độ (2;0)",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\frac{1}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "1",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\frac{3}{2}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "2",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf00" },
+            { "$oid": "6579fbba4755048edf89befe" },
+            { "$oid": "6579fbba4755048edf89bef9" }
+        ]
+    },
+    {
+        "questionContent": "Cho hệ phương trình $\\left\\{\\begin{array}{l}a x+y=3(1) \\\\ x-2 y=2(2)\\end{array}\\right$. Gọi $\\left(D_1\\right),\\left(D_2\\right)$ lần lượt là các đường thẳng có phương trình (1) vả (2). Tìm a biết rằng có điểm A trên $\\left(\\mathrm{D}_1\\right)$ và điểm $\\mathrm{B}$ trền $\\left(\\mathrm{D}_2\\right)$ thỏa: $\\left\\{\\begin{array}{l}x_A=x_B \\neq 0 \\\\ y_A+3 y_B=0\\end{array}\\right.$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\frac{1}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "1",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\frac{3}{2}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "2",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf00" },
+            { "$oid": "6579fbba4755048edf89befe" }
+        ]
+    },
+    {
+        "questionContent": "Cho các hàm số $y=\\frac{x}{3}+m$ có đồ thị $D_m$ và $y=|1-x|$ có đồ thị $\\mathrm{D}$. Cho $m=1$, khi đó giao điểm của $D_m, D$ có tọa độ $\\left(x_1 ; y_1\\right),\\left(x_2 ; y_2\right)$. Tính $A=x_1+x_2+y_1+y_2$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "6",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "7",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "8",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "9",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf00" },
+            { "$oid": "6579fbba4755048edf89befa" }
+        ]
+    },
+    {
+        "questionContent": "Cho tam giác ABC có $a = 5, b = 4, c = 3$. Kết quả nào sau đây là đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\sin C = 0,75$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\sin C = 0,8$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\sin C = 0,6$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\sin C = 1,3$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Với giả thiết câu 24, kết quả nào sau đây là đúng ?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\cos B = 0,75$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\cos B = 0,6$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\cos B = 0,8$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\sin C = 1,3$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Với giả thiết câu 24. Gọi AH là đường cao thuộc cạnh BC và $\\widehat{BAH} = \\alpha$ . Kết quả nào sau đây là đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\cos\\alpha = 0,6$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\cos\\alpha = 0,75$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\cos\\alpha = 0,8$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\cos\\alpha = \\frac{2\\sqrt{3}}{5}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf21" },
+            { "$oid": "6579fbba4755048edf89bf19" }
+        ]
+    },
+    {
+        "questionContent": "Cho hệ phương trình: $\\left\\{\\begin{array}{l}x+m y=1 \\\\ m x+y=2 m\\end{array}\\right$. Tìm giá trị của m để hệ có nghiệm duy nhất $(\\mathrm{x} ; \\mathrm{y})$ sao cho $x+y$ đạt giả trị nguyên nhỏ nhất.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m=1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=3$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=5$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=0$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf00" },
+            { "$oid": "6579fbba4755048edf89befe" }
+        ]
+    },
+    {
+        "questionContent": "Xác định tham số $m$ để hệ phương trình $\\left\\{\\begin{array}{l}m x+4 y=2 m+3 \\\\ 2 x+y=m-1\\end{array}\\right.$ có vô số nghiệm",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Không có giá trị m",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m=8$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=5$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf00" },
+            { "$oid": "6579fbba4755048edf89befe" }
+        ]
+    },
+    {
+        "questionContent": "Xác định tham số $m$ để hậ phương trình $\\left\\{\\begin{array}{l}(m+3) x+(m-3) y=2 m \\\\ \\left(m^2+9\\right) x+\\left(m^2-9\\right) y=2 m^2\\end{array}\right$ có nghiệm duy nhất.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\left\\{\\begin{array}{l}m \\neq 1 \\\\ m \\neq 0\\end{array}\\right.$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\left\\{\\begin{array}{l}m \\neq-3 \\\\ m \\neq 0\\end{array}\\right.$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\left\\{\\begin{array}{l}m \\neq 3 \\\\ m \\neq 0\\end{array}\\right.$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\left[\\begin{array}{l}m \\neq 3 \\\\ m \\neq 0\\end{array}\\right.$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf00" },
+            { "$oid": "6579fbba4755048edf89befe" }
+        ]
+    },
+    {
+        "questionContent": "Xác định tham số $m$ để hệ $\\left\\{\\begin{array}{l}m x+4 y=m^2+4 \\\\ x+(m+3) y=2 m+3\\end{array}\\right.$ có nghiệm $(x ; y)$ thỏa mãn:$$\\left\\{\\begin{array}{l}x=5-4 t \\\\y=t\\end{array}(t \\in \\mathbb{R})\\right.$$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m=4$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=3$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=1$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf00" },
+            { "$oid": "6579fbba4755048edf89bef5" }
+        ]
+    },
+    {
+        "questionContent": "Cho hệ phương trình: $\\left\\{\\begin{array}{l}(m+1) x-y=3 \\\\ m x+y=m\\end{array}\\right.$. Tìm $m$ để hệ có nghiệm duy nhất sao cho tổng $x+y$ dương.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m>\\frac{-1}{2}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m \\neq \\frac{-1}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\geq \\frac{-1}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m>1$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf00" },
+            { "$oid": "6579fbba4755048edf89befe" }
+        ]
+    },
+    {
+        "questionContent": "Tìm giá trị của $m \\neq 0$ sao cho hệ phương trình $\\left\\{\\begin{array}{l}m x-y=2 \\\\ 3 x+m y=5\\end{array}\\right.$ có nghiệm thỏa mã̃n hệ thức $x+y=\\frac{3}{m^2+3}$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\frac{4}{6}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\frac{3}{4}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\frac{4}{7}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\frac{4}{9}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf00" },
+            { "$oid": "6579fbba4755048edf89befe" }
+        ]
+    },
+    {
+        "questionContent": "Tìm giá trị của $m \\in \\mathbb{Z}$ sao cho hệ phương trình $\\left\\{\\begin{array}{l}m x-y=1 \\\\ x+4(m+1) y=4 m\\end{array}\\right.$ có nghiệm nguyên",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\left\\{\\begin{array}{l}m=-1 \\\\ m=1\\end{array}\\right.$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\in\\{-1 ; 0\\}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m= \\pm 1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\left\\{\\begin{array}{l}m=0 \\\\ m=-1\\end{array}\\right.$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf00" },
+            { "$oid": "6579fbba4755048edf89befe" }
+        ]
+    },
+    {
+        "questionContent": "Cho hệ phương trình: $\\left\\{\\begin{array}{l}m x-y=2 m \\\\ 4 x-m y=m+6\\end{array}\\right.$ Với lần lượt các giá trị nào của $m$ thì hệ vô nghiệm và hệ vô số nghiệm?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m=-2 ; m=2$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m=-1 ; m=2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=2 ; m=-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=2 ; m=-2$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf00" },
+            { "$oid": "6579fbba4755048edf89befe" }
+        ]
+    },
+    {
+        "questionContent": "Cho hệ phương trình: $\\left\\{\\begin{array}{l}m x+2 y=m+1 \\\\ 2 x+m y=2 m-1\\end{array}\\right.$ Tìm m nguyên để hệ có nghiệm duy nhất là số nguyên.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m \\in(-1 ; 1)$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\in\\{1 ;-1\\}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\in(-3 ;-1 ; 1 ;-5)$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m \\in(-1 ;-3 ; 5)$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf00" },
+            { "$oid": "6579fbba4755048edf89befe" },
+            { "$oid": "6579fbba4755048edf89bef4" }
+        ]
+    },
+    {
+        "questionContent": "Cho hệ phương trình: $\\left\\{\\begin{array}{l}m x+4 y=9 \\\\ x+m y=8\\end{array}\\right.$. Vói giá trị nảo của $m$ để hệ có nghiệm duy nhất $(x ; y)$ thỏa mãn hệ thức: $2 x+y+\\frac{38}{m^2-4}=3$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m \\in\\left\\{1 ; \\frac{23}{3}\\right\\}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m= \\pm 2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=\\frac{23}{3}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf00" },
+            { "$oid": "6579fbba4755048edf89befe" },
+            { "$oid": "6579fbba4755048edf89bef4" }
+        ]
+    },
+    {
+        "questionContent": "Cho hệ phương trình $\\left\\{\\begin{array}{l}3 x+y=3 \\\\ x-3 y=6\\end{array}\\right.$. Xác định $a$ để hệ vô nghiệm?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\frac{-1}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "-1",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "1",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$-x \\sqrt{y}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf00" },
+            { "$oid": "6579fbba4755048edf89bf01" }
+        ]
+    }
+]

@@ -1,10 +1,11 @@
 .desktop-4-child {
   position: relative;
   background-color: var(--color-steelblue-300);
- top:0;
- height: 113px;
+  top:0;
+  height: 113px;
   display: flex;
   width: 100%;
+  font-family: var(--font-crimson-pro);
 }
 
 .rectangle-parent7 {
@@ -165,12 +166,12 @@
   margin: auto;
   overflow: hidden;
   text-align: center;
-  font-size: var(--font-size-16xl);
+  font-size: var(--font-size-21xl);
   color: var(--color-black);
-  font-family: var(--font-consolas);
   display: flex;
   flex-direction: column;
   align-items: center;
+  font-family: var(--font-crimson-pro);
 }
 .btn{
   display: flex;
@@ -226,7 +227,7 @@
   display: flex;
   flex-direction: column;
   height: 400px;
-padding-left: 10px;
+  padding-left: 10px;
   overflow: auto;
   margin: 20px;
   border-style: groove;
@@ -314,4 +315,12 @@ padding-left: 10px;
     text-align: center;
     text-decoration: none;
     font-size: 16px;
+}
+
+.picked-answer {
+  color: red
+}
+.correct-answer {
+  color: green;
+  font-weight: bold;
 }

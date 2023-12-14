@@ -41,7 +41,8 @@ app.engine(
     // defaultLayout: 'user',
     helpers: {
       increaseIndex: hbsHelpers.increaseIndex,
-      createQuestionsTable: hbsHelpers.createQuestionsTable
+      createQuestionsTable: hbsHelpers.createQuestionsTable,
+      compareNumber: hbsHelpers.compareNumber
     },
   })
 )

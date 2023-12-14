@@ -5,7 +5,8 @@
   <div class="container">
     <div class="left-column">
       <div class="duration">
-        Thời gian còn lại = <span id="timer">{{duration}}:00</span>
+        Thời gian còn lại
+        <div id="timer">{{duration}}:00</div>
       </div>
       {{!-- <div class="questions-table" id="questions-table">
         {{createQuestionsTable length}}
@@ -13,20 +14,75 @@
     </div>
     <div class="right-column">
       <form method="POST" action="/result" name="test-form" class="test-form" onsubmit="return validateForm(event)">
-        {{#each questions}}
-          <div class="question">
-            <p>Câu {{increaseIndex @index}}: {{this.questionContent}}</p>
-            {{#each this.choices}}
-              <input type="radio"
-                name="q-{{increaseIndex @../index}}"
-                id="q-{{increaseIndex @../index}}-{{@index}}"
-                value="q-{{increaseIndex @../index}}-{{@index}}">
-              <label for="q-{{increaseIndex @../index}}-{{@index}}">
-                {{answers @index}}. {{this.answerContent}}
-              </label>
-            {{/each}}
-          </div>
-        {{/each}}
+        <div class="question">
+          {{#each questions}}
+            
+              <p><span style="text-decoration: underline;">Câu {{increaseIndex @index}}:</span> {{this.questionContent}}</p>
+              {{#if this.image}}
+                <div class="question-img">
+                  <img src="{{this.image}}">
+                </div>
+              {{/if}}
+
+              <div class="answer">
+                <input type="radio"
+                  name="q-{{this._id}}"
+                  id="q-{{this._id}}-0"
+                  value="q-{{this._id}}-0">
+                <label for="q-{{this._id}}-0">
+                  A. {{this.choices.0.answerContent}}
+                </label>
+
+                {{#if this.choices.0.image}}
+                  <div class="answer-img">
+                    <img src="{{this.choices.0.image}}" alt="">
+                  </div>
+                {{/if}}
+              </div>
+              
+              <div class="answer">
+                <input type="radio"
+                  name="q-{{this._id}}"
+                  id="q-{{this._id}}-1"
+                  value="q-{{this._id}}-1">
+                <label for="q-{{this._id}}-1">
+                  B. {{this.choices.1.answerContent}}
+                </label>
+              </div>
+
+              <div class="answer">
+                <input type="radio"
+                  name="q-{{this._id}}"
+                  id="q-{{this._id}}-2"
+                  value="q-{{this._id}}-2">
+                <label for="q-{{this._id}}-2">
+                  C. {{this.choices.2.answerContent}}
+                </label>
+              </div>
+
+              <div class="answer">
+                <input type="radio"
+                  name="q-{{this._id}}"
+                  id="q-{{this._id}}-3"
+                  value="q-{{this._id}}-3">
+                <label for="q-{{this._id}}-3">
+                  D. {{this.choices.3.answerContent}}
+                </label>
+              </div>
+
+              {{!-- {{#each this.choices}}
+                <input type="radio"
+                  name="q-{{increaseIndex @../index}}"
+                  id="q-{{increaseIndex @../index}}-{{@index}}"
+                  value="q-{{increaseIndex @../index}}-{{@index}}">
+                <label for="q-{{increaseIndex @../index}}-{{@index}}">
+                  {{answers[@index]}}. {{this.answerContent}}
+                </label>
+              {{/each}} --}}
+          {{/each}}
+        </div>
+
+        <input type="hidden" name="length" value={{length}}>
 
         <input type="submit" class="btn-test" value="Nộp bài">
         <button type="button" class="btn-test">

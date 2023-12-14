@@ -17,5 +17,8 @@ module.exports = {
         }
         htmlStr += '</table>'
         return htmlStr
+    },
+    compareNumber: (x, y) => {
+        return x === y
     }
 }
