@@ -18,19 +18,15 @@ $\frac{1}{h^2}=\frac{1}{b^2}+\frac{1}{c^2}$
 5/ Nhận xét 'Tỉ số lượng giác của góc nhọn': Tỉ số lượng giác của một góc nhọn luôn luôn dương, và $\sin\alpha<1$, $\cos\alpha<1$.
 6/ Chú ý 'Tỉ số lượng giác của góc nhọn': Nếu hai góc nhọn $\alpha$ và $\beta$ có $\sin\alpha=\sin\beta$ (hoặc $\cos\alpha=\cos\beta$, hoặc $\tan\alpha=\tan\beta$, hoặc $\cot\alpha=\cot\beta$) thì $\alpha=\beta$ vì chúng là hai góc tương ứng của hai tam giác vuông đồng dạng.
 7/ Định lí 'Tỉ số lượng giác của hai góc phụ nhau': Nếu hai góc phụ nhau thì sin góc này bằng cosin góc kia, tang góc này bằng cotang góc kia.
-Cho hai gocs $\alpha$ và $\beta$ phụ nhau. Khi đó: $\sin\alpha=\cos\beta$; $\cos\alpha=\sin\beta$; $\tan\alpha=\cot\beta$; $\cot\alpha=\tan\beta$.
+Cho hai góc $\alpha$ và $\beta$ phụ nhau. Khi đó: $\sin\alpha=\cos\beta$; $\cos\alpha=\sin\beta$; $\tan\alpha=\cot\beta$; $\cot\alpha=\tan\beta$.
 
-> Bài 3: Bảng lượng giác
-
-> Bài 4: Một số hệ thức về cạnh và góc trong tam giác vuông
+> Bài 3: Một số hệ thức về cạnh và góc trong tam giác vuông
 1/ Định lí 'Hệ thức về cạnh và góc trong tam giác vuông': Trong tam giác vuông, mỗi cạnh góc vuông bằng:
 a/ Cạnh huyền nhân với sin góc đối hoặc nhân với cosin góc kề;
 b/ Cạnh góc vuông kia nhân với tang góc đối hoặc nhân với cotang góc kề.
 Như vậy, trong tam giác $ABC$ vuông tại $A$, ta có các hệ thức:
 $b=a.\sin B=a.\cos C$; $b=c.\tan B=c.\cot C$; $c=a.\sin C=a.\cos B$; $c=b.\tan C=b.\cot B$.
 2/ Định nghĩa 'Giải tam giác vuông': Trong một tam giác vuông, nếu cho biết trước hai cạnh hoặc một cạnh và một góc nhọn thì ta sẽ tìm được tất cả các cạnh và góc còn lại của nó. Bài toán đặt ra như thế gọi là bài toán "Giải tam giác vuông".
-
-> Bài 5: Ứng dụng thực tế các tỉ số lượng giác của góc nhọn
 
 -----------------------------
 --- Chương II: Đường tròn ---
@@ -99,15 +95,13 @@ Tia kẻ từ tâm đi qua điểm đó là tia phân giác của góc tạo b�
 8/ Định lí 'Đường nối tâm hai đường tròn':
 a/ Nếu hai đường tròn cắt nhau thì hai giao điểm đối xứng với nhau qua đường nối tâm, tức là đường nối tâm là đường trung trực của dây chung.
 b/ Nếu hai đường tròn tiếp xúc nhau thì tiếp điểm nằm trên đường nối tâm.
-
-> Bài 8: Vị trí tương đối của hai đường tròn (tiếp theo)
-1/ Định lí 'Hệ thức giữa đoạn nối tâm và các bán kính': Xét hai đường tròn $(O;R)$ và $(O';r)$ trong đó $R\geq r$.
+9/ Định lí 'Hệ thức giữa đoạn nối tâm và các bán kính': Xét hai đường tròn $(O;R)$ và $(O';r)$ trong đó $R\geq r$.
 Nếu hai đường tròn $(O)$ và $(O')$ cắt nhau thì $R-r<OO'<R+r$.
 Nếu hai đường tròn $(O)$ và $(O')$ tiếp xúc ngoài thì $OO'=R+r$.
 Nếu hai đường tròn $(O)$ và $(O')$ tiếp xúc trong thì $OO'=R-r$.
 Nếu hai đường tròn $(O)$ và $(O')$ ở ngoài nhau thì $OO'>R+r$.
 Nếu đường tròn $(O)$ đựng đường tròn $(O')$ thì $OO'<R-r$.
-2/ Định nghĩa 'Tiếp tuyến chung của hai đường tròn': Tiếp tuyến chung của hai đường tròn là đường thẳng tiếp xúc với cả hai đường tròn đó.
+10/ Định nghĩa 'Tiếp tuyến chung của hai đường tròn': Tiếp tuyến chung của hai đường tròn là đường thẳng tiếp xúc với cả hai đường tròn đó.
 
 --------------------------------------
 --- Chương III: Góc với đường tròn ---

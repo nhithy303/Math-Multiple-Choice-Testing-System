@@ -1,0 +1,83 @@
+<div class='main'>
+  <div class='title'>
+    <b>Thi trắc nghiệm</b>
+  </div>
+  <div class="container">
+    <div class="left-column">
+      <div class="duration">
+        Thời gian còn lại = <span id="timer">{{duration}}:00</span>
+      </div>
+      {{!-- <div class="questions-table" id="questions-table">
+        {{createQuestionsTable length}}
+      </div> --}}
+    </div>
+    <div class="right-column">
+      <form method="POST" action="/result" name="test-form" class="test-form" onsubmit="return validateForm(event)">
+        {{#each questions}}
+          <div class="question">
+            <p>Câu {{increaseIndex @index}}: {{this.questionContent}}</p>
+            {{#each this.choices}}
+              <input type="radio"
+                name="q-{{increaseIndex @../index}}"
+                id="q-{{increaseIndex @../index}}-{{@index}}"
+                value="q-{{increaseIndex @../index}}-{{@index}}">
+              <label for="q-{{increaseIndex @../index}}-{{@index}}">
+                {{answers @index}}. {{this.answerContent}}
+              </label>
+            {{/each}}
+          </div>
+        {{/each}}
+
+        <input type="submit" class="btn-test" value="Nộp bài">
+        <button type="button" class="btn-test">
+          <a href="/settings">Thoát</a>
+        </button>
+      </form>
+    </div>
+  </div>
+</div>
+
+<script>
+  // document.getElementById('questions-table').innerHTML = "{{createQuestionsTable length}}"
+  // console.log({{createQuestionsTable length}})
+
+  // Timer
+  var timeLimitInMinutes = {{duration}};
+  var timeLimitInSeconds = timeLimitInMinutes * 60;
+  var timerElement = document.getElementById('timer');
+  var timerInterval = setInterval(() => {
+    timeLimitInSeconds--;
+    var minutes = Math.floor(timeLimitInSeconds / 60);
+    var seconds = timeLimitInSeconds % 60;
+    if (timeLimitInSeconds < 0) {
+      timerElement.textContent = '00:00';
+      clearInterval(timerInterval);
+      return;
+    }
+    if (minutes < 10) {
+      minutes = '0' + minutes;
+    }
+    if (seconds < 10) {
+      seconds = '0' + seconds;
+    }
+    timerElement.textContent = minutes + ':' + seconds;
+  }, 1000);
+
+  const validateForm = (e) => {
+
+  }
+  
+  const evaluateTest = () => {
+    // "q-{{increaseIndex @../index}}-{{@index}}
+    // q-1-0 , q-1-1 , q-1-2 , q-1-3 , q-2-0
+    // {{questions}}
+    const checkedRadios = document.querySelectorAll('input[type="radio"]:checked')
+    const pickedAnswers = Array.from(checkedRadios, radio => radio.value)
+    pickedAnswers.forEach(answer => {
+      const thisAnswer = answer.split('-')
+      const q = thisAnswer[1]
+      const a = thisAnswer[2]
+    })
+  }
+
+</script>

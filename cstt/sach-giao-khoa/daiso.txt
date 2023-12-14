@@ -27,9 +27,7 @@ Một cách tổng quát, với hai biểu thức $A$ và $B$ không âm ta có 
 3/ Áp dụng 'Quy tắc chia hai căn bậc hai': Muốn chia căn bậc hai của số $a$ không âm cho căn bậc hai của số $b$ dương, ta có thể chia số $a$ cho số $b$ rồi khai phương kết quả đó.
 4/ Chú ý 'Liên hệ giữa phép chia và phép khai phương': Một cách tổng quát, với biểu thức $A$ không âm và biểu thức $B$ dương, ta có $\sqrt{\frac{A}{B}}=\frac{\sqrt{A}}{\sqrt{B}}$.
 
-> Bài 5: Bảng căn bậc hai
-
-> Bài 6: Biến đổi đơn giản biểu thức chứa căn thức bậc hai
+> Bài 5: Biến đổi đơn giản biểu thức chứa căn thức bậc hai
 1/ Định nghĩa 'Phép đưa thừa số ra ngoài dấu căn': Phép biến đổi $\sqrt{a^2 b}=a\sqrt{b}$ (với $a\geq 0$, $b\geq 0$) được gọi là phép đưa thừa số ra ngoài dấu căn.
 2/ Định lí 'Phép đưa thừa số ra ngoài dấu căn': Với hai biểu thức $A$, $B$ mà $B\geq 0$, ta có $\sqrt{A^2.B}=|A|\sqrt{B}$, tức là:
 Nếu $A\geq 0$ và $B\geq 0$ thì $\sqrt{A^2 B}=A\sqrt{B}$;
@@ -38,16 +36,14 @@ Nếu $A<0$ và $B\geq 0$ thì $\sqrt{A^2 B}=-A\sqrt{B}$.
 Với $A\geq 0$ và $B\geq 0$ ta có $A\sqrt{B}=\sqrt{A^2 B}$.
 Với $A<0$ và $B\geq 0$ ta có $A\sqrt{B}=-\sqrt{A^2 B}$.
 
-> Bài 7: Biến đổi đơn giản biểu thức chứa căn thức bậc hai (tiếp theo)
+> Bài 6: Biến đổi đơn giản biểu thức chứa căn thức bậc hai (tiếp theo)
 1/ Định lí 'Khử mẫu của biểu thức lấy căn': Với các biểu thức $A$, $B$ mà $A.B\geq 0$ và $B\neq 0$, ta có $\sqrt{\frac{A}{B}}=\frac{\sqrt{AB}}{|B|}$.
 2/ Định lí 'Trục căn thức ở mẫu':
 a/ Với các biểu thức $A$, $B$ mà $B>0$, ta có $\frac{A}{\sqrt{B}}=\frac{A\sqrt{B}}{B}$.
 b/ Với các biểu thức $A$, $B$, $C$ mà $A\geq 0$ và $A\neq B^2$, ta có $\frac{C}{\sqrt{A}\pm B}=\frac{C(\sqrt{A}\mp B)}{A-B^2}$.
 c/ Với các biểu thức $A$, $B$, $C$ mà $A\geq 0$, $B\geq 0$ và $A\neq B$, ta có $\frac{C}{\sqrt{A}\pm\sqrt{B}}=\frac{C(\sqrt{A}\mp\sqrt{B})}{A-B}$.
 
-> Bài 8: Rút gọn biểu thức chứa căn thức bậc hai
-
-> Bài 9: Căn bậc ba
+> Bài 7: Căn bậc ba
 1/ Định nghĩa 'Căn bậc ba': Căn bậc ba của một số $a$ là số $x$ sao cho $x^3=a$. Mỗi số $a$ đều có duy nhất một căn bậc ba. Căn bậc ba của số $a$ được kí hiệu là $\sqrt[3]{a}$. Số 3 gọi là chỉ số của căn.
 2/ Định nghĩa 'Phép khai căn bậc ba': Phép tìm căn bậc ba của một số gọi là phép khai căn bậc ba.
 3/ Chú ý 'Căn bậc ba': Từ định nghĩa căn bậc ba, ta có $(\sqrt[3]{a})^3=\sqrt[3]{a^3}=a$.
@@ -69,7 +65,7 @@ c/ Với $b\neq 0$, ta có $\sqrt[3]{\frac{a}{b}}=\frac{\sqrt[3]{a}}{\sqrt[3]{b}
 4/ Định nghĩa 'Hàm số đồng biến, nghịch biến': Cho hàm số $y=f(x)$ xác định với mọi giá trị của $x$ thuộc $\R$
 a/ Nếu giá trị của biến $x$ tăng lên mà giá trị tương ứng $f(x)$ cũng tăng lên thì hàm số $y=f(x)$ được gọi là hàm số đồng biến trên $\R$ (gọi tắt là hàm số đồng biến).
 b/ Nếu giá trị của biến $x$ tăng lên mà giá trị tương ứng $f(x)$ lại giảm đi thì hàm số $y=f(x)$ được gọi là hàm số nghịch biến trên $\R$ (gọi tắt là hàm số nghịch biến).
-Nói cách khác, với $x_{1}$, $x_{2}$ bất kì thuộc $\R$:
+5/ Nhận xét 'Hàm số đồng biến, nghịch biến': Nói cách khác, với $x_{1}$, $x_{2}$ bất kì thuộc $\R$:
 Nếu $x_{1}<x_{2}$ mà $f(x_{1})<f(x_{2})$ thì hàm số $y=f(x)$ đồng biến trên $\R$;
 Nếu $x_{1}<x_{2}$ mà $f(x_{1})>f(x_{2})$ thì hàm số $y=f(x)$ nghịch biến trên $\R$.
 
@@ -96,7 +92,7 @@ Bước 2: Vẽ đường thẳng đi qua hai điểm $P$ và $Q$ ta được đ
 3/ Chú ý 'Đường thẳng cắt nhau': Khi $a\neq a'$ và $b=b'$ thì hai đường thẳng có cùng tung độ gốc, do đó chúng cắt nhau tại một điểm trên trục tung có tung độ là $b$.
 
 > Bài 5: Hệ số góc của đường thẳng $y=a x+b(a\neq 0)$
-1/ Định nghĩa 'Góc tạo bởi đường thẳng $y=a x+b$ và trục $Ox$: Trong mặt phẳng tọa độ $Oxy$, khi nói góc $\alpha$ tạo bởi đường thẳng $y=a x+b$ và trục $Ox$ (hoặc nói đường thẳng $y=a x+b$ tạo với trục $Ox$ một góc $\alpha$), ta hiểu đó là góc tạo bởi tia $Ax$ và tia $AT$, trong đó $A$ là giao điểm của đường thẳng $y=a x+b$ với trục $Ox$, $T$ là điểm thuộc đường thẳng $y=a x+b$ và có tung độ dương.
+1/ Định nghĩa 'Góc tạo bởi đường thẳng $y=a x+b$ và trục $Ox$': Trong mặt phẳng tọa độ $Oxy$, khi nói góc $\alpha$ tạo bởi đường thẳng $y=a x+b$ và trục $Ox$ (hoặc nói đường thẳng $y=a x+b$ tạo với trục $Ox$ một góc $\alpha$), ta hiểu đó là góc tạo bởi tia $Ax$ và tia $AT$, trong đó $A$ là giao điểm của đường thẳng $y=a x+b$ với trục $Ox$, $T$ là điểm thuộc đường thẳng $y=a x+b$ và có tung độ dương.
 2/ Định nghĩa 'Hệ số góc': Các đường thẳng có cùng hệ số $a$ ($a$ là hệ số của $x$) thì tạo với trục $Ox$ các góc bằng nhau.
 Khi hệ số $a$ dương ($a>0$) thì góc tạo bởi đường thẳng $y=a x+b$ và trục $Ox$ là góc nhọn. Hệ số $a$ càng lớn thì góc càng lớn nhưng vẫn nhỏ hơn $90^\circ$.
 Khi hệ số $a$ âm ($a<0$) thì góc tạo bởi đường thẳng $y=a x+b$ và trục $Ox$ là góc tù. Hệ số $a$ càng lớn thì góc càng lớn nhưng vẫn nhỏ hơn $180^\circ$.

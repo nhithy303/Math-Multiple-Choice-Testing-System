@@ -1,0 +1,65 @@
+[
+    {
+        "level": "Dễ",
+        "structure": [
+            {
+                "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+                "percentage": 50
+            },
+            {
+                "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+                "percentage": 50
+            },
+            {
+                "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+                "percentage": 0
+            },
+            {
+                "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdada" },
+                "percentage": 0
+            }
+        ]
+    },
+    {
+        "level": "Trung bình",
+        "structure": [
+            {
+                "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+                "percentage": 0
+            },
+            {
+                "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+                "percentage": 50
+            },
+            {
+                "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+                "percentage": 50
+            },
+            {
+                "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdada" },
+                "percentage": 0
+            }
+        ]
+    },
+    {
+        "level": "Khó",
+        "structure": [
+            {
+                "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+                "percentage": 0
+            },
+            {
+                "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+                "percentage": 0
+            },
+            {
+                "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+                "percentage": 50
+            },
+            {
+                "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdada" },
+                "percentage": 50
+            }
+        ]
+    }
+]

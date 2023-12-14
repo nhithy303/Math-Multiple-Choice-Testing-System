@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset='UTF-8' />
+    <meta name='viewport' content='width=device-width, initial-scale=1.0' />
+    {{!-- <title>{{title}} Funlish</title> --}}
+    <title>Trắc nghiệm Toán 9</title>
+    {{! <link rel="icon" type="image/x-icon" href="/images/favicon.png"> }}
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+          extensions: ["tex2jax.js"],
+          jax: ["input/TeX", "output/HTML-CSS"],
+          tex2jax: {
+              inlineMath: [ ["$", "$"], ["\\(","\\)"] ],
+              displayMath: [ ["$$", "$$"], ["\\[","\\]"] ],
+              processEscapes: true
+          },
+          "HTML-CSS": { fonts: ["TeX"] }
+      });
+    </script>
+    <script
+      type="text/javascript"
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"
+    ></script>
+    <link rel='stylesheet' href='/css/global.css' />
+    <link rel='stylesheet' href='/css/{{cssfile}}' />
+    <link
+      rel='stylesheet'
+      href='https://fonts.googleapis.com/css2?family=Consolas:wght@400&display=swap'
+    />
+    <link
+      rel='stylesheet'
+      href='https://fonts.googleapis.com/css2?family=Crimson Pro:wght@400;500;600;700&display=swap'
+    />
+    <link
+      rel='stylesheet'
+      href='https://fonts.googleapis.com/css2?family=Ribeye:wght@400&display=swap'
+    />
+    <link
+      rel='stylesheet'
+      href='https://fonts.googleapis.com/css2?family=Lexend:wght@300&display=swap'
+    />
+    <link
+      rel='stylesheet'
+      href='https://fonts.googleapis.com/css2?family=Constantia:wght@700&display=swap'
+    />
+    <link
+      rel='stylesheet'
+      href='https://fonts.googleapis.com/css2?family=Roboto Condensed:wght@400&display=swap'
+    />
+  </head>
+  <body>
+
+    {{{body}}}
+
+  </body>
+</html>

@@ -1,0 +1,1618 @@
+[
+    {
+        "questionContent": "Tam giác ABC có $\\widehat{A} = 90^{circ}; a = 29; b = 21$. Độ dài c là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$c = 26$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$c = 19$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$c = 20$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$c = 23$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" }
+        ]
+    },
+    {
+        "questionContent": "Tam giác vuông ABC có bình phương cạnh huyền bằng 289 và diện tích là 60. Độ dài của hai cạnh góc vuông là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "12 và 13.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "8 và 15.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "12 và 17.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Cả A, B, C đều sai.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" }
+        ]
+    },
+    {
+        "questionContent": "Tam giác vuông ABC vuông tại A, $b = 20, c = 21$. Độ dài đường cao AH là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$AH = 15$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$AH = 18,33$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$AH = \\frac{420}{29}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$AH = \\frac{580}{21}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" }
+        ]
+    },
+    {
+        "questionContent": "Một tam giác vuông có cạnh góc vuông lớn gấp ba lần cạnh góc vuông nhỏ và diện tích là $24cm^2$ . Khi đó số đo cạnh huyền là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "13cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "2cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$4\\sqrt{10}cm$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "Một kết quả khác",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" }
+        ]
+    },
+    {
+        "questionContent": "Tam giác ABC vuông tại đỉnh A, $b = 8, c = \\sqrt{192}, AH \\bot BC (H \\in BC)$ . Khi đó độ dài AH là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "\\sqrt{24}",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "\\sqrt{48}",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "\\sqrt{12}",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "\\sqrt{4,5}",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" }
+        ]
+    },
+    {
+        "questionContent": "Với giả thiết câu 5, b', c' lần lượt là hình chiếu của hai cạnh góc vuông b và c trên cạnh huyền. Kết luận nào sau đây là đúng nhất?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$b' < c'$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$b' = \frac{2}{3}c'$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$b' > \frac{3}{4}c'$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$b' = \frac{1}{3}c'$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" }
+        ]
+    },
+    {
+        "questionContent": "Với giả thiết câu 5, tỉ số đồng dạng của hai tam giác HAB và HCA là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$k = 3$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$k = \\sqrt{3}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$k = \\frac{\\sqrt{3}}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$k = 2\\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" }
+        ]
+    },
+    {
+        "questionContent": "Với giả thiết câu 5, M là trung điểm của AB , N là trung điểm của AC. Kết luận nào sau đây đúng nhất?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$S_{AHM} = \\sqrt{3}S_{HNC}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$S_{AHM} = 3S_{HNC}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$S_{AHM} = 2S_{HNC}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Cả A, B, C đều sai",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" }
+        ]
+    },
+    {
+        "questionContent": "Năm đoạn thẳng có độ dài lần lượt là: $\\sqrt{192}; 4; \\sqrt{48}; 12; 8$ . Số tam giác vuông có thể có được từ ba trong các đoạn thẳng trên là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "2",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "3",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "4",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "6",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" }
+        ]
+    },
+    {
+        "questionContent": "Sử dụng kết quả câu 9 có hai tam giác vuông có diện tích tỉ lệ với nhau là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "2:3",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "3:4",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "1:3",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$1:\\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" }
+        ]
+    },
+    {
+        "questionContent": "Pháp biểu nào sau đây là đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Tồn tại tam giác vuông có ba cạnh là ba số tự nhiên lẻ liên tiếp",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Tồn tại tam giác vuông có ba cạnh là ba số tự nhiên chẵn liên tiếp",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "Không có tam giác vuông nào có số đo chu vi lớn gấp đôi số đo diện tích của nó",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Không có tam giác vuông nào có số đo ba cạnh là số vô tỉ",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" }
+        ]
+    },
+    {
+        "questionContent": "Hãy chọn phát biểu sai trong các phát biểu sau đây?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Không thể tồn tại một tam giác vuông có số đo hai cạnh là hai số thập phân và số đo cạnh còn lại là một số tự nhiên.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "Tồn tại một tam giác có số đo hai cạnh là hai số tự nhiên và số đo cạnh còn lại là số nguyên dương",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Tồn tại một tam giác vuông có đường cao hạ xuống cạnh huyền bằng một nửa cạnh huyền.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Không thể tồn tại một tam giác vuông cân có số đo ba cạnh là ba số tự nhiên.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" }
+        ]
+    },
+    {
+        "questionContent": "Phát biểu nào sau đây là đúng nhất?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\sin\\alpha \\geq \\cos\\alpha$ với mọi $\\alpha$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\tan\\alpha < \\cot\\alpha$ vì $\\cot\\alpha = \\frac{1}{\\tan\\alpha}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Không có góc $\\alpha$ nào thỏa mãn $\\tan\\alpha = \\cot\\alpha$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Tồn tại góc $\\alpha$ thỏa mãn $\\sin\\alpha = \\cos\\alpha$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf1d" },
+            { "$oid": "6579fbba4755048edf89bf1e" },
+            { "$oid": "6579fbba4755048edf89bf1f" },
+            { "$oid": "6579fbba4755048edf89bf20" }
+        ]
+    },
+    {
+        "questionContent": "Phát biểu nào sau đây là đúng nhất?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Nếu $\\sin\\alpha < \\cos\\alpha$ thì $\\tan\\alpha > 1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Nếu $\\sin\\alpha < \\cos\\alpha$ thì $\\cot\\alpha > 1$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "Nếu $\\tan\\alpha \\in Z$ thì $\\cot\\alpha \\in Z$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\sin\\alpha.\\cos\\alpha$ là số nguyên",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf1d" },
+            { "$oid": "6579fbba4755048edf89bf1e" },
+            { "$oid": "6579fbba4755048edf89bf1f" },
+            { "$oid": "6579fbba4755048edf89bf20" }
+        ]
+    },
+    {
+        "questionContent": "Biết $\\alpha = 30^{\\circ}$. Kết quả nào sau đây là đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\sin\\alpha + \\cos^2\\alpha = 2,5$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\sin\\alpha + \\os^2\\alpha = 1,5$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\sin\\alpha + \\cos^2\\alpha = 2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\sin\\alpha + \\cos^2\\alpha = 1,25$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf1d" },
+            { "$oid": "6579fbba4755048edf89bf1e" },
+            { "$oid": "6579fbba4755048edf89bf1f" },
+            { "$oid": "6579fbba4755048edf89bf20" }
+        ]
+    },
+    {
+        "questionContent": "Biết $\\alpha = 60^{\\circ}$ và $P = \\frac{{{\\cos\\alpha} + {2\\sin^2\\alpha}}}{{{\\cos^2\\alpha} - {\\sin\\alpha}}}$. Kết quả nào sau đây là đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$P = 2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$P = \\frac{2}{\\sqrt{3}}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$P = \\frac{8(1-2\\sqrt{3})}{11}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$P = \\frac{-8}{11}(1+2\\sqrt{3})$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf1d" },
+            { "$oid": "6579fbba4755048edf89bf1e" },
+            { "$oid": "6579fbba4755048edf89bf1f" },
+            { "$oid": "6579fbba4755048edf89bf20" },
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Biết $\\alpha = 30^{\\circ}$ và $P = \\frac{{\\tan\\alpha} + {\\cot2\\alpha}}{2{\\tan2\\alpha} - {\\cot\\alpha}}$. Kết quả nào sau đây là đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$P = \\frac{4\\sqrt{3}}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$P = \\frac{2}{3}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$P = \\frac{2\\sqrt{3}}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$P = 2\\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf1d" },
+            { "$oid": "6579fbba4755048edf89bf1e" },
+            { "$oid": "6579fbba4755048edf89bf1f" },
+            { "$oid": "6579fbba4755048edf89bf20" },
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Biết $\\alpha = 30^{\\circ}$ và $P = \\frac{{\\sin2\\alpha} + {\\tan^{2}2\\alpha}}{{\\cos\\alpha} - {\\cot^2\\alpha}}$. Kết quả nào sau đây là đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$P = \\frac{2\\sqrt{3} + 6}{3\\sqrt{3} - 2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$P = \\frac{3\\sqrt{3} + 6}{3\\sqrt{3} - 2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$P = \\frac{3\\sqrt{3} + 2}{3\\sqrt{3} - 2}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$P = \\frac{\\sqrt{3} + \\sqrt{6}}{\\sqrt{3} - \\sqrt{2}}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf1d" },
+            { "$oid": "6579fbba4755048edf89bf1e" },
+            { "$oid": "6579fbba4755048edf89bf1f" },
+            { "$oid": "6579fbba4755048edf89bf20" },
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Cho $P = \\frac{cos^2\\alpha - \\tan2\\alpha}{\\sin^{2}2\\alpha + \\cot\\alpha}$ và $\\alpha = 30^{\\circ}$. Hãy chọn giá trị đúng của P.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$P = -\\frac{8\\sqrt{3} + 19}{13}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$P = \\frac{8\\sqrt{3} - 19}{13}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$P = \\frac{8\\sqrt{3} - 19}{\\sqrt{13}}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$P = \\frac{19 - 8\\sqrt{3}}{13}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf1d" },
+            { "$oid": "6579fbba4755048edf89bf1e" },
+            { "$oid": "6579fbba4755048edf89bf1f" },
+            { "$oid": "6579fbba4755048edf89bf20" },
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Cho $P = {\\frac{{\\cos45^{\\circ}} - {\\sin30^{\\circ}}}{{\\sin60^{\\circ}} - {\\sin45^{\\circ}}}}:{\\frac{{\\tan30^{\\circ}} - {\\tan45^{\\circ}}}{{\\tan45^{\\circ}} - {\\cot60^{\\circ}}}}$. Kết quả nào sau đây đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$P = \\sqrt{6} + \\sqrt{3} - \\sqrt{2} - 2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$P = \\sqrt{6} + \\sqrt{3} + 2\\sqrt{2} - 2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$P = \\sqrt{3} + \\sqrt{2} - \\sqrt{6} - 2$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$P = \\sqrt{6} + \\sqrt{3} - 2\\sqrt{2} + 2$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf1d" },
+            { "$oid": "6579fbba4755048edf89bf1e" },
+            { "$oid": "6579fbba4755048edf89bf1f" },
+            { "$oid": "6579fbba4755048edf89bf20" },
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Cho tam giác vuông ABC ; biết $\\widehat{A} = 90^{\\circ}, \\widehat{B} = 60^{\\circ}, c = 5$ khi đó ta có độ dài b là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$b = \\frac{5\\sqrt{3}}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$b = 5\\sqrt{3}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$b = 2,5$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$b = 10$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf1d" },
+            { "$oid": "6579fbba4755048edf89bf1e" },
+            { "$oid": "6579fbba4755048edf89bf1f" },
+            { "$oid": "6579fbba4755048edf89bf20" },
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Cho tam giác vuông ABC ; biết $\\widehat{A} = 90^{\\circ}, \\widehat{B} = 30^{\\circ}, a = 6\\sqrt{3}$ khi đó ta có độ dài b là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$b = 3\\sqrt{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$b = 3\\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$b = 2,5$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$b = 10$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Với tam giác vuông ABC có $\\widehat{A} = 90^{\\circ}, \\widehat{B} = 60^{\\circ}, b = 10$ thì độ dài a là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$a = 15\\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$a = 10\\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$a = \\frac{20\\sqrt{3}}{3}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$a = 20\\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Với tam giác vuông ABC có $\\widehat{A} = 90^{\\circ}, \\widehat{C} = 60^{\\circ}, b = 12$ thì độ dài b' là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$b' = 8$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$b' = 6$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$b' = 6\\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$b' = 3\\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Với giả thiết câu 24, độ dài của c' là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$c' = 8\\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$c' = 9\\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$c' = 6\\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$c' = 18$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Cho tam giác ABC có $a = 5, b = 4, c = 3$. Kết quả nào sau đây là đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\sin C = 0,75$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\sin C = 0,8$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\sin C = 0,6$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\sin C = 1,3$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Với giả thiết câu 24, kết quả nào sau đây là đúng ?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\cos B = 0,75$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\cos B = 0,6$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\cos B = 0,8$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\sin C = 1,3$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Với giả thiết câu 24. Gọi AH là đường cao thuộc cạnh BC và $\\widehat{BAH} = \\alpha$ . Kết quả nào sau đây là đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\cos\\alpha = 0,6$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\cos\\alpha = 0,75$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\cos\\alpha = 0,8$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\cos\\alpha = \\frac{2\\sqrt{3}}{5}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf21" },
+            { "$oid": "6579fbba4755048edf89bf19" }
+        ]
+    },
+    {
+        "questionContent": "Cho tam giác vuông ABC $(\\widehat{A} = 90^{\\circ}), AH \\bot BC (H \\in BC), AH = 6, BH = 3$. Kết quả nào sau đây là đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\sin B = \\frac{\\sqrt{3}}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\sin B = \\frac{\\sqrt{3}}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\sin B = \\frac{2\\sqrt{5}}{5}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\sin B = \\frac{\\sqrt{3}}{6}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf21" },
+            { "$oid": "6579fbba4755048edf89bf19" }
+        ]
+    },
+    {
+        "questionContent": "Với giả thiết câu 29, kết quả nào sau đây là đúng ?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\sin C = \\frac{\\sqrt{3}}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\sin C = \\frac{\\sqrt{3}}{6}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\sin C = \\frac{\\sqrt{5}}{5}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\sin C = \\frac{\\sqrt{5}}{2}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf21" },
+            { "$oid": "6579fbba4755048edf89bf19" }
+        ]
+    },
+    {
+        "questionContent": "Cho tam giác vuông ABC có $(\\widehat{A} = 90^{\\circ}), AH \\bot BC (H \\in BC), BH = 6, HC = 12$. Kết quả nào sau đây là đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\widehat{B} = 30^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\widehat{B} = 60^{\\circ}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\widehat{B} = 70^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\widehat{B} = 45^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" },
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Với giả thiết câu 31, kết quả nào sau đây là đúng ?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\tan C = \\frac{\\sqrt{3}}{3}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\tan C = \\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\tan C = \\frac{\\sqrt{3}}{6}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\tan C = 2\\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" },
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": " Với giả thiết câu 31, kết quả nào sau đây là đúng ?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\tan BAH = \\frac{\\sqrt{3}}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\tan BAH = \\frac{\\sqrt{3}}{3}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\tan BAH = \\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\tan BAH = 1$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" },
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Cho tam giác vuông ABC có $\\widehat{A} = 90^{\\circ}, \\widehat{B} = 30^{\\circ}, a = 18$ Kết quả nào sau đây là đúng ?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$c = 12\\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$c = 9\\sqrt{3}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$c = 6\\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$c = 12$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" },
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Với giả thiết câu 34, kết quả nào sau đây là đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$b = 12$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$b = \\sqrt{18}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$b = 9$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$b = 9\\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" },
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Với giả thiết câu 34 và $HA \\bot BC (H \\in BC)$. Kết quả nào sau đây là đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$AH = 4$. ",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$AH = 14$. ",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$AH = 4,5$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$AH = 4,5\\sqrt{3}$.",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" },
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Tính chiều cao AH với các số liệu cho trên hình sau. Kết quả nào sau đây là đúng?",
+        "image": "https://drive.google.com/uc?export=view&id=1-vwgQfsLFLk8VmcqVeTJIiL4BKAF-9EI",
+        "choices": [
+            {
+                "answerContent": "$AH = 20m$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$AH = 10\\sqrt{3}m$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$AH = 15\\sqrt{3}m$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$AH = 20\\sqrt{3}m$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Trong hình vẽ bên, khoảng cách AB là:",
+        "image": "https://drive.google.com/uc?export=view&id=15UIwGr1cBJVtWGBdwsmR8W7zRHJq_UUO",
+        "choices": [
+            {
+                "answerContent": "$AB = 20m$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$AB = 10\\sqrt{3}m$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$AB = 20(\\sqrt{3} - 1)m$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$AB = 20\\sqrt{3}m$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Quan sát hình vẽ. Kết quả nào sau đây là đúng ?",
+        "image": "https://drive.google.com/uc?export=view&id=1p08WTCXVVF1YJWdEs8v5ojr7m_z1hva6",
+        "choices": [
+            {
+                "answerContent": "$tan C = \\frac{KL}{HL} = \\frac{BH}{AH}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$tan C = \\frac{HL}{KL} = \\frac{AH}{BH} = \\frac{AK}{HK}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$tan C = \\frac{HL}{KL} = \\frac{AK}{HK} = \\frac{BH}{AH} = \\frac{KL}{LC}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$tan C = \\frac{HK}{HC} = \\frac{AB}{AC}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" },
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Quan sát hình. Kết quả nào sau đây là đúng ?",
+        "image": "https://drive.google.com/uc?export=view&id=1XSepkkBg5aepebdCAtybmrALoY44XsJp",
+        "choices": [
+            {
+                "answerContent": "$cos C = \\frac{BH}{AB} = \\frac{HC}{AC} = \\frac{PC}{LC}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$cos C = \\frac{PC}{LC} = \\frac{HC}{AC} = \\frac{AL}{AH}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$cos C = \\frac{BC}{AC} = \\frac{HL}{AH} = \\frac{LM}{LP}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$cos C = \\frac{AH}{AB} = \\frac{AB}{BC} = \\frac{LC}{HC}$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" },
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Cho tam giác vuông ABC có $\\widehat{A} = 90^{\\circ}; H \\in BC$ thỏa mãn $AH^2 = BH.CH$ . Kết quả nào sau đây là đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$tan B = \\frac{AH}{HC}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$tan C = \\frac{AH}{HC} = \\frac{BH}{AH}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$tan B = \\frac{BH}{AH}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$cot BAH = \\frac{BH}{AB}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" },
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Cho tam giác vuông ABC có $\\widehat{A} = 90^{\\circ}; AH \\bot BC(H \\in BC), \\sin B = 0,6$. Kết quả nào sau đây là sai?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\cos C = \\frac{AH}{AB}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\cos C = \\sin {\\widehat{HAC}}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\cos C = 0,6$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\cos C = 0,4$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" },
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Cho tam giác vuông ABC có $\\widehat{A} = 90^{\\circ}$. Kết quả nào sau đây là đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\cos^2 B + sin^2 C = 1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\cos^2 C + sin^2 C = \\cos^2 B + \\sin^2 B = \\sin^2 A = 1$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\cos^2 C + sin^2 B = \\sin^2 C + \\cos^2 B = 1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\cos^2 A + \\sin^2 A = 2$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" },
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Cho tam giác cân ABC có $\\widehat{A} = 120^{\\circ}; AB = AC; BC = 2; BH \\bot AC (H \\in AC)$. Độ dài HC nhận giá trị nào sau đây?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$HC = 0,5$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$HC = \\frac{\\sqrt{3} + 1}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$HC = \\sqrt{3}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$HC = \\frac{2 + \\sqrt{3}}{2}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" },
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Quan sát hình. Đặt $\\widehat{AOB} = x; \\widehat{AOC} = y; \\widehat{AOD} = z$. Phát biểu nào sau đây là đúng?",
+        "image": "https://drive.google.com/uc?export=view&id=1K8gpwyeWAWT5rO7VTHNz_xMbpHRQRRLi",
+        "choices": [
+            {
+                "answerContent": "$\\cos x > \\cos y > \\cos z$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\cos x < \\cos z < \\cos z$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\cos z > \\cos y > \\cos x$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\cos y < \\cos z < \\cos x$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" },
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Với giả thiết câu 45, kết quả nào sau đây đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\sin x > \\sin z > \\sin y$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\sin z < \\sin y < \\sin x$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\sin y > \\sin z > \\sin x$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\sin z < \\sin x < \\sin y$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" },
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Với giả thiết câu 45, kết quả nào sau đây đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\tan x < \\tan y < \\tan z$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\tan x < \\tan z < \\tan y$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\tan z < \\tan x < \\tan y$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\tan z < \\tan y < \\tan x$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" },
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Với giả thiết câu 45, kết quả nào sau đây đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\cot x < \\cot y < \\cot z$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\cot x > \\cot y > \\cot z$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\cot x < \\cot z < \\cot y$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\cot x > \\cot z > \\cot y$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" },
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Cho tam giác vuông ABC có $\\widehat{A} = 90^{\\circ}$. Kết quả nào sau đây đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\tan^2 B + 1 = \\frac{1}{\\sin^2 B}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\tan^2 B + 1 = \\frac{1}{\\cos^2 B}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\tan^2 B + 1 = {\\frac{1}{\\sin^2 B}} + {\\frac{1}{\\cos^2 B}}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\tan^2 B + 1 = \\frac{1}{{\\sin^2 B} + {\\cos^2 B}}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" },
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Tam giác ABC vuông tại A. Kết quả nào sau đây là đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\cot^2 C + 1 =\\frac{1}{\\cos^2 C}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\cot{^2} C + 1 =\\frac{1}{{\\sin^2 B} + {\\sin^2 C}}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\cot^2 C + 1 = \\frac{1}{\\sin^2 C}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\cot^2 C + 1 = \\cot^2 B$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" },
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Cho tam giác vuông ABC có $\\widehat{A} = 90^{\\circ}; \\cos B = 0,8$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\tan B = \\frac{4}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\tan B = 0,75$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\tan B = 0,36$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\tan B = 0,2$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" },
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    },
+    {
+        "questionContent": "Cho tam giác vuông ABC có $\\widehat{A} = 90^{\\circ}; \\sin B = 0,6$. Kết quả nào sau đây là đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\cot B = 0,8$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\cot B = 0,64$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\cot B = \\frac{4}{3}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\cot B = \\frac{3}{4}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bf19" },
+            { "$oid": "6579fbba4755048edf89bf21" }
+        ]
+    }
+]

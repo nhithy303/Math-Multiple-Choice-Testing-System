@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Căn bậc hai - Căn bậc ba",
+    "order": "1",
+    "semester": "1",
+    "lessons": [
+      {
+        "$oid": "6579d88713a48d5b78dbda9d"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbda9e"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbda9f"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdaa0"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdaa1"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdaa2"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdaa3"
+      }
+    ]
+  },
+  {
+    "name": "Hàm số bậc nhất",
+    "order": "2",
+    "semester": "1",
+    "lessons": [
+      {
+        "$oid": "6579d88713a48d5b78dbdaa4"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdaa5"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdaa6"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdaa7"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdaa8"
+      }
+    ]
+  },
+  {
+    "name": "Hệ hai phương trình bậc nhất hai ẩn",
+    "order": "3",
+    "semester": "2",
+    "lessons": [
+      {
+        "$oid": "6579d88713a48d5b78dbdaa9"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdaaa"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdaab"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdaac"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdaad"
+      }
+    ]
+  },
+  {
+    "name": "Hàm số $y=a x^2(a\\neq 0)$ - Phương trình bậc hai một ẩn",
+    "order": "4",
+    "semester": "2",
+    "lessons": [
+      {
+        "$oid": "6579d88713a48d5b78dbdaae"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdaaf"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdab0"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdab1"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdab2"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdab3"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdab4"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdab5"
+      }
+    ]
+  },
+  {
+    "name": "Hệ thức lượng trong tam giác vuông",
+    "order": "1",
+    "semester": "1",
+    "lessons": [
+      {
+        "$oid": "6579d88713a48d5b78dbdab6"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdab7"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdab8"
+      }
+    ]
+  },
+  {
+    "name": "Đường tròn",
+    "order": "2",
+    "semester": "1",
+    "lessons": [
+      {
+        "$oid": "6579d88713a48d5b78dbdab9"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdaba"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdabb"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdabc"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdabd"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdabe"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdabf"
+      }
+    ]
+  },
+  {
+    "name": "Góc với đường tròn",
+    "order": "3",
+    "semester": "2",
+    "lessons": [
+      {
+        "$oid": "6579d88713a48d5b78dbdac0"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdac1"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdac2"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdac3"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdac4"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdac5"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdac6"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdac7"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdac8"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdac9"
+      }
+    ]
+  },
+  {
+    "name": "Hình trụ - Hình nón - Hình cầu",
+    "order": "4",
+    "semester": "2",
+    "lessons": [
+      {
+        "$oid": "6579d88713a48d5b78dbdaca"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdacb"
+      },
+      {
+        "$oid": "6579d88713a48d5b78dbdacc"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2883 @@
+[
+    {
+        "questionContent": "Các phương trình dưới đây phương trình nào là phương trình bậc hai:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\sqrt{x^{2}+2 x+1}=x$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$-x^{2}+3 x-1=1$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\left(x^{2}+x+1\\right)(x-1)=1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\frac{1}{\\sqrt{x^{2}+4 x+4}}=x$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "lessonId": { "$oid": "" },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0d"
+            }
+        ]
+    },
+    {
+        "questionContent": "Phương trình sau có mấy nghiệm: $-2 x^{2}-4 x+9=0$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Phương trình vô nghiệm.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Phương trình có một nghiệm.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Phương trình có hai nghiệm phân biệt.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "Phương trình có một nghiệm duy nhất.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0f"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho phương trình $m x^{2}+3 x+6=0$ Với điều kiện nào của $\\mathrm{m}$ thì phương trình sau đây là phương trình bậc hai:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m>0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m<0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\neq 0$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0d"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho phương trình $x^{2}+\\sqrt{3} x-4-2 \\sqrt{3}=0(*)$. Gọi $x_{1}, x_{2}$ lần lượt là hai nghiệm của phương trình $(*)$. Tích $\\mathrm{x}_{1} \\cdot \\mathrm{x}_{2}$ có giá trị là bao nhiêu?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$4-2 \\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$-4-2 \\sqrt{3}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$19+8 \\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            }
+        ]
+    },
+    {
+        "questionContent": "Phương trình $x^{2}-4 x+2=-2$ có:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Hai nghiệm phân biệt.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Một nghiệm duy nhất.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "Vô nghiệm.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Đáp án khác.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0f"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": "$x=2$ là nghiệm của phương trình nào dưới đây?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$x^{2}+2 x+1=0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x^{2}-3 x+2=x$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x^{4}-4=0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$-x^{2}+x+2=0$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": "Phương trình $m x^{2}+2 x-1=0\\left(^{*}\\right)$ có hai nghiệm trái dấu khi nào?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m>0$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m<0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\neq 0$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf14"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho phương trình bậc hai $a x^{2}+b x+c=0(*)$ có hai nghiệm $x_{1} ; x_{2},\\left(x_{1} \\leq x_{2}\\right)$. Đặt $\\mathrm{S}$ là tổng hai nghiệm, $\\mathrm{P}$ là tích hai nghiệm. Phương trình $(*)$ có hai nghiệm dương khi nào?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$P<0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\mathrm{P}>0 ; \\mathrm{S}<0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\mathrm{P}>0 ; \\mathrm{S}>0$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\mathrm{P}<0 ; \\mathrm{S}<0$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf14"
+            }
+        ]
+    },
+    {
+        "questionContent": "Phương trình nào sau đây có thể quy về phương trình bậc nhất:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\sqrt{x^{2}-4 x+4}=0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\sqrt{2 x-5}=x-3$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$|x+2|=\\left|1-x+x^{2}\\right|$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$(2 x-3)(x+1)=3+x(x+1)$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89beff"
+            }
+        ]
+    },
+    {
+        "questionContent": " Phương trình nào dưới đây có hai nghiệm âm?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$x^{2}+3 x+6=0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$2 x^{2}+3 x+6=0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x^{2}+5 x+6=0$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$-x^{2}+4=0$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf14"
+            }
+        ]
+    },
+    {
+        "questionContent": " Phương trình bậc hai $4 x^{2}+2 m x+1=0$ có tổng hai nghiệm (S) và tích hai nghiệm (P) là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$S=\\frac{1}{2} m ; P=\\frac{1}{4}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$S=-\\frac{1}{2} m ; P=\\frac{1}{4}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$S=\\frac{1}{4} ; P=\\frac{1}{2} m$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$S=-\\frac{1}{4}: P=\\frac{1}{2} m$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf14"
+            }
+        ]
+    },
+    {
+        "questionContent": " Phương trình nào sau đây có tập nghiệm $S=\\{0 ; 2\\}$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$|2 x-1|=x+1$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$|x-2|=|x+1|$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\frac{x^{2}-2 x+1}{x-1}=1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\frac{1}{\\sqrt{2 x+3}}=3$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89beff"
+            }
+        ]
+    },
+    {
+        "questionContent": " Cho phương trình $\\frac{2 x^{2}+4 x+1}{x-1}=3$. Khẳng định nào sau đây là đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Khi $x \\neq 1$ phương trình có nghĩa",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "Phương trình vô nghiệm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Phương trình tương đương với $2 x^{2}+x-4=0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Phương trình có nghiệm $\\frac{-1 \\pm \\sqrt{33}}{4}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0f"
+            }
+        ]
+    },
+    {
+        "questionContent": " Cho phương trình $|x-2|=|x+1|$. Phương trình tương đương với:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$x-2=x+1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$(x-2)^{2}=(x+1)^{2}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\left[\\begin{array}{l}x-2=x+1 \\\\ 2-x=x+1\\end{array}\\right.$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$B$ và $C$ đúng.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bedf"
+            }
+        ]
+    },
+    {
+        "questionContent": " Kết quả nào sau đây là tập nghiệm của phương trình $\\sqrt{4-x}=\\sqrt{x+3}$ ?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$S=\\left\\{\\frac{1}{2}\\right\\}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$S=\\left\\{\\frac{7}{2}\\right\\}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$S=\\{3\\}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\mathrm{S}=\\{4\\}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bedb"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bedc"
+            }
+        ]
+    },
+    {
+        "questionContent": " Phương trình nào không quy về phương trình bậc hai:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$S=\\left\\{\\frac{1}{2}\\right\\}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$S=\\left\\{\\frac{7}{2}\\right\\}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$S=\\{3\\}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$S=\\{4\\}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0d"
+            }
+        ]
+    },
+    {
+        "questionContent": " Với giá trị nào của $m$ thì phương trình sau vô nghiệm $x^{2}+m x-3=0$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m= \\pm 2 \\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$-2 \\sqrt{3}<m<2 \\sqrt{3}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\left[\\begin{array}{l}m<-2 \\sqrt{3} \\\\ m>2 \\sqrt{3}\\end{array}\\right.$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\forall m$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0f"
+            }
+        ]
+    },
+    {
+        "questionContent": " Phương trình nào sau đây không thể quy về phương trình bậc nhất:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\sqrt{x^{2}-6 x+9}=1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\frac{4 x^{2}-9}{2 x+3}=2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\frac{2 x+3}{x+1}=2+x$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\frac{x+1}{\\sqrt{x^{2}+2 x+1}}=1$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89befd"
+            }
+        ]
+    },
+    {
+        "questionContent": " Với giá trị nào của $m$ thì phương trình $m x^{2}-2 m x+1=0$ có nghiệm kép:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m=1$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m=0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\forall m$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "không $\\exists m$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0f"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": " Phương trình $\\frac{x}{\\sqrt{x+1}}=\\frac{m}{\\sqrt{x+1}}$ có nghiệm khi:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m<-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m>-1$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m \\leq-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\geq-1$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bee5"
+            },
+            {
+                "$oid": "6579fbba4755048edf89beea"
+            }
+        ]
+    },
+    {
+        "questionContent": " Nghiệm của phương trình $|x+2|=|2 x-1|$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$S=\\{3\\}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$S=\\{-3 ; 3\\}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$S=\\left\\{3 ; \\frac{-1}{3}\\right\\}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$S=\\left\\{-1 ; \\frac{-1}{3}\\right\\}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89befe"
+            }
+        ]
+    },
+    {
+        "questionContent": " Cho phương trình: $\\frac{m x+1}{x-1}=2$. Khẳng định nào sau đây sai?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Tập xác định của phương trình là $\\mathrm{R} \\backslash\\{1\\}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Phương trình có nghiệm $x=\\frac{3}{m-2}$ khi $m \\neq-1$ và $m \\neq 2$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "Với $m=-1$ phương trình vô nghiệm.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Với $m=2$ phương trình vô nghiệm.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf17"
+            }
+        ]
+    },
+    {
+        "questionContent": " Tập nghiệm của phương trình $x^{4}-5 x^{2}+6=0$ là",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$S=\\{2 ; 3\\}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$S=\\{ \\pm \\sqrt{2} ; \\pm \\sqrt{3}\\}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$S=\\{\\sqrt{2} ; \\sqrt{3}\\}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$S=\\{2 ;-3\\}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf16"
+            }
+        ]
+    },
+    {
+        "questionContent": " Tập nghiệm của phương trình $\\sqrt{x^{2}-6 x+9}=2 x+1$ là",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$S=\\left\\{-1 ;-\\frac{17}{3}\\right\\}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$S=\\left\\{1 ; \\frac{17}{3}\\right\\}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$S=\\{-1\\}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Vô nghiệm",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bedc"
+            }
+        ]
+    },
+    {
+        "questionContent": " Với giá trị nào của a thì phương trinh $a x^{2}+(a-1) x+1=0$ có 1 nghiệm:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$a=1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$a \\in\\{0 ; 1\\}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$a=0$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "không $\\exists m$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": " Tìm m để phương trình $(m-1) x^{2}+m x+1=0$ có 2 nghiệm phân biệt $x_{1}, x_{2}$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m=1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\forall m$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m=0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "không $\\exists m$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": " Tìm m để phương trình $x^{4}+4 x^{2}-m+1=0$ có 4 nghiệm phân biệt.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m=-3$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\geq-3$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=3$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m>-3$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf16"
+            }
+        ]
+    },
+    {
+        "questionContent": " Phương trình nào sau đây không là phương trình bậc hai?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\frac{x+1}{\\sqrt{x-2}}=1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$|2 x+5|=3$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\frac{\\sqrt{x^{2}-9}}{x-3}=1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$(m-1) x=m+2$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0d"
+            }
+        ]
+    },
+    {
+        "questionContent": " Cho phương trình $\\frac{2 m+1}{x-1}=2-m$ với giá trị nào của $m$ thì phương trình vô nghiệm",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m=2$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m=0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "không $\\exists m$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf17"
+            }
+        ]
+    },
+    {
+        "questionContent": " Phương trình $x^{4}-m x+4=0$ có 2 nghiệm khi:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m=-4$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=4$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m=-2$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf16"
+            }
+        ]
+    },
+    {
+        "questionContent": " Gọi hai nghiệm của phương trình là $x_{1} ; x_{2}\\left(x_{2}<x_{1}\\right)$. Phương trình nào sau đây có tỉ số hai nghiệm là $\\frac{1-\\sqrt{2}}{1+\\sqrt{2}}$:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$x^{2}-2 x-1=0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x^{2}+2 x-1=0$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$x^{2}+2 x+1=0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x^{2}-2 x+1=0$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0f"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf12"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf13"
+            }
+        ]
+    },
+    {
+        "questionContent": " Phương trình $x^{2}+m=0$ có nghiệm khi và chỉ khi:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m>0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m<0$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m \\leq 0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\geq 0$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": " Với giá trị nào của m thì phương trình $m x^{2}+2(m-2) x+m-3=0$ có 2 nghiệm phân biệt.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m \\leq 4$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m<4$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m<4$ và $m \\neq 0$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m \\neq 0$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": " Cho phương trình: $m x^{2}-2(m-2) x+m-3=0$. Khẳng định nào sau đây là sai:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Nếu $m>4$ thì phương trình vô nghiệm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Nếu $m \\leq 4$ thì phương trình có hai nghiệm $x=\\frac{m-2-\\sqrt{4-m}}{m}, \\quad x^{*}=\\frac{m-2+\\sqrt{4-m}}{m}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "Nếu $m=0$ thì phương trình có nghiệm $x=\\frac{3}{4}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Nếu $m=4$ thì phương trình có nghiệm kép $x=\\frac{1}{2}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": " Nghiệm của phương trình $x^2-3 x+5=0$ có thể xem là hoành độ giao điểm của hai đồ thị hàm số:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$y=x^2$ và $y=-3 x+5$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=x^2$ và $y=-3 x-5$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=x^2$ và $y=3 x-5$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$y=x^2$ và $y=3 x+5$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": " Khi giải phương trình: $\\sqrt{3 x^2+1}=2 x+1(1)$, ta tiến hành theo các bước sau: \\nBước 1: Bình phương hai vế của phương trình (1) ta được: $3 x^2+1=(2 x+1)^2(2)$ \\nBước 2: Khai triển và rút gọn (2) ta được: $x^2+4 x=0 \\Leftrightarrow x=0$ hay $x=-4$ \\nBước 3: Khi $x=0$, ta có $3 x^2+1>0$. Khi $x=-4$, ta có: $3 x^2+1>0$ Vậy tập nghiệm của phương trình là: $\\{0 ;-4\\}$ \\nCách giải trên đúng hay sai? Nếu sai thì sai ở bước nào?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Đúng",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Sai ở bước 1",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "Sai ở bước 2",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Sai ở bước 3",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": " Với giá trị nào của m thì phương trình sau có hai nghiệm không âm? $x^2-(4 m+3) x+4 m+2=0$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m>\\frac{1}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m>\\frac{3}{4}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m>-\\frac{1}{2}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m<-\\frac{1}{2}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf14"
+            }
+        ]
+    },
+    {
+        "questionContent": " Cho biết parabol $y=\\frac{1}{2} x^2$ cắt đường thẳng $y=-\\frac{3}{2} x+2$ tại hai điểm có hoànhđộ là $\\mathrm{x}_1<\\mathrm{x}_2$. Khi đó $\\frac{x_1}{x_2}$ bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "-4",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "4",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\frac{1}{4}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$-\\frac{1}{4}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef9"
+            }
+        ]
+    },
+    {
+        "questionContent": " Phương trình $\\sqrt{x+1}=x-1$ có nghiệm $\\mathrm{x}$ thỏa mãn:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$x \\leq-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$-1<x<0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$0 \\leq x<1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x \\geq 1$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bedc"
+            }
+        ]
+    },
+    {
+        "questionContent": " Phương trình nào sau đây có 2 nghiệm không trái dấu nhau?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$4 x^2+8 x+5=0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x^2-6 x+10=0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x^2+4 x-10=0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x^2+12 x+5=0$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf14"
+            }
+        ]
+    },
+    {
+        "questionContent": " Cho phương trình $a x^{2}+b x+c=0(1)$. Hãy chọn khẳng định sai trong các khẳng định sau:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Nếu $P<0$ thì (1) có 2 nghiệm trái dấu",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Nếu $P>0 ; S<0$ thì (1) có 2 nghiệm",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "Nếu $P>0$ và $S<0 ; \\Delta>0$ thì (1) có 2 nghiệm âm.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Nếu $P>0$ và $S>0 ; \\Delta>0$ thì (1) có 2 nghiệm dương.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf14"
+            }
+        ]
+    },
+    {
+        "questionContent": " Phương trình $\\sqrt{2} x^4-2(\\sqrt{2}+\\sqrt{3}) x^2+\\sqrt{12}=0$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Vô nghiệm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Có 2 nghiệm $x=\\sqrt{\\frac{\\sqrt{2}+\\sqrt{3}+\\sqrt{3}}{\\sqrt{2}}}, x=-\\sqrt{\\frac{\\sqrt{2}+\\sqrt{3}+\\sqrt{5}}{\\sqrt{2}}}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Có 2 nghiệm $x=\\sqrt{\\frac{\\sqrt{2}+\\sqrt{3}-\\sqrt{3}}{\\sqrt{2}}}, x=-\\sqrt{\\frac{\\sqrt{2}+\\sqrt{3}-\\sqrt{5}}{\\sqrt{2}}}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Có 4 nghiệm: $$ x=\\sqrt{\\frac{\\sqrt{2}+\\sqrt{3}-\\sqrt{5}}{\\sqrt{2}}}, x=-\\sqrt{\\frac{\\sqrt{2}+\\sqrt{3}-\\sqrt{5}}{\\sqrt{2}}} $$ \\n$$ x=\\sqrt{\\frac{\\sqrt{2}+\\sqrt{3}+\\sqrt{5}}{\\sqrt{2}}}, x=-\\sqrt{\\frac{\\sqrt{2}+\\sqrt{3}+\\sqrt{5}}{\\sqrt{2}}} $$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bedc"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf16"
+            }
+        ]
+    },
+    {
+        "questionContent": " Phương trình $\\frac{2\\left(x^2-1\\right)}{x+1}=1+\\frac{2 x+2}{x+1}$ có tập nghiệm là",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m=\\frac{2}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=\\frac{-2}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=0$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m=1$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89beea"
+            }
+        ]
+    },
+    {
+        "questionContent": " Tích các nghiệm của phương trình: $\\frac{4}{x^2-4}-\\frac{1}{x-2}=1$ bằng bao nhiêu",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "4",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "6",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "-6",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Đáp án A, B, C đều sai",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89beea"
+            }
+        ]
+    },
+    {
+        "questionContent": " Tổng các nghiệm của phương trình: $\\sqrt{2 x+9}=\\sqrt{4-x}+\\sqrt{3 x+1}$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "2",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "3",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "-2",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\frac{11}{3}$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bedc"
+            }
+        ]
+    },
+    {
+        "questionContent": " Với giá trị nào của $m$ thì phương trình $x^2+6 x+m=0$ có hai nghiệm là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "-6",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "6",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "8",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "-8",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": " Phương trình $\\left(x^2-3 x+m\\right)(x-1)=0$ có 3 nghiệm phân biệt khi:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m<\\frac{9}{4}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\left\\{\\begin{array}{l}m \\neq 2 \\\\ m \\leq \\frac{9}{4}\\end{array}\\right.$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\left\\{\\begin{array}{l}m \\neq 2 \\\\ m<\\frac{9}{4}\\end{array}\\right.$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m>\\frac{9}{4}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": " Tập nghiệm của phương trình $(x-3)\\left(\\sqrt{4-x^2}-x\\right)=0$ là",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$S=\\{-\\sqrt{2} ; \\sqrt{2} ; 3\\}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$S=\\{3 ; \\sqrt{2}\\}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$S=\\{\\sqrt{2}\\}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$S=\\{-\\sqrt{2} ; \\sqrt{2}\\}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bedc"
+            }
+        ]
+    },
+    {
+        "questionContent": " Điều kiện cần và đủ để phương trình $a x^2+b x+c=0(a \\neq 0)$ có hai nghiệm phân biệt cùng dấu là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\left\\{\\begin{array}{l}\\Delta>0 \\\\ P>0\\end{array}\\right.$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\left\\{\\begin{array}{l}\\Delta \\geq 0 \\\\ P>0\\end{array}\\right.$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\left\\{\\begin{array}{l}\\Delta>0 \\\\ S>0\\end{array}\\right.$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\left\\{\\begin{array}{l}\\Delta>0 \\\\ S<0\\end{array}\\right.$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf14"
+            }
+        ]
+    },
+    {
+        "questionContent": " Phương trình: $(m-2) x^2+2 x-1=0$ có đúng 1 nghiệm khi và chỉ khi:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\mathrm{m}=0$ hoặc $\\mathrm{m}=2$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\mathrm{m}=1$ hoặc $\\mathrm{m}=2$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m=-2$ hoặc $m=3$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=2$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": " Xác định m để phương trình sau vô nghiệm $(m+1) x^2-m+2=(3 m+1) x$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m=\\frac{1 \\pm \\sqrt{92}}{13}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\neq-1$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\frac{-1-\\sqrt{92}}{13}<m<\\frac{-1+\\sqrt{92}}{13}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Cả B và C",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": " Tập nghiệm của phương trình $4 x^2-12 x-3 \\sqrt{4 x^2-12 x+11}+13=0$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$S=\\left\\{\\frac{3 \\pm \\sqrt{2}}{2}\\right\\}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$S=\\{1 ; 2\\}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$S=\\left\\{\\frac{3}{2}\\right\\}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$S=\\varnothing$.",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bedc"
+            }
+        ]
+    },
+    {
+        "questionContent": " Cho phương trình $x^2-6 m x+8=0$ có hai nghiệm $x_1, x_2$ thì $x_1+x_2=3$ khi $\\mathrm{m}=$ ?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m=1$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Không tồn tại m",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m=\\frac{8}{9}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\left[\\begin{array}{l}m<\\frac{-2 \\sqrt{2}}{3} \\\\ m>\\frac{2 \\sqrt{2}}{3}\\end{array}\\right.$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf12"
+            }
+        ]
+    },
+    {
+        "questionContent": " Xác định $\\mathrm{m}$ để phương trình $x^2-(m-2) x+m+8=0$ có 2 nghiệm $x_1, x_2$ thỏa mãn: $x_1<x_2<0$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m<2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$-8<m<2$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m>-8$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\left[\\begin{array}{l}m<-8 \\\\ m>2\\end{array}\\right.$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": " Tìm $\\mathrm{m}$ để phương trình sau vô nghiệm: $(m+1)^2 x+1-m=(2 m+5) x$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m=2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=-2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m= \\pm 2$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": " Tập nghiệm của phương trình $|5 x-2|-2 x^2=0$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$S=\\left\\{\\frac{1}{2}\\right\\}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$S=\\left\\{2 ; \\frac{1}{2}\\right\\}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$S=\\left\\{2 ; \\frac{-5 \\pm \\sqrt{41}}{4}\\right\\}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$S=\\left\\{\\frac{1}{2} ; 2 ; \\frac{-5 \\pm \\sqrt{41}}{4}\\right\\}$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": " Với giá trị nào của a thì phương trình $\\left(x^2-5 x+6\\right) \\sqrt{x-a}=0$ có 2 nghiệm phân biệt",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\mathrm{a}=2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\mathrm{a}=2 ; \\mathrm{a}=3$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$a=3$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\mathrm{a}=2 ; \\mathrm{a}=3 ; \\mathrm{a}=0$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bedc"
+            }
+        ]
+    },
+    {
+        "questionContent": " Với giá trị nào của a thì phương trình sau vô nghiệm: $\\frac{x+1}{x-a+1}=\\frac{x}{x+a}$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\mathbf{a}=1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\forall a$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\mathrm{a}=0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$a \\in \\mathbb{R} /\\{1\\}$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89beea"
+            }
+        ]
+    },
+    {
+        "questionContent": " Tìm m để phương trình sau có nghiệm duy nhất: $|m x-2|=|x+3|$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m=\\frac{2}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=-\\frac{2}{3}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m=0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=1$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89beea"
+            }
+        ]
+    },
+    {
+        "questionContent": " Tìm m để phương trình $\\sqrt{m-1} x-3 y=-1$ nhận cặp số (1; 1) làm nghiệm.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m=5$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m=2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=-5$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=-2$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bedc"
+            }
+        ]
+    },
+    {
+        "questionContent": " Xác định $\\mathrm{m}$ để phương trình $x^2-2(m+1) x-m-1=0$ có 2 nghiệm $x_1, x_2$ và $x_1^2+x_2^2-3 x_1 x_2$ đạt giá trị nhỏ nhất.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m=\\frac{13}{8}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m=\\frac{-9}{4}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=-1$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": " Xác định $\\mathrm{m}$ để phương trình $x^2+(m-1) x-m-2=0$ có 2 nghiệm $x_1, x_2$ và thỏa mãn điều kiện: $x_1^2+x_2^2=9$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m=2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=-2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m= \\pm 2$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0f"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf12"
+            }
+        ]
+    },
+    {
+        "questionContent": " Xác định $\\mathrm{m}$ để phương trình $x^4-2 m x^2+m+1=0$ có 4 nghiệm phân biệt và $x_1>x_2>x_3>x_4$ thỏa mãn $x_1-x_2=x_2-x_3=x_3-x_4$.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m \\in\\{1 ; 25\\}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\in\\{-1 ;-25\\}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\in\\{-1 ; 25\\}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m \\in\\{1 ;-25\\}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf16"
+            }
+        ]
+    },
+    {
+        "questionContent": " Phương trình $x^2-(2 m-1) x+m-1=0$ có 2 nghiệm phân biệt $x_1, x_2$. Tính $\\frac{x_1^2}{x_2}+\\frac{x_2^2}{x_1}$ khi $m=\\frac{\\sqrt{3}}{2}$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$T=\\frac{5}{\\sqrt{3}-1}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$T=21-\\frac{5}{\\sqrt{3}-1}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$T=\\frac{5}{\\sqrt{3}-1}+21$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$T=\\frac{5 \\sqrt{3}+26}{\\sqrt{3}-1}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0f"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": " Cho phương trình $2 x^2-(m+1) x+3=0$ có 2 nghiệm phân biệt. Tính $x_1+x_2-x_1 x_2$ khi $m=3$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "8",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "-2",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "2",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "-8",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0f"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": " Cho phương trình $(m-1) x^2-2 m x+m+1=0$. Xác định $\\mathrm{m}$ để phương trình có 2 nghiệm thỏa mãn hệ thức: $\\frac{x_1}{x_2}+\\frac{x_2}{x_1}=4$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m \\in\\left\\{1 ; \\frac{3}{2}\\right\\}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\in\\left\\{ \\pm 1 ; \\pm \\sqrt{\\frac{3}{2}}\\right\\}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\in\\left\\{1 ; \\pm \\sqrt{\\frac{3}{2}}\\right\\}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m \\in\\left\\{1 ; \\sqrt{\\frac{3}{2}}\\right\\}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0f"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": " $S=\\left\\{ \\pm \\frac{1}{\\sqrt{2}}\\right\\}$ là tập nghiệm của phương trình nào sau đây.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$2 x^4-3 x^2+2=0$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\left(2 x^2-1\\right)(x+2)=0$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$4 x^2+\\frac{1}{x^2}+\\left|2 x-\\frac{1}{x}\\right|=4$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\frac{-1}{\\sqrt{x-1}}=\\sqrt{2(x+1)}$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0f"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": " Cho phương trình $\\frac{x^2-(m+1) x+3 m-2}{\\sqrt{x-1}}=\\sqrt{x-1}$. Khẳng định nào sau đây đúng ?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Phương trình có nghiệm kép khi $m=-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x_1^2+x_2^2-3 x_1 x_2=37$ khi $m=-2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Tổng 2 nghiệm của phương trình là $3 m-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Phương trình luôn có 2 nghiệm với $\\forall m \\ne 1$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0f"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bedc"
+            },
+            {
+                "$oid": "6579fbba4755048edf89beea"
+            }
+        ]
+    },
+    {
+        "questionContent": " Cho phương trình $x^2+(m-1) x+m-2=0$ có hai nghiệm thỏa mãn $\\left|x_1-x_2\\right|$ nhỏ nhất khi:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m=-3$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=3$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m= \\pm 3$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=1$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0f"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": " Phương trình $x^2+(2 m-1) x+m+1=0$ có hai nghiệm phân bię̣t $x_1>x_2>0$ khi",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m<\\frac{1}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m>-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$-1<m<\\frac{1}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m>\\frac{1}{2}$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0f"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": " Tìm tổng các giá trị của m để phương trình $(m–2) x^2-(m^2+1)x+3 m=0$ có nghiệm $x=-3$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "-5",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "-4",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "4",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "6",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0f"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": " Số nghiệm của phương trình: $\\sqrt{x+4}+\\sqrt{x-4}=2 x-12+2 \\sqrt{x^2-16}$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "0",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "1",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "2",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "3",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89beea"
+            }
+        ]
+    },
+    {
+        "questionContent": " Số nghiệm của phương trinh: $\\sqrt{3 x^2+6 x+7}+\\sqrt{5 x^2+10 x+14}=4-2 x-x^2$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "0",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "2",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "3",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "1",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0f"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            },
+            {
+                "$oid": "6579fbba4755048edf89beea"
+            }
+        ]
+    },
+    {
+        "questionContent": " Phương trình $2 x^2-3 x-1=0$ có hai nghiệm $x_1, x_2$ mà $x_1^5+x_2^3$ bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\frac{45}{8}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\frac{11}{8}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\frac{9}{8}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\frac{11}{3}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0f"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": " Tìm điều kiện của $m$ để phương trình $\\sqrt{16-x^2}-\\frac{m}{\\sqrt{16-x^2}}-4=0$ có nghiệm thực",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$-3 \\leq m \\leq 0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$-4 \\leq m<0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$-5 \\leq m \\leq-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$-4 \\leq m \\leq 0$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0f"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            },
+            {
+                "$oid": "6579fbba4755048edf89beea"
+            }
+        ]
+    },
+    {
+        "questionContent": " Tìm a để hệ phương trình $\\left\\{\\begin{array}{l}a x+y=a^2 \\\\ x+a y=1\\end{array}\\right.$ vồ nghiệm",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$a=1$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$a=-1$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$a=1 ; a=-1$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Không có giá trị a thỏa mãn",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf02"
+            }
+        ]
+    },
+    {
+        "questionContent": " Phương trình $|x|+1=-x^2+m$ có 1 nghiệm duy nhất khi và chi khi:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m=0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=1$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m=-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=2$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89beea"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            }
+        ]
+    },
+    {
+        "questionContent": " Tìm tất cả các giá trị của $\\mathrm{m}$ để phương trình $x^2-(m+1) x+m=0$ có 2 nghiệm phân biệt và nghiệm này bằng một nửa nghiệm kia.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m=2 ; m=\\frac{1}{2}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m=2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=\\frac{1}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=0$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89beea"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            }
+        ]
+    },
+    {
+        "questionContent": " Xác định m để phương trình $x^2-\\frac{15}{4} x+m^3=0$ có 2 nghiệm, trong đó có một nghiệm là bình phương của nghiệm kia.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m=\\frac{-3}{2} ; m=\\frac{-5}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=\\frac{3}{2} ; m=\\frac{-5}{2}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m=\\frac{3}{2} ; m=\\frac{5}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=\\varnothing$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89beea"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            }
+        ]
+    },
+    {
+        "questionContent": " Nghiệm của phương trình là: $19+3 x+4 \\sqrt{-x^2-x+6}=6 \\sqrt{2-x}+12 \\sqrt{3+x}$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "1",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "5",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "30",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "6",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89beea"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            }
+        ]
+    }
+]

@@ -1,0 +1,3762 @@
+[
+    {
+        "questionContent": "Trong các hàm số sau hàm số nào là hàm số bậc nhất:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$y=2-\\frac{1}{x}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=2-\\frac{4 x}{3}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$y=x^{2}+5$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=2 \\sqrt{x}+6$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89beef"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bef4"
+            }
+        ]
+    },
+    {
+        "questionContent": "Trong các hàm số sau hàm số nào đồng biến:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$y=1-x$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=\\frac{2}{3}+2 x$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$y=-2 x+1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=6-2(x+1)$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef2"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bef3"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bef5"
+            }
+        ]
+    },
+    {
+        "questionContent": "Trong các hàm số sau hàm số nào nghịch biến:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$y=1+x$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=\\frac{2}{3}+2 x$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=2 x+1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=6-2(1+x)$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef2"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bef3"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bef5"
+            }
+        ]
+    },
+    {
+        "questionContent": "Trong các điểm sau điểm nào thuộc đồ thị hàm số $y=2-4 x$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$(1 ; 1)$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$(2 ; 0)$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$(1 ;-1)$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$(1 ;-2)$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef1"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bef6"
+            }
+        ]
+    },
+    {
+        "questionContent": "Trong các điểm sau điểm nào thuộc đồ thị hàm số $y=-5 x+5$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$(1 ; 1)$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$(2 ; 0)$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$(0 ; 4)$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$(2 ;-5)$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef1"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bef6"
+            }
+        ]
+    },
+    {
+        "questionContent": "Nếu 2 đường thẳng $y=-3 x+4\\left(\\mathrm{~d}_{1}\\right)$ và $y=(m+2) x+m\\left(\\mathrm{~d}_{2}\\right)$ song song với nhau thì $\\mathrm{m}$ bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "-2",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "3",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "-5",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "-3",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef8"
+            }
+        ]
+    },
+    {
+        "questionContent": "Điểm thuộc đồ thị hàm số $y=2 x-7$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$(4 ; 3)$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$(3 ;-1)$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$(-4 ;-3)$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$(2 ; 1)$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89beef"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bef1"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho hệ tọa độ $O x y$ đường thẳng song song với đường thẳng $y=2 x$ và cắt trục tung tại điểm có tung độ bằng 1 là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$y=2 x-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=-2 x-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=2 x+1$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$y=6-2(1-x)$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef8"
+            },
+            {
+                "$oid": "'6579fbba4755048edf89bef9"
+            },
+            {
+                "$oid": "6579fbba4755048edf89befa"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho 2 đường thẳng $y=\\frac{1}{2} x+3$ và $y=-\\frac{1}{2} x+3$ hai đường thẳng đó:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Cắt nhau tại điểm có hoành độ là 3",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Song song với nhau",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "Cắt nhau tại điểm có tung độ là 3",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Trùng nhau",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef8"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho hàm số bậc nhất : $y=(m+1) x-m-1$. Kết luận nào sau đây đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Với $m>-1$, hàm số trên là hàm số nghịch biến.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Với $m>-1$, hàm số trên là hàm số đồng biến.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "Với $m=0$ đồ thị hàm số trên đi qua góc tọa độ.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Với $m=-1$ đồ thị hàm số trên đi qua điểm có tọa độ $(-1 ; 1)$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef2"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bef3"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho các hàm sô bậc nhất $y=\\frac{1}{3} x+3 ; y=-\\frac{1}{3} x+3 ; y=-3 x+3$. Kết luận nào sau đây là đúng ?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Đồ thị các hàm số trên là các đường thẳng song song với nhau.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Đồ thị các hàm số trên là các đường thẳng đi qua góc tọa độ.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Các hàm số trên luôn luôn nghịch biến.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Đồ thị các hàm số trên là các đường thẳng cắt nhau tại một điểm.",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef9"
+            },
+            {
+                "$oid": "6579fbba4755048edf89befa"
+            }
+        ]
+    },
+    {
+        "questionContent": "Biệt thức $\\Delta^{\\prime}$ của phương trình $x^{2}-2 m x-1=0$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m^{2}+1$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$4 m^{2}+4$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m^{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m^{2}+4$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0e"
+            }
+        ]
+    },
+    {
+        "questionContent": "Điểm nào sau đây thuộc đồ thị hàm số $y=-3 x+7$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$(-1 ;-1)$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$(-1 ; 5)$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$(4 ; 5)$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$(5 ;-8)$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89beef"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bef1"
+            }
+        ]
+    },
+    {
+        "questionContent": "Trong các hàm số sau, hàm số nào không phải là hàm số bậc nhất?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$y=2-3 x$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=-3 y+4 x-2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=5 x$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=\\sqrt{x^{2}+1}$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef4"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bef5"
+            }
+        ]
+    },
+    {
+        "questionContent": "Trong các hàm số sau, hàm số nào là hàm số bậc hai",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$y=2 x^{2}-3 x^{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=-3 y^{2}+6 x-2$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$y=5$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y^{2}+x^{2}=1$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0d"
+            }
+        ]
+    },
+    {
+        "questionContent": "Đồ thị hàm số $y=\\frac{-x+10}{5}$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Là một đường thẳng có tung độ gốc là 10 .",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Không phải là một đường thẳng.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "Cắt trục hoành tại điểm có hoành độ là 10.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Đi qua điểm $(200 ; 50)$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef6"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho hàm số: $y=\\frac{2 x-4}{\\sqrt{5}}$, hệ số góc tương ứng là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "2",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "-4",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\frac{2 \\sqrt{5}}{5}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\frac{-4}{\\sqrt{5}}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89befc"
+            }
+        ]
+    },
+    {
+        "questionContent": "Đồ thị hàm số: $y=-\\frac{x}{4}+4$ gần giống với đồ thị nào dưới đây",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "",
+                "image": "https://drive.google.com/uc?export=view&id=1fLxtO_5j0zH1f_QN5DDLKv1-d-dB83Gi",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "",
+                "image": "https://drive.google.com/uc?export=view&id=1Cbgm2xRFjpBu4FDGN-us7QXwSItERVzR",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "",
+                "image": "https://drive.google.com/uc?export=view&id=17udiv7mYYZrY3UK67pWw_iYGEKgvxd6w",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "",
+                "image": "https://drive.google.com/uc?export=view&id=1cLIULq_UrVv9Mm0rEzIQomtdzdWJgXsO",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef1"
+            }
+        ]
+    },
+    {
+        "questionContent": "Khẳng định nào trong các khẳng định sau là sai?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$y=\\frac{2}{2 x-1}$ là hàm số bậc nhất",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$y=5 x-2$ có hệ số góc là 5",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=x^{2}+5 x-9$ có đồ thị là một parabol",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=10$ là một hàm số bậc nhất.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef4"
+            }
+        ]
+    },
+    {
+        "questionContent": "Đoạn thẳng trong hình vẽ là tập hợp những điểm $(x ; y)$ thỏa mãn:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\left\\{\\begin{array}{l}-1 \\leq y \\leq 3 \\\\\\\\ x=2\\end{array}\\right.$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\left\\{\\begin{array}{l}-1 \\leq x \\leq 3 \\\\\\\\ y \\leq 2\\end{array}\\right.$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\left\\{\\begin{array}{l}-1 \\leq x \\leq 3 \\\\\\\\ y=2\\end{array}\\right.$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\left\\{\\begin{array}{l}x \\geq-1 \\\\\\\\ x=2\\end{array}\\right.$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef1"
+            }
+        ]
+    },
+    {
+        "questionContent": "Gọi $(C)$ là đồ thị hàm số: $y=\\frac{2 x-4}{x+3}$. Câu nào sau đây đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$(C)$ qua điểm $(-2 ;-8)$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$(C)$ cắt $\\mathrm{Ox}$ tại điểm có hoành độ âm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$(C)$ cắt $\\mathrm{Oy}$ tại điểm có tung độ âm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Có 2 câu đúng trong 3 câu $\\mathrm{A}, \\mathrm{B}, \\mathrm{C}$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef1"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho hàm số $y=5 x+10$. Giá trị của hàm số tại $x=a-1$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$5 a+5$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$5 a+15$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$5 a+3$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$5 a-5$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef1"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bef1"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho hàm số $y=x^{2}-4 x-3$. Giá trị của hàm số $x=\\sqrt{2}-1$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$-4-2 \\sqrt{6}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$4-2 \\sqrt{6}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$4-2 \\sqrt{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$-2-4 \\sqrt{2}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579d8b113a48d5b78dbdacf"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho phương trình bậc hai $x^{2}-(2 m+2) x+2 m=0$. Hệ số b' của phương trình là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m+1$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$2 m+1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$-(2 m+1)$;",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0d"
+            }
+        ]
+    },
+    {
+        "questionContent": "Hàm số $y=(x+5) \\sqrt{-4-m}$ là hàm số bậc nhất khi:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m=-4$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m>-4$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m<-4$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m \\leq-4$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "<ID CỦA KIẾN THỨC (knowledges)>"
+            },
+            {
+                "$oid": "<ID CỦA KIẾN THỨC (knowledges)>"
+            },
+            {
+                "$oid": "<ID CỦA KIẾN THỨC (knowledges)>"
+            }
+        ]
+    },
+    {
+        "questionContent": "Hàm số $y=\\frac{m-4}{m+4} x+4$ là hàm số bậc nhất khi:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m=4$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\neq-4$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m \\neq 4$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\neq 4 ; m \\neq-4$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef4"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho hàm số $y=\\frac{4 x-2}{x^{2}-2 x}$ xác định:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Khi $x \\neq 0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Khi $x \\neq 0$ và $x \\neq 2$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "Khi $x \\neq 0$ và $x \\neq-2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Với mọi $\\mathrm{x}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf17"
+            }
+        ]
+    },
+    {
+        "questionContent": "Một nghiệm của phương trình $x^{2}-10 x+9=0$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "-1",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "9",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "-10",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "-9",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579d8b113a48d5b78dbdad0"
+            }
+        ]
+    },
+    {
+        "questionContent": "Hàm số $y=\\sqrt{x+5}-\\sqrt{3-2 x}$ xác định khi:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$x \\geq \\frac{3}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x \\geq \\frac{-3}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$-5 \\leq x \\leq \\frac{3}{2}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$-5 \\leq x \\leq \\frac{2}{3}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bede"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho ba hàm số: (I) $y=\\frac{2 x-1}{x^{2}+5}$ (II) $y=\\sqrt{x^{2}-2 x+3}$ (III) $y=\\frac{1}{\\sqrt{|x+4|}}$ Hàm số nào xác định với mọi $\\mathrm{x}$ ?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Chỉ ( I ) và ( II )",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "Chỉ ( II ) và ( III )",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Chỉ ( I ) và ( III )",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Cả ( I ), ( II ) và ( III )",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bede"
+            }
+        ]
+    },
+    {
+        "questionContent": "Hàm số $y=\\frac{4 x+2}{6}$ xác định với:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$x \\neq \\frac{-1}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x \\leq \\frac{-1}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x \\geq-\\frac{1}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Với mọi $\\mathrm{x}$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf17"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho hàm số $y=|3 x-9|$. Câu nào sau đây đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Hàm số đồng biến khi $x>3$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Hàm số nghịch biến khi $x<3$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Hàm số đồng biến trên $\\mathrm{R}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Cả $A$ và $B$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef2"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bef2"
+            }
+        ]
+    },
+    {
+        "questionContent": "Các hàm số nào sau đây đồng biến khi $x<0$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$y=(\\sqrt{9}-\\sqrt{5}) \\cdot x^{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=(4 \\sqrt{3}-7) \\cdot x^{2}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$y=\\frac{x^{2}}{4}+5$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=x^{2}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef2"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bef2"
+            }
+        ]
+    },
+    {
+        "questionContent": "Hàm số nào sau đây là thảo mãn $f(x)=-f(-x)$ ?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$y=-\\frac{x}{2}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$y=-\\frac{x}{2}+1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=-\\frac{x-1}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=-\\frac{x}{2}+2$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "<ID CỦA KIẾN THỨC (knowledges)>"
+            },
+            {
+                "$oid": "<ID CỦA KIẾN THỨC (knowledges)>"
+            },
+            {
+                "$oid": "<ID CỦA KIẾN THỨC (knowledges)>"
+            }
+        ]
+    },
+    {
+        "questionContent": "Điểm $K(\\sqrt{2} ; 1)$ thuộc đồ thị hàm số nào trong các hàm số sau?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$y=-\\frac{1}{2} x^{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=\\frac{1}{2} x^{2}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$y=\\sqrt{2} x^{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=-\\sqrt{2} x^{2}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89beef"
+            }
+        ]
+    },
+    {
+        "questionContent": "Tọa độ đỉnh $I$ của parabol $(P): y=x^{2}+4 x-2$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$I(-1 ;-5)$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$I(2 ; 4)$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$I(-2 ;-6)$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$I(1 ; 3)$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0c"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho hàm số $y=x^{2}+6 x-9$. Trong các khẳng định sau, khẳng định nào đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Đồ thị của hàm số là một parabol có đỉnh $I(-6 ;-9)$, trục đối xứng $x=-6$, bề lõm hướng lên trên.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Đồ thị của hàm số là một parabol có đỉnh $I(-6 ;-9)$, trục đối xứng $y=-6$, bề lõm hướng xuống dưới.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Đồ thị của hàm số là một parabol có đỉnh $I(-3 ;-18)$, trục đối xứng $x=-3$, bề lõm hướng lên trên.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "Đồ thị của hàm số là một parabol có đỉnh $I(-3 ;-18)$, trục đối xứng $y=-3$, bề lõm hướng xuống dưới.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0c"
+            }
+        ]
+    },
+    {
+        "questionContent": "Biết rằng đồ thị các hàm số $y=m x-1$ và $y=3 x+2$ là các đường thẳng song song với nhau. Kết luận nào sau đây đúng ?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Đồ thị của hàm số $y=m x-1$ cắt trục hoành tại điểm có hoành độ là 1",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Đồ thị của hàm số $y=m x-1$ cắt trục tung tại điểm có tung độ bằng 1",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Hàm số $y=m x-1$ đồng biến",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "Hàm số $y=m x-1$ nghịch biến.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef8"
+            }
+        ]
+    },
+    {
+        "questionContent": "Nếu đồ thị $y=m x+3$ song song với đồ thị $y=-3 x+1$ thì:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Đồ thị hàm số $y=m x+3$ cắt trục tung tại điểm có tung độ bằng 1",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Đồ thị hàm số $y=m x+3$ cắt trục hoành tại điểm có hoành độ là 2",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Hàm số $y=m x+3$ đồng biến.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Hàm số $y=m x+3$ nghịch biến.",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef8"
+            }
+        ]
+    },
+    {
+        "questionContent": "Đường thẳng nào sau đây không song song với đường thẳng $y=-2 x+2$ ?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$y=2(1-x)-2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=-2 x+1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=3-\\sqrt{2}(\\sqrt{2} x+1)$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=1+\\sqrt{2}(\\pi \\sqrt{2} x+5)$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef8"
+            }
+        ]
+    },
+    {
+        "questionContent": "Với giá trị nào sau đây của $m$ thì hai hàm số ( $m$ là biến số) $y=\\frac{2-m}{2} x+4$ và $y=\\frac{m}{2} x-1$ cùng đồng biến:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$-2<m<0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m>4$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$0<m<2$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$-4<m<-2$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef2"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bef3"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho phương trình bậc hai $x^{2}-2(m+1) x+4 m=0$. Phương trình có 2 nghiệm khi:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m \\leq 1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\geq 1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Với mọi $\\mathrm{m}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Một kết quả khác",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0f"
+            }
+        ]
+    },
+    {
+        "questionContent": "Với giá trị nào sau đây của $m$ thì đồ thị hai hàm số $y=-x+3$ và $y=(m-1) x+2$ là hai đường thẳng song song với nhau:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m=2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=0$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m=3$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "với mọi $\\mathrm{m}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef8"
+            }
+        ]
+    },
+    {
+        "questionContent": "Hàm số $y=(m-4) x+4$ nghịch biến khi $m$ nhận giá trị:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m<4$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m>4$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\geq-4$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\leq-4$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef2"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bef3"
+            }
+        ]
+    },
+    {
+        "questionContent": "Đường thẳng $y=-a x+3$ và $y=1-(3-2 x)$ song song khi:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$a=2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$a=3$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$a=1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$a=-2$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef8"
+            }
+        ]
+    },
+    {
+        "questionContent": "Hai đường thẳng $y=x+\\sqrt{3}$ và $y=2 x+\\sqrt{3}$ trên cùng một mặt phẳng tạo độ có vị trí tương đối là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Trùng nhau",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Cắt nhau tại điểm có tung độ là $\\sqrt{3}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "Song song",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Cắt nhau tại điểm có tung độ là $-\\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef9"
+            },
+            {
+                "$oid": "6579fbba4755048edf89befa"
+            }
+        ]
+    },
+    {
+        "questionContent": "Nếu $P(1 ; 2)$ thuộc đường thẳng $2 x-y=m$ thì $\\mathrm{m}$ bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m=-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=3$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=0$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef1"
+            }
+        ]
+    },
+    {
+        "questionContent": "Đường thẳng $5 x-2 y=5$ đi qua điểm",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$(1 ;-1)$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$(5 ;-5)$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$(1 ; 1)$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$(3 ; 5)$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef1"
+            }
+        ]
+    },
+    {
+        "questionContent": "Điểm $N(1 ; 2)$ thuộc đường thẳng nào trong các đường thẳng có phương trình sau:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$3 x-2 y=1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$3 x-y=0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$2 x+y=4$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$0 x-3 y=3$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef6"
+            }
+        ]
+    },
+    {
+        "questionContent": "Hai đường thẳng $y=-k x+m-3$ và $y=(5+k) x+3-m$ trùng nhau khi:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\left\\{\\begin{array}{l}k=\\frac{5}{2} \\\\\\\\ m=1\\end{array}\\right.$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\left\\{\\begin{array}{l}m=\\frac{5}{2} \\\\\\\\ k=1\\end{array}\\right.$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\left\\{\\begin{array}{l}k=-\\frac{5}{2} \\\\\\\\ m=3\\end{array}\\right.$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\left\\{\\begin{array}{l}m=-\\frac{5}{2} \\\\\\\\ k=3\\end{array}\\right.$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef8"
+            }
+        ]
+    },
+    {
+        "questionContent": "Một đường thẳng đi qua điểm $M(0 ; 5)$ và song song với đường thẳng $x-4 y=10$ có phương trình là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$y=\\frac{-1}{4} x+5$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=\\frac{1}{4} x+5$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$y=-4 x+5$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=-4 x-5$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef8"
+            }
+        ]
+    },
+    {
+        "questionContent": "Trên cùng một mặt phăng tọa độ $O x y$, đồ thị của hai hàm số $y=\\frac{3}{2} x+3$ và $y=-\\frac{1}{2} x+3$ cắt nhau tại điểm $\\mathrm{M}$ có tọa độ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$(1 ; 2)$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$(2 ; 1)$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$(0 ;-2)$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$(0 ; 3)$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef9"
+            }
+        ]
+    },
+    {
+        "questionContent": "Hai đường thẳng $y=(m-4) x+3$ (với $m \\neq 4)$ và $y=(1-2 m) x+1($ với $m \\neq 0,5)$ sẽ cắt nhau khi:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m=\\frac{5}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\neq 4 ; m \\neq 0,5 ; m \\neq \\frac{5}{3}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m=4$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=0,5$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef9"
+            }
+        ]
+    },
+    {
+        "questionContent": "Trong mặt phẳng tọa độ $O x y$, đường thẳng đi qua điểm $M(1 ; 2)$ đồ thị của hàm số:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$y=3 x+1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=3 x-2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=3 x-1$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$y=5 x+3$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef1"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho đường thẳng $y=(3 m+1) x+5$. Góc tạo bởi đường thẳng này với trục $O x$ là góc tù khi:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m>-\\frac{1}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m<-\\frac{1}{3}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m=-\\frac{1}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=-1$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89befb"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho đường thẳng $y=(3 m+1) x+5$. Góc tạo bởi đường thẳng này với trục $O x$ là góc nhọn khi:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m>-\\frac{1}{3}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m<-\\frac{1}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=-\\frac{1}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=-1$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89befb"
+            }
+        ]
+    },
+    {
+        "questionContent": "Gọi $\\alpha, \\beta$ lần lượt là góc tạo bởi đưởng thẳng $y=-4 x+1$ và $y=-7 x+2$ với trục $O x$. Khi đó:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$90^{\\circ}<\\alpha<\\beta$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\alpha<\\beta<90^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\beta<\\alpha<90^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$90^{\\circ}<\\beta<\\alpha$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89befb"
+            }
+        ]
+    },
+    {
+        "questionContent": "Hai đường thẳng $y=(k+1) x+3 ; y=(4-2 k) x+1$ song song khi:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$k=0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$k=\\frac{2}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$k=\\frac{3}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$k=\\frac{3}{2}$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef8"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho các hàm số bậc nhất $y=x-2(1) ; y=-x+2 ; y=-\\frac{1}{3} x$. Kết luận nào sau đây là đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Đồ thị của 3 hàm số trên là các đưởng thẳng song song với nhau.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Đồ thị của 3 hàm số trên là các đường thẳng đi qua góc tọa độ.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Cả 3 hàm số trên luôn luôn đồng biến.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Hàm số (1) đồng biến còn 2 hàm số còn lại nghịch biến.",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef2"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bef3"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho hàm số $y=-\\frac{1}{3} x^{2}$. Kết luận nào sau đây đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Hàm số trên luôn đồng biến.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Hàm số trên luôn nghịch biến.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Hàm số trên đồng biến khi $x>0$, nghịch biến khi $x<0$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Hàm số trên đồng biến khi $x<0$, nghịch biến khi $x>0$.",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef2"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bef3"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho hàm số $y=-\\frac{1}{4} x^{2}$. Kết luận nào sau đây đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$y=0$ là giá trị lớn nhất của hàm số.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$y=0$ là giá trị nhỏ nhất của hàm số.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Xác định được giá trị lớn nhất của hàm số trên.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Không xác định được giá trị nhỏ nhất của hàm số trên.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89beef"
+            }
+        ]
+    },
+    {
+        "questionContent": "Điểm $M(-1 ; 1)$ thuộc đồ thị hàm số $y=(m+1) x^{2}$ khi $m$ bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "0",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "-1",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "2",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "1",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef1"
+            }
+        ]
+    },
+    {
+        "questionContent": "Nếu $x_{1}, x_{2}$ là hai nghiệm của phương trình $4 x^{2}-m x-3=0$ thì $x_{1}+x_{2}$ bằng :",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\frac{m}{4}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$-\\frac{m}{4}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$-\\frac{3}{4}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\frac{3}{4}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0f"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho hàm số $y=\\frac{1}{2} x^{2}$. Giá trị nào của hàm số đó tại $x=2 \\sqrt{2}$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$-2 \\sqrt{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "-4",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "4",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$2 \\sqrt{2}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89beef"
+            }
+        ]
+    },
+    {
+        "questionContent": "Đồ thị hàm số $y=\\frac{1}{3} x^{2}$ đi qua điểm nào trong các điểm:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\left(0 ;-\\frac{2}{3}\\right)$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\left(-1 ;-\\frac{1}{3}\\right)$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$(3 ; 6)$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\left(1 ; \\frac{1}{3}\\right)$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89beef"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bef1"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho hàm số $y=-x^{2}+3 x+8$. Có bao nhiêu giá trị của $\\mathrm{x}$ sao cho $y=4$ ?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "0",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "1",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "2",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "Nhiều hơn 2",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89beef"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bef1"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho hàm số bậc nhất $y=f(x)=a x+a-6$. Biết $f(3)=6$, vậy $f(2)$ bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "3",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "0",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "12",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Một đáp án khác",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89beef"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bef1"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho hàm số $y=f(x)=(m+3) x-4 m+2$ với $m$ là số thực khác -3. Câu nào sau đây đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Nếu $f(0)=18$ thì hàm số nghịch biến trên $\\mathrm{R}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Nếu $f(1)=-1$ thì hàm số đồng biến trên $\\mathrm{R}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Cả $\\mathrm{A}$ và $\\mathrm{B}$ đều đúng",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "Cả $A$ và $B$ đều sai",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef2"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bef3"
+            }
+        ]
+    },
+    {
+        "questionContent": "Parabol $y=a x^{2}+b x+2$ đi qua hai điểm $M(2 ; 3)$ và $N(-1 ; 4)$ có phương trình là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$y=x^{2}+x+2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=\\frac{5}{6} x^{2}-\\frac{7}{6} x+2$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$y=2 x^{2}-\\frac{7}{2} x+2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=x^{2}-x+2$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0c"
+            }
+        ]
+    },
+    {
+        "questionContent": "Với giá trị nào của $m$ thì đồ thị hàm số $y=x^{2}+3 x+m$ cắt trục hoành tại hai điểm phân biệt ?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m<-\\frac{9}{4}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m>-\\frac{9}{4}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m>\\frac{9}{4}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m<\\frac{9}{4}$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef9"
+            }
+        ]
+    },
+    {
+        "questionContent": "Nếu hàm số $y=a x^{2}+b x+c$ có đồ thị như hình vẽ thì dấu các hệ số của nó là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$a>0 ; b>0 ; c>0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$a>0 ; b>0 ; c<0$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$a>0 ; b<0 ; c>0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$a<0 ; b>0 ; c>0$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0d"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho hàm số $y=f(x)=2 m x+m+4$ biết $f(1)=10$, khi đó",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Hàm số luôn đồng biến trên $\\mathrm{R}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "Hàm số luôn nghịch biển trên $\\mathrm{R}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Đồ thị hàm số là đường thẳng qua gốc tọa độ",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Không có câu nào đúng.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef2"
+            }
+        ]
+    },
+    {
+        "questionContent": "Đồ thị hàm số: $y=-x+7$ và $y=2 x+15$ và trục $\\mathrm{Ox}$ lập thành một tam giác. Độ dài đường cao của tam giác ứng với cạnh trên $\\mathrm{Ox}$ gần nhất với số:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "4",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "4,1",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "4,2",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "4,3",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef1"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bef9"
+            }
+        ]
+    },
+    {
+        "questionContent": "Đường thẳng song song với đường thẳng $y=-5 x+2$ và cắt đường thẳng $y=x+9$ tại điểm có hoành độ bằng 5 là $y=a x+b$ với $b$ bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "8",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "-8",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "29",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "39",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef8"
+            }
+        ]
+    },
+    {
+        "questionContent": "Góc $\\alpha$ tạo bởi đường thẳng (d) $y=\\sqrt{3} x-10$ với trục hoành là góc:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$60^{\\circ}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$30^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$45^{0}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$15^{0}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89befb"
+            }
+        ]
+    },
+    {
+        "questionContent": "Một nghiệm của phương trình $2 x^{2}-(m-1) x+m-3=0$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\frac{m-3}{2}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$-\\frac{m-3}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\frac{-m-3}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\frac{m+3}{2}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0f"
+            }
+        ]
+    },
+    {
+        "questionContent": "Tổng hai nghiệm của phương trình $16 x^{2}+256 x+40=0$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "16",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "-6",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "-16",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "6",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0f"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf12"
+            }
+        ]
+    },
+    {
+        "questionContent": "Phương trình $(m+1) x^{2}+200 x-5=0$ có hai nghiệm trái dấu khi:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m \\leq-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\geq-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m>-1$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": ". $m<-1$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf14"
+            }
+        ]
+    },
+    {
+        "questionContent": "Tích hai nghiệm của phương trình $15 x^{2}+225 x+75=0$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "15",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "-5",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "-15",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "5",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf14"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho phương trình bậc hai $4 x^{2}-2(m+1) x+m=0$. Phương trình có nghiệm kép khi $m$ bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "1",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "-1",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "với mọi $\\mathrm{m}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Một kết quả khác",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": "Biệt thức $\\Delta^{\\prime}$ của phương trình $4 x^{2}-4 x-1=0$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "13",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "20",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "8",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "25",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": "Một nghiệm của phương trình $102 x^{2}-102 x-204=0$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "-2",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "3",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "-1",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "1",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": "Phương trình $(m+1) x^{2}+2 x+1=0$ có hai nghiệm cùng dấu khi:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m \\leq-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\geq-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m>-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Cả A, B, C đều sai",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf14"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho đường thẳng $y=-2 x-1(d)$ và parabol $y=x^{2}(P)$. Toạ độ giao điểm của $(\\mathrm{d})$ và $(\\mathrm{P})$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$(1 ;-1)$;",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$(-1 ;-1)$;",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$(-1 ; 1)$;",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$(1 ; 1)$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef9"
+            },
+            {
+                "$oid": "6579fbba4755048edf89befa"
+            }
+        ]
+    },
+    {
+        "questionContent": "Nếu $x_{1}, x_{2}$ là hai nghiệm của phương trình $2 x^{2}-m x-4=0$ thì $x_{1} \\cdot x_{2}$ bằng :",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\frac{m}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$-\\frac{m}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "2",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "-2",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0f"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": "Phương trình $(m+1) x^{2}-2 x-1=0$ có nghiệm duy nhất khi:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m=-1$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m=1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\neq-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\neq 1$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0f"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": "Phương trình $m x^{2}-x-\\frac{1}{4}=0(m \\neq 0)$ có hai nghiệm khi và chỉ khi:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m \\leq-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\geq-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m>-1$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m<-1$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0f"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho phương trình bậc hai $x^{2}-2(m+1) x+4 m=0$. Phương trình vô nghiệm khi:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m \\leq-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\geq-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m>-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Một kết quả khác",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0f"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": "Nếu $x_{1}, x_{2}$ là hai nghiệm của phương trình $x^{2}-x-1=0$ thì $x_{1}^{2}+x_{2}^{2}$ bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "-1",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "3",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "1",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "-3",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0f"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho hàm số $y=-5 x^{2}$. Kết luận nào sau đây đúng.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Hàm số trên đồng biến",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Hàm số trên đồng biến khi $x>0$ và nghịch biển khi $x<0$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Hàm số trên đồng biến khi $x<0$ và nghịch biến khi $x>0$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "Hàm số trên nghịch biến.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef2"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bef3"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cho phương trình $x^{2}+(m+2) x+m=0$. Giá trị của $\\mathrm{m}$ để phương trình có hai nghiệm cùng dương là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m>0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m<0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\geq 0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "không có giá trị nào thoả mãn",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf14"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf12"
+            }
+        ]
+    },
+    {
+        "questionContent": "Hàm số $y=2 x^{2}$ qua hai điểm $A(\\sqrt{2} ; m)$ và $B(\\sqrt{3} ; n)$. Khi đó giá trị của biểu thức $\\mathrm{A}=2 \\mathrm{~m}-\\mathrm{n}$ bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "0",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "1",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "3",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "4",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89beef"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bef1"
+            }
+        ]
+    },
+    {
+        "questionContent": "Hai phương trình $x^{2}+a x+1=0$ và $x^{2}-x-a=0$ có một nghiệm thực chung khi a bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "0",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "1",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "2",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "3",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0f"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf10"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf11"
+            }
+        ]
+    },
+    {
+        "questionContent": "Hai đường thẳng $y=k x+(m-2)$ và $y=(5-k) x+(4-m)$ trùng nhau khi:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\left\\{\\begin{array}{l}k=\\frac{5}{2} \\\\\\\\ m=1\\end{array}\\right.$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\left\\{\\begin{array}{l}m=\\frac{5}{2} \\\\\\\\ k=1\\end{array}\\right.$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\left\\{\\begin{array}{l}k=\\frac{5}{2} \\\\\\\\ m=3\\end{array}\\right.$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\left\\{\\begin{array}{l}m=\\frac{5}{2} \\\\\\\\ k=3\\end{array}\\right.$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef8"
+            }
+        ]
+    },
+    {
+        "questionContent": "Với giá trị nào của $m$ thì đồ thị 2 hàm số $y=2 x+m+3$ và $y=3 x+5-m$ cắt nhau tại 1 điểm trên trục tung:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m=1$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m=-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m=3$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef9"
+            }
+        ]
+    },
+    {
+        "questionContent": "Biết hàm số $y=a x^{2}$ đi qua điểm có tọa độ $(1 ;-2)$, khi đó hệ số $a$ bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\frac{1}{4}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$-\\frac{1}{4}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "2",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "-2",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89beef"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bef1"
+            }
+        ]
+    },
+    {
+        "questionContent": "Cước phí bưu điện ngoài nước được tính như sau: Nếu trọng lượng thư không quá 9 gam thi cước phí là 10000 đồng. Nếu thư trên 9 gam thì với mỗi gam tăng thêm, cước phí tínhthêm 1000 đồng. Hãy tính cước phí y (đồng) của một bức thư, biết thư nặng x gam với $\\mathrm{x}>9$.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$y=900 x+41000$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=900 x+1000$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=900 x-41000$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=900 x-1000$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89befd"
+            },
+            {
+                "$oid": "6579fbba4755048edf89befe"
+            }
+        ]
+    },
+    {
+        "questionContent": "Biết hai tỉnh $\\mathrm{A}$ và $\\mathrm{B}$ cách nhau $360 \\mathrm{~km}$, hai người cùng khởi hành lúc 6 giờ từhai tỉnh và đi để gặp nhau. Người đi từ $A$ có vận tốc $45 \\mathrm{~km} / \\mathrm{h}$, người đi từ $\\mathrm{B}$ có vận tốc $60 \\mathrm{~km} / \\mathrm{h}$. Tínhkhoảng cách y $(\\mathrm{km})$ giữa hai người lúc $\\mathrm{x}$ (giờ) trước khi hai người gặp nhau.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$y=990-150 x$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$y=105 x-270$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=105 x+775$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Một đáp án khác",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89befd"
+            },
+            {
+                "$oid": "6579fbba4755048edf89befe"
+            }
+        ]
+    },
+    {
+        "questionContent": "Các đường thẳng $y=-5(x+1) ; y=a x+3 ; y=3 x+a$ đồng quy với giá trịcủa $a$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "-10",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "-11",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "-12",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "-13",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef9"
+            }
+        ]
+    },
+    {
+        "questionContent": " Gọi $\\mathrm{M}$ vả $\\mathrm{m}$ lần lượt là giá trị lớn nhất và giá trị nhỏ nhất của hàm số: $y=(a-1) x^{2}$ (với $a<1)$ trên đoạn $[-2 ;-1]$ thì giá trị của $M-2 m$ bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$-3 a+3$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$3 a-3$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Không có cực đại và cực tiểu",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "0",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89beef"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bef1"
+            }
+        ]
+    },
+    {
+        "questionContent": " Khi sản xuất vỏ lon sữa bò hình trụ, các nhà thiết kế luôn đặt mục tiêu sao cho chi phí nguyên liệu làm vỏ lon là ít nhất, tức là diện tích toàn phần của hình trụ là nhỏ nhất. Chủ đầu tư muốn chiều cao của lon sữa bò là $10 \\mathrm{~cm}$. Muốn diện tích toàn phần hình trụ nhỏ nhất thi bán kính đáy $\\mathrm{R}$ bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$R=150 \\pi(\\mathrm{cm})$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$R=8 \\pi(\\mathrm{cm})$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$R=100 \\pi(\\mathrm{cm})$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$R=400 \\pi(\\mathrm{cm})$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf69"
+            }
+        ]
+    },
+    {
+        "questionContent": " Huy xuất phát từ $A$ đến $B$ lúc 7 giờ với vận tốc $40 \\mathrm{~km} / \\mathrm{h}$. Lúc 10 giờ. My đi từ $A$ đến $B$ với vận tốc $80 \\mathrm{~km} \\mathrm{h}$. Hỏi lúc $\\mathrm{x}$ giờ $(x>10)$ trước khi hai người gặp nhau khoảng cách $\\mathrm{y}$ giữa Huy và My là bao nhiêu km?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$y=40 x-520$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=120 x-1080$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=-40 x+520$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$y=-120 x-1080$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef4"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một cái quần jean giá 120 nghìn đồng, một cái áo phông giá 200 nghìn đồng. Mua tất cả 5 món đồ có cả quần và áo. Tính số tiền $\\mathrm{y}$ đồng theo số $ $ áo đã mua. Tìm $x$ để hàm số xác định.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$y=-80 x+1000$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=80 x+600$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$y=320 x+1000$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$y=-320 x+1000$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef4"
+            }
+        ]
+    },
+    {
+        "questionContent": " Mực nước trong hồ là $30 \\mathrm{~cm}$ và hồ cao $150 \\mathrm{~cm}$. Cho vòi đổ nước vào hồ, mỗiphút nước dâng lên $10 \\mathrm{~cm}$ cho đến khi đầy hồ. Mực nước sẽ cao $0,8 \\mathrm{~m}$ trong thời gian bao nhiêu phút.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "5 phút",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "10 phút",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "15 phút",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "20 phút",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bef4"
+            }
+        ]
+    },
+    {
+        "questionContent": " Để giá trị nhỏ nhất của hàm số $\\left(P_{m}\\right): y=f(x)=x^{2}+2(m-1) x+3 m-5$ đạtgiá trị lớn nhất, thì $m$ bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\frac{5}{2}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\frac{2}{5}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "1",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\frac{1}{2}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0d"
+            }
+        ]
+    },
+    {
+        "questionContent": " Điểm cố định của họ đường cong $y=(m+1) x^{2}-(m+2) x-2 m-3$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$I(2 ;-3)$ và $I(-1 ; 0)$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$I(2 ;-1)$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$I(-1 ;-2)$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$I(3 ;-1)$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf0d"
+            }
+        ]
+    }
+]

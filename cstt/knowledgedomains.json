@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Đại số",
+    "chapters": [
+      {
+        "$oid": "6579dac113a48d5b78dbdae3"
+      },
+      {
+        "$oid": "6579dac113a48d5b78dbdae4"
+      },
+      {
+        "$oid": "6579dac113a48d5b78dbdae5"
+      },
+      {
+        "$oid": "6579dac113a48d5b78dbdae6"
+      }
+    ]
+  },
+  {
+    "name": "Hình học",
+    "chapters": [
+      {
+        "$oid": "6579dac113a48d5b78dbdae7"
+      },
+      {
+        "$oid": "6579dac113a48d5b78dbdae8"
+      },
+      {
+        "$oid": "6579dac113a48d5b78dbdae9"
+      },
+      {
+        "$oid": "6579dac113a48d5b78dbdaea"
+      }
+    ]
+  }
+]

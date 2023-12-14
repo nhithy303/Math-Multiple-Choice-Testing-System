@@ -1,0 +1,56 @@
+{
+    "lessons": {
+      "_id": "",
+      "name": "",
+      "order": ""
+    },
+    "chapters": {
+      "_id": "",
+      "name": "",
+      "order": "",
+      "semester": "",
+      "lessons": [{ "_id": "" }]
+    },
+    "knowledgedomains": {
+      "_id": "",
+      "name": "",
+      "chapters": [{ "_id": "" }]
+    },
+    "knowledgetypes": {
+      "_id": "",
+      "name": ""
+    },
+    "knowledges": {
+      "_id": "",
+      "knowledgeType": "",
+      "name": "",
+      "content": "",
+      "lessonId": ""
+    },
+    "questionlevels": {
+      "_id": "",
+      "level": ""
+    },
+    "questions": {
+      "_id": "",
+      "questionContent": "",
+      "image": "",
+      "choices": [{
+        "answerContent": "",
+        "image": "",
+        "isCorrect": "<boolean>"
+        }],
+      "questionLevelId": "",
+      "lessonId": "",
+      "knowledges": [{ "_id": "" }]
+    },
+    "testlevels": {
+      "_id": "",
+      "level": "",
+      "structure": [{
+        "questionLevelId": "",
+        "percentage": ""
+        }]
+    }
+  }
+  

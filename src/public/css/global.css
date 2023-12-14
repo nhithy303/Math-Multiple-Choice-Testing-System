@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-crimson-pro: "Crimson Pro";
+  --font-consolas: Consolas;
+  --font-ribeye: Ribeye;
+  --font-lexend: Lexend;
+  --font-constantia: Constantia;
+  --font-roboto-condensed: "Roboto Condensed";
+
+  /* font sizes */
+  --font-size-77xl: 60px;
+  --font-size-16xl: 15px;
+  --font-size-5xl: 5px;
+  --font-size-21xl: 20px;
+  --font-size-8xl: 9px;
+  --font-size-13xl: 10px;
+  --font-size-6xl: 7px;
+  --font-size-26xl: 25px;
+  --font-size-11xl: 9px;
+  --font-size-31xl: 30px;
+  --font-size-36xl: 35px;
+  --font-size-41xl: 40px;
+
+  /* Colors */
+  --color-lavender-100: #dde5f8;
+  --color-white: #fff;
+  --color-steelblue-100: #6e86c3;
+  --color-steelblue-200: #527ab7;
+  --color-steelblue-300: #445a94;
+  --color-black: #000;
+  --color-gainsboro: #d9d9d9;
+  --color-lightblue: #cbe9ff;
+  --color-slategray: #4a5476;
+  --color-whitesmoke-100: #ededed;
+  --color-whitesmoke-200: rgba(237, 237, 237, 0.85);
+  --color-darkslateblue-100: #2b4998;
+  --color-btn: #45a049;
+
+  /* border radiuses */
+  --br-mini: 15px;
+  --br-3xs: 10px;
+  --br-8xs: 5px;
+  --br-xl: 20px;
+}

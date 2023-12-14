@@ -1,0 +1,1406 @@
+[
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Căn bậc hai số học",
+        "content": [
+            "Với số dương $a$, số $\\sqrt{a}$ được gọi là căn bậc hai số học của $a$. Số $0$ cũng được gọi là căn bậc hai số học của $0$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbda9d" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Phép khai phương",
+        "content": [
+            "Phép toán tìm căn bậc hai số học của số không âm gọi là phép khai phương (gọi tắt là khai phương)."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbda9d" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "So sánh các căn bậc hai số học",
+        "content": [
+            "Với hai số $a$ và $b$ không âm, ta có $a<b\\Leftrightarrow\\sqrt{a}<\\sqrt{b}$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbda9d" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Căn thức bậc hai",
+        "content": [
+            "Với $A$ là một biểu thức đại số, người ta gọi $\\sqrt{A}$ là căn thức bậc hai của $A$, còn $A$ được gọi là biểu thức lấy căn hay biểu thức dưới dấu căn. $\\sqrt{A}$ xác định (hay có nghĩa) khi $A$ lấy giá trị không âm."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbda9e" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Hằng đẳng thức $\\sqrt{A^2}=|A|$",
+        "content": [
+            "Với mọi số $a$, ta có $\\sqrt{a^2}=|a|$.",
+            "Một cách tổng quát, với $A$ là một biểu thức ta có $\\sqrt{A^2}=|A|$, có nghĩa là:",
+            "$\\sqrt{A^2}=A$ nếu $A\\geq 0$ (tức là $A$ lấy giá trị không âm);",
+            "$\\sqrt{A^2}=-A$ nếu $A<0$ (tức là A lấy giá trị âm)."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbda9e" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Liên hệ giữa phép nhân và phép khai phương",
+        "content": [
+            "Với hai số $a$ và $b$ không âm, ta có $\\sqrt{a.b}=\\sqrt{a}.\\sqrt{b}$",
+            "Một cách tổng quát, với hai biểu thức $A$ và $B$ không âm ta có $\\sqrt{A.B}=\\sqrt{A}.\\sqrt{B}.",
+            "Đặc biệt, với biểu thức $A$ không âm ta có $(\\sqrt{A})^2=\\sqrt{A^2}=A$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbda9f" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Quy tắc khai phương một tích",
+        "content": [
+            "Muốn khai phương một tích của các số không âm, ta có thể khai phương từng thừa số rồi nhân các kết quả với nhau."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbda9f" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Quy tắc nhân các căn bậc hai",
+        "content": [
+            "Muốn nhân các căn bậc hai của các số không âm, ta có thể nhân các số dưới dấu căn với nhau rồi khai phương kết quả đó."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbda9f" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Liên hệ giữa phép chia và phép khai phương",
+        "content": [
+            "Với số $a$ không âm và số $b$ dương, ta có $\\sqrt{\\frac{a}{b}}=\\frac{\\sqrt{a}}{\\sqrt{b}}$.",
+            "Một cách tổng quát, với biểu thức $A$ không âm và biểu thức $B$ dương, ta có $\\sqrt{\\frac{A}{B}}=\\frac{\\sqrt{A}}{\\sqrt{B}}$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaa0" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Quy tắc khai phương một thương",
+        "content": [
+            "Muốn khai phương một thương $\\frac{a}{b}$, trong đó số $a$ không âm và số $b$ dương, ta có thể lần lượt khai phương số $a$ và số $b$, rồi lấy kết quả thức nhất chia cho kết quả thứ hai."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaa0" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Quy tắc chia hai căn bậc hai",
+        "content": [
+            "Muốn chia căn bậc hai của số $a$ không âm cho căn bậc hai của số $b$ dương, ta có thể chia số $a$ cho số $b$ rồi khai phương kết quả đó."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaa0" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Phép đưa thừa số ra ngoài dấu căn",
+        "content": [
+            "Phép biến đổi $\\sqrt{a^2 b}=a\\sqrt{b}$ (với $a\\geq 0$, $b\\geq 0$) được gọi là phép đưa thừa số ra ngoài dấu căn."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaa1" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Phép đưa thừa số ra ngoài dấu căn",
+        "content": [
+            "Với hai biểu thức $A$, $B$ mà $B\\geq 0$, ta có $\\sqrt{A^2.B}=|A|\\sqrt{B}$, tức là:",
+            "Nếu $A\\geq 0$ và $B\\geq 0$ thì $\\sqrt{A^2 B}=A\\sqrt{B}$;",
+            "Nếu $A<0$ và $B\\geq 0$ thì $\\sqrt{A^2 B}=-A\\sqrt{B}$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaa1" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Phép đưa thừa số ra ngoài dấu căn",
+        "content": [
+            "Với $A\\geq 0$ và $B\\geq 0$ ta có $A\\sqrt{B}=\\sqrt{A^2 B}$.",
+            "Với $A<0$ và $B\\geq 0$ ta có $A\\sqrt{B}=-\\sqrt{A^2 B}$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaa1" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Khử mẫu của biểu thức lấy căn",
+        "content": [
+            "Với các biểu thức $A$, $B$ mà $A.B\\geq 0$ và $B\\neq 0$, ta có $\\sqrt{\\frac{A}{B}}=\\frac{\\sqrt{AB}}{|B|}$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaa2" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Trục căn thức ở mẫu",
+        "content": [
+            "a/ Với các biểu thức $A$, $B$ mà $B>0$, ta có $\\frac{A}{\\sqrt{B}}=\\frac{A\\sqrt{B}}{B}$.",
+            "b/ Với các biểu thức $A$, $B$, $C$ mà $A\\geq 0$ và $A\\neq B^2$, ta có $\\frac{C}{\\sqrt{A}\\pm B}=\\frac{C(\\sqrt{A}\\mp B)}{A-B^2}$.",
+            "c/ Với các biểu thức $A$, $B$, $C$ mà $A\\geq 0$, $B\\geq 0$ và $A\\neq B$, ta có $\\frac{C}{\\sqrt{A}\\pm\\sqrt{B}}=\\frac{C(\\sqrt{A}\\mp\\sqrt{B})}{A-B}$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaa2" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Căn bậc ba",
+        "content": [
+            "Căn bậc ba của một số $a$ là số $x$ sao cho $x^3=a$. Mỗi số $a$ đều có duy nhất một căn bậc ba. Căn bậc ba của số $a$ được kí hiệu là $\\sqrt[3]{a}$. Số 3 gọi là chỉ số của căn.",
+            "Từ định nghĩa căn bậc ba, ta có $(\\sqrt[3]{a})^3=\\sqrt[3]{a^3}=a$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaa3" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Phép khai căn bậc ba",
+        "content": [
+            "Phép tìm căn bậc ba của một số gọi là phép khai căn bậc ba."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaa3" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad3" },
+        "name": "Căn bậc ba",
+        "content": [
+            "Căn bậc ba của số dương là số dương;",
+            "Căn bậc ba của số âm là số âm;",
+            "Căn bậc ba của số 0 là chính số 0."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaa3" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad1" },
+        "name": "Căn bậc ba",
+        "content": [
+            "a/ $a<b\\Leftrightarrow\\sqrt[3]{a}<\\sqrt[3]{b}$.",
+            "b/ $\\sqrt[3]{a b}=\\sqrt[3]{a}.\\sqrt[3]{b}$.",
+            "c/ Với $b\\neq 0$, ta có $\\sqrt[3]{\\frac{a}{b}}=\\frac{\\sqrt[3]{a}}{\\sqrt[3]{b}}$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaa3" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Hàm số",
+        "content": [
+            "Nếu đại lượng $y$ phụ thuộc vào đại lượng thay đổi $x$ sao cho với mỗi giá trị của $x$, ta luôn xác định được chỉ một giá trị tương ứng của $y$ thì $y$ được gọi là hàm số của $x$, và $x$ được gọi là biến số."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaa4" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Hàm hằng",
+        "content": [
+            "Khi $x$ thay đổi mà $y$ luôn nhận một giá trị không đổi thì hàm số $y$ được gọi là hàm hằng."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaa4" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Đồ thị của hàm số",
+        "content": [
+            "Tập hợp tất cả các điểm biểu diễn các cặp giá trị tương ứng $(x;f(x))$ trên mặt phẳng tọa độ được gọi là đồ thị của hàm số $y=f(x)$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaa4" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Hàm số đồng biến, nghịch biến",
+        "content": [
+            "Cho hàm số $y=f(x)$ xác định với mọi giá trị của $x$ thuộc $\\R$",
+            "a/ Nếu giá trị của biến $x$ tăng lên mà giá trị tương ứng $f(x)$ cũng tăng lên thì hàm số $y=f(x)$ được gọi là hàm số đồng biến trên $\\R$ (gọi tắt là hàm số đồng biến).",
+            "b/ Nếu giá trị của biến $x$ tăng lên mà giá trị tương ứng $f(x)$ lại giảm đi thì hàm số $y=f(x)$ được gọi là hàm số nghịch biến trên $\\R$ (gọi tắt là hàm số nghịch biến)."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaa4" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad3" },
+        "name": "Hàm số đồng biến, nghịch biến",
+        "content": [
+            "Nói cách khác, với $x_{1}$, $x_{2}$ bất kì thuộc $\\R$:",
+            "Nếu $x_{1}<x_{2}$ mà $f(x_{1})<f(x_{2})$ thì hàm số $y=f(x)$ đồng biến trên $\\R$;",
+            "Nếu $x_{1}<x_{2}$ mà $f(x_{1})>f(x_{2})$ thì hàm số $y=f(x)$ nghịch biến trên $\\R$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaa4" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Hàm số bậc nhất",
+        "content": [
+            "Hàm số bậc nhất là hàm số được cho bởi công thức $y=a x+b$ trong đó $a$, $b$ là các số cho trước và $a\\neq 0$.",
+            "Khi $b=0$, hàm số có dạng $y=a x$ (đã học ở lớp 7)."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaa5" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad1" },
+        "name": "Hàm số bậc nhất",
+        "content": [
+            "Hàm số bậc nhất $y=a x+b$ xác định với mọi giá trị của $x$ thuộc $\\R$ và có tính chất sau:",
+            "a/ Đồng biến trên $\\R$, khi $a>0$.",
+            "b/ Nghịch biến trên $\\R$, khi $a<0$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaa5" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Đồ thị của hàm số $y=a x+b(a\\neq 0)$",
+        "content": [
+            "Đồ thị của hàm số $y=a x+b(a\\neq 0)$ là một đường thẳng:",
+            "Cắt trục tung tại điểm có tung độ bằng $b$;",
+            "Song song với đường thẳng $y=a x$, nếu $b\\neq 0$; trùng với đường thẳng $y=a x$, nếu $b=0$.",
+            "Đồ thị của hàm số $y=a x+b(a\\neq 0)$ còn được gọi là đường thẳng $y=a x+b$; $b$ được gọi là tung độ gốc của đường thẳng."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaa6" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad3" },
+        "name": "Cách vẽ đồ thị của hàm số $y=a x+b(a\\neq 0)$",
+        "content": [
+            "Bước 1: Cho $x=0$ thì $y=b$, ta được điểm $P(0;b)$ thuộc trục tung $Oy$.",
+            "Cho $y=0$ thì $x=-\\frac{b}{a}$, ta được điểm $Q\\left(-\\frac{b}{a};0\\right)$ thuộc trục hoành $Ox$.",
+            "Bước 2: Vẽ đường thẳng đi qua hai điểm $P$ và $Q$ ta được đồ thị của hàm số $y=a x+b$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaa6" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Đường thẳng song song",
+        "content": [
+            "Hai đường thẳng $y=a x+b(a\\neq 0)$ và $y=a'x+b'(a'\\neq 0)$ song song với nhau khi và chỉ khi $a=a'$, $b\\neq b'$ và trùng nhau khi và chỉ khi $a=a'$, $b=b'$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaa7" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Đường thẳng cắt nhau",
+        "content": [
+            "Hai đường thẳng $y=a x+b(a\\neq 0)$ và $y=a'x+b'(a'\\neq 0)$ cắt nhau khi và chỉ khi $a\\neq a'$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaa7" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad3" },
+        "name": "Đường thẳng cắt nhau",
+        "content": [
+            "Khi $a\\neq a'$ và $b=b'$ thì hai đường thẳng có cùng tung độ gốc, do đó chúng cắt nhau tại một điểm trên trục tung có tung độ là $b$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaa7" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Góc tạo bởi đường thẳng $y=a x+b$ và trục $Ox$",
+        "content": [
+            "Trong mặt phẳng tọa độ $Oxy$, khi nói góc $\\alpha$ tạo bởi đường thẳng $y=a x+b$ và trục $Ox$ (hoặc nói đường thẳng $y=a x+b$ tạo với trục $Ox$ một góc $\\alpha$), ta hiểu đó là góc tạo bởi tia $Ax$ và tia $AT$, trong đó $A$ là giao điểm của đường thẳng $y=a x+b$ với trục $Ox$, $T$ là điểm thuộc đường thẳng $y=a x+b$ và có tung độ dương."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaa8" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Hệ số góc",
+        "content": [
+            "Các đường thẳng có cùng hệ số $a$ ($a$ là hệ số của $x$) thì tạo với trục $Ox$ các góc bằng nhau.",
+            "Khi hệ số $a$ dương ($a>0$) thì góc tạo bởi đường thẳng $y=a x+b$ và trục $Ox$ là góc nhọn. Hệ số $a$ càng lớn thì góc càng lớn nhưng vẫn nhỏ hơn $90^\\circ$.",
+            "Khi hệ số $a$ âm ($a<0$) thì góc tạo bởi đường thẳng $y=a x+b$ và trục $Ox$ là góc tù. Hệ số $a$ càng lớn thì góc càng lớn nhưng vẫn nhỏ hơn $180^\\circ$.",
+            "Vì có sự liên quan giữa hệ số $a$ với góc tạo bởi đường thẳng $y=a x+b$ và trục $Ox$ nên người ta gọi $a$ là hệ số góc của đường thẳng $y=a x+b$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaa8" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Phương trình bậc nhất hai ẩn",
+        "content": [
+            "Phương trình bậc nhất hai ẩn $x$ và $y$ là hệ thức dạng $a x+b y=c$, trong đó $a$, $b$ và $c$ là các số đã biết ($a\\neq 0$ hoặc $b\\neq 0$)."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaa9" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Nghiệm của phương trình bậc nhất hai ẩn",
+        "content": [
+            "Trong phương trình bậc nhất hai ẩn, nếu giá trị của vế trái tại $x=x_{0}$ và $y=y_{0}$ bằng vế phải thì cặp số $(x_{0};y_{0})$ được gọi là một nghiệm của phương trình."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaa9" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Tập nghiệm của phương trình bậc nhất hai ẩn",
+        "content": [
+            "a/ Phương trình bậc nhất hai ẩn $a x+b y=c$ luôn luôn có vô số nghiệm. Tập nghiệm của nó được biểu diễn bởi đường thẳng $a x+b y=c$, kí hiệu là $(d)$.",
+            "b/ Nếu $a\\neq 0$ và $b\\neq 0$ thì đường thẳng $(d)$ chính là đồ thị của hàm số bậc nhất $y=-\\frac{a}{b}x+\\frac{c}{b}$.",
+            "Nếu $a\\neq 0$ và $b=0$ thì phương trình trở thành $a x=c$ hay $x=\\frac{c}{a}$, và đường thẳng $(d)$ song song hoặc trùng với trục tung.",
+            "Nếu $a=0$ và $b\\neq 0$ thì phương trình trở thành $b y=c$ hay $y=\\frac{c}{b}$, và đường thẳng $(d)$ song song hoặc trùng với trục hoành."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaa9" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Hệ hai phương trình bậc nhất hai ẩn",
+        "content": [
+            "Cho hai phương trình bậc nhất hai ẩn $a x+b y=c$ và $a'x+b'y=c'$. Khi đó, ta có hệ hai phương trình bậc nhất hai ẩn $\\begin{cases}a x+b y=c\\a'x+b'y=c'\\end{cases}$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaaa" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Nghiệm của hệ hai phương trình bậc nhất hai ẩn",
+        "content": [
+            "Nếu hai phương trình ấy có nghiệm chung $(x_{0};y_{0})$ thì $(x_{0};y_{0})$ được gọi là một nghiệm của hệ."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaaa" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Hệ hai phương trình bậc nhất hai ẩn vô nghiệm",
+        "content": [
+            "Nếu hai phương trình đã cho không có nghiệm chung thì ta nói hệ vô nghiệm."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaaa" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Giải hệ hai phương trình bậc nhất hai ẩn",
+        "content": [
+            "Giải hệ phương trình là tìm tất cả các nghiệm (tìm tập nghiệm) của nó."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaaa" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Tập nghiệm của hệ hai phương trình bậc nhất hai ẩn",
+        "content": [
+            "Trên mặt phẳng tọa độ, nếu gọi $(d)$ là đường thẳng $a x+b y=c$ và $(d')$ là đường thẳng $a'x+b'y=c'$ thì điểm chung (nếu có) của hai đường thẳng ấy có tọa độ là nghiệm chung của hai phương trình của hệ. Vậy, tập nghiệm của hệ hai phương trình bậc nhất hai ẩn được biểu diễn bởi tập hợp các điểm chung của $(d)$ và $(d')$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaaa" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad1" },
+        "name": "Tập nghiệm của hệ hai phương trình bậc nhất hai ẩn",
+        "content": [
+            "Đối với hệ hai phương trình bậc nhất hai ẩn, ta có:",
+            "Nếu $(d)$ cắt $(d')$ thì hệ có một nghiệm duy nhất.",
+            "Nếu $(d)$ song song với $(d')$ thì hệ vô nghiệm.",
+            "Nếu $(d)$ trùng với $(d')$ thì hệ có vô số nghiệm."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaaa" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Hệ phương trình tương đương",
+        "content": [
+            "Hai hệ phương trình được gọi là tương đương với nhau nếu chúng có cùng tập nghiệm."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaaa" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Quy tắc thế",
+        "content": [
+            "Quy tắc thế dùng để biến đổi một hệ phương trình thành hệ phương trình tương đương. Quy tắc thế gồm hai bước sau:",
+            "Bước 1: Từ một phương trình của hệ đã cho (coi là phương trình thứ nhất), ta biểu diễn một ẩn theo ẩn kia rồi thế vào phương trình thứ hai để được một phương trình mới (chỉ còn một ẩn).",
+            "Bước 2: Dùng phương trình mới ấy để thay thế cho phương trình thứ hai trong hệ (phương trình thứ nhất cũng thường được thay thế bởi hệ thức biểu diễn một ẩn theo ẩn kia có được ở bước 1)."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaab" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad3" },
+        "name": "Quy tắc thế",
+        "content": [
+            "Nếu trong quá trình giải hệ phương trình bằng phương pháp thế, ta thấy xuất hiện phương trình có các hệ số của cả hai ẩn đều bằng 0 thì hệ phương trình đã cho có thể có vô số nghiệm hoặc vô nghiệm."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaab" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Quy tắc cộng đại số",
+        "content": [
+            "Quy tắc cộng đại số dùng để biến đổi một hệ phương trình thành hệ phương trình tương đương. Quy tắc cộng đại số gồm hai bước sau:",
+            "Bước 1: Cộng hay trừ từng vế hai phương trình của hệ phương trình đã cho để được một phương trình mới.",
+            "Bước 2: Dùng phương trình mới ấy thay thế cho một trong hai phương trình của hệ (và giữ nguyên phương trình kia)."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaac" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad1" },
+        "name": "Hàm số $y=a x^2(a\\neq 0)$",
+        "content": [
+            "Nếu $a>0$ thì hàm số nghịch biến khi $x<0$ và đồng biến khi $x>0$.",
+            "Nếu $a<0$ thì hàm số đồng biến khi $x<0$ và nghịch biến khi $x>0$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaae" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad3" },
+        "name": "Hàm số $y=a x^2(a\\neq 0)$",
+        "content": [
+            "Nếu $a>0$ thì $y>0$ với mọi $x\\neq 0$; $y=0$ khi $x=0$. Giá trị nhỏ nhất của hàm số là $y=0$.",
+            "Nếu $a<0$ thì $y<0$ với mọi $x\\neq 0$; $y=0$ khi $x=0$. Giá trị lớn nhất của hàm số là $y=0$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaae" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Đồ thị của hàm số $y=a x^2(a\\neq 0)$",
+        "content": [
+            "Đồ thị của hàm số $y=a x^2(a\\neq 0)$ là một đường cong đi qua gốc tọa độ và nhận trục $Oy$ làm trục đối xứng. Đường cong đó được gọi là một parabol với đỉnh $O$.",
+            "Nếu $a>0$ thì đồ thị nằm phía trên trục hoành, $O$ là điểm thấp nhất của đồ thị.",
+            "Nếu $a<0$ thì đồ thị nằm phía dưới trục hoành, $O$ là điểm cao nhất của đồ thị."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaaf" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Phương trình bậc hai một ẩn",
+        "content": [
+            "Phương trình bậc hai một ẩn (nói gọn là phương trình bậc hai) là phương trình có dạng $a x^2+b x+c=0$, trong đó $x$ là ẩn; $a$, $b$, $c$ là những số cho trước gọi là các hệ số và $a\\neq 0$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdab0" }
+    },
+    
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Biệt thức của phương trình",
+        "content": [
+            "Biệt thức của phương trình (kí hiệu là $\\Delta$) được tính bởi công thức $\\Delta=b^2-4a c$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdab1" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Công thức nghiệm của phương trình bậc hai",
+        "content": [
+            "Đối với phương trình $a x^2+b x+c=0(a\neq 0)$ và biệt thức $\\Delta=b^2-4a c$:",
+            "Nếu $\\Delta>0$ thì phương trình có hai nghiệm phân biệt:",
+            "$x_{1}=\\frac{-b+\\sqrt{\\Delta}}{2a}$, $x_{2}=\\frac{-b-\\sqrt{\\Delta}}{2a}$;",
+            "Nếu $\\Delta=0$ thì phương trình có nghiệm kép $x_{1}=x_{2}=-\\frac{b}{2a}$;",
+            "Nếu $\\Delta<0$ thì phương trình vô nghiệm."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdab1" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad3" },
+        "name": "Nghiệm của phương trình bậc hai",
+        "content": [
+            "Nếu phương trình $a x^2+b x+c=0(a\\neq 0)$ có $a$ và $c$ trái dấu, tức là $a c<0$ thì $\\Delta=b^2-4a c>0$. Khi đó, phương trình có hai nghiệm phân biệt."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdab1" }
+    },
+    
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Công thức nghiệm thu gọn của phương trình bậc hai",
+        "content": [
+            "Đối với phương trình $a x^2+b x+c=0(a\\neq 0)$ và $b=2b'$, $\\Delta'=b'^2-a c$:",
+            "Nếu $\\Delta'>0$ thì phương trình có hai nghiệm phân biệt:",
+            "$x_{1}=\\frac{-b'+\\sqrt{\\Delta'}}{a}$, $x_{2}=\\frac{-b'-\\sqrt{\\Delta'}}{a}$;",
+            "Nếu $\\Delta'=0$ thì phương trình có nghiệm kép $x_{1}=x_{2}=-\\frac{b'}{a}$;",
+            "Nếu $\\Delta'<0$ thì phương trình vô nghiệm."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdab2" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Vi-ét",
+        "content": [
+            "Nếu $x_{1}$, $x_{2}$ là hai nghiệm của phương trình $a x^2+b x+c=0(a\\neq 0)$ thì $\\begin{cases}x_{1}+x_{2}=-\\frac{b}{a}\\x_{1}x_{2}=\\frac{c}{a}\\end{cases}$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdab3" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad2" },
+        "name": "Vi-ét",
+        "content": [
+            "Nếu phương trình $a x^2+b x+c=0(a\\neq 0)$ có $a+b+c=0$ thì phương trình có một nghiệm là $x_{1}=1$, còn nghiệm kia là $x_{2}=\\frac{c}{a}$.",
+            "Nếu phương trình $a x^2+b x+c=0(a\\neq 0)$ có $a-b+c=0$ thì phương trình có một nghiệm là $x_{1}=-1$, còn nghiệm kia là $x_{2}=-\\frac{c}{a}$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdab3" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad2" },
+        "name": "Tìm hai số biết tổng và tích của chúng",
+        "content": [
+            "Nếu hai số có tổng bằng $S$ và tích bằng $P$ thì hai số đó là hai nghiệm của phương trình $x^2-S x+P=0$. Điều kiện để có hai số đó là $S^2-4P\\geq 0$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdab3" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Phương trình trùng phương",
+        "content": [
+            "Phương trình trùng phương là phương trình có dạng $a x^4+b x^2+c=0(a\\neq 0)$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdab4" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Giải phương trình trùng phương",
+        "content": [
+            "Có thể đưa phương trình trùng phương về phương trình bậc hai bằng cách đặt ẩn phụ. Chẳng hạn, nếu đặt $x^2=t$ thì ta được phương trình bậc hai $a t^2+b t+c=0$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdab4" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Giải phương trình chứa ẩn ở mẫu thức",
+        "content": [
+            "Bước 1: Tìm điều kiện xác định của phương trình;",
+            "Bước 2: Quy đồng mẫu thức hai vế rồi khử mẫu thức;",
+            "Bước 3: Giải phương trình vừa nhận được;",
+            "Bước 4: Trong các giá trị tìm được của ẩn, loại các giá trị không thỏa mãn điều kiện xác định, các giá trị thỏa mãn điều kiện xác định là nghiệm của phương trình đã cho."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdab4" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Phương trình tích",
+        "content": [],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdab4" }
+    },
+    
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Hệ thức giữa cạnh góc vuông và hình chiếu của nó trên cạnh huyền",
+        "content": [
+            "Trong một tam giác vuông, bình phương mỗi cạnh góc vuông bằng tích của cạnh huyền và hình chiếu của cạnh góc vuông đó trên cạnh huyền.",
+            "Trong tam giác $ABC$ vuông tại $A$, ta có $b^2=a b'$, $c^2=a c'$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdab6" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Hệ thức liên quan tới đường cao",
+        "content": [
+            "Trong một tam giác vuông, bình phương đường cao ứng với cạnh huyền bằng tích hai hình chiếu của hai cạnh góc vuông trên cạnh huyền.",
+            "$h^2=b'c'$"
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdab6" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Hệ thức liên quan tới đường cao",
+        "content": [
+            "Trong một tam giác vuông, tích hai cạnh góc vuông bằng tích của cạnh huyền và đường cao tương ứng.",
+            "$b c=a h$"
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdab6" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Hệ thức liên quan tới đường cao",
+        "content": [
+            "Trong một tam giác vuông, nghịch đảo của bình phương đường cao ứng với cạnh huyền bằng tổng các nghịch đảo của bình phương hai cạnh góc vuông.",
+            "$\\frac{1}{h^2}=\\frac{1}{b^2}+\\frac{1}{c^2}$"
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdab6" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "sin",
+        "content": [
+            "Tỉ số giữa cạnh đối và cạnh huyền được gọi là sin của góc $\\alpha$, kí hiệu $\\sin\\alpha$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdab7" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "cosin",
+        "content": [
+            "Tỉ số giữa cạnh kề và cạnh huyền được gọi là cosin của góc $\\alpha$, kí hiệu $\\cos\\alpha$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdab7" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "tang",
+        "content": [
+            "Tỉ số giữa cạnh đối và cạnh kề được gọi là tang của góc $\\alpha$, kí hiệu $\\tan\\alpha$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdab7" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "cotang",
+        "content": [
+            "Tỉ số giữa cạnh kề và cạnh đối được gọi là cotang của góc $\\alpha$, kí hiệu $\\cot\\alpha$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdab7" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad3" },
+        "name": "Tỉ số lượng giác của góc nhọn",
+        "content": [
+            "Tỉ số lượng giác của một góc nhọn luôn luôn dương, và $\\sin\\alpha<1$, $\\cos\\alpha<1$.",
+            "Nếu hai góc nhọn $\\alpha$ và $\\beta$ có $\\sin\\alpha=\\sin\\beta$ (hoặc $\\cos\\alpha=\\cos\\beta$, hoặc $\\tan\\alpha=\\tan\\beta$, hoặc $\\cot\\alpha=\\cot\\beta$) thì $\\alpha=\\beta$ vì chúng là hai góc tương ứng của hai tam giác vuông đồng dạng."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdab7" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Tỉ số lượng giác của hai góc phụ nhau",
+        "content": [
+            "Nếu hai góc phụ nhau thì sin góc này bằng cosin góc kia, tang góc này bằng cotang góc kia.",
+            "Cho hai góc $\\alpha$ và $\\beta$ phụ nhau. Khi đó: $\\sin\\alpha=\\cos\\beta$; $\\cos\\alpha=\\sin\\beta$; $\\tan\\alpha=\\cot\\beta$; $\\cot\\alpha=\\tan\\beta$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdab7" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Hệ thức về cạnh và góc trong tam giác vuông",
+        "content": [
+            "Trong tam giác vuông, mỗi cạnh góc vuông bằng:",
+            "a/ Cạnh huyền nhân với sin góc đối hoặc nhân với cosin góc kề;",
+            "b/ Cạnh góc vuông kia nhân với tang góc đối hoặc nhân với cotang góc kề.",
+            "Như vậy, trong tam giác $ABC$ vuông tại $A$, ta có các hệ thức:",
+            "$b=a.\\sin B=a.\\cos C$; $b=c.\\tan B=c.\\cot C$; $c=a.\\sin C=a.\\cos B$; $c=b.\\tan C=b.\\cot B$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdab8" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Giải tam giác vuông",
+        "content": [
+            "Trong một tam giác vuông, nếu cho biết trước hai cạnh hoặc một cạnh và một góc nhọn thì ta sẽ tìm được tất cả các cạnh và góc còn lại của nó. Bài toán đặt ra như thế gọi là bài toán \"Giải tam giác vuông\"."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdab8" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Đường tròn",
+        "content": [
+            "Đường tròn tâm $O$ bán kính $R$ (với $R>0$) là hình gồm các điểm cách điểm $O$ một khoảng bằng $R$. Đường tròn tâm $O$ bán kính $R$ được kí hiệu là $(O;R)$, ta cũng có thể kí hiệu là $(O)$ khi không cần chú ý đến bán kính."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdab9" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Vị trí tương đối giữa điểm và đường tròn",
+        "content": [
+            "Khi điểm $M$ thuộc đường tròn $(O)$, ta còn nói: Điểm $M$ nằm trên đường tròn $(O)$ hay đường tròn $(O)$ đi qua điểm $M$. Điểm $M$ nằm trên đường tròn $(O;R)$ khi và chỉ khi $OM=R$.",
+            "Điểm $M$ nằm bên trong (hay nằm trong, ở trong) đường tròn $(O;R)$ khi và chỉ khi $OM<R$.",
+            "Điểm $M$ nằm bên ngoài (hay nằm ngoài, ở ngoài) đường tròn $(O;R)$ khi và chỉ khi $OM>R$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdab9" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Cách xác định đường tròn",
+        "content": [
+            "Qua ba điểm không thẳng hàng, ta vẽ được một và chỉ một đường tròn."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdab9" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad3" },
+        "name": "Cách xác định đường tròn",
+        "content": [
+            "Không vẽ được đường tròn nào đi qua ba điểm thẳng hàng."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdab9" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Đường tròn ngoại tiếp tam giác",
+        "content": [
+            "Đường tròn đi qua ba đỉnh $A$, $B$, $C$ của tam giác $ABC$ gọi là đường tròn ngoại tiếp tam giác $ABC$. Khi đó tam giác $ABC$ gọi là tam giác nội tiếp đường tròn."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdab9" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Tâm đối xứng của đường tròn",
+        "content": [
+            "Đường tròn là hình có tâm đối xứng. Tâm của đường tròn là tâm đối xứng của đường tròn đó."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdab9" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Trục đối xứng của đường tròn",
+        "content": [
+            "Đường tròn là hình có trục đối xứng. Bất kì đường kính nào cũng là trục đối xứng của đường tròn."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdab9" }
+    },
+    
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "So sánh độ dài của đường kính và dây",
+        "content": [
+            "Trong các dây của một đường tròn, dây lớn nhất là đường kính."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaba" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Quan hệ vuông góc giữa đường kính và dây",
+        "content": [
+            "Trong một đường tròn, đường kính vuông góc với một dây thì đi qua trung điểm của dây ấy.",
+            "Trong một đường tròn, đường kính đi qua trung điểm của một dây không đi qua tâm thì vuông góc với dây ấy."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaba" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Liên hệ giữa dây và khoảng cách từ tâm đến dây",
+        "content": [
+            "Trong một đường tròn:",
+            "a/ Hai dây bằng nhau thì cách đều tâm.",
+            "b/ Hai dây cách đều tâm thì bằng nhau."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdabb" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Liên hệ giữa dây và khoảng cách từ tâm đến dây",
+        "content": [
+            "Trong một đường tròn:",
+            "a/ Dây nào lớn hơn thì dây đó gần tâm hơn.",
+            "b/ Dây nào gần tâm hơn thì dây đó lớn hơn."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdabb" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Đường thẳng và đường tròn cắt nhau",
+        "content": [
+            "Khi đường thẳng $a$ và đường tròn $(O)$ có hai điểm chung $A$ và $B$, ta nói đường thẳng $a$ và đường tròn $(O)$ cắt nhau."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdabc" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Cát tuyến của đường tròn",
+        "content": [
+            "Khi đường thẳng $a$ và đường tròn $(O)$ cắt nhau, đường thẳng $a$ còn gọi là cát tuyến của đường tròn $(O)$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdabc" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Đường thẳng và đường tròn tiếp xúc nhau",
+        "content": [
+            "Khi đường thẳng $a$ và đường tròn $(O)$ chỉ có một điểm chung $C$, ta nói đường thẳng $a$ và đường tròn $(O)$ tiếp xúc nhau."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdabc" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Tiếp tuyến của đường tròn",
+        "content": [
+            "Khi đường thẳng $a$ và đường tròn $(O)$ tiếp xúc nhau, đường thẳng $a$ còn gọi là tiếp tuyến của đường tròn $(O)$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdabc" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Tiếp điểm của đường thẳng với đường tròn",
+        "content": [
+            "Khi đường thẳng $a$ và đường tròn $(O)$ chỉ có một điểm chung $C$, điểm $C$ gọi là tiếp điểm."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdabc" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Tiếp tuyến của đường tròn",
+        "content": [
+            "Nếu một đường thẳng là tiếp tuyến của một đường tròn thì nó vuông góc với bán kính đi qua tiếp điểm."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdabc" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Đường thẳng và đường tròn không giao nhau",
+        "content": [
+            "Khi đường thẳng $a$ và đường tròn $(O)$ không có điểm chung, ta nói đường thẳng $a$ và đường tròn $(O)$ không giao nhau."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdabc" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Hệ thức giữa khoảng cách từ tâm đường tròn đến đường thẳng và bán kính của đường tròn",
+        "content": [
+            "Đặt $OH=d$, ta có các kết luận sau:",
+            "Nếu đường thẳng $a$ và đường tròn $(O)$ cắt nhau thì $d<R$.",
+            "Nếu đường thẳng $a$ và đường tròn $(O)$ tiếp xúc nhau thì $d=R$.",
+            "Nếu đường thẳng $a$ và đường tròn $(O)$ không giao nhau thì $d<R$.",
+            "Đảo lại, ta cũng chứng minh được:",
+            "Nếu $d<R$ thì đường thẳng $a$ và đường tròn $(O)$ cắt nhau.",
+            "Nếu $d=R$ thì đường thẳng $a$ và đường tròn $(O)$ tiếp xúc nhau.",
+            "Nếu $d>R$ thì đường thẳng $a$ và đường tròn $(O)$ không giao nhau."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdabc" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Dấu hiệu nhận biết tiếp tuyến của đường tròn",
+        "content": [
+            "Nếu một đường thẳng đi qua một điểm của đường tròn và vuông góc với bán kính đi qua điểm đó thì đường thẳng ấy là một tiếp tuyến của đường tròn."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdabd" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Hai tiếp tuyến cắt nhau",
+        "content": [
+            "Nếu hai tiếp tuyến của một đường tròn cắt nhau tại một điểm thì:",
+            "Điểm đó cách đều hai tiếp điểm.",
+            "Tia kẻ từ điểm đó đi qua tâm là tia phân giác của góc tạo bởi hai tiếp tuyến.",
+            "Tia kẻ từ tâm đi qua điểm đó là tia phân giác của góc tạo bởi hai bán kính đi qua các tiếp điểm."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdabe" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Đường tròn nội tiếp tam giác",
+        "content": [
+            "Đường tròn tiếp xúc với ba cạnh của một tam giác gọi là đường tròn nội tiếp tam giác, còn tam giác gọi là ngoại tiếp đường tròn."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdabe" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Đường tròn bàng tiếp tam giác",
+        "content": [
+            "Đường tròn tiếp xúc với một cạnh của một tam giác và tiếp xúc với các phần kéo dài của hai cạnh kia gọi là đường tròn bàng tiếp tam giác."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdabe" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Cách xác định tâm đường tròn bàng tiếp tam giác",
+        "content": [
+            "Tâm của đường tròn bàng tiếp tam giác trong một góc là giao điểm của hai đường phân giác các góc ngoài tại hai góc còn lại, hoặc là giao điểm của đường phân giác một góc và đường phân giác góc ngoài tại một trong hai góc còn lại. Với một tam giác, có ba đường tròn bàng tiếp."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdabe" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Hai đường tròn cắt nhau",
+        "content": [
+            "Hai đường tròn có hai điểm chung được gọi là hai đường tròn cắt nhau."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdabf" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Giao điểm của hai đường tròn",
+        "content": [
+            "Khi hai đường tròn cắt nhau, hai điểm chung của chúng gọi là hai giao điểm."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdabf" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Dây chung của hai đường tròn",
+        "content": [
+            "Khi hai đường tròn cắt nhau, đoạn thẳng nối hai điểm chung của chúng gọi là dây chung."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdabf" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Hai đường tròn tiếp xúc nhau",
+        "content": [
+            "Hai đường tròn chỉ có một điểm chung được gọi là hai đường tròn tiếp xúc nhau."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdabf" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Tiếp điểm của hai đường tròn",
+        "content": [
+            "Khi hai đường tròn tiếp xúc nhau, điểm chung của chúng gọi là tiếp điểm."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdabf" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Hai đường tròn không giao nhau",
+        "content": [
+            "Hai đường tròn không có điểm chung được gọi là hai đường tròn không giao nhau."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdabf" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Đường nối tâm hai đường tròn",
+        "content": [
+            "Cho hai đường tròn $(O)$ và $(O')$ có tâm không trùng nhau. Đường thẳng $OO'$ gọi là đường nối tâm, đoạn thẳng $OO'$ gọi là đoạn nối tâm."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdabf" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Đường nối tâm hai đường tròn",
+        "content": [
+            "a/ Nếu hai đường tròn cắt nhau thì hai giao điểm đối xứng với nhau qua đường nối tâm, tức là đường nối tâm là đường trung trực của dây chung.",
+            "b/ Nếu hai đường tròn tiếp xúc nhau thì tiếp điểm nằm trên đường nối tâm."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdabf" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Hệ thức giữa đoạn nối tâm và các bán kính",
+        "content": [
+            "Xét hai đường tròn $(O;R)$ và $(O';r)$ trong đó $R\\geq r$.",
+            "Nếu hai đường tròn $(O)$ và $(O')$ cắt nhau thì $R-r<OO'<R+r$.",
+            "Nếu hai đường tròn $(O)$ và $(O')$ tiếp xúc ngoài thì $OO'=R+r$.",
+            "Nếu hai đường tròn $(O)$ và $(O')$ tiếp xúc trong thì $OO'=R-r$.",
+            "Nếu hai đường tròn $(O)$ và $(O')$ ở ngoài nhau thì $OO'>R+r$.",
+            "Nếu đường tròn $(O)$ đựng đường tròn $(O')$ thì $OO'<R-r$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdabf" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Tiếp tuyến chung của hai đường tròn",
+        "content": [
+            "Tiếp tuyến chung của hai đường tròn là đường thẳng tiếp xúc với cả hai đường tròn đó."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdabf" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Góc ở tâm",
+        "content": [
+            "Góc có đỉnh trùng với tâm đường tròn được gọi là góc ở tâm."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdac0" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Cung tròn",
+        "content": [
+            "Hai cạnh của góc ở tâm cắt đường tròn tại hai điểm, do đó chia đường tròn thành hai cung. Với các góc $\\alpha(0^\\circ<\\alpha<180^\\circ)$ thì cung nằm bên trong góc được gọi là \"cung nhỏ\" và cung nằm bên ngoài góc được gọi là \"cung lớn\"."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdac0" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Cung bị chắn",
+        "content": [
+            "Cung nằm bên trong góc gọi là cung bị chắn."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdac0" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Số đo của cung nhỏ",
+        "content": [
+            "Số đo của cung nhỏ bằng số đo của góc ở tâm chắn cung đó. Cung nhỏ có số đo nhỏ hơn $180^\\circ$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdac0" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Số đo của cung lớn",
+        "content": [
+            "Số đo của cung lớn bằng hiệu giữa $360^\\circ$ và số đo của cung nhỏ (có chung hai mút với cung lớn). Cung lớn có số đo lớn hơn $180^\\circ$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdac0" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Số đo của nửa đường tròn",
+        "content": [
+            "Số đo của nửa đường tròn bằng $180^\\circ$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdac0" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Cung không",
+        "content": [
+            "Khi hai mút của cung trùng nhau, ta có \"cung không\" với số đo $0^\\circ$ và cung cả đường tròn có số đo $360^\\circ$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdac0" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "So sánh hai cung",
+        "content": [
+            "Ta chỉ so sánh hai cung trong một đường tròn hay trong hai đường tròn bằng nhau. Khi đó:",
+            "Hai cung được gọi là bằng nhau nếu chúng có số đo bằng nhau;",
+            "Trong hai cung, cung nào có số đo lớn hơn được gọi là cung lớn hơn."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdac0" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Tổng số đo cung",
+        "content": [
+            "Nếu $C$ là một điểm nằm trên cung $AB$ thì: $sđ\\overset{\\huge\\frown}{AB}=sđ\\overset{\\huge\\frown}{AC}+sđ\\overset{\\huge\\frown}{CB}$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdac0" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Liên hệ giữa cung và dây",
+        "content": [
+            "Với hai cung nhỏ trong một đường tròn hay trong hai đường tròn bằng nhau:",
+            "a/ Hai cung bằng nhau căng hai dây bằng nhau.",
+            "b/ Hai dây bằng nhau căng hai cung bằng nhau."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdac1" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Liên hệ giữa cung và dây",
+        "content": [
+            "Với hai cung nhỏ trong một đường tròn hay trong hai đường tròn bằng nhau:",
+            "a/ Cung lớn hơn căng dây lớn hơn.",
+            "b/ Dây lớn hơn căng cung lớn hơn."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdac1" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Góc nội tiếp",
+        "content": [
+            "Góc nội tiếp là góc có đỉnh nằm trên đường tròn và hai cạnh chứa hai dây cung của đường tròn đó. Cung nằm bên trong góc được gọi là cung bị chắn."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdac2" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Góc nội tiếp",
+        "content": [
+            "Trong một đường tròn, số đo của góc nội tiếp bằng nửa số đo của cung bị chắn."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdac2" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad2" },
+        "name": "Góc nội tiếp",
+        "content": [
+            "Trong một đường tròn:",
+            "a/ Các góc nội tiếp bằng nhau chắn các cung bằng nhau.",
+            "b/ Các góc nội tiếp cùng chắn một cung hoặc chắn các cung bằng nhau thì bằng nhau.",
+            "c/ Góc nội tiếp (nhỏ hơn hoặc bằng $90^\\circ$) có số đo bằng nửa số đo của góc ở tâm cùng chắn một cung.",
+            "d/ Góc nội tiếp chắn nửa đường tròn là góc vuông."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdac2" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Góc tạo bởi tia tiếp tuyến và dây cung",
+        "content": [
+            "Cho $xy$ là tiếp tuyến của đường tròn $(O)$ tại $A$, tiếp điểm $A$ là gốc chung của hai tia đối nhau. Mỗi tia đó là một tia tiếp tuyến. Góc $BAx$ có đỉnh $A$ nằm trên đường tròn, cạnh $Ax$ là một tia tiếp tuyến còn cạnh kia chứa dây cung $AB$. Ta gọi một góc như vậy là góc tạo bởi tia tiếp tuyến và dây cung."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdac3" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Góc tạo bởi tia tiếp tuyến và dây cung",
+        "content": [
+            "Số đo của góc tạo bởi tia tiếp tuyến và dây cung bằng nửa số đo của cung bị chắn."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdac3" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad2" },
+        "name": "Góc tạo bởi tia tiếp tuyến và dây cung",
+        "content": [
+            "Trong một đường tròn, góc tạo bởi tia tiếp tuyến và dây cung và góc nội tiếp cùng chắn một cung thì bằng nhau."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdac3" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Góc có đỉnh ở bên trong đường tròn",
+        "content": [
+            "Số đo của góc có đỉnh ở bên trong đường tròn bằng nửa tổng số đo hai cung bị chắn."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdac4" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Góc có đỉnh ở bên ngoài đường tròn",
+        "content": [
+            "Số đo của góc có đỉnh ở bên ngoài đường tròn bằng nửa hiệu số đo hai cung bị chắn."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdac4" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Cách giải bài toán quỹ tích",
+        "content": [
+            "Muốn chứng minh quỹ tích (tập hợp) các điểm $M$ thỏa mãn tính chất $T$ là một hình $H$ nào đó, ta phải chứng minh hai phần:",
+            "Phần thuận: Mọi điểm có tính chất $T$ đều thuộc hình $H$.",
+            "Phần đảo: Mọi điểm thuộc hình $H$ đều có tính chất $T$.",
+            "Kết luận: Quỹ tích (hay tập hợp) các điểm $M$ có tính chất $T$ là hình $H$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdac5" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Tứ giác nội tiếp",
+        "content": [
+            "Một tứ giác có bốn đỉnh nằm trên một đường tròn được gọi là tứ giác nội tiếp đường tròn (gọi tắt là tứ giác nội tiếp)."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdac6" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Tứ giác nội tiếp",
+        "content": [
+            "Trong một tứ giác nội tiếp, tổng số đo hai góc đối nhau bằng $180^\\circ$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdac6" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad2" },
+        "name": "Tứ giác nội tiếp",
+        "content": [
+            "Nếu một tứ giác có tổng số đo hai góc đối nhau bằng $180^\\circ$ thì tứ giác đó nội tiếp được đường tròn."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdac6" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Đường tròn ngoại tiếp",
+        "content": [
+            "Đường tròn đi qua tất cả các đỉnh của một đa giác được gọi là đường tròn ngoại tiếp đa giác và đa giác được gọi là đa giác nội tiếp đường tròn."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdac7" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Đường tròn nội tiếp",
+        "content": [
+            "Đường tròn tiếp xúc với tất cả các cạnh của một đa giác được gọi là đường tròn nội tiếp đa giác và đa giác được gọi là đa giác ngoại tiếp đường tròn."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdac7" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad0" },
+        "name": "Đường tròn ngoại tiếp - Đường tròn nội tiếp đa giác đều",
+        "content": [
+            "Bất kì đa giác đều nào cũng có một và chỉ một đường tròn ngoại tiếp, có một và chỉ một đường tròn nội tiếp. Trong đa giác đều, tâm của đường tròn ngoại tiếp trùng với tâm của đường tròn nội tiếp và được gọi là tâm của đa giác đều."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdac7" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad4" },
+        "name": "Độ dài đường tròn",
+        "content": [
+            "Độ dài đường tròn (còn gọi là chu vi hình tròn) được kí hiệu là $C$. Độ dài $C$ của một đường tròn bán kính $R$ được tính theo công thức $C=2\\pi R$. Nếu gọi $d$ là đường kính đường tròn $(d=2R)$ thì $C=\\pi d$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdac8" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad4" },
+        "name": "Độ dài cung tròn",
+        "content": [
+            "Trên đường tròn bán kính $R$, độ dài $l$ của một cung $n^\\circ$ được tính theo công thức: $l=\\frac{\\pi R n}{180}$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdac8" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad4" },
+        "name": "Diện tích hình tròn",
+        "content": [
+            "Diện tích $S$ của một hình tròn bán kính $R$ được tính theo công thức $S=\\pi R^2$."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdac9" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Hình quạt tròn",
+        "content": [
+            "Hình quạt tròn là một phần hình tròn giới hạn bởi một cung tròn và hai bán kính đi qua hai mút của cung đó."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdac9" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad4" },
+        "name": "Diện tích hình quạt tròn",
+        "content": [
+            "Diện tích hình quạt tròn bán kính $R$, cung $n^\\circ$ được tính theo công thức $S=\\frac{\\pi R^2 n}{360}$ hay $S=\\frac{l R}{2}$ ($l$ là độ dài cung $n^\\circ$ của hình quạt tròn)."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdac9" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Hình trụ",
+        "content": [
+            "Khi quay hình chữ nhật $ABCD$ một vòng quanh cạnh $CD$ cố định, ta được một hình trụ. Khi đó:",
+            "$DA$ và $CB$ quét nên hai đáy của hình trụ, là hai hình tròn bằng nhau nằm trong hai mặt phẳng song song, có tâm $D$ và $C$.",
+            "Cạnh $AB$ quét nên mặt xung quanh của hình trụ, mỗi vị trí của $AB$ được gọi là một đường sinh.",
+            "Các đường sinh của hình trụ vuông góc với hai mặt phẳng đáy. Độ dài đường sinh là chiều cao của hình trụ.",
+            "DC gọi là trục của hình trụ."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaca" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad1" },
+        "name": "Cắt hình trụ bởi một mặt phẳng",
+        "content": [
+            "Khi cắt hình trụ bởi một mặt phẳng song song với đáy, thì phần mặt phẳng nằm trong hình trụ (mặt cắt) là một hình tròn bằng hình tròn đáy.",
+            "Khi cắt hình trụ bởi một mặt phẳng song song với trục thì mặt cắt là một hình chữ nhật."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaca" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad4" },
+        "name": "Diện tích xung quanh của hình trụ",
+        "content": [
+            "$S_{xq}=2\\pi r h$"
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaca" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad4" },
+        "name": "Diện tích toàn phần của hình trụ",
+        "content": [
+            "$S_{tp}=2\\pi r h+2\\pi r^2$"
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaca" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad4" },
+        "name": "Thể tích hình trụ",
+        "content": [
+            "$V=S h=\\pi r^2 h$ ($S$ là diện tích đáy, $h$ là chiều cao)"
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdaca" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Hình nón",
+        "content": [
+            "Khi quay tam giác vuông $AOC$ một vòng quanh cạnh góc vuông $OA$ cố định thì được một hình nón. Khi đó:",
+            "Cạnh $OC$ quét nên đáy của hình nón, là một hình tròn tâm $O$.",
+            "Cạnh $AC$ quét nên mặt xung quanh của hình nón, mỗi vị trí của $AC$ được gọi là một đường sinh.",
+            "$A$ gọi là đỉnh và $AO$ gọi là đường cao của hình nón."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdacb" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad4" },
+        "name": "Diện tích xung quanh của hình nón",
+        "content": [
+            "$S_{xq}=\\pi r l$"
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdacb" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad4" },
+        "name": "Diện tích toàn phần của hình nón",
+        "content": [
+            "$S_{tp}=\\pi r l+\\pi r^2$"
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdacb" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad4" },
+        "name": "Thể tích hình nón",
+        "content": [
+            "$V=\frac{1}{3}\\pi r^2 h$"
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdacb" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Hình nón cụt",
+        "content": [
+            "Khi cắt hình nón bởi một mặt phẳng song song với đáy thì phần mặt phẳng nằm trong hình nón là một hình nón. Phần hình nón nằm giữa mặt phẳng nói trên và mặt đáy được gọi là một hình nón cụt."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdacb" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad4" },
+        "name": "Diện tích xung quanh của hình nón cụt",
+        "content": [
+            "$S_{xq}=\\pi\\left(r_{1}+r_{2}\\right)l$"
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdacb" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad4" },
+        "name": "Diện tích toàn phần của hình nón cụt",
+        "content": [
+            "$S_{tp}=\\pi\\left(\\left(r_{1}+r_{2}\\right)l+r_{1}^2+r_{2}^2\\right)$"
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdacb" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad4" },
+        "name": "Thể tích hình nón cụt",
+        "content": [
+            "$V=\\frac{1}{3}\\pi h\\left(r_{1}^2+r_{2}^2+r_{1}r_{2}\\right)$"
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdacb" }
+    },
+
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdacf" },
+        "name": "Hình cầu",
+        "content": [
+            "Khi quay nửa hình tròn tâm $O$, bán kính $R$ một vòng quanh đường kính $AB$ cố định thì được một hình cầu.",
+            "Nửa đường tròn trong phép quay nói trên tạo nên mặt cầu.",
+            "Điểm $O$ được gọi là tâm, $R$ là bán kính của hình cầu hay mặt cầu đó."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdacc" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad1" },
+        "name": "Cắt hình cầu bởi một mặt phẳng",
+        "content": [
+            "Khi cắt hình cầu bởi một mặt phẳng thì phần mặt phẳng nằm trong hình đó (mặt cắt) là một hình tròn."
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdacc" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad4" },
+        "name": "Diện tích mặt cầu",
+        "content": [
+            "$S=4\\pi R^2$ hay $S=\\pi d^2$ ($R$ là bán kính, $d$ là đường kính của mặt cầu)"
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdacc" }
+    },
+    {
+        "knowledgeType": { "$oid": "6579d8b113a48d5b78dbdad4" },
+        "name": "Thể tích hình cầu",
+        "content": [
+            "$V=\\frac{4}{3}\\pi R^3$ ($R$ là bán kính hình cầu)"
+        ],
+        "lessonId": { "$oid": "6579d88713a48d5b78dbdacc" }
+    }
+]

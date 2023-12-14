@@ -1,0 +1,2103 @@
+[
+    {
+        "questionContent": "Tìm điều kiện để biểu thức $P=\\sqrt{(5\\sqrt{x}+7)\\cdot(5\\sqrt{x}-7)}$ có nghĩa?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$x\\geq 0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x\\leq-\\frac{49}{25}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x\\geq\\frac{49}{25}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$x\\leq 0$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "6579fbba4755048edf89bedb" },
+            { "$oid": "6579fbba4755048edf89bede" }
+        ]
+    },
+    {
+        "questionContent": "Biểu thức nào sau đây có điều kiện xác định: $x\\geq 0;x\\neq 9$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\frac{3\\sqrt{x}+5}{x-6\\sqrt{x}+9}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\frac{2-5\\sqrt{x}}{4-x}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\frac{\\sqrt{x}-1}{\\sqrt{x}+2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$2\\sqrt{x}\\cdot(x-6\\sqrt{x}+9)$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Cho biểu thức $P=\\sqrt{\\left(6\\sqrt{\\frac{4}{25}}-\\sqrt{\\frac{9}{25}}\\right).15}$. Mệnh đề nào sau đây đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Giá trị của biểu thức $P$ là số nguyên.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Giá trị của biểu thức $P$ là số hữu tỉ.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Giá trị của biểu thức $P$ là số vô tỉ.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "Giá trị của biểu thức $P$ là số nguyên dương.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Cho $M=\\frac{m-\\sqrt{m}-2}{m-1}$. Với $m=0$, so sánh $M$ với $a=\\sqrt{2+\\sqrt{2+\\sqrt{2+\\sqrt{2}}}}$.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$M>a$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$M<a$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$M\\leq a$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$M\\geq a$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Cho $A=\\frac{1}{\\sqrt{1}+\\sqrt{2}}+\\frac{1}{\\sqrt{2}+\\sqrt{3}}+\\frac{1}{\\sqrt{3}+\\sqrt{4}}$. Nghiệm của phương trình $A x^{2}+3 A x-4=0$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\left[\\begin{array}{l}x=-4 \\ x=1\\end{array}\\right.$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\left[\\begin{array}{l}x=4 \\ x=-1\\end{array}\\right.$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\left[\\begin{array}{l}x=\\sqrt{2}+1 \\ x=\\sqrt{2}-1\\end{array}\\right.$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\left[\\begin{array}{l}x=2 \\sqrt{3} \\ x=1\\end{array}\\right.$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Cho $B=\\frac{1}{\\sqrt{1}+\\sqrt{2}}+\\frac{1}{\\sqrt{2}+\\sqrt{3}}+\\ldots+\\frac{1}{\\sqrt{98}+\\sqrt{99}}+\\frac{1}{\\sqrt{99}+\\sqrt{100}}$. Số nghiệm của phương trình $x^{3}=3 B x^{2}+27 B x+9 B^{2}=0$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "0",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "1",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "2",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "3",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Rút gọn $N=\\left(\\frac{\\sqrt{x}}{x-4}+\\frac{1}{\\sqrt{x}-2}\\right) \\cdot \\frac{\\sqrt{x}-2}{2}$ ta được kết quả $N=\\frac{\\sqrt{x}+1}{\\sqrt{x}+2}$. Với giá trị nào của $x$ thì $N=\\frac{3}{4}$ ?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$x=4$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x=1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x=9$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Không tồn tại $x$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Cho $M=\\frac{\\sqrt{x}}{\\sqrt{x}-5}-\\frac{10 \\sqrt{x}}{x-25}-\\frac{5}{\\sqrt{x}+5}$. Số các giá trị của $x$ sao cho $|M|=\\frac{1}{4}$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "0",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "1",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "2",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "3",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Tìm điều kiện để biểu thức $\\sqrt{x-2 \\sqrt{x-1}}$ có nghĩa",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$x\\geq 1$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$x\\leq 0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x\\geq 1 ; x\\neq 0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x\\geq 0 ; x\\neq 1$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Tìm điều kiện xác định của phương trình $\\frac{\\sqrt{x^{2}-5 x+6}}{x^{2}-2}=5$.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$x<2 ; x>3 ; x \neq-2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x\\leq 2 ; x\\geq 3 ; x\\neq-2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x<2, x\\geq 3$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x<2 ; x\\geq 3 ; x\\neq-2$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Tìm điều kiện xác định của phương trình $\\sqrt{(x-4)^{2}}+\\frac{x-4}{\\sqrt{x^{2}-8 x+16}}=2 x$.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$x\\geq 4$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x\\in R$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x<4$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x\\neq 4$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Tìm nghiệm của phương trình: $\\sqrt{4 x^{2}-20 x+25}+2 x=5$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$x=\\frac{5}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x\\geq\\frac{5}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x\\leq\\frac{5}{2}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$x<\\frac{5}{2}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "$x\\leq\\frac{1}{4}$ là nghiệm của phương trình nào trong các phương trình sau:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\sqrt{x^{2}-6 x+9}=3-x$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\sqrt{x^{2}-\\frac{1}{2} x+\\frac{1}{16}}=\\frac{1}{4}-x$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\sqrt{x+2\\sqrt{x-1}}=2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\sqrt{1-12 x+36 x^{2}}=5$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad7" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Tính giá trị biểu thức $\\left(\\sqrt{\\frac{49}{3}}-\\sqrt{\\frac{25}{3}}+\\sqrt{3}\\right) \\cdot \\sqrt{3}$.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\frac{5}{\\sqrt{3}}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$5 \\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\frac{\\sqrt{3}}{5}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "5",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Tính giá trị của biểu thức $C=\\sqrt{3+2 \\sqrt{2}}-\\sqrt{7+2 \\sqrt{10}}$.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$1+\\sqrt{5}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$1-\\sqrt{5}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$2 \\sqrt{2}(1+\\sqrt{5})$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$2 \\sqrt{2}(1-\\sqrt{5})$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Tìm điều kiện để biểu thức $\\sqrt{-x^{2}+5 x-6}-\\frac{1}{2 x+5}$ có nghĩa:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$2 \\leq x \\leq 3$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$x \\geq-2 ; x \\neq \\frac{5}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$2 \\leq x \\leq 3 ; x \\neq-\\frac{5}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x \\leq 0$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Tính giá trị biểu thức $P=\\sqrt[3]{(4-2 \\sqrt{3})(\\sqrt{3}-1)}$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$P=\\sqrt{3}+1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$P=2 \\sqrt{3}-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$P=\\sqrt{3}-1$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$P=\\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Cho biểu thức $A=\\frac{\\sqrt{45}+\\sqrt{20}}{\\sqrt{180}-\\sqrt{80}}$. Tính $3 A$.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\frac{15}{2}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$-\\frac{5}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\frac{5}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\frac{5}{12}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Cho các cặp số: $(468 ; 13),(13 ; 637),(52 ; 637),(52 ; 468),(325 ; 113),(117 ; 325)$. Những cặp số $(x ; y)$ nào thỏa mãn điều kiện: $\\left\\{\\begin{array}{l}\\sqrt{x}+\\sqrt{y}=\\sqrt{832} \\ x<y\\end{array}\\right.$ ?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$(117 ; 325),(52 ; 468),(13 ; 637)$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$(13 ; 637),(52 ; 468),(117 ; 325)$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$(117 ; 325),(13 ; 637),(52 ; 468)$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$(52 ; 637),(325 ; 113),(468 ; 13)$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Cho $A=\\left(\\frac{\\sqrt{x}-1}{\\sqrt{x}+1}-\\frac{\\sqrt{x}+1}{\\sqrt{x}-1}\\right) \\cdot\\left(\\frac{1}{2 \\sqrt{x}}-\\frac{\\sqrt{x}}{2}\\right)$. Số các giá trị của $x$ sao cho $A=1-\\sqrt{x}$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "0",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "1",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "2",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "3",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Cho $P=\\frac{\\sqrt{x}}{\\sqrt{x}-1}+\\frac{3}{\\sqrt{x}+1}-\\frac{6 \\sqrt{x}-4}{x-1}$. Giá trị của $x$ để $P<\\frac{1}{2}$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\left\\{\\begin{array}{l}0<x \\leq 9 \\ x \\neq 1\\end{array}\\right.$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\left\\{\\begin{array}{l}0<x<9 \\ x \\neq 1\\end{array}\\right$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\left\\{\\begin{array}{l}0 \\leq x<9 \\ x \\neq 1\\end{array}\\right$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\left\\{\\begin{array}{l}0 \\leq x \\leq 9 \\ x \\neq 1\\end{array}\\right$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Cho $P=\\left(\\frac{\\sqrt{x}-1}{\\sqrt{x}+1}-\\frac{\\sqrt{x}+1}{\\sqrt{x}-1}\\right) \\cdot\\left(\\frac{1}{2 \\sqrt{x}}-\\frac{\\sqrt{x}}{2}\\right)^{2}$. Với giá trị nào của $x$ thì $P>2 \\sqrt{x}$ ?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$x>\\frac{1}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$0 \\leq x \\leq \\frac{1}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x<\\frac{1}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$0<x<\\frac{1}{3}$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Cho $A=\\frac{\\sqrt{a}+1}{2 \\sqrt{a}}$. Tìm $a$ sao cho $\\frac{1}{A} \\geq \\frac{\\sqrt{a}+1}{2 \\sqrt{a}}+1$ ?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$a \\geq 9$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$a \\leq 9$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$a=9$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$a=3$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Cho $A=\\frac{x+2}{x \\sqrt{x}-1}+\frac{\\sqrt{x}+1}{x+\\sqrt{x}+1}-\\frac{1}{\\sqrt{x}-1}$. So sánh $A$ với $\\frac{1}{3}$ ?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$A>\\frac{1}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$A<\\frac{1}{3}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$A \\leq \\frac{1}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$A \\geq \\frac{1}{3}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Tìm nghiệm của phương trình: $\\sqrt{x^{2}-x-6}=\\sqrt{x-3}$.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$x=3$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$x=-3$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x=-\\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Vô nghiệm",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "$x= \\pm \\sqrt{3}$ là nghiệm của phương trình nào trong các phương trình sau:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\sqrt{2 x^{2}-3}=\\sqrt{4 x-3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\sqrt{2 x-1}=\\sqrt{x-1}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\sqrt{2 x+5}=\\sqrt{1-x}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\sqrt{x^{2}-x}=\\sqrt{3-x}$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Phương trình nào sau đây vô nghiệm?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\sqrt{x-2 \\sqrt{x-1}}=\\sqrt{x-1}-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\sqrt{x^{2}-x}=\\sqrt{3 x-5}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\sqrt{2 x^{2}-3}=\\sqrt{4 x-3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\sqrt{1-x^{2}}=x-1$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Tìm nghiệm của phương trình $\\sqrt{x^{2}-1}-x^{2}+1=0$.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$x=1 ; x=\\sqrt{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x= \\pm 1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x= \\pm 1 ; x= \\pm \\sqrt{2}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$x=1 ; x= \\pm 2$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Tìm nghiệm của phương trình $\\sqrt{x^{4}-8 x^{2}+16}=2-x$.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$x=1 ; x=-2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Vô nghiệm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x=2 ; x=-3 ; x=-1$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$x=1 ; x=2 ; x=3$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Cho biểu thức $P=\\frac{45}{10-5 \\sqrt{3}}$, đưa $P$ về biểu thức có dạng $a+b \\sqrt{3}$. Tính $a \\cdot b$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "36",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "-9",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "162",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "108",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Tính giá trị của biểu thức $P=\\frac{7(2 \\sqrt{2}-1)}{2 \\sqrt{2}+1}+\\frac{\\sqrt{2}-2}{\\sqrt{2}+2}$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$P=12-2 \\sqrt{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$P=6-2 \\sqrt{2}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$P=6-4 \\sqrt{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$P=12+4 \\sqrt{2}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Tính giá trị biểu thức $A=\\frac{x-11}{\\sqrt{x-2}-3}$ tại $x=23-12 \\sqrt{3}$.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$A=2 \\sqrt{3}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$A=1-\\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$A=\\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$A=2+\\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Tính giá trị biểu thức $P=\\frac{9 \\sqrt{x}-4 x}{x-5 \\sqrt{x}+6}+\\frac{\\sqrt{x}+1}{\\sqrt{x}-2}-\\frac{2 \\sqrt{x}+3}{3-\\sqrt{x}}$ tại $x=5$.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\frac{2-\\sqrt{5}}{\\sqrt{5}+1}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\frac{1-\\sqrt{5}}{\\sqrt{5}+2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\frac{1+\\sqrt{5}}{\\sqrt{5}-2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\frac{1-\\sqrt{5}}{\\sqrt{5}-2}$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Cho biểu thức $A=\\left(\\frac{x+1}{x-1}-\\frac{x-1}{x+1}\\right):\\left(\\frac{2}{x^{2}-1}-\\frac{x}{x-1}+\\frac{1}{x+1}\\right)$. Tính giá trị của $A$ khi $x=\\sqrt{3+\\sqrt{8}}$.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$A=-2 \\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$A=2 \\sqrt{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$A=-2$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$A=3$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Tính giá trị biểu thức $P=\\left(\\frac{2 \\sqrt{x y}}{x-y}-\\frac{\\sqrt{x}+\\sqrt{y}}{2 \\sqrt{x}-2 \\sqrt{y}}\\right) \\cdot \\frac{4 \\sqrt{y}}{\\sqrt{x}-\\sqrt{y}}$ biết $\\frac{x}{y}=\\frac{4}{25}$.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\frac{7}{5}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$-\\frac{10}{7}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$-\\frac{20}{7}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$-\\frac{7}{10}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Tính giá trị của biểu thức $P=\\frac{x-2 \\sqrt{x}}{\\sqrt{x}-2}$ biết $|2 x-5|=7$.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$P=\\sqrt{6}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$P=1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\left[\\begin{array}{l}P=-\\sqrt{6} \\ P=-1\\end{array}\\right$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\left[\\begin{array}{l}P=\\sqrt{6} \\ P=1\\end{array}\\right$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Tính giá trị biểu thức $\\mathrm{D}=\\frac{1}{\\sqrt{x+2 \\sqrt{x-1}}}+\\frac{1}{\\sqrt{x-1}+3}$ biết $x=5$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\mathrm{D}=\\frac{2 \\sqrt{2}}{5}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\mathrm{D}=3 \\sqrt{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\mathrm{D}=\\frac{8}{15}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\mathrm{D}=\\sqrt{3}+1$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Cho $A=\\sqrt{4-2 \\sqrt{3}}+\\sqrt{4+2 \\sqrt{3}} ; B=\\sqrt{18+8 \\sqrt{2}}+\\sqrt{18-8 \\sqrt{2}}$. Mối liên hệ giữa $A$ và $B$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$A^{2}-B=4$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$A^{2}+B=20$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$A B=16 \\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Cả $A, B, C$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Cho $M=\\left(\\frac{\\sqrt{x}}{x-4}+\\frac{1}{\\sqrt{x}-2}\\right): \\frac{2}{\\sqrt{x}-2}$. So sánh $M$ và $M^{2}$.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$M=M^{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$M>M^{2}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$M<M^{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$M \\geq M^{2}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Cho $M=\\left(\\frac{\\sqrt{x}}{x-4}+\\frac{1}{\\sqrt{x}-2}\\right): \\frac{2}{\\sqrt{x}-2}$. So sánh $M$ và $\\sqrt{M}$ ?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$M=\\sqrt{M}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$M>\\sqrt{M}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$M<\\sqrt{M}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$M \\leq \\sqrt{M}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Cho $M=\\frac{\\sqrt{x}}{\\sqrt{x}+3}+\\frac{2 \\sqrt{x}}{\\sqrt{x}-3}-\\frac{3 x+9}{x-9}$. Giá trị lớn nhất của $M$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "1",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\sqrt{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$2\\sqrt{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Không tồn tại",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Gọi $M$ là giá trị nhỏ nhất của $\\frac{\\sqrt{x}+1}{\\sqrt{x}+4}$ và $N$ là giá trị lớn nhất cuả $\\frac{\\sqrt{x}+5}{\\sqrt{x}+2}$. Biểu thức nào sau đây đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$M+3 N=2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$M-2 N=1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$2 M+N=3$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$2 N+M=3$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Tìm nghiệm của phương trình $\\sqrt{9 x^{2}+6 x+1}=\\sqrt{11-6 \\sqrt{2}}$.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$x=1 ; x=-\\sqrt{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x=\\frac{2-\\sqrt{2}}{3} ; x=\\frac{\\sqrt{2}-4}{3}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$x=\\sqrt{2} ; x=-3$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x=1 ; x=-2$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Tìm nghiệm của phương trình: $\\sqrt{x^{2}-4 x+4}=\\sqrt{4 x^{2}-12 x+9}$.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$x=1 ; x=-\\frac{1}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x=1 ; x=-\\frac{2}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x=-1 ; x=\\frac{5}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x=1 ; x=\\frac{5}{3}$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "$x=\\sqrt{3} ; x=-\\sqrt{3}+1 ; x=-\\sqrt{3}-1$ là nghiệm của phương trình:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\left|x^{2}-3\\right|=|x-\\sqrt{3}|$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\sqrt{2 x^{2}-3}=\\sqrt{4 x-3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$|3 x+1|=|x+1|$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\sqrt{1-x^{2}}=x-1$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Phương trình nào sau đây vô nghiệm?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\left|x^{2}+1\\right|+|x+1|=0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\sqrt{1-x^{2}}=x-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$|3 x+1|=|x+1|$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\sqrt{x^{2}-8 x+16}+|x+2|=0$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Tìm nghiệm của phương trình $\\sqrt{\\frac{2 x-3}{x-1}}=2$.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$x=-2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x=\\frac{1}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x=-\\frac{1}{3}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$x=1$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad9" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Cho biểu thức $Q=3 x-\\sqrt{x^{2}-8 x+16}$. Tìm giá trị của $x$ để biểu thức $Q=5$.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$x \\in\\left\\{\\frac{1}{2} ; \\frac{9}{4}\\right\\}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x=\\frac{9}{4}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$x=\\frac{1}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x \\in\\left\\{-\\frac{1}{2} ; \\frac{9}{4}\\right\\}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdada" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Cho biểu thức $A=\\frac{\\sqrt{2 x+2 \\sqrt{x^{2}-4}}}{\\sqrt{x^{2}-4}+x+2}$. Tìm giá trị của $x$ để biểu thức $A=\\frac{\\sqrt{3}-1}{2}$.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$x=2(\\sqrt{3}+1)$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$x=3\\sqrt{2}+2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x=2\\sqrt{3}-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x=\\sqrt{3}+1$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdada" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Cho biểu thức $B=\\left(\\frac{3}{\\sqrt{1+x}}+\\sqrt{1-x}\\right):\\left(\\frac{3}{\\sqrt{1-x^{2}}}+1\\right)$. Tìm giá trị của $x$ để biểu thức $B=\\sqrt{3}-1$.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$x=\\frac{2}{\\sqrt{3}+1}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x=\\frac{3 \\sqrt{3}}{2+\\sqrt{3}}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x=\\frac{\\sqrt{3}}{2+\\sqrt{3}}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$x=\\frac{2 \\sqrt{3}-1}{2}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdada" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Tìm $x$ nguyên để biểu thức $A=\\frac{2 x}{x+3}-\\frac{x+1}{3-x}-\\frac{3-11 x}{x^{2}-9}$ nguyên",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$x \\in\\{-6 ; 0 ; 2 ; 4 ; 6 ; 12\\}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$x \\in\\{-6 ;-2 ; ; 4 ; 6 ; 8 ; 12\\}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x \\in\\{0 ; 2 ; 4 ; 6 ; 8 ; 12\\}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x \\in\\{-6 ; 0 ; 4 ; 6 ; 8 ; 12\\}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdada" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Tìm $x$ nguyên để biểu thức $B=\\left(\\frac{\\sqrt{x}+2}{x+2 \\sqrt{x}+1}-\\frac{\\sqrt{x}-2}{x-1}\\right) \\cdot \\frac{\\sqrt{x}+1}{\\sqrt{x}}$ nguyên",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$x \\in\\{0 ; 2\\}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x \\in\\{2 ; 3\\}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$x \\in\\{-2 ; 3\\}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x \\in\\{-3 ; 2\\}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdada" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Cho biểu thức $B=\\left(\\frac{\\sqrt{x}-2}{x-1}-\\frac{\\sqrt{x}+2}{x+2 \\sqrt{x}+1}\\right) \\cdot \\frac{(1-x)^{2}}{2}$. Tìm $x$ để $B$ dương",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$0<x<1$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$0 \\leq x \\leq 1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$0<x \\leq 1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$0 \\leq x<1$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdada" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Tìm giá trị lớn nhất của biểu thức $B=\\frac{1}{x-\\sqrt{x}+1}$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\max B=\\frac{4}{3}$ khi $x=-\\frac{1}{4}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\max B=\\frac{3}{4}$ khi $x=\\frac{1}{4}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\max B=\\frac{-4}{3}$ khi $x=\\frac{1}{4}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\max B=\\frac{4}{3}$ khi $x=\\frac{1}{4}$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdada" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Tìm giá trị nhỏ nhất của biểu thức $A=\\sqrt{1-6 x+9 x^{2}}+\\sqrt{9 x^{2}-12 x+4}$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\min A=1 k h i \\frac{1}{3} \\leq x \\leq \\frac{2}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\min A=1$ khi $\\frac{1}{3}<x \\leq \\frac{2}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\min A=1$ khi $\\frac{1}{3} \\leq x<\\frac{2}{3}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\min A=1 k h i \\frac{1}{3}<x<\\frac{2}{3}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdada" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Cho biểu thức $P=\\left[\\left(\\frac{1}{\\sqrt{x}}+\\frac{1}{\\sqrt{y}}\\right) \\cdot \\frac{2}{\\sqrt{x}+\\sqrt{y}}+\\frac{1}{x}+\\frac{1}{y}\\right]: \\frac{\\sqrt{x^{3}}+y \\sqrt{x}+x \\sqrt{y}+\\sqrt{y^{3}}}{\\sqrt{x^{3} y}+\\sqrt{x y^{3}}}$. Tìm giá trị nhỏ nhất của biểu thức biết $x y=16$.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\min{A}=1$ khi $x=y=4$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\min{A}=-2$ khi $x=y=4$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\min{A}=1$ khi $x=y=-4$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\min{A}=2$ khi $x=y=4$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdada" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Cho biểu thức $A=\\left(\\frac{1}{\\sqrt{x}-1}-\\frac{1}{\\sqrt{x}}\\right):\\left(\\frac{\\sqrt{x}+1}{\\sqrt{x}-2}-\\frac{\\sqrt{x}+2}{\\sqrt{x-3}}\\right)$. Tìm $x$ để $A>\\frac{1}{6}$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$x<-16$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x>16$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$x<4$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x>-4$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdada" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Cho biểu thức $M=\\left(\\frac{\\sqrt{x}}{2}-\\frac{1}{2 \\sqrt{x}}\\right)^{2} \\cdot\\left(\\frac{\\sqrt{x}-1}{\\sqrt{x}+1}-\\frac{\\sqrt{x}+1}{\\sqrt{x}-1}\\right) \\cdot$ Tìm $x$ để $M<0$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$x<-1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x \\geq 1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x>1$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$x>-4$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdada" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Cho biểu thức $A=\\left(\\frac{x-5 \\sqrt{x}}{x-25}-1\\right):\\left(\\frac{25-x}{x+2 \\sqrt{x}-15}-\\frac{\\sqrt{x}+3}{\\sqrt{x}+5}+\\frac{\\sqrt{x}-5}{\\sqrt{x}-3}\\right)$. Tìm $x$ để $A<1$.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$x \\geq-4 ; x \\neq 9 ; x \\neq 25$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x>4 ; x \\neq 9 ; x \\neq 25$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$x>-4 ; x \\neq 9 ; x \\neq 25$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x \\leq-4 ; x \\neq 9 ; x \\neq 25$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdada" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Cho biểu thức $M=\\left(\\frac{1}{x-\\sqrt{x}}+\\frac{1}{\\sqrt{x}-1}\\right): \\frac{\\sqrt{x}+1}{x-2 \\sqrt{x}+1}$, mệnh đề nào sau đây đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$M<1$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$M>0$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$M>2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$M>-1$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdada" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Cho biểu thức $P=\\frac{x}{\\sqrt{x y}+y}+\\frac{y}{\\sqrt{x y}-x}-\\frac{x+y}{\\sqrt{x y}}$ với $x+y=7$ và $x . y=10$. Khi đó giá trị của biểu thức $\\mathrm{P}$ là :",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$P= \\pm \\frac{7}{3}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$P=\\frac{7}{5}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$P= \\pm \\frac{5}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$P=\\frac{1}{5}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdada" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Cho $M=\\left(\\frac{1}{\\sqrt{x}-1}+\\frac{1}{\\sqrt{x}+1}\\right) \\cdot \\frac{\\sqrt{x}-1}{2}$. Số các giá trị $x \\in Z$ để $M$ nhận giá trị nguyên là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "0",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "1",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "2",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "3",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdada" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Cho biểu thức $M=\\left(\\frac{\\sqrt{x}}{x-4}+\\frac{1}{\\sqrt{x}-2}\\right) \\cdot \\frac{\\sqrt{x}-2}{2}$. Với giá trị nào của $x$ thì $\\frac{1}{M}$ có giá trị nguyên?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$x=1$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x=4$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x=0$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$x=2$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdada" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Gọi $S$ là tổng các giá trị của $x$ làm biểu thức $N=\\frac{\\sqrt{x}+3}{\\sqrt{x}-1}$ có giá trị nguyên. Giá trị của $S$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$S=36$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$S=38$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$S=41$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$S=44$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdada" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Giá trị nhỏ nhất của $M=\\frac{x+16}{\\sqrt{x}+3}$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "4",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "3",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "2",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "5",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdada" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "$x=-2$ là nghiệm của phương trình",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$\\sqrt{x^{2}-x}=\\sqrt{3 x-5}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\sqrt{2 x^{2}-3}=\\sqrt{4 x-3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$\\sqrt{x^{2}-4}+\\sqrt{x^{2}+4 x+4}=0$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$\\sqrt{9 x^{2}-12 x+4}=\\sqrt{x^{2}}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdada" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Tìm nghiệm của phương trình $\\sqrt{4 x^{2}-9}=2 \\sqrt{2 x+3}$",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$x=-\\frac{3}{2} ; x=\\frac{7}{2}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$x=-\\frac{1}{2} ; x=-\\frac{7}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x=\\frac{1}{2} ; x=\\frac{5}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$x=-\\frac{3}{2} ; x=\\frac{5}{2}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdada" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Tìm $m$ để phương trình $\\sqrt{9 x^{2}+18}-2 \\sqrt{x^{2}+2}-\\sqrt{25 x^{2}+50}+\\sqrt{3 m-1}=0$ có hai nghiệm phân biệt:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m \\leq \\frac{11}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\geq 11$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m \\geq \\frac{1}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\geq 3$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdada" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Tìm $m$ để phương trình $\\frac{1}{2} \\sqrt{x-1}-\\frac{3}{2} \\sqrt{9 x-9}+24 \\sqrt{\\frac{x-1}{64}}=2 m-3$ có nghiệm:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m \\leq \\frac{3}{2}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m \\leq-\\frac{2}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m>-3$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\leq \\frac{1}{3}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdada" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    },
+    {
+        "questionContent": "Tìm $m$ để phương trình $\\sqrt{6 x^{2}-12 x+7}-2 m x=0$ có hai nghiệm phân biệt:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$m \\geq \\frac{3}{14}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$m>\\frac{3}{14} ; m \\neq \\frac{3}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\neq \\frac{3}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$m \\leq \\frac{3}{2}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdada" },
+        "knowledges": [
+            { "$oid": "" }
+        ]
+    }
+]

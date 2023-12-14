@@ -1,0 +1,1508 @@
+[
+    {
+        "questionContent": " Một hình trụ có bán kính đáy $R$ bằng chiều cao $h$. Biết rằng diện tích xung quanh quanh của hình trụ là 18 . Bán kính đáy $R$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $R=\\frac{3}{\\pi}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $R=\\frac{3}{\\sqrt{\\pi}}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $R=3 \\sqrt{\\pi}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Cả ba đều sai.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf68"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một hình trụ có diện tích hai đáy và diện tích xung quanh đều bằng 314 (đvdt). Khi đó chiều cao $h$ của hình trụ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $h=31,4$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $h=10$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $h=100$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $h=3,14 \\cdot \\sqrt{10}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf63"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf68"
+            }
+        ]
+    },
+    {
+        "questionContent": " Với giả thiết của bài trên, thể tích $V$ của hình trụ này là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $V=314 \\cdot \\sqrt{3,14}(\\mathrm{dvtt})$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V=31400(\\mathrm{dvtt})$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V=3140($ đvtt)",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $V=3140 \\cdot \\sqrt{3,14}($ đvtt)",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf6a"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một bồn nước hình trụ có chiều cao $2 \\mathrm{~m}$. Một vòi nước chảy vào bồn với vận tốc 6750 lít/giờ Sau 10 phút chạy, mực nước trong bồn cao $0,5 \\mathrm{~m}$. Thể tích của bồn nước là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $V \\approx 4650$ lít",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V \\approx 4500$ lít",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $V \\approx 4750$ lít",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V \\approx 5750$ lít",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf6a"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một bồn nước hình trụ có sức chứa 1250 lít. Chiều cao của bồn là $1,57(\\mathrm{~m})$. Kết quả nào sau đây là diện tích xung quanh của bồn nước?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $S \\approx 5,2 m^{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S \\approx 5,4 m^{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S \\approx 54,9648 m^{2}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $S \\approx 5,324 \\mathrm{~m}^{2}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf6a"
+            }
+        ]
+    },
+    {
+        "questionContent": " Quan sát hình trụ ở hình sau. Diện tích xung quanh của hình trụ là:",
+        "image": "https://drive.google.com/uc?export=view&id=1p7SOPgztnmtuXznymm_jXIsKUnnSG_3Q",
+        "choices": [
+            {
+                "answerContent": " $S=78$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S=75,36$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $S=37,68$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S=74,84$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf19"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf68"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một ống cống hình trụ có kính thước được cho trong hình bên. Khối lượng riêng của bê tông làm ống cống là $1860 \\mathrm{~kg} / \\mathrm{m}^{3}$. Khối lượng của ống cống là:",
+        "image": "https://drive.google.com/uc?export=view&id=19qr8EFSMZjhP-P9kXpwTGscAFMllz4kb",
+        "choices": [
+            {
+                "answerContent": " $M=710 \\mathrm{~kg}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $M=980 \\mathrm{~kg}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $M=973,66 \\mathrm{~kg}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $M=963,66 \\mathrm{~kg}$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf6a"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một cái bình hình trụ có chiều cao bằng $20 \\mathrm{~cm}$, đường kính đáy bằng $10 \\mathrm{~cm}$ và bên trong bình có chứ một khối kim loại. Bình đựng đầy nước. Sau khi lấy khối kim loại ra khỏi bình, chiều cao cột nước chứa trong bình là $16 \\mathrm{~cm}$. Thể tích của khối kim loại là:",
+        "image": "https://drive.google.com/uc?export=view&id=1BkblBW1jJkh2ZpG_IeBuwBr-JqCs49Jx",
+        "choices": [
+            {
+                "answerContent": " $V=64 \\mathrm{~cm}^{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V=0,62$ lít",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V=62,8 \\mathrm{~cm}^{3}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $V=0,314$ lít",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf6a"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf63"
+            }
+        ]
+    },
+    {
+        "questionContent": " Xét một hình trụ nội tiếp trong một hình lập phương có cạnh $10 \\mathrm{~cm}$ như hình vẽ bên. Thể tích phần giới hạn ở ngoài hình trụ và trong hình lập phương là:",
+        "image": "https://drive.google.com/uc?export=view&id=1e5zpEaiFLn9oAX_coN1PSiyTRQcoyHF-",
+        "choices": [
+            {
+                "answerContent": " $V \\approx 125 \\mathrm{~cm}^{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V \\approx 215 \\mathrm{~cm}^{3}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $V \\approx 315 \\mathrm{~cm}^{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V \\approx 205 \\mathrm{~cm}^{3}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf6a"
+            }
+        ]
+    },
+    {
+        "questionContent": " Dùng giả thiết ở bài trên, diện tích xung quanh của hình trụ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $S \\approx 157 \\mathrm{~cm}^{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S \\approx 214 \\mathrm{~cm}^{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S \\approx 628 \\mathrm{~cm}^{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S \\approx 314 \\mathrm{~cm}^{2}$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf68"
+            }
+        ]
+    },
+    {
+        "questionContent": " Xét một hình lập phương nội tiếp trong một hình trụ có chiều cao $10 \\mathrm{~cm}$ như hình vẽ bên. Thể tích phần giới hạn ở ngoài lập phương và trong hình trụ là:",
+        "image": "https://drive.google.com/uc?export=view&id=1Aqdw31TGmiBgJtI4RuM5_EfV1CnaTUh9",
+        "choices": [
+            {
+                "answerContent": " $V \\approx 314 \\mathrm{~cm}^{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V \\approx 750 \\mathrm{~cm}^{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V \\approx 570 \\mathrm{~cm}^{3}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $V \\approx 392,5 \\mathrm{~cm}^{3}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf6a"
+            },
+            {
+                "$oid": "<ID CỦA KIẾN THỨC (knowledges)>"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf6a"
+            }
+        ]
+    },
+    {
+        "questionContent": " Dùng giả thiết của bài trên, diện tích xung quanh của hình trụ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $S=3140 \\sqrt{2} \\mathrm{~cm}^{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S=31,4 \\sqrt{2} \\mathrm{~cm}^{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S=314 \\sqrt{2} \\mathrm{~cm}^{2}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $S=628 \\sqrt{2} \\mathrm{~cm}^{2}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf68"
+            },
+            {
+                "$oid": "<ID CỦA KIẾN THỨC (knowledges)>"
+            },
+            {
+                "$oid": "<ID CỦA KIẾN THỨC (knowledges)>"
+            }
+        ]
+    },
+    {
+        "questionContent": " Cho hình trụ có chiều cao 16. Một hình chóp đều $S . A B C$ có đáy $A B C$ là tam giác đều cạnh bằng 9 , nội tiếp trong một đáy của hình trụ, đỉnh $S$ là tâm của đáy còn lại. Thể tích phần giới hạn ở bên ngoài hình chóp và trong hình trụ là:",
+        "image": "https://drive.google.com/uc?export=view&id=1FAq5ZmslUfnlZfx7NnJC8DSF8spfo9tu",
+        "choices": [
+            {
+                "answerContent": " $V=114\\left(\\pi-\\frac{\\sqrt{3}}{4}\\right)(\\mathrm{dvtt})$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V=72\\left(\\pi-\\frac{\\sqrt{3}}{4}\\right)(\\mathrm{dvtt})$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V=48\\left(\\pi-\\frac{\\sqrt{3}}{4}\\right)(\\mathrm{dvtt})$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V=48(4 \\pi-\\sqrt{3})(đ v t t)$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf6a"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf29"
+            }
+        ]
+    },
+    {
+        "questionContent": " Cho hình trụ có bán kính đáy và chiều cao bằng 12 . $A B$ là một dây cung của đường tròn đáy có đọ dài $A B=12$. Hình bên là một phần của hình trụ giới hạn ở giữa hai thiết diện qua trục, lần lượt đi qua $A$ và $B$. Diện tích phần mặt cong $A B B^{\\prime} A^{\\prime}$ ' của hình trụ là:",
+        "image": "https://drive.google.com/uc?export=view&id=1Gg7q-lCqKdAKDOIrG36MFG7puVKiK6kd",
+        "choices": [
+            {
+                "answerContent": " $S \\approx 160,72$ (đvdt)",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S \\approx 150,72$ (dvdt)",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $S \\approx 453,16$ (đvdt)",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S \\approx 226,08($ đvdt)",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf6a"
+            }
+        ]
+    },
+    {
+        "questionContent": " Dùng lại giả thiết bài trên, thể tích của phần hình trụ giới hạn bởi mặt trụ và mặt phẳng $\\left(A B B^{\\prime} A^{\\prime}\\right)$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $V \\approx 904,32($ đvtt)",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V \\approx 780,32($ đvtt)",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V \\approx 156,08$ (đvtt)",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $V \\approx 312,16$ (đvtt)",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf6a"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một hình nón có đường kính đáy là $6 \\mathrm{dm}$, chiều cao $4 \\mathrm{dm}$. Diện tích xung quanh hình nón là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $S=48 \\mathrm{dm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S=47,34 \\mathrm{dm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S=47,1 \\mathrm{dm}^{2}$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $S=94,2 \\mathrm{dm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf6c"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một hình nón có chiều cao $12 \\mathrm{~cm}$, đường sinh $13 \\mathrm{~cm}$. Diện tích xung quanh hình nón là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $S=564,6 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S=204,1 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $S=228 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S=328 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "<ID CỦA KIẾN THỨC (knowledges)>"
+            },
+            {
+                "$oid": "<ID CỦA KIẾN THỨC (knowledges)>"
+            },
+            {
+                "$oid": "<ID CỦA KIẾN THỨC (knowledges)>"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một hình nón có diện tích toàn phần 39,25 (đvdt). Biết đường sinh bằng đường kính đáy. Bán kính đáy của hình nón là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $R=5$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $R=4,5$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $R=2,5$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $R=3,5$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf6d"
+            }
+        ]
+    },
+    {
+        "questionContent": " Hình khai triển của một hình nón cắt theo một đường sinh là một hình quạt có kích thước như hình. Bán kính đáy của hình nón là:",
+        "image": "https://drive.google.com/uc?export=view&id=1TZ_eLsYYDCzVoW7uZ_C-dVu6qDD-G0Pk",
+        "choices": [
+            {
+                "answerContent": " $R=10 \\mathrm{~cm}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $R=5 \\mathrm{~cm}$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $R=6,5 \\mathrm{~cm}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $R=4,5 \\mathrm{~cm}$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf6c"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf63"
+            }
+        ]
+    },
+    {
+        "questionContent": " Hình khai triển của một hình nón cắt theo một đường sinh là một hình quạt có kích thước như hình. Thể tích của hình nón là:",
+        "image": "https://drive.google.com/uc?export=view&id=1xxaAfv5HKgjEzU-fuTxSCQrQIffy7u6H",
+        "choices": [
+            {
+                "answerContent": " $V=\\frac{25 \\sqrt{11}}{3} \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V=\\frac{25 \\pi}{3} \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V=\\frac{25 \\pi \\sqrt{11}}{3} \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $V=\\frac{25 \\pi}{33} \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf6c"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf63"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf6e"
+            }
+        ]
+    },
+    {
+        "questionContent": " Hình khai triển của một hình nón cắt theo một đường sinh là một hình quạt có kích thước như hình. Diện tích xung quanh hình nón là:",
+        "image": "https://drive.google.com/uc?export=view&id=1B1ytCCkRZy_kYlwevUyNSAWOj_uzfP9i",
+        "choices": [
+            {
+                "answerContent": " $S=728,80 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S=1418,80 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S=703,36 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $S=1018 \\mathrm{~cm}^{2}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf6c"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf63"
+            }
+        ]
+    },
+    {
+        "questionContent": " Hình khai triển của một hình nón cắt theo một đường sinh là một hình quạt có kích thước như hình. Diện tích đáy của hình nón là:",
+        "image": "https://drive.google.com/uc?export=view&id=1gm9BZAI3NBnn47eacNSy0Ib7f-jltgSN",
+        "choices": [
+            {
+                "answerContent": " $S=351,68 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S=515,44 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S=615,44 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $S=715,44 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf6c"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf63"
+            }
+        ]
+    },
+    {
+        "questionContent": " Hình khai triển của một hình nón cắt theo một đường sinh là một hình quạt có kích thước như hình. Thể tích hình nón là:",
+        "image": "https://drive.google.com/uc?export=view&id=1Mx_ECSxDgvawz8lFAqm_Qrovwiq6CXyI",
+        "choices": [
+            {
+                "answerContent": " $V=1489,06 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\mathrm{V}=1289,06 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V=1598,06 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\mathrm{V}=1589,06 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf6c"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf63"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf6e"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một hình nón có chiều cao $12 \\mathrm{~cm}$, đường kính đáy là $18 \\mathrm{~cm}$. Diện tích xunh quanh hình nón là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $\\mathrm{S}=523,9 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\mathrm{S}=423,9 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $\\mathrm{S}=432,9 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\mathrm{S}=532,9 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf6c"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một hình nón có chiều cao $15 \\mathrm{~cm}$, đường sinh $17 \\mathrm{~cm}$. Thể tích của hình nón là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $\\mathrm{V}=1048,8 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\mathrm{V}=1084,8 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\mathrm{V}=1004,8 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $\\mathrm{V}=1008,4 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf6e"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một hình nón có đường sinh $6 \\mathrm{~cm}$, góc giữa đường sinh và đường kính đáy là $60^{\\circ}$. Thể tích của hình nón là:",
+        "image": "https://drive.google.com/uc?export=view&id=1Hxq8SAkQr2uO_KPYjaFzHKBYFNuKkYwc",
+        "choices": [
+            {
+                "answerContent": " $\\mathrm{V}=58,94 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\mathrm{V}=48,94 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $\\mathrm{V}=68,94 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\mathrm{V}=46,94 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf6e"
+            }
+        ]
+    },
+    {
+        "questionContent": "Một hình nón có đường sinh $6 \\mathrm{~cm}$, góc giữa đường sinh và đường kính đáy là $60^{\\circ}$. Diện tích xung quanh hình nón là:",
+        "image": "https://drive.google.com/uc?export=view&id=1MV0_dTWRu9dqtJmuhdg2TQ2jn7fSqCsn",
+        "choices": [
+            {
+                "answerContent": " $\\mathrm{S}=65,52 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\mathrm{S}=56,52 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $\\mathrm{S}=54,52 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\mathrm{S}=68,52 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf6c"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một hình nón cụt có chiều cao $8 \\mathrm{~cm}$, đường sinh $10 \\mathrm{~cm}$, bán kính đáy lớn $12 \\mathrm{~cm}$. Diện tích xung quanh hình nón cụt là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $S=180 \\pi \\mathrm{cm}^{2}$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $S=60 \\pi \\mathrm{cm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S=96 \\pi \\mathrm{cm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Kết quả khác.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf70"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một hình nón cụt có chiều cao $8 \\mathrm{~cm}$, đường sinh $10 \\mathrm{~cm}$, bán kính đáy lớn $12 \\mathrm{~cm}$. Thể tích hình nón cụt là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $\\mathrm{V}=2116,08 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\mathrm{V}=2160,08 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\mathrm{V}=2110,08 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $\\mathrm{V}=2200,08 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf72"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một hình nón cụt có bán kính đáy lớn gấp đôi bán kính đáy bé và bằng đường sinh. Biết diện tích xung quanh hình nón cụt là $8478 \\mathrm{~cm}^{2}$. Diện tích đáy bé của hình nón cụt là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $\\mathrm{S}=1314 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\mathrm{S}=2826 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\mathrm{S}=1413 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $\\mathrm{S}=2628 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf70"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một hình nón cụt có bán kính đáy lớn gấp đôi bán kính đáy bé và bằng đường sinh. Biết diện tích xung quanh hình nón cụt là $8478 \\mathrm{~cm}^{2}$. Thể tích của hính nón cụt là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $\\mathrm{V}=229,85 \\mathrm{dm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\mathrm{V}=2298,5 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $\\mathrm{V}=22985 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Kết quả khác.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf70"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf72"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một hình nón cụt có chiều cao $21 \\mathrm{~cm}$, bán kính đáy lớn và bán kính đáy bé lần lượt là $21 \\mathrm{~cm}$ và $1 \\mathrm{~cm}$. Diện tích xung quanh hình nón cụt này là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $S \\approx 1866 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S \\approx 1877 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S \\approx 2003 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Kết quả khác.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf70"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một cái phễu được hình thành bởi một hình nón cụt và một hình trụ có kích thước như hình $\\mathrm{OA}=4 \\mathrm{~cm}, \\mathrm{AB}=\\mathrm{BC}=5 \\mathrm{~cm}, \\mathrm{O}^{\\prime} \\mathrm{B}=1$ $\\mathrm{cm}$. Thể tích cái phễu là:",
+        "image": "https://drive.google.com/uc?export=view&id=14b2WpbRYMzWC3ZS83MFcHvVV5lV7Kku3",
+        "choices": [
+            {
+                "answerContent": " $V \\approx 93,15 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $V \\approx 93,26 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V \\approx 90,62 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Kết quả khác.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf72"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf6a"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một cái phễu được hình thành bởi một hình nón cụt và một hình trụ có kích thước như hình $\\mathrm{OA}=4 \\mathrm{~cm}, \\mathrm{AB}=\\mathrm{BC}=5 \\mathrm{~cm}, \\mathrm{O}^{\\prime} \\mathrm{B}=1$ $\\mathrm{cm}$. Diện tích bên ngoài của cái phễu là:",
+        "image": "https://drive.google.com/uc?export=view&id=1XKSZNM5EnFx7k-xA7cM5YA206mcH6BZv",
+        "choices": [
+            {
+                "answerContent": " $S \\approx 806 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S \\approx 110 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $S \\approx 746 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Kết quả khác.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf68"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf70"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf63"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một quả bóng đá có đường kích $24 \\mathrm{~cm}$. Diện tích bề mặt quả bóng là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $S \\approx 21,08 \\mathrm{dm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S \\approx 18,09 \\mathrm{dm}^{2}$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $S \\approx 20,08 \\mathrm{dm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Kết quả khác.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf75"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một quả bóng đá có đường kích $24 \\mathrm{~cm}$. Thể tích của quả bóng là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $V \\approx 7034,56 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V \\approx 7038 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V \\approx 7234,56 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Kết quả khác.",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf76"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một hình trụ có đường kính đáy là $84 \\mathrm{~cm}$. Một hình cầu nội tiếp trong hình trụ (mặt cầu tiếp xúc với hai đáy của hình trụ và mặt xung quanh của hình trụ, thể tích của phần giới hạn ở bên ngoài hình câu và bên trong hình trụ là:",
+        "image": "https://drive.google.com/uc?export=view&id=1frop44I1q1Da5HeKCMbO8R5mb7RYtkIp",
+        "choices": [
+            {
+                "answerContent": " $V \\approx 155090 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $V \\approx 154420 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V \\approx 153103 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Kết quả khác.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf6a"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf76"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một hình lập phương nội tiếp trong một hình cầu có bán kính $\\mathrm{R}$ (các đỉnh của hình lập phương thuộc mặt cầu). Thể tích giới hạn bên trong hình cầu và bên ngoài hình lập phương là:",
+        "image": "https://drive.google.com/uc?export=view&id=1cEll19V177-vJIXQeTakgzS8aWcRTVPk",
+        "choices": [
+            {
+                "answerContent": " $V \\approx R^{3}(4 \\pi-\\sqrt{2})(d v t t)$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V \\approx \\frac{R^{3}}{4}\\left(\\frac{4 \\pi-2 \\sqrt{3}}{3}\\right)(\\mathrm{dvtt})$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V \\approx R^{3}\\left(\\frac{4 \\pi-2 \\sqrt{3}}{3}\\right)(\\mathrm{dvtt})$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $V \\approx R^{3}\\left(\\frac{4-2 \\sqrt{3}}{3}\\right)(d v t t)$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf76"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf6a"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một hình cầu có số đo diện tích (mặt cầu) gấp 6 lần số đo thể tích của nó. Số đo diện tích của mặt cầu này là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $S \\approx 18,84(d v d t)$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S \\approx 3,14(d v d t)$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $S \\approx 6,28(d v d t)$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S \\approx 1,57(d v d t)$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf76"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf75"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một hình cầu có số đo diện tích (mặt cầu) bằng số đo thể tích của nó. Bán kính của mặt cầu này là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $R=6 d v$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $R=9 d v$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $R=\\frac{1}{3} d v$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $R=3 d v$.",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf76"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf75"
+            }
+        ]
+    },
+    {
+        "questionContent": " Hãy chọn phát biểu đúng trong các phát biểu dưới đây:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Tồn tại một mặt cầu có số đo diện tích là một số tự nhiên.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Công thức tính diện tích mặt cầu là $S=4 \\pi R^{2}$ (R là bán kính). Do đó số đo diện tích luôn luôn là số thập phân.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Công thức tính thể tích mặt cầu là $V=\\frac{4}{3} \\pi R^{3}$ (R là bán kính). Do đó số đo thể tích luôn luôn là số thập phân.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Tồn tại một mặt cầu có số đo diện tích là một số tự nhiên bé hơn 3 .",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf75"
+            }
+        ]
+    },
+    {
+        "questionContent": " Hãy chọn phát biểu đúng trong các phát biểu dưới đây:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Nếu số do diện tích của mặt cầu là một số vô tỉ thì bán kính $\\mathrm{R}$ của nó cũng là một số vô tỉ.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Không có mặt cầu nào có số đo diện tích là một số tự nhiên",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Tồn tại hình cầu có số đo thể tích là một số tự nhiên",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Nếu thể tích của một hình cầu là số vô tỉ thì bán kính nó cũng là số vô tỉ",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf76"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf75"
+            }
+        ]
+    }
+]

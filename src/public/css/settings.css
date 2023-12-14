@@ -1,0 +1,111 @@
+.main {
+  background-color: var(--color-white);
+  width: 100%; 
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-36xl);
+  color: var(--color-slategray);
+  font-family: var(--font-crimson-pro);
+}
+.title {
+  background-color: var(--color-steelblue-300);
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-77xl);
+  color: var(--color-white);
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: var(--font-size-21xl);
+}
+.settings-form {
+  width: 60%;
+}
+.option {
+  display: inline-block;
+  width: 100%;
+  background-color: var(--color-whitesmoke-200);
+  border-radius: 10px;
+  margin: 5px 0 5px 0;
+  padding: 5px 0 5px 0;
+  font-size: var(--font-size-36xl);
+  font-weight: bold;
+}
+.option-domain {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.semester {
+  font-size: var(--font-size-31xl);
+  font-weight: bold;
+}
+.field {
+  margin-left: 30px;
+  font-size: var(--font-size-26xl);
+  font-weight: bold;
+}
+.chapter {
+  margin-left: 60px;
+  font-weight: bold;
+}
+.lesson {
+  margin-left: 90px
+}
+.option-length input[type="number"],
+.option-duration input[type="number"] {
+  width: 100px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-slategray);
+  font-family: var(--font-crimson-pro);
+  text-align: center;
+  margin: 5px 0 5px 0;
+  padding: 5px 0 5px 0;
+  border-radius: var(--br-3xs);
+}
+.option-level {
+  font-size: var(--font-size-21xl);
+  font-weight: normal;
+  margin: 5px 0 5px 0
+}
+.btn-start {
+  font-family: var(--font-crimson-pro);
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  border-radius: var(--br-mini);
+  background-color: var(--color-steelblue-200);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 300px;
+  height: 50px;
+  margin: 20px;
+}
+.btn-start:hover {
+  cursor: pointer;
+  background: linear-gradient(to bottom,rgb(11 85 123) 0%, rgb(11 85 123) 100%);
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
+}
+.btn-start:active {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transform: translateY(2px);
+}
+
+@media screen and (max-width: 922px) {
+  .settings-form {
+    width: 80%
+  }
+  .field {
+    margin-left: 10px
+  }
+  .chapter {
+    margin-left: 20px
+  }
+  .lesson {
+    margin-left: 30px
+  }
+}
