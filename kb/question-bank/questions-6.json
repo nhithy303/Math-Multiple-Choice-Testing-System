@@ -1,0 +1,2308 @@
+[
+    {
+        "questionContent": " Đường thẳng d cách tâm O của đường tròn (O; 4cm) một khoảng 3cm. Khi đó vị trí tương đối của d đường tròn (O; 4cm) là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Cắt nhau",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Không giao nhau",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Tiếp xúc nhau",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Không kết luận được",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf26"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf26"
+            }
+        ]
+    },
+    {
+        "questionContent": " Cho hai đường tròn (O; 15cm) và (O'; 10cm) và $OO' = 2,5cm$. Số tiếp tuyến chung của hai đường tròn là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " 1",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 2",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 3",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " 4",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf26"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf33"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf46"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf38"
+            }
+        ]
+    },
+    {
+        "questionContent": " Cho hai đường tròn (O; 2cm) và (O'; 5cm) tiếp xúc ngoài thì độ dài của OO' bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " 3cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 7cm",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " 2cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 1cm",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf45"
+            }
+        ]
+    },
+    {
+        "questionContent": " Số điểm chung của hai đường tròn (O; R) và (O'; R') thỏa mãn: $R - R' < OO' < R + R'$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " 0",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 1",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 2",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " 3",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf30"
+            }
+        ]
+    },
+    {
+        "questionContent": " Hai đường tròn chỉ có một điểm chung được gọi là hai đường tròn:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Cắt nhau",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Tiếp xúc nhau",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Ngoài nhau",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Không xác định",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf40"
+            }
+        ]
+    },
+    {
+        "questionContent": " Hai đường tròn có tiếp tuyến chung trong thì vị trí tương đối của chúng là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Tiếp xúc ngoài",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Tiếp xúc trong",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Cắt nhau",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Ngoài nhau",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf46"
+            }
+        ]
+    },
+    {
+        "questionContent": " Tâm của đường tròn nội tiếp tam giác là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Giao điểm của các đường cao trong tam giác.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Giao điểm của các đường phân giác các góc trong tam giác.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Giao điểm của các đường trung tuyến trong tam giác.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Giao điểm của các đường trung trực trong tam giác.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf3a"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf60"
+            }
+        ]
+    },
+    {
+        "questionContent": " Trong các phát biểu sau đây, phát biểu nào sai khi nói về tam giác?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Có duy nhất một đường tròn nội tiếp tam giác.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Có duy nhất một đường tròn ngoại tiếp tam giác.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Có duy nhất một đường tròn bàng tiếp tam giác.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Có duy nhất một đường tròn tiếp xúc với ba cạnh tam giác.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf3a"
+            },
+            {
+                "$oid": "6579d8b113a48d5b78dbdacf"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf3b"
+            }
+        ]
+    },
+    {
+        "questionContent": " Cho hình vuông ABCD cạnh 2cm. Gọi I và J lần lượt là trung điểm AC và CD. Vị trí tương đối của đường tròn (A; AI) và (C; CJ) là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Tiếp xúc ngoài",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Cắt nhau",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Ngoài nhau",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Trong nhau",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf45"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Chọn phát biểu đúng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Nếu tam giác có ba góc nhọn thì tâm đường tròn ngoại tiếp tam giác đó nằm ngoài tam giác.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Nếu tam giác có góc tù thì tâm đường tròn ngoại tiếp tam giác đó nằm trong tam giác.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Nếu tam giác vuông thì tâm đường tròn ngoại tiếp tam giác là trung điểm cạnh lớn nhất trong tam giác.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Nếu tam giác đều thì tâm đường tròn ngoại tiếp tam giác là trung điểm một cạnh của tam giác.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf29"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho tam giác MNP và hai đường cao MH NK , . Gọi (O) là đường tròn nhận MN là đường kính. Khẳng định nào sau đây không đúng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Ba điểm M ,N H, cùng nằm trên đường tròn (O).",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Ba điểm M ,N K, cùng nằm trên đường tròn (O).",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Bốn điểm M ,N H K , , không cùng nằm trên đường tròn (O).",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Bốn điểm M ,N H K , , cùng nằm trên đường tròn (O).",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf5f"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf60"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho hai đường tròn (O;R) và (O'; R') cắt nhau tại hai điểm. Phát biểu nào sau đây là sai:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Đường nối tâm là trung trực của dây chung.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Dây chung là trung trực của đoạn nối tâm.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Hai tiếp tuyến chung của hai đường tròn song song với nhau.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Hai tiếp tuyến chung và đường nối tâm cùng đi qua một điểm.",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf3d"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf43"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf46"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf44"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Tâm của đường tròn nội tiếp tam giác:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Cách đều ba đỉnh của tam giác.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Nằm trên một cạnh của tam giác.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Nằm bên ngoài tam giác.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Cách đều ba cạnh của tam giác.",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf37"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Trong các câu sau đây, câu nào sai?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Hai đường tròn tiếp xúc ngoài tại A thì A thuộc đoạn thẳng nối tâm.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Hai đường tròn tiếp xúc trong tại A thì A thuộc đoạn nối tâm.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Nếu hai đường tròn (O;R) và (O'; R') không giao nhau thì $OO' > R + R'$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Nếu hai đường tròn (O;R) và (O'; R') tiếp xúc trong thì $OO' = |R - R'|$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf45"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf43"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf42"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Trong các phát biểu sau đây, phát biểu nào đúng về hai đường tròn bất kì cắt nhau?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Hai tâm đường tròn đối xứng nhau qua dây chung.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Các tiếp tuyến chung và đường nối tâm luôn đồng quy.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Dây chung vuông góc với đoạn nối tâm và đi qua trung điểm của đoạn nối tâm.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Hai đường tròn cắt nhau thì đường nối tâm vuông góc dây chung và đi qua trung điểm của dây chung.",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf45"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf44"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf43"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Hình nào dưới đây không có đường tròn tiếp xúc với tất các cạnh của nó?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Tam giác.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Hình vuông.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Hình thoi.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Hình chức nhật.",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf5f"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Trong các phát biểu sau, phát biểu nào đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Hai đường tròn phân biệt không thể có quá hai điểm chung.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Hai đường tròn chỉ có một điểm chung được gọi là hai đường tròn tiếp xúc trong.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Hai đường tròn tiếp xúc ngoài chỉ có một tiếp tuyến chung.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Hai đường tròn cắt nhau thì dây chung là trung trực của đoạn nối tâm.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf45"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf44"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf3e"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho đường tròn (O; 12cm), dây AB vuông góc với bán kính OC tại trung điểm M của OC. Dây AB có độ dài là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $3\\sqrt{3}cm$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $6\\sqrt{3}cm$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $9\\sqrt{3}cm$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $12\\sqrt{3}cm$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf50"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf2d"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho tam giác ABC vuông tại A có $AB = 5cm, AC = 12cm$. Bán kính dường tròn nội tiếp tam giác ABC là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " 1cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 1,5cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 1,2cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 2cm",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf25"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf3a"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf5f"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho hình chữ nhật ABCD có $AB = 12cm, BC = 5cm$. Bán kính đường tròn đi qua bốn đỉnh A, B, C, D của hình chữ nhật là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " 13cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 12,5cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 6,5cm",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " 7cm",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf5e"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Tam giác ABC vuông tại A. Đường tròn (O) nội tiếp tam giác ABC , tiếp xúc với AB, AC , lần lượt tại D và E thì tứ giác ADOE là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Hình vuông",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Hình chữ nhật",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Hình thang",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Hình thoi",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf5f"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf3a"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Đường tròn tâm O bán kính 16cm ngoại tiếp tam giác đều ABC . Khi đó, độ dài các cạnh của tam giác ABC là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " 24cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 18cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $8\\sqrt{3}cm$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $16\\sqrt{3}cm$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf29"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf5e"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho đoạn thẳng AB . Đường tròn (O) đường kính 2cm tiếp xúc với đường thẳng AB . Tâm O nằm trên:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Đường vuông góc với AB tại A.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Đường vuông góc với AB tại B.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Hai đường thẳng song song với AB và cách AB một khoảng 1cm.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Hai đường thẳng song song với AB và cách AB một khoảng 2cm.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf30"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho AB là một dây của đường tròn (O;13cm). Nếu $AB = 12cm$ thì khoảng cách từ O đến AB bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $\\sqrt{205}cm$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\sqrt{133}cm$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " 12cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 5cm",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf2d"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf2e"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho đường tròn O đường kính $AB = 18cm$, dây CD dài 12cm và vuông góc với AB. Diện tích tứ giác ACBD là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $108cm^2$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $216cm^2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $54cm^2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $144cm^2$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf2d"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho đường tròn (O), bán kính OA, dây CD là trung trực của OA. Tứ giác OCAD là hình gì?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Hình thang",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Hình bình hành",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Hình thoi",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Hình vuông",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf2d"
+            },
+            {
+                "$oid": "<ID CỦA KIẾN THỨC (knowledges)>"
+            },
+            {
+                "$oid": "<ID CỦA KIẾN THỨC (knowledges)>"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho hình vuông ABCD , I và J lần lượt là trung điểm AD và BC . Vị trí tương đối của (I; IA) và (J; JB) là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " tiếp xúc trong",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " tiếp xúc ngoài",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " cắt nhau",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " ngoài nhau",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf45"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Dựa vào hình vẽ, độ dài đoạn AD là:",
+        "image": "https://drive.google.com/uc?export=view&id=1Aivk2BkgFTT2JgqZUGZtUp6kBeNXM0YO",
+        "choices": [
+            {
+                "answerContent": " $\\frac{10}{3}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " 3",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\frac{13}{4}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 3,5",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf47"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Độ dài bán kính đường tròn tiếp xúc với tất cả các cạnh của hình vuông ABCD , biết $AB = 2cm$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " 1cm",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " 2cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\sqrt{2}cm$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\frac{\\sqrt{2}}{2}cm$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf5f"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Đường tròn (O;16cm) ngoại tiếp tam giác đều ABC. Gọi H là trung điểm BC. Khi đó độ dài đoạn AH là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " 16cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $16\\sqrt{3}cm$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $8\\sqrt{3}cm$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $12\\sqrt{3}cm$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf29"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf60"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf2d"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho tam giác đều ABC cạnh 2cm. Bán kính đường tròn nội tiếp tam giác ABC bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $\\frac{\\sqrt{3}}{4}cm$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\frac{\\sqrt{3}}{3}cm$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $\\frac{\\sqrt{3}}{2}cm$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\frac{\\sqrt{3}}{6}cm$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf60"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho đường tròn (O;6cm). Từ điểm A cách tâm O một khoảng 12cm kẻ các tiếp tuyến AB và AC với đường tròn ( B và C là các tiếp điểm). Khi đó $widehat{BAC}$ bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $30^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $60^{\\circ}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $75^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $45^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf62"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf33"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf35"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf38"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Đường tròn (O; 4cm) và (O'; 6cm) cắt nhau tại hai điểm A và B biết $\\widehat{OAO'} = 120^{\\circ}$. Độ dài đoạn nối tâm là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $\\sqrt{76}cm$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $\\sqrt{74}cm$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $6\\sqrt{2}cm$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $6\\sqrt{3}cm$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf3e"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf3d"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf43"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf44"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho điểm M nằm ngoài đường tròn (O). Kẻ tiếp tuyến MA, MB với đường tròn, A và B là các tiếp điểm. Nếu $\\widehat{AOB} = 120^{\\circ}$ thì $\\widehat{AMB}$ bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $30^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $45^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $60^{\\circ}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $75^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf26"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf38"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf35"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf33"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf47"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Tam giác ABC đều nội tiếp đường tròn (O; 16cm), đường cao AH. Khi đó, độ dài đoạn HB là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " 8cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 12cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $8\\sqrt{2}cm$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $8\\sqrt{3}cm$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf60"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Diện tích tam giác đều nội tiếp đường tròn bán kính 2 cm là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $3\\sqrt{5}cm^2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $3\\sqrt{3}cm^2$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $6\\sqrt{5}cm^2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $6\\sqrt{3}cm^2$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf60"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf29>"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho nửa đường tròn (O;10cm), đường kính MN, E là một điểm trên đường tròn sao cho OE vuông góc với MN. Diện tích tam giác MNE là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " 100cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 120cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $100cm^2$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $200cm^2$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf2b"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf4c"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf2d"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho nửa đường tròn (O;8cm) có BC là đường kính và AB là dây cung. Khi $AB = \\frac{\\sqrt{3}}{2}BC$ thì AC bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " 4cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 6cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 8cm",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " 9cm",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf4c"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf2c"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho đường tròn (O;6cm), đường kính BC, điểm A thuộc đường tròn. Gọi M và N lần lượt là trung điểm của các dây AB và AC. Khi đó $BM^2 + CN^2$ bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " 144",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 72",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 48",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 36",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf2e"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf2f"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho đường tròn (O), bán kính OA, OB tạo với nhau góc $120^{\\circ}$, đường kính CD vuông góc với dây AB, C thuộc cung nhỏ AB thì góc ACB bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $120^{\\circ}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $135^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $144^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $150^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf2d"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf2c"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf58"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Một tam giác có chu vi 120 cm, độ dài các cạnh có tỉ lệ là 8:15:17. Khoảng cách từ giao điểm các đường phân giác của tam giác đó đến mỗi cạnh là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " 1",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 9",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " 12",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 16",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf61"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf62"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Hai đường tròn (O;R) và (O';r) tiếp xúc ngoài tại A, BC là tiếp tuyến chung ngoài của hai đường tròn, B và C là các tiếp điểm. Biểu thức biểu thị độ dài đoạn thẳng BC là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $\\sqrt{2Rr}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $2\\sqrt{Rr}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $2\\sqrt{2Rr}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $3\\sqrt{Rr}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf41"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf3f"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf46"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf39"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho đường tròn (O;5cm) và điểm M cách O là 3 cm. Độ dài dây ngắn nhất đi qua M là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " 4cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 6cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 8cm",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " 10cm",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf2e"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf2f"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho đường tròn (O;5cm) và điểm M cách O là 3 cm. Độ dài dây dài nhất đi qua M là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " 6cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 5cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 10cm",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " 12cm",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf2e"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf2f"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho đường tròn (O;15cm), dây $AB = 24cm$ . Một tiếp tuyến song song với AB cắt các tia OA, OB theo thứ tự tại E và F. Độ dài EF là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " 40cm",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " 42cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 20cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 48cm",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf39"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Tỉ số bán kính đường tròn nội tiếp và đường tròn ngoại tiếp tam giác ABC đều cạnh 2cm là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $\\frac{1}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\frac{1}{2}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $\\frac{1}{\\sqrt{2}}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 2",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf60"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho đường tròn (O;4cm) và (O';5cm) cắt nhau tại A và B biết $AB = 6cm$ . Khi đó độ dài đoạn OO' là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $4 + \\sqrt{7}cm$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $4 + 2\\sqrt{2}cm$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $4 \\pm \\sqrt{7}cm$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $4 \\pm 2\\sqrt{2}cm$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf3f"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf44"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf45"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Tam giác ABC cân tại A nội tiếp đường tròn (O), $BC = 24cm, AC = 20cm$ thì bán kính đường tròn (O) bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " 15cm",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " 12cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 16cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 18cm",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf29"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf37"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho đường tròn (O;9cm) tiếp xúc ngoài với đường tròn (O';4cm) tại điểm A. BC là tiếp tuyến chung ngoài của hai đường tròn thì độ dài BC là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " 13cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 12cm",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " 11cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 14cm",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf46"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf39"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf37"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho điểm M nằm ngoài đường tròn và tiếp tuyến MA, MC của đường tròn, A và C là các tiếp điểm. Kẻ đường kính BC. Biết $\\widehat{ABC} = 70^{\\circ}$ thì góc AMC bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $30^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $40^{\\circ}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $50^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $70^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf35>"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf33"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho tam giác ABC vuông tại A có $AB = 18cm, AC = 24cm$ và đường tròn (I) nội tiếp tam giác. Khi đó AI bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " 6cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 8cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $6\\sqrt{2}cm$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $3\\sqrt{2}cm$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf3a"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Tam giác ABC cân tại A, $BC = 12cm$ , đường cao $AH = 4$ thì bán kính đường tròn ngoại tiếp tam giác bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " 2,5cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 6,5cm",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " 13cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 5cm",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf29"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Hai đường tròn (O) và (O') cắt nhau tại A và B, $OO' = 3cm$. Qua A kẻ đường thẳng cắt đường tròn (O) và (O') theo thứ tự B và C, A nằm giữa B và C. Độ dài đoạn BC lớn nhất bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " 5cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 6cm",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " 7cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 9cm",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf39"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf37"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf3e"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho đường tròn (O;R). Từ điểm M cách O một khoảng 2R, kẻ hai tiếp tuyến MA, MB với (O), A và B là hai tiếp điểm. Bán kính đường tròn nội tiếp tam giác MAB bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " R",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $R\\sqrt{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $R\\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\frac{R}{2}$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf39"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf34"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf3a"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Tam giác MNP cân tại M có $MN = 6cm$ , góc M bằng $120^{\\circ}$ . Bán kính đường tròn ngoại tiếp tam giác MNP bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " 6cm",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " 8cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 9cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 7,5cm",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf54"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf53"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf29"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho đường tròn (O) và điểm A cố định trên đường tròn. Điểm B chuyển động trên đường tròn (O). Trung điểm M của AB chuyển động trên đường nào?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Đường tròn đường kính OA.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Đường tròn tâm O, bán kính OA.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Đường tròn đường kính AB.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Đường tròn tâm A, bán kính AO.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf5a"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho đường tròn (O;2cm), điểm A di chuyển trên đường tròn. Kẻ tiếp tuyến Ax của (O) tại A, điểm M trên tia Ax sao cho $AM = OA$. Khi đó điểm M chuyển động trên đường nào?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Đường tròn tâm O, bán kính OA.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Đường tròn tâm A, bán kính 2 cm.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Đường tròn đường kính OM.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Đường tròn tâm A, bán kính $2\\sqrt{2}cm$.",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf5a"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf33"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho đường tròn (O;25cm) , điểm C cách O là 7cm. Có bao nhiêu dây đi qua C có độ dài là một số nguyên?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " 1",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 2",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 3",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " 4",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf2e"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf2c"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho nửa đường tròn tâm O, đường kính $AB = 10cm$ . Điểm M thuộc nửa đường tròn. Qua M kẻ tiếp tuyến xy với nửa đường tròn. Gọi D và C lần lượt là hình chiếu của A, B trên xy. Diện tích lớn nhất của tứ giác ABCD là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " 50cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 60cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $50cm^2$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $60cm^2$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf4c"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf35"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho điểm C thuộc nửa đường tròn đường kính AB, H là hình chiếu của C trên AB. Các điểm D và E thuộc nửa đường tròn sao cho HC là tia phân giác góc DHE. Hệ thức nào sau đây đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $HE^2 = HC.HD$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $HC = \\frac{HD + HE}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $HC^2 = HD.HE$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $HD^2 = HC.HE$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf39"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf4c"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho đường tròn (O;R), đường kính AB cố định. Điểm C di chuyển trên đường tròn, điểm G là trọng tâm tam giác ABC. Khi đó điểm G di chuyển trên:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Đường thẳng song song với AB và cách AB một khoảng $\\frac{R}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Đường thẳng song song với AB và cách AB một khoảng $\\frac{R}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Đường tròn tâm O, bán kính $\\frac{R}{3}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Đường tròn tâm O, bán kính $\\frac{R}{2}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf5a"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Tam giác ABC vuông tại A. Gọi R và r lần lượt là bán kính các đường tròn ngoại tiếp và nội tiếp tam giác ABC. Khi đó diện tích tam giác ABC tính theo R và r là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $S = Rr + r^2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S = 2Rr + r^2$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $S = 2Rr - r^2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S = Rr - r^2$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf60"
+            }
+        ]
+    }
+]

@@ -41,7 +41,6 @@
         "isCorrect": "<boolean>"
         }],
       "questionLevelId": "",
-      "lessonId": "",
       "knowledges": [{ "_id": "" }]
     },
     "testlevels": {

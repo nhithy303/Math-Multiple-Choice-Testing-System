@@ -300,27 +300,31 @@
   text-align: center;
   align-items: center;
   justify-content: center;
- margin: 20px;
+  margin: 20px;
 }
 .back{
   display: flex;
   align-items: center;
   flex-direction: row;
   background-color: rgba(82, 122, 183, 1);
-    border: none;
-    border-radius: 15px;
-    color: white;
-    font-weight: bold;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    font-size: 16px;
+  border: none;
+  border-radius: 15px;
+  color: white;
+  font-weight: bold;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: var(--font-size-21xl);
 }
 
 .picked-answer {
   color: red
 }
 .correct-answer {
-  color: green;
+  color: rgb(78, 232, 78);
   font-weight: bold;
+}
+.cc-ni-dung, .s-cu-lm, .im-s {
+  font-weight: bold;
+  font-size: var(--font-size-26xl)
 }

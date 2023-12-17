@@ -1,6 +1,6 @@
 [
     {
-        "questionContent": "Tìm điều kiện để biểu thức $P=\\sqrt{(5\\sqrt{x}+7)\\cdot(5\\sqrt{x}-7)}$ có nghĩa?",
+        "questionContent": "Tìm điều kiện để biểu thức $P=\\sqrt{(5\\sqrt{x}+7)(5\\sqrt{x}-7)}$ có nghĩa?",
         "image": "",
         "choices": [
             {
@@ -121,7 +121,7 @@
                 "isCorrect": false
             },
             {
-                "answerContent": "$S=\\varnothing$.",
+                "answerContent": "$S=\\emptyset$.",
                 "image": "",
                 "isCorrect": true
             }
@@ -142,7 +142,7 @@
         ]
     },
     {
-        "questionContent": " Cho phương trình $x^2-6 m x+8=0$ có hai nghiệm $x_1, x_2$ thì $x_1+x_2=3$ khi $\\mathrm{m}=$ ?",
+        "questionContent": " Cho phương trình $x^2-6 m x+8=0$ có hai nghiệm $x_1, x_2$ thì $x_1+x_2=3$ khi $m=$ ?",
         "image": "",
         "choices": [
             {
@@ -176,7 +176,7 @@
         ]
     },
     {
-        "questionContent": " Xác định $\\mathrm{m}$ để phương trình $x^2-(m-2) x+m+8=0$ có 2 nghiệm $x_1, x_2$ thỏa mãn: $x_1<x_2<0$",
+        "questionContent": "Xác định $m$ để phương trình $x^2-(m-2) x+m+8=0$ có 2 nghiệm $x_1, x_2$ thỏa mãn: $x_1<x_2<0$",
         "image": "",
         "choices": [
             {
@@ -195,7 +195,7 @@
                 "isCorrect": false
             },
             {
-                "answerContent": "$\\left[\\begin{array}{l}m<-8 \\\\ m>2\\end{array}\\right.$",
+                "answerContent": "$\\left[\\begin{array}{l}m<-8 \\\\ m>2\\end{array}\\right$",
                 "image": "",
                 "isCorrect": false
             }
@@ -408,41 +408,7 @@
         ]
     },
     {
-        "questionContent": " Với giả thiết của bài trên, thể tích $V$ của hình trụ này là:",
-        "image": "",
-        "choices": [
-            {
-                "answerContent": " $V=314 \\cdot \\sqrt{3,14}(\\mathrm{dvtt})$",
-                "image": "",
-                "isCorrect": false
-            },
-            {
-                "answerContent": " $V=31400(\\mathrm{dvtt})$",
-                "image": "",
-                "isCorrect": false
-            },
-            {
-                "answerContent": " $V=3140($ đvtt)",
-                "image": "",
-                "isCorrect": true
-            },
-            {
-                "answerContent": " $V=3140 \\cdot \\sqrt{3,14}($ đvtt)",
-                "image": "",
-                "isCorrect": false
-            }
-        ],
-        "questionLevelId": {
-            "$oid": "6579d8d613a48d5b78dbdad9"
-        },
-        "knowledges": [
-            {
-                "$oid": "6579fbba4755048edf89bf6a"
-            }
-        ]
-    },
-    {
-        "questionContent": " Một bồn nước hình trụ có chiều cao $2 \\mathrm{~m}$. Một vòi nước chảy vào bồn với vận tốc 6750 lít/giờ Sau 10 phút chạy, mực nước trong bồn cao $0,5 \\mathrm{~m}$. Thể tích của bồn nước là:",
+        "questionContent": " Một bồn nước hình trụ có chiều cao $2m$. Một vòi nước chảy vào bồn với vận tốc 6750 lít/giờ Sau 10 phút chạy, mực nước trong bồn cao $0,5m$. Thể tích của bồn nước là:",
         "image": "",
         "choices": [
             {
@@ -476,7 +442,7 @@
         ]
     },
     {
-        "questionContent": " Một bồn nước hình trụ có sức chứa 1250 lít. Chiều cao của bồn là $1,57(\\mathrm{~m})$. Kết quả nào sau đây là diện tích xung quanh của bồn nước?",
+        "questionContent": " Một bồn nước hình trụ có sức chứa 1250 lít. Chiều cao của bồn là $1,57m$. Kết quả nào sau đây là diện tích xung quanh của bồn nước?",
         "image": "",
         "choices": [
             {
@@ -495,7 +461,7 @@
                 "isCorrect": true
             },
             {
-                "answerContent": " $S \\approx 5,324 \\mathrm{~m}^{2}$",
+                "answerContent": " $S \\approx 5,324 {m}^{2}$",
                 "image": "",
                 "isCorrect": false
             }
@@ -510,7 +476,7 @@
         ]
     },
     {
-        "questionContent": " Một hình nón có chiều cao $15 \\mathrm{~cm}$, đường sinh $17 \\mathrm{~cm}$. Thể tích của hình nón là:",
+        "questionContent": " Một hình nón có chiều cao $15cm$, đường sinh $17cm$. Thể tích của hình nón là:",
         "image": "",
         "choices": [
             {
@@ -1162,67 +1128,6 @@
         ]
     },
     {
-        "questionContent": "Với giả thiết câu 24, kết quả nào sau đây là đúng ?",
-        "image": "",
-        "choices": [
-            {
-                "answerContent": "$\\cos B = 0,75$",
-                "image": "",
-                "isCorrect": false
-            },
-            {
-                "answerContent": "$\\cos B = 0,6$",
-                "image": "",
-                "isCorrect": true
-            },
-            {
-                "answerContent": "$\\cos B = 0,8$",
-                "image": "",
-                "isCorrect": false
-            },
-            {
-                "answerContent": "$\\sin C = 1,3$",
-                "image": "",
-                "isCorrect": false
-            }
-        ],
-        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
-        "knowledges": [
-            { "$oid": "6579fbba4755048edf89bf21" }
-        ]
-    },
-    {
-        "questionContent": "Với giả thiết câu 24. Gọi AH là đường cao thuộc cạnh BC và $\\widehat{BAH} = \\alpha$ . Kết quả nào sau đây là đúng?",
-        "image": "",
-        "choices": [
-            {
-                "answerContent": "$\\cos\\alpha = 0,6$",
-                "image": "",
-                "isCorrect": false
-            },
-            {
-                "answerContent": "$\\cos\\alpha = 0,75$",
-                "image": "",
-                "isCorrect": false
-            },
-            {
-                "answerContent": "$\\cos\\alpha = 0,8$",
-                "image": "",
-                "isCorrect": true
-            },
-            {
-                "answerContent": "$\\cos\\alpha = \\frac{2\\sqrt{3}}{5}$",
-                "image": "",
-                "isCorrect": false
-            }
-        ],
-        "questionLevelId": { "$oid": "6579d8d613a48d5b78dbdad8" },
-        "knowledges": [
-            { "$oid": "6579fbba4755048edf89bf21" },
-            { "$oid": "6579fbba4755048edf89bf19" }
-        ]
-    },
-    {
         "questionContent": "Cho hệ phương trình: $\\left\\{\\begin{array}{l}x+m y=1 \\\\ m x+y=2 m\\end{array}\\right$. Tìm giá trị của m để hệ có nghiệm duy nhất $(\\mathrm{x} ; \\mathrm{y})$ sao cho $x+y$ đạt giả trị nguyên nhỏ nhất.",
         "image": "",
         "choices": [
@@ -1285,7 +1190,7 @@
         ]
     },
     {
-        "questionContent": "Xác định tham số $m$ để hậ phương trình $\\left\\{\\begin{array}{l}(m+3) x+(m-3) y=2 m \\\\ \\left(m^2+9\\right) x+\\left(m^2-9\\right) y=2 m^2\\end{array}\right$ có nghiệm duy nhất.",
+        "questionContent": "Xác định tham số $m$ để hậ phương trình $\\left\\{\\begin{array}{l}(m+3) x+(m-3) y=2 m \\\\ \\left(m^2+9\\right) x+\\left(m^2-9\\right) y=2 m^2\\end{array}\\right$ có nghiệm duy nhất.",
         "image": "",
         "choices": [
             {
@@ -1563,6 +1468,768 @@
         "knowledges": [
             { "$oid": "6579fbba4755048edf89bf00" },
             { "$oid": "6579fbba4755048edf89bf01" }
+        ]
+    },
+    {
+        "questionContent": " Một cái phễu được hình thành bởi một hình nón cụt và một hình trụ có kích thước như hình $\\mathrm{OA}=4 \\mathrm{~cm}, \\mathrm{AB}=\\mathrm{BC}=5 \\mathrm{~cm}, \\mathrm{O}^{\\prime} \\mathrm{B}=1$ $\\mathrm{cm}$. Thể tích cái phễu là:",
+        "image": "https://drive.google.com/uc?export=view&id=14b2WpbRYMzWC3ZS83MFcHvVV5lV7Kku3",
+        "choices": [
+            {
+                "answerContent": " $V \\approx 93,15 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $V \\approx 93,26 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V \\approx 90,62 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Kết quả khác.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf72"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf6a"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một cái phễu được hình thành bởi một hình nón cụt và một hình trụ có kích thước như hình $\\mathrm{OA}=4 \\mathrm{~cm}, \\mathrm{AB}=\\mathrm{BC}=5 \\mathrm{~cm}, \\mathrm{O}^{\\prime} \\mathrm{B}=1$ $\\mathrm{cm}$. Diện tích bên ngoài của cái phễu là:",
+        "image": "https://drive.google.com/uc?export=view&id=1XKSZNM5EnFx7k-xA7cM5YA206mcH6BZv",
+        "choices": [
+            {
+                "answerContent": " $S \\approx 806 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S \\approx 110 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $S \\approx 746 \\mathrm{~cm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Kết quả khác.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf68"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf70"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf63"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một quả bóng đá có đường kích $24 \\mathrm{~cm}$. Diện tích bề mặt quả bóng là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $S \\approx 21,08 \\mathrm{dm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S \\approx 18,09 \\mathrm{dm}^{2}$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $S \\approx 20,08 \\mathrm{dm}^{2}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Kết quả khác.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf75"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một quả bóng đá có đường kích $24 \\mathrm{~cm}$. Thể tích của quả bóng là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $V \\approx 7034,56 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V \\approx 7038 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V \\approx 7234,56 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Kết quả khác.",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf76"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một hình trụ có đường kính đáy là $84 \\mathrm{~cm}$. Một hình cầu nội tiếp trong hình trụ (mặt cầu tiếp xúc với hai đáy của hình trụ và mặt xung quanh của hình trụ, thể tích của phần giới hạn ở bên ngoài hình câu và bên trong hình trụ là:",
+        "image": "https://drive.google.com/uc?export=view&id=1frop44I1q1Da5HeKCMbO8R5mb7RYtkIp",
+        "choices": [
+            {
+                "answerContent": " $V \\approx 155090 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $V \\approx 154420 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V \\approx 153103 \\mathrm{~cm}^{3}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Kết quả khác.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf6a"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf76"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một hình lập phương nội tiếp trong một hình cầu có bán kính $\\mathrm{R}$ (các đỉnh của hình lập phương thuộc mặt cầu). Thể tích giới hạn bên trong hình cầu và bên ngoài hình lập phương là:",
+        "image": "https://drive.google.com/uc?export=view&id=1cEll19V177-vJIXQeTakgzS8aWcRTVPk",
+        "choices": [
+            {
+                "answerContent": " $V \\approx R^{3}(4 \\pi-\\sqrt{2})(d v t t)$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V \\approx \\frac{R^{3}}{4}\\left(\\frac{4 \\pi-2 \\sqrt{3}}{3}\\right)(\\mathrm{dvtt})$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $V \\approx R^{3}\\left(\\frac{4 \\pi-2 \\sqrt{3}}{3}\\right)(\\mathrm{dvtt})$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $V \\approx R^{3}\\left(\\frac{4-2 \\sqrt{3}}{3}\\right)(d v t t)$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf76"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf6a"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một hình cầu có số đo diện tích (mặt cầu) gấp 6 lần số đo thể tích của nó. Số đo diện tích của mặt cầu này là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $S \\approx 18,84(d v d t)$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S \\approx 3,14(d v d t)$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $S \\approx 6,28(d v d t)$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S \\approx 1,57(d v d t)$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf76"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf75"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một hình cầu có số đo diện tích (mặt cầu) bằng số đo thể tích của nó. Bán kính của mặt cầu này là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $R=6 d v$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $R=9 d v$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $R=\\frac{1}{3} d v$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $R=3 d v$.",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf76"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf75"
+            }
+        ]
+    },
+    {
+        "questionContent": " Hãy chọn phát biểu đúng trong các phát biểu dưới đây:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Tồn tại một mặt cầu có số đo diện tích là một số tự nhiên.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Công thức tính diện tích mặt cầu là $S=4 \\pi R^{2}$ (R là bán kính). Do đó số đo diện tích luôn luôn là số thập phân.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Công thức tính thể tích mặt cầu là $V=\\frac{4}{3} \\pi R^{3}$ (R là bán kính). Do đó số đo thể tích luôn luôn là số thập phân.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Tồn tại một mặt cầu có số đo diện tích là một số tự nhiên bé hơn 3 .",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf75"
+            }
+        ]
+    },
+    {
+        "questionContent": " Hãy chọn phát biểu đúng trong các phát biểu dưới đây:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Nếu số do diện tích của mặt cầu là một số vô tỉ thì bán kính $\\mathrm{R}$ của nó cũng là một số vô tỉ.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Không có mặt cầu nào có số đo diện tích là một số tự nhiên",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Tồn tại hình cầu có số đo thể tích là một số tự nhiên",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Nếu thể tích của một hình cầu là số vô tỉ thì bán kính nó cũng là số vô tỉ",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf76"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf75"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một bồn nước hình trụ có sức chứa 1250 lít. Chiều cao của bồn là $1,57(\\mathrm{~m})$. Kết quả nào sau đây là diện tích xung quanh của bồn nước?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $S \\approx 5,2 m^{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S \\approx 5,4 m^{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S \\approx 54,9648 m^{2}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $S \\approx 5,324 \\mathrm{~m}^{2}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf6a"
+            }
+        ]
+    },
+    {
+        "questionContent": " Quan sát hình trụ ở hình sau. Diện tích xung quanh của hình trụ là:",
+        "image": "https://drive.google.com/uc?export=view&id=1p7SOPgztnmtuXznymm_jXIsKUnnSG_3Q",
+        "choices": [
+            {
+                "answerContent": " $S=78$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S=75,36$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $S=37,68$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $S=74,84$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf19"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf68"
+            }
+        ]
+    },
+    {
+        "questionContent": " Một ống cống hình trụ có kính thước được cho trong hình bên. Khối lượng riêng của bê tông làm ống cống là $1860 \\mathrm{~kg} / \\mathrm{m}^{3}$. Khối lượng của ống cống là:",
+        "image": "https://drive.google.com/uc?export=view&id=19qr8EFSMZjhP-P9kXpwTGscAFMllz4kb",
+        "choices": [
+            {
+                "answerContent": " $M=710 \\mathrm{~kg}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $M=980 \\mathrm{~kg}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $M=973,66 \\mathrm{~kg}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $M=963,66 \\mathrm{~kg}$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf6a"
+            }
+        ]
+    },
+    {
+        "questionContent": " Đường thẳng d cách tâm O của đường tròn (O; 4cm) một khoảng 3cm. Khi đó vị trí tương đối của d đường tròn (O; 4cm) là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Cắt nhau",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Không giao nhau",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Tiếp xúc nhau",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Không kết luận được",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf26"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf26"
+            }
+        ]
+    },
+    {
+        "questionContent": " Cho hai đường tròn (O; 15cm) và (O'; 10cm) và $OO' = 2,5cm$. Số tiếp tuyến chung của hai đường tròn là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " 1",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 2",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 3",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " 4",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf26"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf33"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf46"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf38"
+            }
+        ]
+    },
+    {
+        "questionContent": " Cho hai đường tròn (O; 2cm) và (O'; 5cm) tiếp xúc ngoài thì độ dài của OO' bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " 3cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 7cm",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " 2cm",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 1cm",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf45"
+            }
+        ]
+    },
+    {
+        "questionContent": " Số điểm chung của hai đường tròn (O; R) và (O'; R') thỏa mãn: $R - R' < OO' < R + R'$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " 0",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 1",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 2",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " 3",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf30"
+            }
+        ]
+    },
+    {
+        "questionContent": " Hai đường tròn chỉ có một điểm chung được gọi là hai đường tròn:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Cắt nhau",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Tiếp xúc nhau",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Ngoài nhau",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Không xác định",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf40"
+            }
+        ]
+    },
+    {
+        "questionContent": " Hai đường tròn có tiếp tuyến chung trong thì vị trí tương đối của chúng là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Tiếp xúc ngoài",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Tiếp xúc trong",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Cắt nhau",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Ngoài nhau",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf46"
+            }
+        ]
+    },
+    {
+        "questionContent": " Tâm của đường tròn nội tiếp tam giác là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Giao điểm của các đường cao trong tam giác.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Giao điểm của các đường phân giác các góc trong tam giác.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Giao điểm của các đường trung tuyến trong tam giác.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Giao điểm của các đường trung trực trong tam giác.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf3a"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf60"
+            }
+        ]
+    },
+    {
+        "questionContent": " Trong các phát biểu sau đây, phát biểu nào sai khi nói về tam giác?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Có duy nhất một đường tròn nội tiếp tam giác.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Có duy nhất một đường tròn ngoại tiếp tam giác.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Có duy nhất một đường tròn bàng tiếp tam giác.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Có duy nhất một đường tròn tiếp xúc với ba cạnh tam giác.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf3a"
+            },
+            {
+                "$oid": "6579d8b113a48d5b78dbdacf"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf3b"
+            }
         ]
     }
 ]

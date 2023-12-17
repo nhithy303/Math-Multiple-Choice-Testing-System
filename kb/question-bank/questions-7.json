@@ -1,0 +1,2532 @@
+[
+    {
+        "questionContent": " Trong một đường tròn, điều nào sau đây sai?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Các góc nội tiếp bằng nhau chắn các cung bằng nhau.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Các góc nội tiếp cùng chắn các một cung thì bằng nhau.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Các góc nội tiếp chắn các cung bằng nhau thì bằng nhau.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Góc nội tiếp có số đo bằng nửa số đo của góc ở tâm cùng chắn một cung.",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf52"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf53>"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf54"
+            }
+        ]
+    },
+    {
+        "questionContent": " Trong một đường tròn:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Đường kính đi qua trung điểm của một dây cung thì chia cung căng dây ấy thanh hai cung bằng nhau.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Hai cung bị chắn giữa dây vuông góc thì bằng nhau.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Đường kính đi qua điểm chính giữa của một cung thì đi qua trung điểm của dây căng cung ấy.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Hai cung bị chắn giữa hai dây song song thì bù nhau.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf2c>"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf2d>"
+            }
+        ]
+    },
+    {
+        "questionContent": " Dấu hiệu nào không dùng để nhận biết tứ giác nội tiếp:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Tứ giác có tổng hai góc bất kì bằng $180^{\\circ}$ .",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Tứ giác có góc ngoài tại một đỉnh bằng góc trong tại đỉnh đối của đỉnh đó.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Tứ giác có bốn đỉnh cách đều một điểm.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Tứ giác có hai đỉnh kề nhau cùng nhìn cạnh chứa hai đỉnh còn lại dưới một góc $\\alpha$ .",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf5b"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf5b"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf5d"
+            }
+        ]
+    },
+    {
+        "questionContent": " Trong các mệnh đề sau, mệnh đề nào sai khi nói trong một đường tròn?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Các góc nội tiếp bằng nhau chắn các cung bằng nhau.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Các góc nội tiếp cùng chắn một cung hoặc chắn các cung bằng nhau thì bằng nhau.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Góc nội tiếp có số đo bằng nửa số đo của góc ở tâm cùng chắn một cung.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Góc nội tiếp chắn nửa đường tròn là góc vuông.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf49>"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf54"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf53"
+            }
+        ]
+    },
+    {
+        "questionContent": " Trong các mệnh đề sau, mệnh đề nào sai?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Góc có đỉnh nằm trong đường tròn được gọi là góc ở tâm.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Hai cung bằng nhau căng hai dây bằng nhau.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Cung lớn hơn căng dây lớn hơn.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Góc nội tiếp là góc có đỉnh nằm trên đường tòn và hai cạnh chứa hai dây cung của đường tròn đó.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf58"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf47"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf4b"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf51"
+            }
+        ]
+    },
+    {
+        "questionContent": " Kim giờ và kim phút của đồng hồ tạo thanh một góc ở tâm có số đo là bao nhiêu vào lúc 20 giờ?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $20^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $24^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $96^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $120^{\\circ}$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf47"
+            }
+        ]
+    },
+    {
+        "questionContent": " Cho các phát biểu sau: \\\\ + Số đo của cung bằng số đo của góc ở tâm chắn cung đó. \\\\ + Số đo của nửa đường tròn bằng $180^{\\circ}$ \\\\ + Số đo của góc nội tiếp bằng nửa số của cung bị chắn. \\\\ Số phát biểu đúng là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " 3",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 2",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " 1",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 0",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf49"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf4c"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf54"
+            }
+        ]
+    },
+    {
+        "questionContent": " Cho các phát biểu sau, phát biểu đúng là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Cung nhỏ có số đo nhỏ hơn hoặc bằng $180^{\\circ}$ .",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Cung lớn có số đo lớn hơn hoặc bằng $180^{\\circ}$ .",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Cung cả đường tròn có số đo bằng $360^{\\circ}$ .",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Không có cung nào có số đo bằng $0^{\\circ}$ .",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf4a"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf4b"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf4d"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf4c"
+            }
+        ]
+    },
+    {
+        "questionContent": " Trong các khẳng định sau đây, khẳng định nào đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Số đo của góc có đỉnh nằm ở bên trong đường tròn bằng tổng số đo hai cung bị chắn.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Số đo của góc có đỉnh nằm ở bên ngoài đường tròn bằng hiệu số đo hai cung bị chắn.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Số đo của góc tạo bởi tia tiếp tuyến và dây cung bằng nửa số đo của cung bị chắn.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Số đo của góc nội tiếp bằng số đo của cung bị chắn.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf58"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf59"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf56"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Trong các hình sau, hình nào nội tiếp được trong một đường tròn?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Hình bình hành",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Hình thoi",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Hình chữ nhật",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Hình thang vuông",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf5b"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf5c"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf5d"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Trong các hình sau, hình nào ngoại tiếp được trong một đường tròn?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Hình bình hành",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Hình chữ nhật",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Hình thoi",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Hình thang",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf5e"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Diện tích hình tròn sẽ thay đổi như thế nào nếu bán kính tăng gấp đôi?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Tăng 2 lần",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Tăng 4 lần",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Tăng 8 lần",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Tăng 16 lần",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf63"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Từ 1 giờ chiều đến 3 giờ chiều thì kim giờ quay được một góc ở tâm bằng bao nhiêu?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $30^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $45^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $60^{\\circ}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $75^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf47"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Góc nội tiếp là góc:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Có đỉnh nằm trên đường tròn.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Có hai cạnh là hai dây của đường tròn.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Có hai đỉnh là tâm đường tròn và có hai cạnh là hai bán kính.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Có hai cạnh là hai dây của đường kính đó và chỉ có một đầu mút chung.",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf52"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf53"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf54"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Một đường tròn là đường tròn nội tiếp nếu có:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Đi qua các đỉnh của một đa giác.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Tiếp xúc với các đường thẳng chứa các cạnh của đa giác.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Tiếp xúc với các cạnh của đa giác.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Nằm trong một đa giác.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf5f"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Một tứ giác là tứ giác nội tiếp nếu:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Có hai đỉnh cùng nhìn một cạnh dưới hai góc bằng nhau.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Có bốn góc bằng nhau.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Có bốn cạnh bằng nhau.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Có các cạnh tiếp xúc với đường tròn.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf5b"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf5c"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf5d"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Trong các mệnh đề sau, mệnh đề nào sai?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Trong một đường tròn, số đo của góc nội tiếp bằng nửa số đo của cung bị chắn.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Các góc nội tiếp bằng nhau thì cùng chắn một cung",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Số đo của góc tạo bởi tia tiếp tuyến và dây cung bằng nửa số đo của cung bị chắn.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Trong một đường tròn, góc tạo bởi tia tiếp tuyến và dây cung và góc nội tiếp cùng chắn một cung thì bằng nhau.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf56"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf57>"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf52"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf53"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Trong các mệnh đề sau, mệnh đề nào đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Góc có đỉnh nằm trong đường tròn được gọi là góc ở tâm.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Góc có đỉnh nằm trên đường tròn gọi là góc nội tiếp.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Góc có đỉnh nằm trên đường tròn, một cạnh là tiếp tuyến với đường tròn gọi là góc tạo bởi tia tiếp tuyến và dây cung.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Góc có đỉnh nằm trên đường tròn, một cạnh là tiếp tuyến với đường tròn, cạnh kia chứa dây cung của đường tròn gọi là góc tạo bởi tia tiếp tuyến và dây cung.",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf47"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf52"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf55"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho 6 điểm A, B, C, D, E, F theo thứ tự cùng trên một đường tròn trong đó A, C, E là các đỉnh của một tam giác đều. Phát biểu nào sau đây là đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " ${\\widehat{A B C}}={\\widehat{C D E}}={\\widehat{\\ A F E}}=60^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " ${\\widehat{A B C}}={\\widehat{C D E}}={\\widehat{\\ A F E}}=120^{\\circ} $",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " ${\\widehat{A B C}}=60^{\\circ},{\\widehat{C D E}}=120^{\\circ},{\\widehat{A F E}}=90^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " ${\\widehat{A B C}}=120^{\\circ},{\\widehat{C D E}}=60^{\\circ},{\\widehat{A F E}}=90^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf50"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf51"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Trong các góc sau, góc nào là góc tạo bởi tia tiếp tuyến và dây cung?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " ",
+                "image": "https://drive.google.com/uc?export=view&id=1yAXPcZVDPWQm6CX1sUFTgHyEOfhce6au",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " ",
+                "image": "https://drive.google.com/uc?export=view&id=1PeNr0yzRD5Yi_8nMrSWKk4gk_yIWFUX7",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " ",
+                "image": "https://drive.google.com/uc?export=view&id=d/1X9jjAWgypTJ8F9NQO6QHfwhSDMYnb8fx",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " ",
+                "image": "https://drive.google.com/uc?export=view&id=1cZVHbVKnpVJTCOfukAdmwQzyZE5OlwLK",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad7"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf55"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Trong một đường tròn:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Góc nội tiếp có số đo bằng số đo của góc ở tâm cùng chắn một cung.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Số đo góc nội tiếp bằng số đo cung bị chắn.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Số đo của góc tạo bởi tia tiếp tuyến và dây cung bằng nửa số đo của cung bị chắn.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Góc nội tiếp chắn nửa đường tròn là góc bẹt và ngược lại.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf53"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf56"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Tam giác ABC đều nội tiếp đường tròn thì số đo cung BC lớn là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $60^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $120^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $240^{\\circ}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $270^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf3a"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf4b"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho hình vẽ số đo cung lớn AB bằng:",
+        "image": "https://drive.google.com/uc?export=view&id=1ujdEfMUGKPX3nEWGhVnljw9epraovQGH",
+        "choices": [
+            {
+                "answerContent": " $120^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $135^{\\circ}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $45^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $315^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf4b"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho hình vẽ, số đo góc MAN bằng bao nhiêu biết hai đường tròn có tâm B, C và điểm B nằm trên đường tròn tâm C, ${\\widehat{P C Q}}=136^{\\circ}$",
+        "image": "https://drive.google.com/uc?export=view&id=1BCKvx1-FCMSBpKLC3QlUZo-H_R-HEgJw",
+        "choices": [
+            {
+                "answerContent": " $34^{\\circ}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $24^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $36^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $28^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf4f"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Độ dài cung $60^{\\circ}$ của một đường tròn có bán kính $2\\textit{dm}$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $\\frac{20\\pi}{3}\\textit{cm}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $\\frac{20\\pi}{6}\\textit{cm}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $40\\pi\\textit{cm}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $20\\pi\\textit{cm}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf62"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Chu vi vanh xe đạp có đường kính 65 cm là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $65\\pi\\textit{cm}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $32,5\\pi\\textit{cm}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $1,3\\pi\\textit{cm}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $130\\pi\\textit{cm}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf61"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Đường tròn lớn của Trái đất dài khoảng 40 000km thi bán kính Trái đất là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $\\frac{40000}{\\pi}\\textit{km}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\frac{20000}{\\pi}\\textit{km}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $\\frac{10000}{\\pi}\\textit{km}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\frac{30000}{\\pi}\\textit{km}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf61"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Độ dài của nửa đường tròn đường kính $8\\textit{R}$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $\\pi\\textit{R}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $2\\pi\\textit{R}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $4\\pi\\textit{R}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $8\\pi\\textit{R}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf61"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Diện tích của nửa đường tròn có đường kính $4\\textit{R}$ bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $\\frac{1}{2}\\pi \\textit{R}^2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $8\\pi \\textit{R}^2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $2\\pi \\textit{R}^2$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $4\\pi \\textit{R}^2$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf4c"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf63"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Diện tích hình quạt tròn $\\textit{OAqB}$ là:",
+        "image": "https://drive.google.com/uc?export=view&id=1vMXf60IMMiamXcZGAYkOSYF5AZJNzrhK",
+        "choices": [
+            {
+                "answerContent": " $\\frac{\\pi}{4}\\textit{cm}^2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\frac{2\\pi}{3}\\textit{cm}^2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\frac{3\\pi}{4}\\textit{cm}^2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\frac{5\\pi}{6}\\textit{cm}^2$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf65"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Một đồng hồ chạy chậm 25 phút. Để chỉnh lại đúng giờ thì phải quay kim phút một góc ở tâm bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $50^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $60^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $135^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $150^{\\circ}$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf47"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho tam giác ABC nội tiếp đường tròn \\textit{(O ; R)} có cách cạnh AB=$R\\sqrt{2}$ và AC=$R\\sqrt{3}$ . Số đo các cung nhỏ AB, BC lần lượt là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "$90^\\circ$,$120^\\circ$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$90^\\circ$,$150^\\circ$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "$120^\\circ$,$90^\\circ$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "$90^\\circ$,$135^\\circ$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf3a"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf4a"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho đường tròn \\textit{(O ; 3cm)} và dây cung BC=3cm . Hai tiếp tuyến tại B và C cắt nhau tại A. Số đo góc ABC là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $30^{\\circ}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $36^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $45^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $60^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf39"
+            },
+            {
+                "$oid": "6579d8b113a48d5b78dbdacf"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho hình vẽ, biểu thức nào cho dưới đây là đúng?",
+        "image": "https://drive.google.com/uc?export=view&id=15fay6tjJUy05DiGDf4PTsh15me8Bfh9y ",
+        "choices": [
+            {
+                "answerContent": " $B A x = A O B$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $B A x = B G A$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $B G A=\\operatorname{sđ} A n B$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $B G A=A O B$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf4e"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho tam giác $O A O^{\\prime}$ vuông cân tại $A$, vẽ $(O, O A)$ và $\\left(O^{\\prime}, O^{\\prime} A\\right)$ cắt nhau tại điểm $B$ khác $A$. Số đo cung nhỏ $A B$ của đường tròn $(O)$ là:",
+        "image": "https://drive.google.com/uc?export=view&id=1N0Z-QtSFMIEux7oVLr9wz6WK97lxpXS1",
+        "choices": [
+            {
+                "answerContent": " $90^{\\circ}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $45^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $105^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $75^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf4a"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho $(O ; 2 \\mathrm{~cm})$ và $A \\in(\\mathrm{O})$. Từ $A$ kẻ tiếp tuyến $A x$ với $(O)$, lấy điểm $B \\in A x$ sao cho $A B=2 \\sqrt{3} \\mathrm{~cm}$. Tia $O B$ cắt $(O)$ tại $C$. Tính số đo cung nhỏ $A C$ của đường tròn $(O)$.",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $75^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $45^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $60^{\\circ}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $72^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf4a"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Tỉ số bán kính đường tròn nội tiếp và ngoại tiếp hình vuông cạnh bằng $2 \\mathrm{~cm}$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $\\sqrt{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\frac{1}{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\frac{1}{\\sqrt{2}}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " 2",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf60"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Bán kính đường tròn có độ dài $13,2 \\mathrm{~cm}$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $\\frac{13,2}{\\pi} \\mathrm{cm}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\frac{6,2}{\\pi} \\mathrm{cm}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\frac{6,1}{\\pi} \\mathrm{cm}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\frac{6,6}{\\pi} \\mathrm{cm}$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf61"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Diện tích hình quạt tròn có bán kính $6 \\mathrm{~cm}$ và số đo cung bằng $36^{\\circ}$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $36 \\pi \\mathrm{cm}^{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $72 \\pi \\mathrm{cm}^{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $129,6 \\pi \\mathrm{cm}^{2}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $132 \\pi \\mathrm{cm}^{2}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf65"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Diện tích hình tròn nội tiếp hình vuông cạnh bằng $4 \\mathrm{~cm}$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $\\pi \\mathrm{cm}^{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $4 \\pi \\mathrm{cm}^{2}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $8 \\pi \\mathrm{cm}^{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $16 \\pi \\mathrm{cm}^{2}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf63"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf60"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf5e"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Độ dài cạnh hình vuông nội tiếp đường tròn $(O ; 3 \\mathrm{~cm})$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $3 \\mathrm{~cm}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $3 \\sqrt{2} \\mathrm{~cm}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $\\frac{3}{\\sqrt{2}} \\mathrm{~cm}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $6 \\mathrm{~cm}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf5b"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf5c"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf5d"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Chân một đống cát đổ trên nền phẳng nằm ngang là một hình tròn có chu vi $12 \\mathrm{~cm}$. Hỏi chân đống cát đó chiếm diện tích bao nhiêu?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $\\frac{36}{\\pi} \\mathrm{cm}^{2}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $\\frac{24}{\\pi} \\mathrm{cm}^{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\frac{12}{\\pi} \\mathrm{cm}^{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\frac{6}{\\pi} \\mathrm{cm}^{2}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf63"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf61"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho đường tròn tâm $O$ bán kính $R$ và dây $A B=R \\sqrt{2}$. Số đo góc nội tiếp chắn cung lớn $A B$ bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $90^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $120^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $270^{\\circ}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $240^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf53"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho đường tròn tâm $O$ bán kính $R$ và dây $C D=R \\sqrt{3}$. Số đo góc nội tiếp chắn cung nhỏ $C D$ bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $120^{\\circ}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $240^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $180^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $60^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf53"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Độ dài cạnh tam giác đều nội tiếp đường tròn $(O ; 3 \\mathrm{~cm})$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $3 \\mathrm{~cm}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $3 \\sqrt{3} \\mathrm{~cm}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $\\sqrt{3} \\mathrm{~cm}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $6 \\sqrt{3} \\mathrm{~cm}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf53"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho tam giác đều $A B C$ nội tiếp đường tròn $O$, điểm $D$ di chuyển trên cung nhỏ $B C$ của đường tròn, điểm $M$ thuộc $A D$ sao cho $D B=D M$. Khi đó $A M B$ bằng:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $90^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $100^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $120^{\\circ}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $150^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad8"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf60"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Độ dài cạnh hình lục giác đều nội tiếp đường tròn $(O ; 2 \\mathrm{~cm})$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $1 \\mathrm{~cm}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $2 \\mathrm{~cm}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $\\sqrt{2} \\mathrm{~cm}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\sqrt{3} \\mathrm{~cm}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf60"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho lục giác đều $A B C D E F$. Khi đó đường chéo $B F$ chia đoạn thẳng $A D$ thành hai đoạn thẳng theo tỉ số:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $1: 2$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $1: 3$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $2: 3$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $2: 5$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf5a"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Máy kéo nông nghiệp có hai bánh sau to hơn hai bánh trước. Khi bơm căng, bánh xe sau có đường kính là $1,672 \\mathrm{~m}$ và bánh xe trước có đường kính là $88 \\mathrm{~cm}$. Khi bánh xe sau lăn được 10 vòng thì bánh xe trước lăn được mấy vòng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " 59 vòng",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 19 vòng",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " 39 vòng",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 29 vòng",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf61"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho hình vẽ, $A B=40 m, M K=3 m$. Tính $O A$? (làm tròn đến chữ số thập phân thứ nhất).",
+        "image": "https://drive.google.com/uc?export=view&id=1uk8LGkEZJWzsjnOZLrKgleHeA-Uz-fbo",
+        "choices": [
+            {
+                "answerContent": " $68,1 m$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $68,2 m$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $66,2 m$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $66,4 m$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf38"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Quỹ tích các điểm $M$ nhìn đoạn thẳng $A B$ dưới một góc $120^{\\circ}$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Một đườngtròn đi qua hai điểm $A$ và $B$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Một đường thẳng song song với $A B$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Một cung chứa góc $120^{\\circ}$ dựng trên hai điểm $A$ và $B$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Hai cung chứa góc $120^{\\circ}$ (đối xứng nhau) dựng trên hai điểm $A$ và $B$.",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf5a"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho đường tròn $(O ; R)$. Từ điểm $M$ cách $O$ một khoảng dài $2 R$ kẻ hai tiếp tuyến $M A, M B$ với đường tròn, $A$ và $B$ là các tiếp điểm. Bán kính đường tròn nội tiếp tam giác $M A B$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $R$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $R \\sqrt{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $R \\sqrt{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\frac{R}{2}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf3a"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Diện tích phần 1 là: (đợn vị: $\\mathrm{cm}$, làm tròn đến chữ số thập phân thứ hai).",
+        "image": "https://drive.google.com/uc?export=view&id=1dmCH9RVHwPcPwFRkvP1PJId6lcXqkWwh",
+        "choices": [
+            {
+                "answerContent": " $1,94 \\mathrm{~cm}^{2}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $1,95 \\mathrm{~cm}^{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $5,47 \\mathrm{~cm}^{2}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $5,46 \\mathrm{~cm}^{2}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf65"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf63"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho hình thoi $A B C D$ có cạnh $A B$ cố định. Quỹ tích giao điểm $O$ của hai đường chéo hình thoi là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Hình tròn đường kính $A B$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Đường tròn đường kính $A B$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Đường trung trực của đoạn $A B$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Đường thẳng song song với $A B$ và cách $A B$ một khoảng $\\frac{A B}{2}$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf5a"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Tam giác $A B C$ vuông tại $A$, cạnh $B C$ cố định. Quỹ tích tâm đường tròn nội tiếp tam giác khi điểm $A$ thay đổi là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Hai cung chứa góc $90^{\\circ}$ dựng trên đoạn thẳng $B C$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Hai cung chứa góc $120^{\\circ}$ dựng trên đoạn thẳng $B C$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Hai cung chứa góc $135^{\\circ}$ dựng trên đoạn thẳng $B C$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Hai cung chứa góc $145^{\\circ}$ dựng trên đoạn thẳng $B C$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf5a"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho đường tròn đường kính $A B$ cố định, $M$ là một điểm chạy trên đường tròn. Trên tia đối của tia $M A$ lấy điểm $I$ sao cho $M I=2 M B$. Tập hợp các điểm $I$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Đường tròn tâm $A$ đường kính $A B$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Đường tròn tâm $B$ đường kính $2 A B$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Đường tròn tâm $O$ đường kính 1,5AB .",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Cung tròn có dây $A B$.",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf5a"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho đường tròn $(O)$ và một điểm $A$ cố định trên đường tròn. Quỹ tích các trung điểm $M$ của dây $A B$ khi điểm $B$ di chuyển trên đường tròn $(O)$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Đường tròn đường kính $O B$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Đường tròn đường kính $A B$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Đường tròn đường kính $O A$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Đường tròn tâm $O$, bán kính $\\frac{O A}{2}$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf5a"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho đương tròn $(O)$ đường kính $A B=2 R$. Gọi $P Q$ là một dây thay đổi của đường tròn $(O)$ sao cho $P Q=R$. Vẽ hình bình hành $P A Q M$. Khi dây $P Q$ thay đổi thì điểm $M$ di chuyển trên đường nào?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Đường tròn tâm $B$ đường kính $R \\sqrt{2}$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Đường tròn tâm $B$ đường kính $R \\sqrt{3}$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Đường tròn tâm $B$ đường kính $R$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Đường tròn tâm $B$ bán kính $2 R$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf5a"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho tam giác $A B C$ nội tiếp đường tròn $(O)$. Tiếp tuyến tại $A$ cắt $B C$ ở $I$. Biết $A B=20 \\mathrm{~cm}, A C=28 \\mathrm{~cm}, B C=24 \\mathrm{~cm}$. Đọ dài đoạn $A I$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $37 \\mathrm{~cm}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $36 \\mathrm{~cm}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $35 \\mathrm{~cm}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $34 \\mathrm{~cm}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdad9"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf39"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf33"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho hình vuông $A B C D$ cạnh $a$. Vẽ bốn cung phần tư đường tròn nằm trong hình vuông có tâm theo thứ tự là $A, B, C, D$ và bán kính bằng $a$ ta được hình hoa bốn cánh. Hỏi chu vi của hình oa bốn cánh là?",
+        "image": "https://drive.google.com/uc?export=view&id=1H0yQgomTCeqUX8CHZgDH6A2MoA6VFVUQ ",
+        "choices": [
+            {
+                "answerContent": " $\\frac{4}{3} \\pi a$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $\\frac{2}{3} \\pi a$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\frac{3}{2} \\pi a$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\frac{3}{4} \\pi a$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf62"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho tứ giác $A B C D$ nội tiếp và $\\widehat{A C B}=60^{\\circ}$. Khẳng định nào sau đây luôn đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $\\widehat{A D C}=60^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\widehat{A D C}=120^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\widehat{A B C}=60^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\widehat{A D B}=60^{\\circ}$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf5c"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Khẳng định nào sau đây luôn đúng về tứ giác nội tiếp $A B C D$ ?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Tứ giác $A B C D$ luôn có hai góc vuông.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Bốn điểm $A, B, C, D$ tạo thành hình bình hành.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Bốn điểm $A, B, C, D$ cách đều một điểm.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": "Bốn điểm $A, B, C, D$ tạo thành tứ giác lõm.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf5b"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf5d"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho tứ giác $A B C D$ nội tiếp một đường tròn và $\\widehat{A B C}=60^{\\circ}$. Khẳng định nòa sau đây đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $\\widehat{A D C}=60^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\widehat{A D C}=120^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\widehat{A C B}=60^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\widehat{A D B}=60^{\\circ}$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf5b"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf5c"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho tứ giác $A B C D$ nội tiếp và điểm $M$ là giao điểm của hai đường thẳng $A B, C D$. Nếu $M A=4 ; A B=2 ; M C=3$ thì độ dài đoạn $C D$ là:",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $C D=\\frac{8}{3}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $C D=1,5$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $C D=8$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $C D=5$",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf5b "
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho tam giác $A B C$ có $A B, B E, C F$ là đường cao, tam giác nội tiếp có trong hình (có thể chưa nối) là?",
+        "image": "https://drive.google.com/uc?export=view&id=1Tr9oRoe5kSUxMWAMj3rTWaVFWoX1p47_",
+        "choices": [
+            {
+                "answerContent": " 3",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 4",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 5",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " 6",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf29"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho $(O)$, đường kính $A B=2 R$. $C$ là điểm trên tiếp tuyến của $(O)$ tại $A$ sao cho $\\widehat{A C B}=30^{\\circ}, B C$ cắt $(O)$ tại $H$. Với mỗi điểm $M$ thuộc $A C, M B$ cắt $(O)$ tại tại $N(N$ khác $B)$. Tâm đường tròn đi qua 4 điểm $C, M, N, H$ luôn chạy trên trên một đường thẳng cố định là?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " Trung trực của $\\mathrm{CH}$.",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " Trung trực của $N M$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Trung trực của $C M$.",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " Trung trực của $N H$.",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf39"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf37"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf5a"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho tứ giác tứ giác $A B C D$ có $A C$ là phân giác góc $A$ và $\\widehat{B D C}=20^{\\circ}$. Điều kiện để tứ giác giác $A B C D$ nội tiếp là?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $\\hat{A}=40^{\\circ}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $\\widehat{B}=40^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\widehat{C}=40^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\widehat{D}=40^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf5b"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf5d"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho tam giác $A B C$. Các đường phân giác trong của góc $B$ và $C$ cắt nhau tại $S$. Các đường phân giác ngoài của góc $B$ và $C$ cắt nhau tại $E$. Khảng định nào sau đây là đúng để tứ giác BSCE nội tiếp?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": "Tam giác $A B C$ có một góc bằng $60^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Tam giác $A B C$ có một góc bằng $90^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Tam giác $A B C$ có một góc bằng $120^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": "Tam giác $A B C$ bất kì.",
+                "image": "",
+                "isCorrect": true
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf5b"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf5d"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho tam giác $A B C$ cân có dây $B C$ và $\\widehat{A}=20^{\\circ}$. Trên nửa mặt phẳng bờ $A B$ không chứa điểm $C$ lấy điểm $D$ sao cho $D A=D B$. Điều kiện để tứ giác $A B C D$ nội tiếp là?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $\\widehat{D A B}=40^{\\circ}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $\\widehat{D A B}=45^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\widehat{D A B}=30^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\widehat{D A B}=20^{\\circ}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf5d"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf5b"
+            }
+        ]
+    },
+    {
+        "questionContent": ". Cho nửa đường tròn tâm $O$, đường kính $A B, M$ là điểm đối xứng của $O$ qua $A$. đường thẳng qua $M$ cắt nửa đường tròn $(O)$ tại $C$ và $D(C$ nằm giữa $M$ và $D)$. Gọi $E$ là giao điểm của $A D$ và $B C$. Nếu $A D=a, B C=b$ thì khẳng định nòa sau đây luôn đúng?",
+        "image": "",
+        "choices": [
+            {
+                "answerContent": " $\\frac{A E}{B E}=\\frac{3 a}{b}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\frac{A E}{B E}=\\frac{b}{a}$",
+                "image": "",
+                "isCorrect": false
+            },
+            {
+                "answerContent": " $\\frac{A E}{B E}=\\frac{b}{3 a}$",
+                "image": "",
+                "isCorrect": true
+            },
+            {
+                "answerContent": " $\\frac{A E}{B E}=\\frac{a}{b}$",
+                "image": "",
+                "isCorrect": false
+            }
+        ],
+        "questionLevelId": {
+            "$oid": "6579d8d613a48d5b78dbdada"
+        },
+        "knowledges": [
+            {
+                "$oid": "6579fbba4755048edf89bf2b"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf4c"
+            },
+            {
+                "$oid": "6579fbba4755048edf89bf4c"
+            }
+        ]
+    }
+]

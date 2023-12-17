@@ -25,10 +25,11 @@
   font-size: var(--font-size-21xl);
 }
 .left-column {
-  width: 30%;
+  width: 20%;
 }
 .right-column {
-  width: 70%;
+  width: 80%;
+  background-color: var(--color-lightblue);
 }
 .btn-test {
   font-family: var(--font-crimson-pro);
