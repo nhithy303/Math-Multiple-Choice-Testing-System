@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
-const connectionStr =
-  'mongodb+srv://funlish:cntt4701104@funlish.ixuxxok.mongodb.net/Math-Multiple-Choice-Testing-System?retryWrites=true&w=majority'
+const secret = require('./secret')
+const connectionStr = secret.connectionStr
 
 async function connect() {
   try {
